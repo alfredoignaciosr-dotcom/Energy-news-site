@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-17T02:50:02+00:00",
+  "fetchedAt": "2026-11-17T05:03:37+00:00",
   "sources": [
     {
       "name": "Utility Dive",
@@ -49,6 +49,95 @@
       "kind": "analysis",
       "ok": true,
       "count": 12
+    },
+    {
+      "name": "Foreign Affairs",
+      "site": "https://www.foreignaffairs.com/",
+      "kind": "world",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Foreign Policy",
+      "site": "https://foreignpolicy.com/",
+      "kind": "world",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Council on Foreign Relations",
+      "site": "https://www.cfr.org/",
+      "kind": "world",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Atlantic Council",
+      "site": "https://www.atlanticcouncil.org/",
+      "kind": "world",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Brookings",
+      "site": "https://www.brookings.edu/",
+      "kind": "world",
+      "ok": false,
+      "count": 0,
+      "error": "https://www.brookings.edu/feed/: ParseError: undefined entity: line 57, column 0"
+    },
+    {
+      "name": "The Diplomat",
+      "site": "https://thediplomat.com/",
+      "kind": "world",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "War on the Rocks",
+      "site": "https://warontherocks.com/",
+      "kind": "world",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Devex",
+      "site": "https://www.devex.com/",
+      "kind": "world",
+      "ok": false,
+      "count": 0,
+      "error": "https://www.devex.com/feed: HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "Center for Global Development",
+      "site": "https://www.cgdev.org/",
+      "kind": "world",
+      "ok": false,
+      "count": 0,
+      "error": "https://www.cgdev.org/feed: HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "The New Humanitarian",
+      "site": "https://www.thenewhumanitarian.org/",
+      "kind": "world",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "name": "UN News",
+      "site": "https://news.un.org/",
+      "kind": "world",
+      "ok": false,
+      "count": 0,
+      "error": "https://news.un.org/feed/subscribe/en/news/all/rss.xml: ParseError: not well-formed (invalid token): line 1, column 0"
+    },
+    {
+      "name": "World Bank Blogs",
+      "site": "https://blogs.worldbank.org/",
+      "kind": "world",
+      "ok": false,
+      "count": 0,
+      "error": "https://feeds.feedburner.com/WorldBankBlogs: ParseError: mismatched tag: line 22, column 2"
     }
   ],
   "items": [
@@ -63,6 +152,116 @@
       "category": "policy"
     },
     {
+      "title": "Congress could soon rein in Trump’s tariffs on Canada. Here’s what that could look like.",
+      "url": "https://www.atlanticcouncil.org/blogs/econographics/congress-could-soon-rein-in-trumps-tariffs-on-canada-heres-what-that-could-look-like/",
+      "date": "2026-11-16T21:59:43+00:00",
+      "author": "Madeline Chalecki, Josh Lipsky",
+      "summary": "Removing Section 338 tariffs on Canada may be a good place to start for the new Congress.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Trump Kicks Off Asia Tour",
+      "url": "https://foreignpolicy.com/2026/11/16/trump-asean-quad-china-xi-putin-kim-midterms-nvidia-trade-security/",
+      "date": "2026-11-16T21:35:11+00:00",
+      "author": "Alexandra Sharp",
+      "summary": "After a poor midterms performance, the U.S. president is heading to the Asia-Pacific.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The Middle East Is Finally on Its Own",
+      "url": "https://foreignpolicy.com/2026/11/16/united-states-middle-east-intervention-era-over/",
+      "date": "2026-11-16T20:49:31+00:00",
+      "author": "Stephen M. Walt",
+      "summary": "The Iran war is bringing a century of regional intervention by great powers to a close.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "AI agents promise a life free from friction. The cost could be human judgment.",
+      "url": "https://www.atlanticcouncil.org/dispatches/ai-agents-promise-a-life-free-from-friction-the-cost-could-be-human-judgment/",
+      "date": "2026-11-16T19:55:30+00:00",
+      "author": "Trisha Ray",
+      "summary": "Artificial intelligence can create a false sense of certainty for users by delivering fluent answers without noting uncertainty or the reasoning behind responses.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Theater in Abu Dhabi, Everyday Life at Home: Why the War Still Shapes Every Story",
+      "url": "https://warontherocks.com/theater-in-abu-dhabi-everyday-life-at-home-why-the-war-still-shapes-every-story/",
+      "date": "2026-11-16T19:30:13+00:00",
+      "author": "Nicole Wiley",
+      "summary": "Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media…",
+      "source": "War on the Rocks",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Taiwan’s Political and Security Future",
+      "url": "https://warontherocks.com/taiwans-political-and-security-future/",
+      "date": "2026-11-16T19:15:21+00:00",
+      "author": "Michael Hunzeker",
+      "summary": "Taiwan faces mounting questions about its ability to defend itself, a bitter fight over defense spending, and uncertainty about Washington’s commitment to its security. Michael Hunzeker (George Mason University), Amanda Hsiao (RAND), and…",
+      "source": "War on the Rocks",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Why Venezuela’s oil recovery depends on fixing its natural gas market",
+      "url": "https://www.atlanticcouncil.org/in-depth-research-reports/report/why-venezuelas-oil-recovery-depends-on-fixing-its-natural-gas-market/",
+      "date": "2026-11-16T18:44:25+00:00",
+      "author": "Liliana Diaz",
+      "summary": "Venezuela has vast natural gas reserves, yet flares or vents half of what it produces. The core failure is market design, not the law.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Is Bangladesh Sending Human Rights Violators Abroad as Peacekeepers?",
+      "url": "https://thediplomat.com/2026/11/is-bangladesh-sending-human-rights-violators-abroad-as-peacekeepers/",
+      "date": "2026-11-16T18:37:00+00:00",
+      "author": "Natiq Malikzada",
+      "summary": "For decades the U.N. has documented a serious human rights crisis in Bangladesh; it has also paid the very institutions responsible for that crisis to keep the peace elsewhere in the world.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Thirty years of progress, lost at sea",
+      "url": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/thirty-years-of-progress-lost-at-sea/",
+      "date": "2026-11-16T17:46:31+00:00",
+      "author": "Elisabeth Braw",
+      "summary": "The oceans are more dangerous now than at any time in the thirty years since the UN Convention on the Law of the Sea was signed. And it's not just the Strait of Hormuz: Attacks on civilian merchant shipping are now common in the Persian…",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "A Diminished Trump Could Get Played in Asia",
+      "url": "https://foreignpolicy.com/2026/11/16/trump-xi-jinping-putin-summit-shenzhen-apec-nvidia-jensen-huang/",
+      "date": "2026-11-16T17:37:50+00:00",
+      "author": "Howard W. French",
+      "summary": "Xi and Putin are likely to exploit the U.S. president’s growing vulnerabilities.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Why Congress and the European Parliament need an AI safety dialogue",
+      "url": "https://www.atlanticcouncil.org/dispatches/why-congress-and-the-european-parliament-need-an-ai-safety-dialogue/",
+      "date": "2026-11-16T17:27:18+00:00",
+      "author": "Jay Morgan",
+      "summary": "While talks at the executive level would be welcome, the next steps on AI safety may well come from US and European legislators.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "Solar recycling 2.0",
       "url": "https://www.pv-magazine.com/2026/11/16/solar-recycling-2-0/",
       "date": "2026-11-16T17:00:00+00:00",
@@ -73,14 +272,34 @@
       "category": "solar"
     },
     {
+      "title": "Can Montenegro’s accession reinvigorate EU enlargement? A Debrief with Gert Jan Koopman",
+      "url": "https://www.atlanticcouncil.org/content-series/balkans-debrief/can-montenegros-accession-reinvigorate-eu-enlargement-a-debrief-with-gert-jan-koopman/",
+      "date": "2026-11-16T16:33:09+00:00",
+      "author": "oolson",
+      "summary": "Europe Center Resident Senior Fellow Ilva Tare speaks with Director-General Gert Jan Koopman, the European Commission's Director-General for Enlargement and Eastern Neighbourhood, about EU enlargement.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "NRG to sell 4.9 GW of gas plants to LS Power for $4B",
       "url": "https://www.utilitydive.com/news/nrg-energy-gas-plants-ls-power-4b/874761/",
       "date": "2026-11-16T16:21:32+00:00",
       "author": "Diana DiGangi",
-      "summary": "NRG Energy CEO Robert Gaudette said the sale values one 1.2-GW Texas gas plant at $1,400/kW, while NRG is “developing 1.5 GW of new natural gas generation in Texas” for just above $1,000/kW.",
+      "summary": "NRG Energy CEO Robert Gaudette said the sale values one 1.2-GW Texas gas plant at $1,400/KW, while NRG is “developing 1.5 GW of new natural gas generation in Texas for just above $1,000/KW.”",
       "source": "Utility Dive",
       "kind": "news",
       "category": "oilgas"
+    },
+    {
+      "title": "Japan’s Defense Lessons From Ukraine and the Middle East",
+      "url": "https://foreignpolicy.com/2026/11/16/japan-defense-industry-military-weapons-strategy-takaichi/",
+      "date": "2026-11-16T16:08:29+00:00",
+      "author": "Jumpei Ishimaru",
+      "summary": "The ability to surge weapons production in wartime is now a critical pillar of deterrence.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "Global solar installations face first annual decline in eight years",
@@ -111,6 +330,16 @@
       "source": "pv magazine",
       "kind": "news",
       "category": "solar"
+    },
+    {
+      "title": "Tibet’s Top Elected Leader on Repression, Reincarnation, and the Future for Tibetans",
+      "url": "https://thediplomat.com/2026/11/tibets-top-elected-leader-on-repression-reincarnation-and-the-future-for-tibetans/",
+      "date": "2026-11-16T15:33:00+00:00",
+      "author": "Shannon Tiezzi",
+      "summary": "“We are dying a slow death… we are being strangled by the dragon, slowly but surely,” Sikyong Penpa Tsering, the head of Tibet's government-in-exile, says.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "FERC’s See on large loads, Western markets and affordability",
@@ -173,6 +402,16 @@
       "category": "storage"
     },
     {
+      "title": "Countering China’s College Campus Playbook",
+      "url": "https://thediplomat.com/2026/11/countering-chinas-college-campus-playbook/",
+      "date": "2026-11-16T14:18:00+00:00",
+      "author": "Audrye Wong",
+      "summary": "China’s efforts to gain a strategic foothold in universities require responses that establish needed safeguards while preserving the innovative spirit of U.S. higher education.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "Octopus Energy launches plug-in solar kit for small businesses",
       "url": "https://www.pv-magazine.com/2026/11/16/octopus-energy-launches-plug-in-solar-kit-for-small-businesses/",
       "date": "2026-11-16T14:12:59+00:00",
@@ -183,6 +422,16 @@
       "category": "solar"
     },
     {
+      "title": "The Geopolitics of Eurasia’s Newest Proposed Route: The CASA Railway Project",
+      "url": "https://thediplomat.com/2026/11/the-geopolitics-of-eurasias-newest-proposed-route-the-casa-railway-project/",
+      "date": "2026-11-16T14:10:00+00:00",
+      "author": "Sabina Insebayeva and Yernar Serik",
+      "summary": "In September, Kazakhstan, Uzbekistan and the UAE signed a memorandum to develop a railway bridging Central and South Asia.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "Over court objections, DOE issues 7th order to keep Michigan coal plant online",
       "url": "https://www.utilitydive.com/news/over-court-objections-doe-issues-order-campbell-coal-plant/874733/",
       "date": "2026-11-16T13:56:20+00:00",
@@ -191,6 +440,36 @@
       "source": "Utility Dive",
       "kind": "news",
       "category": "policy"
+    },
+    {
+      "title": "Why Is Beijing So Determined to Pursue Reunification With Taiwan?",
+      "url": "https://thediplomat.com/2026/11/why-is-beijing-so-determined-to-pursue-reunification-with-taiwan/",
+      "date": "2026-11-16T13:54:00+00:00",
+      "author": "Kevin G. Cai",
+      "summary": "It's not about the First Island Chain, or semiconductors. There's a more basic interest at stake for the CCP.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Just by Meeting, Quad Leaders Send a Signal to Beijing",
+      "url": "https://thediplomat.com/2026/11/just-by-meeting-quad-leaders-send-a-signal-to-beijing/",
+      "date": "2026-11-16T13:25:00+00:00",
+      "author": "Rajeswari Pillai Rajagopalan and Justin Bassi",
+      "summary": "China’s longstanding opposition to the Quad, and its concern with this week’s meeting of the group’s leaders in Manila, heightens the importance of the summit’s political signal.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Indonesia and Singapore: A Tale of Two Air Forces",
+      "url": "https://thediplomat.com/2026/11/indonesia-and-singapore-a-tale-of-two-air-forces/",
+      "date": "2026-11-16T13:13:00+00:00",
+      "author": "Abdul Rahman Yaacob",
+      "summary": "Indonesia is pursuing diversification; Singapore specialization. There are upsides and risks to both approaches.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "PV and batteries could help cut global power costs by 40% in 2030s",
@@ -233,6 +512,46 @@
       "category": "solar"
     },
     {
+      "title": "How Xi Sees a Weakened Trump",
+      "url": "https://foreignpolicy.com/2026/11/16/trump-xi-meeting-shenzhen-apec-midterms-congress-us-china-relations/",
+      "date": "2026-11-16T12:00:55+00:00",
+      "author": "Deng Yuwen",
+      "summary": "Political instability is more danger than opportunity for Beijing.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Democrats Can’t Return to Pre-Trump Foreign Policy",
+      "url": "https://foreignpolicy.com/2026/11/16/democrats-foreign-policy-congress-election-trump-tariffs/",
+      "date": "2026-11-16T12:00:39+00:00",
+      "author": "Rebecca Lissner and Mira Rapp-Hooper",
+      "summary": "The world has changed. A new approach must take that into account.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The rising cost of ambition in Saudi Arabia’s Vision 2030",
+      "url": "https://www.atlanticcouncil.org/blogs/menasource/the-rising-cost-of-ambition-in-saudi-arabias-vision-2030/",
+      "date": "2026-11-16T11:27:26+00:00",
+      "author": "Khalid Azim",
+      "summary": "The Iran war and the rising cost of global capital demand a reassessment of the assumptions underlying how Vision 2030 is executed.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Can South Africa Tackle HIV Without the U.S.?",
+      "url": "https://foreignpolicy.com/2026/11/16/south-africa-hiv-aids-pepfar-trump-health-funding-withdrawal/",
+      "date": "2026-11-16T10:00:22+00:00",
+      "author": "Gabriela Galvin",
+      "summary": "The rollout of a groundbreaking drug is an early test in a post-PEPFAR world.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "People and Vertical AI: The responsible and trusted framework for energy and water",
       "url": "https://www.utilitydive.com/spons/people-and-vertical-ai-the-responsible-and-trusted-framework-for-energy-an/874672/",
       "date": "2026-11-16T10:00:00+00:00",
@@ -253,6 +572,46 @@
       "category": "general"
     },
     {
+      "title": "Nigeria’s disappeared: Families left to struggle for answers in a labyrinth of secret detentions",
+      "url": "https://www.thenewhumanitarian.org/news-feature/2026/11/16/nigeria-disappeared-families-left-struggle-answers-labyrinth-secret",
+      "date": "2026-11-16T09:37:19+00:00",
+      "author": "Stephen Kenechi",
+      "summary": "Arbitrary arrests, unlawful detentions, extrajudicial executions, and enforced disappearances are disturbingly common.",
+      "source": "The New Humanitarian",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "RIP to the $1.45 Trillion FY2027 Defense Budget",
+      "url": "https://warontherocks.com/cogs-of-war/rip-to-the-1-45-trillion-fy2027-defense-budget/",
+      "date": "2026-11-16T09:00:38+00:00",
+      "author": "Matt Vallone",
+      "summary": "The 2026 Congressional midterms appear to have dealt a final death blow to the Trump administration’s prospective $1.45 trillion Fiscal Year 2027 Department of Defense budget request. While there remains a path forward to salvage the base…",
+      "source": "War on the Rocks",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Why Israel Is Losing America",
+      "url": "https://www.foreignaffairs.com/israel/why-israel-losing-america",
+      "date": "2026-11-16T09:00:00+00:00",
+      "author": "Andrew P. Miller",
+      "summary": "The country must change course—or lose America.",
+      "source": "Foreign Affairs",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "China Doesn’t Want a Nuclear Arms Race",
+      "url": "https://www.foreignaffairs.com/china/china-doesnt-want-nuclear-arms-race",
+      "date": "2026-11-16T09:00:00+00:00",
+      "author": "Lyle J. Goldstein, Nina Tannenwald",
+      "summary": "America can avert an unnecessary rivalry.",
+      "source": "Foreign Affairs",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "‘The market’s getting tough’: Australia values BESS bankability above all, says director at Wärtsilä JV Valo",
       "url": "https://www.energy-storage.news/the-markets-getting-tough-australia-values-bess-bankability-above-all-says-director-at-wartsila-jv-valo/",
       "date": "2026-11-16T08:38:06+00:00",
@@ -261,6 +620,16 @@
       "source": "Energy-Storage.news",
       "kind": "news",
       "category": "storage"
+    },
+    {
+      "title": "The Limits of Quiet Resignation from the U.S. Military",
+      "url": "https://warontherocks.com/the-limits-of-quiet-resignation-from-the-u-s-military/",
+      "date": "2026-11-16T08:30:37+00:00",
+      "author": "Joshua Braver",
+      "summary": "According to CNN reporting, Joint Chiefs Chairman Gen. Dan Caine recently asked his top lawyer: “How should a military commander respond if they determine they have received an unlawful order?” The lawyer’s answer was reportedly…",
+      "source": "War on the Rocks",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "Could a data center’s waste heat warm a North Carolina town?",
@@ -283,6 +652,86 @@
       "category": "general"
     },
     {
+      "title": "Ashok Swain on the Mounting Opposition to Modi’s Authoritarian Rule",
+      "url": "https://thediplomat.com/2026/11/ashok-swain-on-the-mounting-opposition-to-modis-authoritarian-rule/",
+      "date": "2026-11-16T05:31:00+00:00",
+      "author": "Sudha Ramachandran",
+      "summary": "In India, “fear is gradually being replaced by political confidence. Modi remains in power, but his aura of invincibility has been seriously weakened.”",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Lessons From the Watergate Babies for the ‘No Kings’ Congress",
+      "url": "https://foreignpolicy.com/2026/11/16/democratic-congress-after-midterms-watergate-babies/",
+      "date": "2026-11-16T05:01:24+00:00",
+      "author": "Julian E. Zelizer",
+      "summary": "The one thing they can’t afford to do is nothing.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Economic Diplomacy Abroad and Restrictions at Home: Myanmar’s International Trade Dilemma",
+      "url": "https://thediplomat.com/2026/11/economic-diplomacy-abroad-and-restrictions-at-home-myanmars-international-trade-dilemma/",
+      "date": "2026-11-16T04:34:00+00:00",
+      "author": "Maung Maung Oo",
+      "summary": "Ongoing conflicts and restrictive domestic economic policies continue to undermine Naypyidaw's pursuit of foreign investment and trade.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Sinopec Demands Derail Oil Refinery Plans at Sri Lanka’s Hambantota",
+      "url": "https://thediplomat.com/2026/11/sinopec-demands-derail-oil-refinery-plans-at-sri-lankas-hambantota/",
+      "date": "2026-11-16T04:28:00+00:00",
+      "author": "Rathindra Kuruwita",
+      "summary": "How readily can Sri Lanka replace investments at the SACL hub project and the Hambantota oil refinery?",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Bengal’s BJP Government Targets Christians",
+      "url": "https://thediplomat.com/2026/11/bengals-bjp-government-targets-christians/",
+      "date": "2026-11-16T04:20:00+00:00",
+      "author": "Kavita Chowdhury",
+      "summary": "Once known for its secular ethos, Bengal is witnessing a surge in violent attacks on Christians.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Nepali Prime Minister Balen Shah Continues to Test the Limits of Executive Power",
+      "url": "https://thediplomat.com/2026/11/nepali-prime-minister-balen-shah-continues-to-test-the-limits-of-executive-power/",
+      "date": "2026-11-16T04:13:00+00:00",
+      "author": "Biswas Baral",
+      "summary": "The prime minister and his advisers must understand that urgency does not mean dispensing with consultation or due process.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "A new vision for the Vertical Corridor: European energy security through infrastructure optimization",
+      "url": "https://www.atlanticcouncil.org/in-depth-research-reports/report/a-new-vision-for-the-vertical-corridor-european-energy-security-through-infrastructure-optimization/",
+      "date": "2026-11-15T12:20:24+00:00",
+      "author": "Benjamin L. Schmitt and Uliana Certan",
+      "summary": "Europe's Vertical Corridor region is well positioned to reverse its historical Soviet infrastructure legacy and natural gas dependency, while supporting broader European energy security.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The EU’s First AI Summit",
+      "url": "https://foreignpolicy.com/2026/11/13/eu-ai-summit-semiconductor-chips-russia-ukraine-peace-talks-nvidia/",
+      "date": "2026-11-13T20:27:42+00:00",
+      "author": "Alexandra Sharp",
+      "summary": "Outlooks aren’t optimistic, as the bloc is set to fall short of its chip-manufacturing goals.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "How California Gov.-elect Becerra could be better on climate than Newsom",
       "url": "https://www.canarymedia.com/articles/politics/california-gov-elect-becerra-climate",
       "date": "2026-11-13T20:00:00+00:00",
@@ -291,6 +740,36 @@
       "source": "Canary Media",
       "kind": "analysis",
       "category": "general"
+    },
+    {
+      "title": "Realism Was Forged in Trauma",
+      "url": "https://foreignpolicy.com/2026/11/13/realism-hans-morgenthau-david-sacks-the-realist-review-international-relations-theory/",
+      "date": "2026-11-13T20:00:00+00:00",
+      "author": "Jon Skolnik",
+      "summary": "A new biography explores the intimate origins of Hans Morgenthau’s hard-boiled worldview.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The Journalists Who Left Russia—But Can’t Escape It",
+      "url": "https://foreignpolicy.com/2026/11/13/russia-my-undesirable-friends-film-movie-review-war-ukraine-journalism/",
+      "date": "2026-11-13T19:56:57+00:00",
+      "author": "Anastasia Edel",
+      "summary": "An intimate documentary follows a group of exiles determined to tell their country the truth.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "What Jensen Huang’s Fall Means for U.S.-China Relations",
+      "url": "https://foreignpolicy.com/2026/11/13/jensen-huang-nvidia-resignation-china-spy-scandal-trump/",
+      "date": "2026-11-13T19:50:23+00:00",
+      "author": "James Palmer",
+      "summary": "The Nvidia scandal could upend a fragile consensus in Washington.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "Utility, tech officials see opportunities to increase grid utilization",
@@ -313,6 +792,46 @@
       "category": "policy"
     },
     {
+      "title": "Syria shouldn’t join the Mecca Alliance. It should cooperate with it.",
+      "url": "https://www.atlanticcouncil.org/blogs/menasource/syria-shouldnt-join-the-mecca-alliance-it-should-cooperate-with-it/",
+      "date": "2026-11-13T16:47:45+00:00",
+      "author": "Ibrahim Al-Assil",
+      "summary": "Joining the alliance would expose Syria to a new set of threats and increase the chances of regional escalation.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The election that never happened, and why Washington needs a new strategy toward Nicaragua",
+      "url": "https://www.atlanticcouncil.org/dispatches/the-election-that-never-happened-and-why-washington-needs-a-new-strategy-toward-nicaragua/",
+      "date": "2026-11-13T16:45:06+00:00",
+      "author": "Felix Maradiaga and María Fernanda Bozmoski",
+      "summary": "Nicaragua's dictators called for no more elections, so Washington should call for no more business as usual. It should use targeted economic pressure to push for democratic change.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Same metric, still a mess: The geoeconomics of youth unemployment in China",
+      "url": "https://www.atlanticcouncil.org/blogs/econographics/same-metric-still-a-mess-the-geoeconomics-of-youth-unemployment-in-china/",
+      "date": "2026-11-13T16:34:48+00:00",
+      "author": "Nicole Goldin",
+      "summary": "China is aging too quickly to waste labor, yet it can't generate enough jobs to productively engage its young.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gaza’s deadly winter, new rebel offensive in DR Congo, and the looming killer robot battle: The Cheat Sheet",
+      "url": "https://www.thenewhumanitarian.org/news/2026/11/13/gaza-deadly-winter-new-rebel-offensive-dr-congo-looming-killer-robot-cheat-sheet",
+      "date": "2026-11-13T16:17:20+00:00",
+      "author": "",
+      "summary": "A weekly read to keep you in the loop on humanitarian issues.",
+      "source": "The New Humanitarian",
+      "kind": "world",
+      "category": "development"
+    },
+    {
       "title": "‘Electrify everything’ hits the global stage",
       "url": "https://www.canarymedia.com/articles/electrification/electrify-everything-cop31-climate-conference",
       "date": "2026-11-13T16:14:00+00:00",
@@ -321,6 +840,16 @@
       "source": "Canary Media",
       "kind": "analysis",
       "category": "policy"
+    },
+    {
+      "title": "Washington is reshaping security in North Africa. Congress needs to ask how.",
+      "url": "https://www.atlanticcouncil.org/blogs/menasource/washington-is-reshaping-security-in-north-africa-congress-needs-to-ask-how/",
+      "date": "2026-11-13T15:16:01+00:00",
+      "author": "Frank Talbot",
+      "summary": "The next US Congress should demand clearer plans from the White House on its Western Sahara and Libya policies.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
@@ -383,6 +912,16 @@
       "category": "storage"
     },
     {
+      "title": "A Conversation With Former Secretary of Veterans Affairs David Shulkin",
+      "url": "https://cfrontherecord.podbean.com/e/a-conversation-with-former-secretary-of-veterans-affairs-david-shulkin/",
+      "date": "2026-11-13T10:00:00+00:00",
+      "author": "",
+      "summary": "In this episode, Secretary Shulkin discusses why caring for veterans must remain a unifying national priority and a reflection of America’s values and shared future. Host: Missy Ryan , Staff Writer, The Atlantic; CFR Member Guests: David…",
+      "source": "Council on Foreign Relations",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "Lacour Energy refers 4,000MWh wind-plus-storage site to Australia’s EPBC Act",
       "url": "https://www.energy-storage.news/lacour-energy-refers-4000mwh-wind-plus-storage-site-to-australias-epbc-act/",
       "date": "2026-11-13T09:10:33+00:00",
@@ -413,6 +952,36 @@
       "category": "general"
     },
     {
+      "title": "The World’s Last Chance for Peace",
+      "url": "https://www.foreignaffairs.com/spain/pedro-sanchez-world-last-chance-peace-avert-world-war",
+      "date": "2026-11-13T05:00:00+00:00",
+      "author": "Pedro Sánchez",
+      "summary": "How to avert a new world war.",
+      "source": "Foreign Affairs",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "La última oportunidad para la paz",
+      "url": "https://www.foreignaffairs.com/es/spain/pedro-sanchez-ultima-oportunidad-paz-evitar-guerra-mundial",
+      "date": "2026-11-13T05:00:00+00:00",
+      "author": "Pedro Sánchez",
+      "summary": "Cómo evitar otra guerra mundial.",
+      "source": "Foreign Affairs",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The Case for a Trump-Xi-Putin Summit",
+      "url": "https://www.foreignaffairs.com/united-states/case-trump-xi-putin-summit",
+      "date": "2026-11-13T05:00:00+00:00",
+      "author": "Charles Kupchan",
+      "summary": "In just a few days’ time, U.S. President Donald Trump, Chinese leader Xi Jinping, and Russian President Vladimir Putin could be holding a three-way summit on the sidelines of next week’s Asia-Pacific Economic Cooperation meeting in…",
+      "source": "Foreign Affairs",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "Ohio GOP circulates bill that would stymie coal plant closures",
       "url": "https://www.canarymedia.com/articles/fossil-fuels/ohio-gop-bill-stymie-coal-plant-closures",
       "date": "2026-11-12T22:00:00+00:00",
@@ -431,6 +1000,16 @@
       "source": "Energy-Storage.news",
       "kind": "news",
       "category": "storage"
+    },
+    {
+      "title": "How Purges Are Affecting Chinese Military Readiness and Taiwan Contingencies",
+      "url": "https://warontherocks.com/how-purges-are-affecting-chinese-military-readiness-and-taiwan-contingencies/",
+      "date": "2026-11-12T18:30:19+00:00",
+      "author": "Yun Sun",
+      "summary": "Since 2022, Chinese General Secretary Xi Jinping has purged at least 100 senior military officials, according to a February report from the Center for Strategic and International Studies, with more cases occurring since then. The rate of…",
+      "source": "War on the Rocks",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "As coal burn declines, rising power demand will be primarily met by renewables: EIA",
@@ -463,6 +1042,16 @@
       "category": "storage"
     },
     {
+      "title": "How many winters must Palestinians in Gaza survive before they are allowed to live?",
+      "url": "https://www.thenewhumanitarian.org/opinion/first-person/2026/11/12/how-many-winters-must-palestinians-gaza-survive-they-are-allowed-live",
+      "date": "2026-11-12T14:37:48+00:00",
+      "author": "Rita Baroud",
+      "summary": "People in Gaza are not simply facing winter. They are facing the absence of everything that would make surviving winter possible.",
+      "source": "The New Humanitarian",
+      "kind": "world",
+      "category": "development"
+    },
+    {
       "title": "DC bidirectional charging and data centre demand are reshaping the case for US DERs",
       "url": "https://www.energy-storage.news/dc-bidirectional-charging-and-data-centre-demand-are-reshaping-the-case-for-us-ders/",
       "date": "2026-11-12T14:33:57+00:00",
@@ -491,6 +1080,46 @@
       "source": "Energy-Storage.news",
       "kind": "news",
       "category": "storage"
+    },
+    {
+      "title": "COP31’s new climate initiative risks leaving the most vulnerable behind",
+      "url": "https://www.thenewhumanitarian.org/opinion/2026/11/12/cop31-new-climate-initiative-risks-leaving-most-vulnerable-behind",
+      "date": "2026-11-12T09:38:05+00:00",
+      "author": "Mauricio Vazquez, Daljeet Kaur",
+      "summary": "The people worst-hit by climate change are the least likely to receive climate finance. Donors and funds can address this paradox at COP31 and beyond.",
+      "source": "The New Humanitarian",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "The Promise of Biomanufacturing at the Edge",
+      "url": "https://warontherocks.com/cogs-of-war/the-promise-of-biomanufacturing-at-the-edge/",
+      "date": "2026-11-12T09:00:53+00:00",
+      "author": "Arye Lipman",
+      "summary": "As the old adage goes, “Amateurs talk strategy. Professionals talk logistics.” Military operations are utterly dependent on complex supply chains to move food, fuel, and other essential products across long distances and through contested…",
+      "source": "War on the Rocks",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "America Can Do Good—and Do Well",
+      "url": "https://www.foreignaffairs.com/united-states/america-can-do-good-and-do-well",
+      "date": "2026-11-12T09:00:01+00:00",
+      "author": "Andrew Natsios",
+      "summary": "The strategic logic of foreign aid.",
+      "source": "Foreign Affairs",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The Paradox of Dollar Dominance",
+      "url": "https://www.foreignaffairs.com/economics/paradox-dollar-dominance",
+      "date": "2026-11-12T09:00:00+00:00",
+      "author": "Gordon Liao, Eswar Prasad, Tony Zhang",
+      "summary": "How Technology Is—and Isn’t—Changing the Global Economy",
+      "source": "Foreign Affairs",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "The GOP lost its iron grip on Ohio. What’s the outlook for clean energy?",
@@ -523,6 +1152,46 @@
       "category": "nuclear"
     },
     {
+      "title": "Haiti in-depth: What Bukele’s intervention means for the security crisis",
+      "url": "https://www.thenewhumanitarian.org/analysis/2026/11/11/haiti-depth-what-bukeles-intervention-means-security-crisis",
+      "date": "2026-11-11T13:35:02+00:00",
+      "author": "Daniela Mohor, Jerôme Wendy Norestyl, Wethzer Piercin",
+      "summary": "The Salvadoran leader’s deployment of 2,000+ troops has dangerously raised the stakes, fuelling violence and splitting Haitians between hope and fear.",
+      "source": "The New Humanitarian",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "A New Kind of Foreign Agent",
+      "url": "https://www.foreignaffairs.com/china/new-kind-foreign-agent",
+      "date": "2026-11-11T09:00:00+00:00",
+      "author": "Tal Feldman",
+      "summary": "How AI is reshaping influence operations in America.",
+      "source": "Foreign Affairs",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Trump Is Facing a Very Different North Korea",
+      "url": "https://www.foreignaffairs.com/north-korea/trump-facing-very-different-north-korea",
+      "date": "2026-11-11T09:00:00+00:00",
+      "author": "Stephen E. Biegun, Emma Chanlett-Avery",
+      "summary": "Donald Trump has Pyongyang on his mind. In recent months, the U.S. president has made comments to the media suggesting he is in communication with North Korean leader Kim Jong Un. In an August 17 Truth Social post, for instance, Trump…",
+      "source": "Foreign Affairs",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Japan’s Most Dangerous Military Constraint Is Time",
+      "url": "https://warontherocks.com/japans-most-dangerous-military-constraint-is-time/",
+      "date": "2026-11-11T08:30:24+00:00",
+      "author": "Christopher Denzel",
+      "summary": "During a 2022 wargame I ran, bilateral planners reached a familiar barrier. U.S. forces needed to disperse from concentrated bases before the adversary’s first missile salvo. Participants believed Japan could grant emergency access to…",
+      "source": "War on the Rocks",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "New Dem regulators plan to take on Georgia Power’s data center gas boom",
       "url": "https://www.canarymedia.com/articles/politics/new-dem-regulators-georgia-power",
       "date": "2026-11-11T08:30:00+00:00",
@@ -553,6 +1222,16 @@
       "category": "general"
     },
     {
+      "title": "Analyzing the Ethiopian-Somaliland Deal, Two Years On",
+      "url": "https://warontherocks.com/analyzing-the-ethiopian-somaliland-deal-two-years-on/",
+      "date": "2026-11-10T19:00:58+00:00",
+      "author": "James Barnett",
+      "summary": "In 2024, James Barnett wrote, “A Port Deal Puts the Horn of Africa on the Brink,” where he argued that tensions in countries like Ethiopia and Somalia threaten to escalate into a broader regional conflict if not contained. Two years later…",
+      "source": "War on the Rocks",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "Analysis: Which countries have sent the most delegates to COP31?",
       "url": "https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop31",
       "date": "2026-11-10T17:21:37+00:00",
@@ -561,6 +1240,56 @@
       "source": "Carbon Brief",
       "kind": "analysis",
       "category": "policy"
+    },
+    {
+      "title": "As Türkiye hosts COP31, its outdoor workers bear the human cost of the climate crisis",
+      "url": "https://www.thenewhumanitarian.org/news-feature/2026/11/10/turkiye-hosts-cop31-its-outdoor-workers-bear-human-cost-climate-crisis",
+      "date": "2026-11-10T12:52:48+00:00",
+      "author": "Merve Arısoy",
+      "summary": "As COP31 gets underway in air-conditioned conference halls, Türkiye’s outdoor workers are calling for urgent action to protect their health and livelihoods.",
+      "source": "The New Humanitarian",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "To Implement Acquisition Transformation, Empower Military Mavericks",
+      "url": "https://warontherocks.com/cogs-of-war/to-implement-acquisition-transformation-empower-military-mavericks/",
+      "date": "2026-11-10T09:00:47+00:00",
+      "author": "Ben McNally",
+      "summary": "“I wanted disciplined but not regimented thinking. Commanders must encourage intellectual risk-taking to preclude a lethargic environment. Leaders must shelter those challenging nonconformists and mavericks who make institutions…",
+      "source": "War on the Rocks",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "China’s AI Diplomacy Is Working",
+      "url": "https://www.foreignaffairs.com/china/chinas-ai-diplomacy-working",
+      "date": "2026-11-10T09:00:00+00:00",
+      "author": "Daniel Remler",
+      "summary": "America should be taking notes.",
+      "source": "Foreign Affairs",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The Luxury of Children",
+      "url": "https://www.foreignaffairs.com/united-states/luxury-children",
+      "date": "2026-11-10T09:00:00+00:00",
+      "author": "Jesús Fernández-Villaverde",
+      "summary": "Why the baby bust is making the world more unequal.",
+      "source": "Foreign Affairs",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Winning Time: Ukraine’s Unmanned Systems Forces and the New Dimension of War",
+      "url": "https://warontherocks.com/winning-time-ukraines-unmanned-systems-forces-and-the-new-dimension-of-war/",
+      "date": "2026-11-10T08:30:35+00:00",
+      "author": "Oleksiy Honcharuk",
+      "summary": "In late 2023, Ukraine’s military leadership faced an institutional choice: establish a dedicated branch of the armed forces for unmanned systems or integrate drones into existing branches. Most senior officers I knew opposed the separate…",
+      "source": "War on the Rocks",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "Analysis: Fossil-fuel CO2 emissions set to dip in 2026 as Iran conflict hits oil use",
@@ -573,6 +1302,16 @@
       "category": "oilgas"
     },
     {
+      "title": "Stained Glass and Sacred Spaces: Symbolism Abounds in Ukrainian Media",
+      "url": "https://warontherocks.com/stained-glass-and-sacred-spaces-symbolism-abounds-in-ukrainian-media/",
+      "date": "2026-11-09T19:15:33+00:00",
+      "author": "Nicole Wiley",
+      "summary": "Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media…",
+      "source": "War on the Rocks",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "🌎 The blue wave lifts (some) climate tech #321",
       "url": "https://www.ctvc.co/the-blue-wave-lifts-some-climate-tech-321/",
       "date": "2026-11-09T17:59:00+00:00",
@@ -581,6 +1320,36 @@
       "source": "CTVC by Sightline Climate",
       "kind": "analysis",
       "category": "general"
+    },
+    {
+      "title": "Venezuela cannot rebuild while leaving nearly 9 million people behind",
+      "url": "https://www.thenewhumanitarian.org/opinion/2026/11/09/venezuela-cannot-rebuild-while-leaving-nearly-9-million-people-behind",
+      "date": "2026-11-09T12:56:27+00:00",
+      "author": "Luis Alvarado-Bruzual",
+      "summary": "Finding a way to represent diaspora voices in the ongoing transition is essential for genuine recovery, argues peacebuilder Luis Alvarado-Bruzual.",
+      "source": "The New Humanitarian",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "The Record Budgets and Missing Suppliers Shaping America’s Munitions Ramp",
+      "url": "https://warontherocks.com/cogs-of-war/the-record-budgets-and-missing-suppliers-shaping-americas-munitions-ramp/",
+      "date": "2026-11-09T09:00:45+00:00",
+      "author": "Marc Andersen",
+      "summary": "The Pentagon is sending a record demand signal for munitions, but turning it into deliveries depends on suppliers several tiers below the primes, many of which disappeared over the last two decades. Marc Andersen (Army assistant secretary…",
+      "source": "War on the Rocks",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The New Epicenter of Global Terror",
+      "url": "https://www.foreignaffairs.com/nigeria/new-epicenter-global-terror",
+      "date": "2026-11-09T09:00:00+00:00",
+      "author": "Eghosa E. Osaghae",
+      "summary": "How Africa’s weak states and rare earths drive transnational extremism.",
+      "source": "Foreign Affairs",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "Q&A: What is the Belém-Antalya mechanism for a ‘just transition’?",
@@ -593,6 +1362,16 @@
       "category": "policy"
     },
     {
+      "title": "Yemen’s war of attrition, Russia’s aid centre bombing, and Netanyahu’s eviction notice? The Cheat Sheet",
+      "url": "https://www.thenewhumanitarian.org/news/2026/11/06/yemen-war-russia-aid-centre-bombing-netanyahu-eviction-cheat-sheet",
+      "date": "2026-11-06T15:50:21+00:00",
+      "author": "",
+      "summary": "A weekly read to keep you in the loop on humanitarian issues.",
+      "source": "The New Humanitarian",
+      "kind": "world",
+      "category": "development"
+    },
+    {
       "title": "U.S. crude oil imports from Venezuela in July were highest since 2017",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68425",
       "date": "2026-11-06T14:00:00+00:00",
@@ -601,6 +1380,16 @@
       "source": "EIA Today in Energy",
       "kind": "analysis",
       "category": "oilgas"
+    },
+    {
+      "title": "On China’s Challenge to the U.S. Dollar",
+      "url": "https://cfrontherecord.podbean.com/e/on-china-s-challenge-to-the-us-dollar/",
+      "date": "2026-11-06T10:00:00+00:00",
+      "author": "",
+      "summary": "In this episode, panelists examine China’s efforts to reduce its dependence on the U.S. dollar and build alternatives to the dollar-centered international financial system. Experts also assess the progress and limits of these…",
+      "source": "Council on Foreign Relations",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "‘Simply staggering’: Rapidly developing ‘super El Niño’ on track to peak in December",
@@ -641,6 +1430,26 @@
       "source": "EIA Today in Energy",
       "kind": "analysis",
       "category": "oilgas"
+    },
+    {
+      "title": "Inklings | A closer look at WFP chief Luke Lindberg’s CV",
+      "url": "https://www.thenewhumanitarian.org/newsletter/2026/11/05/inklings-closer-look-wfp-chief-luke-lindbergs-cv",
+      "date": "2026-11-05T13:34:10+00:00",
+      "author": "Irwin Loy",
+      "summary": "Notes on aid: Luke Lindberg begins his Nobel Peace Prize quest, a meteoric rise told through a CV, and can you smell what America First is cooking?",
+      "source": "The New Humanitarian",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Rethinking Humanitarianism | The price of speaking up",
+      "url": "https://www.thenewhumanitarian.org/podcasts/2026/11/05/rethinking-humanitarianism-price-speaking",
+      "date": "2026-11-05T10:55:53+00:00",
+      "author": "",
+      "summary": "The professional cost of speaking up about Gaza, the pressures driving self-censorship in the UN, and how aid workers can stand by their principles.",
+      "source": "The New Humanitarian",
+      "kind": "world",
+      "category": "development"
     },
     {
       "title": "Q&A: What is the Brazil-led ‘deforestation roadmap’?",
@@ -713,6 +1522,16 @@
       "category": "storage"
     },
     {
+      "title": "On the Midterm Elections and Their Implications for U.S. Foreign Policy",
+      "url": "https://cfrontherecord.podbean.com/e/on-the-midterm-elections-and-their-implications-for-us-foreign-policy/",
+      "date": "2026-10-30T09:00:00+00:00",
+      "author": "",
+      "summary": "In this episode, panelists discuss how public opinion, election administration, and shifts in congressional power could shape America’s global posture in the months after the midterm elections. Host: Carla Anne Robbins , senior fellow…",
+      "source": "Council on Foreign Relations",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "LNG imports make up increasing share of Colombia's natural gas supply",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68364",
       "date": "2026-10-29T14:00:00+00:00",
@@ -731,6 +1550,16 @@
       "source": "CTVC by Sightline Climate",
       "kind": "analysis",
       "category": "general"
+    },
+    {
+      "title": "On American Energy Strategy Post-Hormuz",
+      "url": "https://cfrontherecord.podbean.com/e/on-american-energy-strategy-post-hormuz/",
+      "date": "2026-10-23T09:00:00+00:00",
+      "author": "",
+      "summary": "In this episode, panelists explore the uncertain status of U.S. security assurances for the free flow of oil, the ongoing crisis in the Strait of Hormuz, and the ramifications of both for U.S. and global energy security. Host: Vijay V…",
+      "source": "Council on Foreign Relations",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "U.S. refineries have been running at very high rates in 2026",
@@ -773,6 +1602,16 @@
       "category": "solar"
     },
     {
+      "title": "On Combating Human Trafficking",
+      "url": "https://cfrontherecord.podbean.com/e/on-combating-human-trafficking/",
+      "date": "2026-10-16T09:00:00+00:00",
+      "author": "",
+      "summary": "In this episode, panelists discuss cross-sector efforts to combat human trafficking. Host: Rachel B. Vogelstein , Associate Professor of Professional Practice; Director, Women’s Initiative, Institute of Global Politics, Columbia University…",
+      "source": "Council on Foreign Relations",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "PJM, ERCOT, and SWPP all set peak load records this summer",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68305",
       "date": "2026-10-15T14:00:00+00:00",
@@ -813,6 +1652,26 @@
       "category": "general"
     },
     {
+      "title": "A Conversation With President John Dramani Mahama of Ghana",
+      "url": "https://cfrontherecord.podbean.com/e/a-conversation-with-president-john-dramani-mahama-of-ghana/",
+      "date": "2026-10-09T09:00:00+00:00",
+      "author": "",
+      "summary": "In this episode, President John Dramani Mahama discusses Ghana’s development priorities, the country’s role as a regional leader in West Africa, and the future of U.S.-Ghana relations. Host: Michelle Gavin , Ralph Bunche Senior Fellow for…",
+      "source": "Council on Foreign Relations",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "A Conversation With Prime Minister Jonas Gahr Støre of Norway and President Alexander Stubb of Finland",
+      "url": "https://cfrontherecord.podbean.com/e/a-conversation-with-prime-minister-jonas-gahr-st%c3%b8re-of-norway-and-president-alexander-stubb-of-finland/",
+      "date": "2026-10-06T09:00:00+00:00",
+      "author": "",
+      "summary": "In this episode, Prime Minister Jonas Gahr Støre of Norway and President Alexander Stubb of Finland discuss the current state of the war in Ukraine, Arctic and European security, shifting geopolitics, and strategic investments in foreign…",
+      "source": "Council on Foreign Relations",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "🌎 Fervo flips the switch #316",
       "url": "https://www.ctvc.co/fervo-flips-the-switch-316/",
       "date": "2026-10-05T16:00:27+00:00",
@@ -821,6 +1680,16 @@
       "source": "CTVC by Sightline Climate",
       "kind": "analysis",
       "category": "general"
+    },
+    {
+      "title": "A Conversation With President Abdirahman Mohamed Abdullahi of Somaliland",
+      "url": "https://cfrontherecord.podbean.com/e/a-conversation-with-president-abdirahman-mohamed-abdullahi-of-somaliland/",
+      "date": "2026-10-02T09:00:00+00:00",
+      "author": "",
+      "summary": "In this episode, President Abdirahman Mohamed Abdullahi discusses Somaliland’s bid for international recognition and the regional security landscape. Host: Ebenezer Obadare , Douglas Dillon Senior Fellow for Africa Studies, Council on…",
+      "source": "Council on Foreign Relations",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "🌏 Overheard at NYCW '26 #315",
@@ -833,6 +1702,26 @@
       "category": "general"
     },
     {
+      "title": "Prime Minister Mia Mottley of Barbados on the Challenges Facing Climate-Vulnerable and Developing Countries",
+      "url": "https://cfrontherecord.podbean.com/e/prime-minister-mia-mottley-of-barbados-on-the-challenges-facing-climate-vulnerable-and-developing-countries/",
+      "date": "2026-09-25T09:00:00+00:00",
+      "author": "",
+      "summary": "In this episode, Prime Minister Mia Mottley of Barbados discusses the challenges facing climate-vulnerable and developing countries, including efforts to reform the international financial architecture, expand access to development…",
+      "source": "Council on Foreign Relations",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "On Africa Policy With Tony Elumelu",
+      "url": "https://cfrontherecord.podbean.com/e/on-africa-policy-with-tony-elumelu/",
+      "date": "2026-09-24T09:00:00+00:00",
+      "author": "",
+      "summary": "In this episode, leading African investor and philanthropist Tony Elumelu discusses the continent’s evolving role in the global economy, including entrepreneurship as a catalyst for development, private sector-led growth, energy security…",
+      "source": "Council on Foreign Relations",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "🌎 See you at New York Climate Week! #314",
       "url": "https://www.ctvc.co/see-you-at-new-york-climate-week-314/",
       "date": "2026-09-21T13:00:37+00:00",
@@ -843,6 +1732,16 @@
       "category": "general"
     },
     {
+      "title": "On France’s UN Security Council Presidency Priorities",
+      "url": "https://cfrontherecord.podbean.com/e/on-france-s-un-security-council-presidency-priorities/",
+      "date": "2026-09-18T09:00:00+00:00",
+      "author": "",
+      "summary": "In this episode, Ambassador Jérôme Bonnafont discusses France’s priorities as it assumes the presidency of the UN Security Council. Host: Jane Hartley , Chair, Board of Directors, Carnegie Endowment for International Peace; Former U.S…",
+      "source": "Council on Foreign Relations",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "🌎 LPO's new terms #312",
       "url": "https://www.ctvc.co/lpos-new-terms-312/",
       "date": "2026-09-14T16:30:22+00:00",
@@ -851,6 +1750,16 @@
       "source": "CTVC by Sightline Climate",
       "kind": "analysis",
       "category": "policy"
+    },
+    {
+      "title": "Eyewitness to History: Reflections on September 11",
+      "url": "https://cfrontherecord.podbean.com/e/eyewitness-to-history-reflections-on-september-11/",
+      "date": "2026-09-11T19:15:17+00:00",
+      "author": "",
+      "summary": "Title: Eyewitness to History: Reflections on September 11 In this episode, senior leaders across various sectors reflect on their firsthand experiences of the September 11 attacks and the global war on terrorism that followed. Host: Juju…",
+      "source": "Council on Foreign Relations",
+      "kind": "world",
+      "category": "geopolitics"
     }
   ]
 }

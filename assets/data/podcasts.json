@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T04:56:28+00:00",
+  "updatedAt": "2026-11-17T05:03:44+00:00",
   "shows": [
     {
       "spotifyId": "0GT5BuD33AiPnqOzQE7YAE",
@@ -37,8 +37,8 @@
       "description": "Bloomberg's show on the people, technologies and money racing to cut emissions.",
       "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/37c6caa7-d377-4c08-b479-af9d012ed5ad/a7faefb0-28ec-4b1d-85f3-af9d012ed5c9/podcast.rss",
       "latest": {
-        "title": "Why electricity is the answer to energy security",
-        "date": "2026-11-12",
+        "title": "Al Gore: Fossil fuels are losing their two main markets",
+        "date": "2026-11-17",
         "image": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/37c6caa7-d377-4c08-b479-af9d012ed5ad/a7faefb0-28ec-4b1d-85f3-af9d012ed5c9/image.jpg?t=1675362156&size=Large"
       },
       "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f6bec58495d75ca878579150d"
@@ -97,7 +97,7 @@
         "date": "2026-11-10",
         "image": "https://megaphone.imgix.net/podcasts/7ec68a0c-e24b-11ef-b277-7b3d3c3c73b9/image/796dd136afa5782eae8ad683dd946957.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
       },
-      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fc6744d9babbef225b200c4bd"
+      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fc6744d9babbef225b200c4bd"
     },
     {
       "spotifyId": "19HNFf7SZ2ox90YqVC4RUt",
@@ -125,7 +125,7 @@
         "date": "2026-11-16",
         "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/fa1c63cafe4125f965be053136455eca.jpg"
       },
-      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fb0d067b94164ba6fdb871390"
+      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fb0d067b94164ba6fdb871390"
     },
     {
       "spotifyId": "1HdsWBxHggXj7WdhoWfd3k",
@@ -139,7 +139,7 @@
         "date": "2026-11-11",
         "image": "https://megaphone.imgix.net/podcasts/31eee1e6-dc7e-11f1-a735-47bb974df0ef/image/56906ea128f9619665c2d7592f80832c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
       },
-      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f6fbf2f7d38e7d431da685334"
+      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f6fbf2f7d38e7d431da685334"
     },
     {
       "spotifyId": "5abw6M8GZWklf4SueAu19v",
@@ -153,7 +153,7 @@
         "date": "2026-10-28",
         "image": "https://feeds.oggn.com/wp-content/uploads/2026/04/ogtw-2026.jpg"
       },
-      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f11a11c1bdb4e15150fc09c44"
+      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f11a11c1bdb4e15150fc09c44"
     }
   ]
 }
