@@ -34,7 +34,7 @@ All content lives in **`assets/js/data.js`**:
 `news.html` ("Around the industry") and the home page ("Industry headlines") can show the latest stories from
 [Utility Dive](https://www.utilitydive.com/): headline, date, author and a short summary, each linking to the full story
 on utilitydive.com. `scripts/fetch_utilitydive.py` reads the RSS feed and writes `assets/data/utilitydive.json`;
-the sections stay hidden while that file is empty. A scheduled GitHub Action to refresh it automatically is pending approval.
+the sections stay hidden while that file is empty. `.github/workflows/utilitydive.yml` refreshes it every 3 hours (or on demand: Actions tab → *Run workflow*); if a fetch fails, the last good headlines are kept.
 
 ## Running locally
 
