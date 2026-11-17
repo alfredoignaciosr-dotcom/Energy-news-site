@@ -11,7 +11,10 @@ Usage:
   python3 scripts/fetch_feeds.py                      # fetch every source
   python3 scripts/fetch_feeds.py --test NAME FILE     # parse a saved feed file as source NAME (no network)
 """
+import gzip
 import html
+import html.entities
+import zlib
 import json
 import re
 import sys
@@ -63,6 +66,10 @@ SOURCES = [
      "feed": ["https://news.un.org/feed/subscribe/en/news/all/rss.xml"]},
     {"name": "World Bank Blogs", "site": "https://blogs.worldbank.org/", "kind": "world", "category": "development",
      "feed": ["https://blogs.worldbank.org/en/rss.xml", "https://blogs.worldbank.org/rss.xml", "https://feeds.feedburner.com/WorldBankBlogs"]},
+    {"name": "The Guardian: Global development", "site": "https://www.theguardian.com/global-development", "kind": "world", "category": "development",
+     "feed": ["https://www.theguardian.com/global-development/rss"]},
+    {"name": "Inter Press Service", "site": "https://www.ipsnews.net/", "kind": "world", "category": "development",
+     "feed": ["https://www.ipsnews.net/feed/"]},
 ]
 
 # Topic keywords (regex, case-insensitive unless noted). Title hits count triple.
@@ -114,8 +121,27 @@ def topic(title, summary):
     return best if scores[best] > 0 else "general"
 
 
+XML_ENTITIES = {"amp", "lt", "gt", "quot", "apos"}
+
+
+def tidy(raw, encoding=""):
+    """Undo compression and replace HTML-only entities (&nbsp; etc.) that strict XML rejects."""
+    if raw[:2] == b"\x1f\x8b" or encoding == "gzip":
+        raw = gzip.decompress(raw)
+    elif encoding == "deflate":
+        raw = zlib.decompress(raw)
+    raw = raw.lstrip(b"\xef\xbb\xbf \t\r\n")
+    def fix(m):
+        name = m.group(1).decode()
+        if name in XML_ENTITIES:
+            return m.group(0)
+        ch = html.entities.html5.get(name + ";")
+        return ch.encode() if ch else b""
+    return re.sub(rb"&([A-Za-z][A-Za-z0-9]*);", fix, raw)
+
+
 def parse(xml_bytes, source):
-    root = ET.fromstring(xml_bytes)
+    root = ET.fromstring(tidy(xml_bytes))
     entries = []
     for it in root.iter("item"):  # RSS 2.0
         entries.append({
@@ -162,21 +188,23 @@ def parse(xml_bytes, source):
 
 def fetch(source):
     urls = source["feed"] if isinstance(source["feed"], list) else [source["feed"]]
-    error = "no feed URL"
+    errors = []
     for url in urls:
         req = urllib.request.Request(url, headers={
-            "User-Agent": "Mozilla/5.0 (compatible; GridbaseFeedReader/1.0)",
-            "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
+                          "Chrome/130.0 Safari/537.36 GridbaseFeedReader/1.0",
+            "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.5",
+            "Accept-Language": "en",
         })
         try:
             with urllib.request.urlopen(req, timeout=30) as r:
-                items = parse(r.read(), source)
+                items = parse(tidy(r.read(), r.headers.get("Content-Encoding", "")), source)
             if items:
                 return source, items, None
-            error = f"{url}: no items in feed"
+            errors.append(f"{url}: no items")
         except Exception as exc:  # network errors, HTTP errors, bad XML
-            error = f"{url}: {type(exc).__name__}: {exc}"[:200]
-    return source, [], error
+            errors.append(f"{url}: {type(exc).__name__}: {exc}"[:150])
+    return source, [], " | ".join(errors)[:400] or "no feed URL"
 
 
 def main():
