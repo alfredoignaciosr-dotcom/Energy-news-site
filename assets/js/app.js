@@ -13,7 +13,7 @@
   const byDate = (a, b) => String(b.date).localeCompare(String(a.date));
   const cat = (key) => CATEGORIES[key] || CATEGORIES.general;
   const page = document.body.dataset.page;
-  const newTab = 'target="_blank" rel="noopener"';
+  const newTab = ''; // links open in the same tab
 
   function ago(s) {
     const mins = Math.round((Date.now() - toDate(s)) / 60000);
@@ -52,7 +52,7 @@
       <a href="${esc(it.url)}" ${newTab} class="card-media" tabindex="-1" aria-hidden="true">${cover(it.category)}</a>
       <div class="card-body">
         <div class="meta">${tag(it.category)}<span>${it.kind === "analysis" ? "Analysis" : "News"}</span></div>
-        <h3><a href="${esc(it.url)}" ${newTab}>${esc(it.title)}<span class="ext" aria-label="(opens ${esc(it.source)})"> ↗</span></a></h3>
+        <h3><a href="${esc(it.url)}" ${newTab}>${esc(it.title)}<span class="ext" aria-label="(on ${esc(it.source)})"> ↗</span></a></h3>
         ${it.summary ? `<p>${esc(it.summary)}</p>` : ""}
         ${byline(it)}
       </div>
