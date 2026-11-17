@@ -11,7 +11,7 @@ No build step: host it on GitHub Pages / Netlify as-is.
 | `index.html` | Top analysis story, latest news, more analysis, latest podcast episodes, topics |
 | `news.html` | Every story with search, topic chips, a News / Analysis toggle and a source filter (`?cat=solar&type=news&source=Utility%20Dive&q=grid`) |
 | `articles.html` | Analysis only (Carbon Brief, EIA Today in Energy, CTVC by Sightline Climate, Canary Media) |
-| `podcasts.html` | Latest episodes and 12 energy podcasts, playable through Spotify's embedded player |
+| `podcasts.html` | Latest episodes from the energy podcasts in `assets/data/podcasts.json`, playable through Spotify's embedded player |
 | `about.html` | What the site is, plus live status of every source and the podcast list |
 
 Also: light/dark mode, responsive layout, accessible markup.
