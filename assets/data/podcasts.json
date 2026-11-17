@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T16:09:50+00:00",
+  "updatedAt": "2026-11-17T20:59:59+00:00",
   "shows": [
     {
       "spotifyId": "0GT5BuD33AiPnqOzQE7YAE",
@@ -23,8 +23,8 @@
       "description": "Interviews with leaders across government, business and research on energy policy and global energy markets.",
       "feed": "https://columbiaenergyexchange.libsyn.com/rss",
       "latest": {
-        "title": "Aliya Haq and Rich Powell on Energy Affordability and the New Congress",
-        "date": "2026-11-10",
+        "title": "Ethan Zindler and Lily Bermel on Clean Energy's Headwinds and Tailwinds",
+        "date": "2026-11-17",
         "image": "https://static.libsyn.com/p/assets/3/d/d/0/3dd0245c6a06d0c0a04421dee9605cbd/Final-Columbia-Energy-Exchange-Cover-Art-01.png"
       },
       "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fd49d0f90b31a78108ce9890f"
@@ -95,9 +95,9 @@
       "latest": {
         "title": "Could distributed computing solve AI's power crunch?",
         "date": "2026-11-17",
-        "image": "https://megaphone.imgix.net/podcasts/7ec68a0c-e24b-11ef-b277-7b3d3c3c73b9/image/796dd136afa5782eae8ad683dd946957.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+        "image": "https://megaphone-images.spotifycdn.com/podcasts/7ec68a0c-e24b-11ef-b277-7b3d3c3c73b9/image/796dd136afa5782eae8ad683dd946957.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
       },
-      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fc6744d9babbef225b200c4bd"
+      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f82393edffecf4fe4af073720"
     },
     {
       "spotifyId": "19HNFf7SZ2ox90YqVC4RUt",
@@ -167,7 +167,7 @@
         "date": "2026-11-12",
         "image": "https://pbcdn1.podbean.com/imglogo/image-logo/13951093/FAI_Logo_2023.jpg"
       },
-      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f9ed6c133cba9b15fbc0e23ab"
+      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f9ed6c133cba9b15fbc0e23ab"
     },
     {
       "spotifyId": "65u6jcFyV5BnlVhhzSi7UJ",
@@ -181,7 +181,7 @@
         "date": "2026-11-11",
         "image": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog7700361/CFR_TPI_261111_ApplePodcasts-Website_3000x3000.jpeg"
       },
-      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1ffb2a2e907401ba52cfcae643"
+      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1ffb2a2e907401ba52cfcae643"
     },
     {
       "spotifyId": "4pbzJRK0uPozoTxxSZhpQS",
@@ -209,7 +209,7 @@
         "date": "2026-11-13",
         "image": "https://megaphone.imgix.net/podcasts/7cfd9522-df5a-11f1-b864-2f9804953fa0/image/90e9f3e4c9c280cdea4f9f18eacc28cf.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
       },
-      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f2e4ea4669769f7cea4d20ab6"
+      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f2e4ea4669769f7cea4d20ab6"
     },
     {
       "spotifyId": "016vrvCdyUC5N5QjdaX7hZ",
@@ -223,7 +223,7 @@
         "date": "2026-11-12",
         "image": "https://assets.pippa.io/shows/62874923a6361b2c768dddbf/1763129187815-1d9f2d07-12ed-47ce-9374-06b5266f2113.jpeg"
       },
-      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f783ff1f2abaabf8cd0269708"
+      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f783ff1f2abaabf8cd0269708"
     },
     {
       "spotifyId": "6wjEyU23yOwrPRBN93b3jV",
@@ -275,11 +275,11 @@
       "description": "A daily rundown of national security and world events, modelled on the intelligence briefing prepared for the president.",
       "feed": "https://feeds.speakeasystudio.ai/feeds/IJjonugk7iAsLucB/feed.xml",
       "latest": {
-        "title": "November 17th, 2026: Iran's Growing Unrest Fears & Iraq Confronts Iranian Militia",
+        "title": "PDB Afternoon Bulletin | November 17th, 2026: U.S. Intel Uncovers Iranian Dirty-Bomb Plot & Trump's AI Chip Crackdown",
         "date": "2026-11-17",
         "image": "https://cdn-media.speakeasystudio.ai/uploads/general/01a01f88-f140-7740-aecd-eb99550c84f1/main.jpg?1787235464136"
       },
-      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1ff7858a55a8ca07f98fb48d5a"
+      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1ff7858a55a8ca07f98fb48d5a"
     }
   ]
 }
