@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-17T02:12:08+00:00",
+  "fetchedAt": "2026-11-17T02:13:02+00:00",
   "sources": [
     {
       "name": "Utility Dive",
@@ -67,6 +67,13 @@
     {
       "name": "EIA Today in Energy",
       "site": "https://www.eia.gov/todayinenergy/",
+      "kind": "analysis",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "CTVC by Sightline Climate",
+      "site": "https://www.ctvc.co/",
       "kind": "analysis",
       "ok": true,
       "count": 12
@@ -409,6 +416,16 @@
       "source": "pv magazine",
       "kind": "news",
       "category": "solar"
+    },
+    {
+      "title": "🌎 BAAJA blast off #322",
+      "url": "https://www.ctvc.co/baaja-blast-off-322/",
+      "date": "2026-11-16T15:57:23+00:00",
+      "author": "CTVC",
+      "summary": "Inside the new grid rules, data center costs, and permits",
+      "source": "CTVC by Sightline Climate",
+      "kind": "analysis",
+      "category": "storage"
     },
     {
       "title": "HoloSolis raises €15 million, welcomes four new shareholders",
@@ -1161,6 +1178,16 @@
       "category": "policy"
     },
     {
+      "title": "🌎🏛️ Webinar: Breaking down the midterms",
+      "url": "https://www.ctvc.co/webinar-breaking-down-the-midterms/",
+      "date": "2026-11-10T22:38:10+00:00",
+      "author": "CTVC",
+      "summary": "Join us Friday at 11am ET to explore what the midterms mean for power, data centers, and climate tech, live",
+      "source": "CTVC by Sightline Climate",
+      "kind": "analysis",
+      "category": "general"
+    },
+    {
       "title": "Analysis: Which countries have sent the most delegates to COP31?",
       "url": "https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop31",
       "date": "2026-11-10T17:21:37+00:00",
@@ -1179,6 +1206,16 @@
       "source": "Carbon Brief",
       "kind": "analysis",
       "category": "oilgas"
+    },
+    {
+      "title": "🌎 The blue wave lifts (some) climate tech #321",
+      "url": "https://www.ctvc.co/the-blue-wave-lifts-some-climate-tech-321/",
+      "date": "2026-11-09T17:59:00+00:00",
+      "author": "CTVC",
+      "summary": "What the midterm results mean for climate tech and data centers",
+      "source": "CTVC by Sightline Climate",
+      "kind": "analysis",
+      "category": "general"
     },
     {
       "title": "Q&A: What is the Belém-Antalya mechanism for a ‘just transition’?",
@@ -1291,6 +1328,16 @@
       "category": "oilgas"
     },
     {
+      "title": "🌎 SPAC to the future #320",
+      "url": "https://www.ctvc.co/spac-to-the-future-320/",
+      "date": "2026-11-02T17:35:52+00:00",
+      "author": "CTVC",
+      "summary": "11 climate SPACs in 2026, and what the 2021 class tells us about them",
+      "source": "CTVC by Sightline Climate",
+      "kind": "analysis",
+      "category": "general"
+    },
+    {
       "title": "The share of solar generation with co-located battery storage is increasing",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68384",
       "date": "2026-10-30T14:00:00+00:00",
@@ -1311,6 +1358,16 @@
       "category": "oilgas"
     },
     {
+      "title": "🌎 Mid-term, peak demand, high stakes #319",
+      "url": "https://www.ctvc.co/mid-term-peak-demand-high-stakes-319/",
+      "date": "2026-10-26T16:30:00+00:00",
+      "author": "CTVC",
+      "summary": "Inside the power on the ballot this election",
+      "source": "CTVC by Sightline Climate",
+      "kind": "analysis",
+      "category": "general"
+    },
+    {
       "title": "U.S. refineries have been running at very high rates in 2026",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68344",
       "date": "2026-10-22T14:00:00+00:00",
@@ -1319,6 +1376,16 @@
       "source": "EIA Today in Energy",
       "kind": "analysis",
       "category": "oilgas"
+    },
+    {
+      "title": "🌎 Who builds Europe’s biggest climate companies #318",
+      "url": "https://www.ctvc.co/who-builds-europes-biggest-climate-companies-318/",
+      "date": "2026-10-19T15:00:00+00:00",
+      "author": "CTVC",
+      "summary": "Old World, new founders",
+      "source": "CTVC by Sightline Climate",
+      "kind": "analysis",
+      "category": "general"
     },
     {
       "title": "Hybrid sales rise while battery electric sales remain lower after tax credit expiration",
@@ -1359,6 +1426,66 @@
       "source": "EIA Today in Energy",
       "kind": "analysis",
       "category": "wind"
+    },
+    {
+      "title": "🌎 Q3 roundup ft. mega deals, nuclear listings, and more #317",
+      "url": "https://www.ctvc.co/q3-roundup-ft-mega-deals-nuclear-listings-and-more-317/",
+      "date": "2026-10-13T14:31:25+00:00",
+      "author": "CTVC",
+      "summary": "Mega deals took 82% of Q3 dollars as deal count fell to its lowest since 2020",
+      "source": "CTVC by Sightline Climate",
+      "kind": "analysis",
+      "category": "nuclear"
+    },
+    {
+      "title": "🌎 Inside the frenzied heart of the $11 trillion AI buildout 😵‍💫",
+      "url": "https://www.ctvc.co/inside-the-frenzied-heart-of-the-11-trillion-ai-buildout/",
+      "date": "2026-10-09T18:30:05+00:00",
+      "author": "CTVC",
+      "summary": "On the ground at Yotta, the US' biggest data center conference",
+      "source": "CTVC by Sightline Climate",
+      "kind": "analysis",
+      "category": "general"
+    },
+    {
+      "title": "🌎 Fervo flips the switch #316",
+      "url": "https://www.ctvc.co/fervo-flips-the-switch-316/",
+      "date": "2026-10-05T16:00:27+00:00",
+      "author": "CTVC",
+      "summary": "Our Q&A with Fervo COO after Cape Station commercial operation",
+      "source": "CTVC by Sightline Climate",
+      "kind": "analysis",
+      "category": "general"
+    },
+    {
+      "title": "🌏 Overheard at NYCW '26 #315",
+      "url": "https://www.ctvc.co/overheard-at-nycw-26-315/",
+      "date": "2026-09-28T15:00:58+00:00",
+      "author": "CTVC",
+      "summary": "Data centers, backlash, and the security premium",
+      "source": "CTVC by Sightline Climate",
+      "kind": "analysis",
+      "category": "general"
+    },
+    {
+      "title": "🌎 See you at New York Climate Week! #314",
+      "url": "https://www.ctvc.co/see-you-at-new-york-climate-week-314/",
+      "date": "2026-09-21T13:00:37+00:00",
+      "author": "CTVC",
+      "summary": "1,000+ events, one very full week",
+      "source": "CTVC by Sightline Climate",
+      "kind": "analysis",
+      "category": "general"
+    },
+    {
+      "title": "🌎 LPO's new terms #312",
+      "url": "https://www.ctvc.co/lpos-new-terms-312/",
+      "date": "2026-09-14T16:30:22+00:00",
+      "author": "CTVC",
+      "summary": "Inside the DOE EDF's new lending plan",
+      "source": "CTVC by Sightline Climate",
+      "kind": "analysis",
+      "category": "policy"
     }
   ]
 }
