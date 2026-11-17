@@ -143,19 +143,6 @@
         "date": "2026-10-28",
         "image": "https://feeds.oggn.com/wp-content/uploads/2026/04/ogtw-2026.jpg"
       }
-    },
-    {
-      "spotifyId": "3wgqiNgOydzUFD4Mb3M1KU",
-      "name": "The Big Switch",
-      "publisher": "Dr. Melissa Lott",
-      "category": "ev",
-      "description": "Season-long series that explain a single clean energy topic in depth.",
-      "feed": "https://rss.libsyn.com/shows/351275/destinations/2870417.xml",
-      "latest": {
-        "title": "Part 5: The Battery Recycling Dilemma",
-        "date": "2024-03-27",
-        "image": "https://static.libsyn.com/p/assets/3/0/b/5/30b574ada9b742ede5bbc093207a2619/FINAL_showart_TheBigSwitch_010924.jpg"
-      }
     }
   ]
 }
