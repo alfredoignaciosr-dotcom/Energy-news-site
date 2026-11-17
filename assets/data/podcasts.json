@@ -154,6 +154,110 @@
         "image": "https://feeds.oggn.com/wp-content/uploads/2026/04/ogtw-2026.jpg"
       },
       "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f11a11c1bdb4e15150fc09c44"
+    },
+    {
+      "spotifyId": "3vCDodm2QxZXsZFzdv1mPV",
+      "name": "The Foreign Affairs Interview",
+      "publisher": "Foreign Affairs",
+      "category": "geopolitics",
+      "description": "Long conversations with leading thinkers and policymakers on international affairs.",
+      "feed": "",
+      "latest": {
+        "title": "Bonus: Is America on the Path to Authoritarianism? A Conversation With Steven Levitsky and Lucan Way",
+        "date": "2025-02-21",
+        "image": ""
+      }
+    },
+    {
+      "spotifyId": "65u6jcFyV5BnlVhhzSi7UJ",
+      "name": "The President's Inbox",
+      "publisher": "Council on Foreign Relations",
+      "category": "geopolitics",
+      "description": "A weekly look at the foreign policy challenges facing the United States.",
+      "feed": "",
+      "latest": {
+        "title": "A General and an Admiral Discuss the Pentagon Purge",
+        "date": "2026-11-11",
+        "image": ""
+      }
+    },
+    {
+      "spotifyId": "4pbzJRK0uPozoTxxSZhpQS",
+      "name": "Foreign Policy Live",
+      "publisher": "Foreign Policy",
+      "category": "geopolitics",
+      "description": "Foreign Policy's editors and guests on the week's biggest global stories.",
+      "feed": "",
+      "latest": {
+        "title": "How Democrats Will Wield Congressional Power",
+        "date": "2026-11-12",
+        "image": ""
+      }
+    },
+    {
+      "spotifyId": "44pekawcpIJ7KgwcFIgZDr",
+      "name": "Ones and Tooze",
+      "publisher": "Foreign Policy",
+      "category": "geopolitics",
+      "description": "Economic historian Adam Tooze on the economics behind world events.",
+      "feed": "",
+      "latest": {
+        "title": "Nvidia and Economic Espionage",
+        "date": "2026-11-13",
+        "image": ""
+      }
+    },
+    {
+      "spotifyId": "016vrvCdyUC5N5QjdaX7hZ",
+      "name": "The Rachman Review",
+      "publisher": "Financial Times",
+      "category": "geopolitics",
+      "description": "The FT's chief foreign affairs commentator talks to the people shaping world politics.",
+      "feed": "",
+      "latest": {
+        "title": "After the US, how should middle powers work together?",
+        "date": "2026-11-12",
+        "image": ""
+      }
+    },
+    {
+      "spotifyId": "6wjEyU23yOwrPRBN93b3jV",
+      "name": "This Week in Global Development",
+      "publisher": "Devex",
+      "category": "development",
+      "description": "Devex reporters on the week's news in global aid and development.",
+      "feed": "",
+      "latest": {
+        "title": "Special edition: Humanitarian lessons for today’s private sector partnerships",
+        "date": "2026-11-16",
+        "image": ""
+      }
+    },
+    {
+      "spotifyId": "7i8AYUeJqhBSHCYLqlzA8C",
+      "name": "Global Dispatches",
+      "publisher": "Global Dispatches",
+      "category": "development",
+      "description": "Interviews on the international news stories that matter, from humanitarian crises to global health.",
+      "feed": "",
+      "latest": {
+        "title": "Can the World Learn to Cooperate on AI Safety?",
+        "date": "2026-11-16",
+        "image": ""
+      }
+    },
+    {
+      "spotifyId": "2dkl4yaeS78nY1m1Gttufg",
+      "name": "The CGD Podcast",
+      "publisher": "Center for Global Development",
+      "category": "development",
+      "description": "Center for Global Development experts on the policies that reduce global poverty.",
+      "feed": "",
+      "latest": {
+        "title": "Who Is Responsible for Climate Change? with Melanie Robinson and Jonathan Beynon",
+        "date": "2026-11-05",
+        "image": ""
+      }
     }
   ]
 }

@@ -56,16 +56,10 @@ SOURCES = [
     {"name": "War on the Rocks", "site": "https://warontherocks.com/", "kind": "world", "category": "geopolitics",
      "feed": ["https://warontherocks.com/feed/"]},
     # World: international development
-    {"name": "Devex", "site": "https://www.devex.com/", "kind": "world", "category": "development",
-     "feed": ["https://www.devex.com/news.rss", "https://www.devex.com/news/feed", "https://www.devex.com/feed"]},
-    {"name": "Center for Global Development", "site": "https://www.cgdev.org/", "kind": "world", "category": "development",
-     "feed": ["https://www.cgdev.org/rss.xml", "https://www.cgdev.org/rss/blog", "https://www.cgdev.org/feed"]},
     {"name": "The New Humanitarian", "site": "https://www.thenewhumanitarian.org/", "kind": "world", "category": "development",
      "feed": ["https://www.thenewhumanitarian.org/rss/all.xml", "https://www.thenewhumanitarian.org/rss.xml"]},
     {"name": "UN News", "site": "https://news.un.org/", "kind": "world", "category": "development",
      "feed": ["https://news.un.org/feed/subscribe/en/news/all/rss.xml"]},
-    {"name": "World Bank Blogs", "site": "https://blogs.worldbank.org/", "kind": "world", "category": "development",
-     "feed": ["https://blogs.worldbank.org/en/rss.xml", "https://blogs.worldbank.org/rss.xml", "https://feeds.feedburner.com/WorldBankBlogs"]},
     {"name": "The Guardian: Global development", "site": "https://www.theguardian.com/global-development", "kind": "world", "category": "development",
      "feed": ["https://www.theguardian.com/global-development/rss"]},
     {"name": "Inter Press Service", "site": "https://www.ipsnews.net/", "kind": "world", "category": "development",
@@ -137,7 +131,8 @@ def tidy(raw, encoding=""):
             return m.group(0)
         ch = html.entities.html5.get(name + ";")
         return ch.encode() if ch else b""
-    return re.sub(rb"&([A-Za-z][A-Za-z0-9]*);", fix, raw)
+    raw = re.sub(rb"&([A-Za-z][A-Za-z0-9]*);", fix, raw)
+    return re.sub(rb"&(?!#?[A-Za-z0-9]+;)", b"&amp;", raw)  # bare "&" in text
 
 
 def parse(xml_bytes, source):

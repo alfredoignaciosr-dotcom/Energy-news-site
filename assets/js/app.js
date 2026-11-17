@@ -131,7 +131,8 @@
       if (res.ok) SHOWS = ((await res.json()).shows || []).filter((s) => s.spotifyId && s.latest?.title);
     } catch (e) {}
   }
-  const latestEpisodes = () => [...SHOWS].sort((a, b) => String(b.latest.date).localeCompare(String(a.latest.date)));
+  const isWorldShow = (s) => WORLD_CATS.includes(s.category);
+  const latestEpisodes = (filter = () => true) => SHOWS.filter(filter).sort((a, b) => String(b.latest.date).localeCompare(String(a.latest.date)));
 
   function wireEmbeds() {
     document.addEventListener("click", (e) => {
@@ -256,7 +257,7 @@
       || `<p class="empty">More analysis soon.</p>`;
     $("#world-geo").innerHTML = world.filter((i) => i.category === "geopolitics").slice(0, 6).map(newsRow).join("") || `<p class="empty">Coming soon.</p>`;
     $("#world-dev").innerHTML = world.filter((i) => i.category === "development").slice(0, 6).map(newsRow).join("") || `<p class="empty">Coming soon.</p>`;
-    $("#latest-episodes").innerHTML = latestEpisodes().slice(0, 3).map(episodeRow).join("");
+    $("#latest-episodes").innerHTML = latestEpisodes((s) => !isWorldShow(s)).slice(0, 3).map(episodeRow).join("");
     $("#updated").textContent = updatedText(feed);
 
     $("#topics").innerHTML = Object.entries(CATEGORIES)
@@ -331,7 +332,8 @@
 
   function renderPodcasts() {
     $("#episodes").innerHTML = latestEpisodes().map(episodeRow).join("");
-    $("#recommended").innerHTML = SHOWS.map(showCard).join("");
+    $("#recommended").innerHTML = SHOWS.filter((s) => !isWorldShow(s)).map(showCard).join("");
+    $("#recommended-world").innerHTML = SHOWS.filter(isWorldShow).map(showCard).join("");
   }
 
   function renderAbout(feed) {
@@ -352,11 +354,14 @@
   wireEmbeds();
   if (page === "podcasts") loadPodcasts().then(renderPodcasts);
   if (["home", "news", "articles", "world", "about"].includes(page)) {
-    Promise.all([loadFeed(), ["home", "about"].includes(page) ? loadPodcasts() : null]).then(([feed]) => {
+    Promise.all([loadFeed(), ["home", "about", "world"].includes(page) ? loadPodcasts() : null]).then(([feed]) => {
       if (page === "home") renderHome(feed);
       if (page === "news") renderListing(feed, null);
       if (page === "articles") renderListing(feed, "analysis");
-      if (page === "world") renderListing(feed, "world");
+      if (page === "world") {
+        $("#world-episodes").innerHTML = latestEpisodes(isWorldShow).slice(0, 4).map(episodeRow).join("");
+        renderListing(feed, "world");
+      }
       if (page === "about") renderAbout(feed);
     });
   }
