@@ -1,0 +1,173 @@
+{
+  "updatedAt": null,
+  "shows": [
+    {
+      "spotifyId": "0GT5BuD33AiPnqOzQE7YAE",
+      "name": "Energy Gang",
+      "publisher": "Wood Mackenzie",
+      "category": "policy",
+      "description": "A weekly roundtable on the biggest stories in energy, from oil and gas to power, renewables and climate policy.",
+      "feed": "",
+      "latest": {
+        "title": "The future of the grid: Can new technologies deliver more electricity without building more infrastructure?",
+        "date": "2026-10-29",
+        "url": "https://open.spotify.com/episode/6AOfomG6dTMHbk5y7Nliux",
+        "image": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fa309acf7647e36db84d1053b"
+      }
+    },
+    {
+      "spotifyId": "4AnIQG21dDcwNSHwMcW4yh",
+      "name": "Columbia Energy Exchange",
+      "publisher": "Columbia University",
+      "category": "policy",
+      "description": "Interviews with leaders across government, business and research on energy policy and global energy markets.",
+      "feed": "",
+      "latest": {
+        "title": "Aliya Haq and Rich Powell on Energy Affordability and the New Congress",
+        "date": "2026-11-10",
+        "url": "https://open.spotify.com/episode/5XamLFmhWOaoKjrOjr6Pdv",
+        "image": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fd49d0f90b31a78108ce9890f"
+      }
+    },
+    {
+      "spotifyId": "5rHwnJEjFRnivIdpWwnZyZ",
+      "name": "Zero: The Climate Race",
+      "publisher": "Bloomberg",
+      "category": "policy",
+      "description": "Bloomberg's show on the people, technologies and money racing to cut emissions.",
+      "feed": "",
+      "latest": {
+        "title": "Why electricity is the answer to energy security",
+        "date": "2026-11-12",
+        "url": "https://open.spotify.com/episode/3EkmTCpfhAXbnfXf6s4J7u",
+        "image": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f6bec58495d75ca878579150d"
+      }
+    },
+    {
+      "spotifyId": "0KREPYRAQorrSYIedTnBel",
+      "name": "The Energy Transition Show with Chris Nelder",
+      "publisher": "XE Network",
+      "category": "storage",
+      "description": "Long-form, technically detailed conversations about how the energy system is changing.",
+      "feed": "",
+      "latest": {
+        "title": "[Episode #287] – Clearing the Connection Queue",
+        "date": "2026-11-12",
+        "url": "https://open.spotify.com/episode/3yPqDBc5OIVLy57RxpaTlE",
+        "image": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f21bb9da473d0d1a97a3f6090"
+      }
+    },
+    {
+      "spotifyId": "3dYMY5T3UZJLDKFQaA3tFS",
+      "name": "Volts",
+      "publisher": "David Roberts",
+      "category": "policy",
+      "description": "Deep-dive interviews on clean energy technology, politics and policy.",
+      "feed": "",
+      "latest": {
+        "title": "Forcing utilities to justify their distribution-system spending",
+        "date": "2026-07-08",
+        "url": "https://open.spotify.com/episode/5QHHIKODsEL5RZRwbISg6B",
+        "image": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f462b3fc467a18c828b022846"
+      }
+    },
+    {
+      "spotifyId": "4C5Qx3wJn0GeTnDxIVYcAR",
+      "name": "Catalyst with Shayle Kann",
+      "publisher": "Latitude Media",
+      "category": "storage",
+      "description": "Conversations about the technologies and business models of climate tech and clean energy.",
+      "feed": "",
+      "latest": {
+        "title": "Volts crossover: Six big energy questions",
+        "date": "2026-02-25",
+        "url": "https://open.spotify.com/episode/481jlJBm9jl3vrWSg53IVi",
+        "image": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f98a4b7551e425291e700098a"
+      }
+    },
+    {
+      "spotifyId": "2HZmokyIl2h4UuiO1qx5XP",
+      "name": "Open Circuit",
+      "publisher": "Latitude Media",
+      "category": "policy",
+      "description": "A weekly panel breaking down the business and economics of the energy transition.",
+      "feed": "",
+      "latest": {
+        "title": "State of the transition: The biggest fights in energy",
+        "date": "2026-03-20",
+        "url": "https://open.spotify.com/episode/2spSoQzwnsYv4G2g9hDY5h",
+        "image": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fc6744d9babbef225b200c4bd"
+      }
+    },
+    {
+      "spotifyId": "19HNFf7SZ2ox90YqVC4RUt",
+      "name": "Interchange Recharged",
+      "publisher": "Wood Mackenzie",
+      "category": "storage",
+      "description": "Wood Mackenzie's show on power markets, grid flexibility and the companies reshaping electricity.",
+      "feed": "",
+      "latest": {
+        "title": "Re-release: Flexibility as a service: Can Octopus's acquisition of Uplight finally make US residential VPPs work?",
+        "date": "2026-11-03",
+        "url": "https://open.spotify.com/episode/3RNSYkELhtt4OIkGuE1P57",
+        "image": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fa028ee82fcccb4d5577a5cd4"
+      }
+    },
+    {
+      "spotifyId": "4FDIRo16s1C9Fpc9v1HyGi",
+      "name": "Redefining Energy",
+      "publisher": "Laurent Segalen and Gerard Reid",
+      "category": "storage",
+      "description": "Two energy financiers discuss markets, investment and the global energy transition.",
+      "feed": "",
+      "latest": {
+        "title": "219. Hyperscalers vs US Utilities - Mar26",
+        "date": "2026-03-09",
+        "url": "https://open.spotify.com/episode/59pmmtT4pXY2No4jhliJW3",
+        "image": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fb0d067b94164ba6fdb871390"
+      }
+    },
+    {
+      "spotifyId": "1HdsWBxHggXj7WdhoWfd3k",
+      "name": "Climate Rising",
+      "publisher": "Harvard Business School",
+      "category": "policy",
+      "description": "Business leaders and researchers on how companies and investors are responding to climate change.",
+      "feed": "",
+      "latest": {
+        "title": "Powering AI and the Energy Transition: Why Permitting Reform Matters",
+        "date": "2026-09-30",
+        "url": "https://open.spotify.com/episode/4ltS8AMdwexEH68TS47qwB",
+        "image": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f6fbf2f7d38e7d431da685334"
+      }
+    },
+    {
+      "spotifyId": "5abw6M8GZWklf4SueAu19v",
+      "name": "Oil and Gas This Week",
+      "publisher": "Mark LaCour & Paige Wilson",
+      "category": "oilgas",
+      "description": "A weekly rundown of oil and gas industry news.",
+      "feed": "",
+      "latest": {
+        "title": "Oil and Gas This Week | Oct 28 2026 | Ep 413",
+        "date": "2026-10-28",
+        "url": "https://open.spotify.com/episode/5DG3EnGoysBKKzoHBZnbz8",
+        "image": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f11a11c1bdb4e15150fc09c44"
+      }
+    },
+    {
+      "spotifyId": "3wgqiNgOydzUFD4Mb3M1KU",
+      "name": "The Big Switch",
+      "publisher": "Dr. Melissa Lott",
+      "category": "ev",
+      "description": "Season-long series that explain a single clean energy topic in depth.",
+      "feed": "",
+      "latest": {
+        "title": "Part 5: The Battery Recycling Dilemma",
+        "date": "2024-03-27",
+        "url": "https://open.spotify.com/episode/2Ev0TdagUDFHsyCXHg2SD7",
+        "image": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f8d67d885151edd9f9ea96891"
+      }
+    }
+  ]
+}

@@ -28,11 +28,11 @@ and the About page shows which feeds are currently unavailable.
 
 To add or remove a publication, edit `SOURCES` in `scripts/fetch_feeds.py` (`kind` is `news` or `analysis`).
 
-**Podcast artwork** — `scripts/fetch_podcast_art.py` looks up each listed episode's cover image through
-Spotify's public oEmbed endpoint and saves `assets/data/podcast-art.json`.
-
-**Podcasts** — `RECOMMENDED_PODCASTS` in `assets/js/data.js`: real shows on Spotify (show id + latest episode id).
-"Play" loads Spotify's embedded player. Update `latest` as shows publish.
+**Podcasts** — the shows are listed in `assets/data/podcasts.json` (Spotify show id, name, publisher, topic,
+description). `scripts/fetch_podcasts.py`, part of the same 3-hourly workflow, finds each show's public RSS feed via
+Apple's podcast directory (saved in `feed`; set it yourself to pin one) and updates `latest` with the newest
+episode's title, date and cover image. "Play" loads Spotify's player for the show, which starts on its newest
+episode. To add a show, add an entry with its `spotifyId` and leave `feed` empty.
 
 **Site name, description, topics** — `SITE` and `CATEGORIES` in `assets/js/data.js`.
 

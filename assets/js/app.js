@@ -73,16 +73,21 @@
   const spotifyShow = (id) => `https://open.spotify.com/show/${encodeURIComponent(id)}`;
   const initials = (name) =>
     name.split(/[\s:]+/).filter((w) => w && !/^(the|with|and|of|a)$/i.test(w)).slice(0, 2).map((w) => w[0].toUpperCase()).join("");
+  // Play loads Spotify's player for the whole show, which always starts on its newest episode.
   const playBtn = (s, label = "Play latest episode") =>
-    `<button class="btn btn-sm load-embed" data-episode="${esc(s.latest.id)}" data-title="${esc(s.latest.title)}">
+    `<button class="btn btn-sm load-embed" data-show="${esc(s.spotifyId)}" data-title="${esc(s.name)}">
       <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>${label}</button>`;
+
+  const artwork = (s, cls = "show-mono") => s.latest?.image
+    ? `<img class="${cls} ep-art" src="${esc(s.latest.image)}" alt="" loading="lazy" width="64" height="64">`
+    : `<div class="${cls}" aria-hidden="true">${esc(initials(s.name))}</div>`;
 
   function showCard(s) {
     return `<article class="show-card" data-embed-host style="--c:${cat(s.category).color}">
       <div class="show-top">
         ${artwork(s)}
         <div>
-          <h3><a href="${spotifyShow(s.id)}" ${newTab}>${esc(s.name)}</a></h3>
+          <h3><a href="${spotifyShow(s.spotifyId)}" ${newTab}>${esc(s.name)}</a></h3>
           <div class="byline">${esc(s.publisher)}</div>
         </div>
       </div>
@@ -94,7 +99,7 @@
       <div class="embed-slot"></div>
       <div class="show-actions">
         ${playBtn(s)}
-        <a class="btn-ghost btn-sm" href="${spotifyShow(s.id)}" ${newTab}>Open in Spotify ↗</a>
+        <a class="btn-ghost btn-sm" href="${spotifyShow(s.spotifyId)}" ${newTab}>Open in Spotify ↗</a>
       </div>
     </article>`;
   }
@@ -106,30 +111,26 @@
         <div class="meta"><span>${esc(s.name)}</span><span>${fmtDate(s.latest.date)}</span></div>
         <h3>${esc(s.latest.title)}</h3>
         <div class="embed-slot"></div>
-        <div class="show-actions">${playBtn(s, "Play")}<a class="btn-ghost btn-sm" href="${spotifyShow(s.id)}" ${newTab}>Show on Spotify ↗</a></div>
+        <div class="show-actions">${playBtn(s, "Play")}<a class="btn-ghost btn-sm" href="${spotifyShow(s.spotifyId)}" ${newTab}>Show on Spotify ↗</a></div>
       </div>
     </li>`;
   }
 
-  let ART = {};
-  async function loadArt() {
+  let SHOWS = [];
+  async function loadPodcasts() {
     try {
-      const res = await fetch("assets/data/podcast-art.json", { cache: "no-cache" });
-      if (res.ok) ART = await res.json();
+      const res = await fetch("assets/data/podcasts.json", { cache: "no-cache" });
+      if (res.ok) SHOWS = ((await res.json()).shows || []).filter((s) => s.spotifyId && s.latest?.title);
     } catch (e) {}
   }
-  const artwork = (s, cls = "show-mono") => ART[s.latest.id]
-    ? `<img class="${cls} ep-art" src="${esc(ART[s.latest.id])}" alt="" loading="lazy" width="64" height="64">`
-    : `<div class="${cls}" aria-hidden="true">${esc(initials(s.name))}</div>`;
-
-  const latestEpisodes = () => [...RECOMMENDED_PODCASTS].sort((a, b) => b.latest.date.localeCompare(a.latest.date));
+  const latestEpisodes = () => [...SHOWS].sort((a, b) => String(b.latest.date).localeCompare(String(a.latest.date)));
 
   function wireEmbeds() {
     document.addEventListener("click", (e) => {
       const b = e.target.closest(".load-embed");
       if (!b) return;
       const slot = b.closest("[data-embed-host]").querySelector(".embed-slot");
-      slot.innerHTML = `<iframe title="Spotify player: ${esc(b.dataset.title)}" src="https://open.spotify.com/embed/episode/${encodeURIComponent(b.dataset.episode)}?utm_source=generator"
+      slot.innerHTML = `<iframe title="Spotify player: ${esc(b.dataset.title)}" src="https://open.spotify.com/embed/show/${encodeURIComponent(b.dataset.show)}?utm_source=generator"
         height="152" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>`;
       b.remove();
     });
@@ -317,7 +318,7 @@
 
   function renderPodcasts() {
     $("#episodes").innerHTML = latestEpisodes().map(episodeRow).join("");
-    $("#recommended").innerHTML = RECOMMENDED_PODCASTS.map(showCard).join("");
+    $("#recommended").innerHTML = SHOWS.map(showCard).join("");
   }
 
   function renderAbout(feed) {
@@ -328,17 +329,17 @@
           <span>${s.kind === "analysis" ? "Analysis" : "News"} · ${s.count} ${s.count === 1 ? "story" : "stories"} now${s.ok ? "" : " · feed temporarily unavailable"}</span>
         </li>`).join("")
       : emptyMsg(feed);
-    $("#podcast-list").innerHTML = RECOMMENDED_PODCASTS.map((s) =>
-      `<li class="source-item"><a href="${spotifyShow(s.id)}" ${newTab}><strong>${esc(s.name)}</strong> ↗</a><span>${esc(s.publisher)}</span></li>`).join("");
+    $("#podcast-list").innerHTML = SHOWS.map((s) =>
+      `<li class="source-item"><a href="${spotifyShow(s.spotifyId)}" ${newTab}><strong>${esc(s.name)}</strong> ↗</a><span>${esc(s.publisher)}</span></li>`).join("");
     $("#updated").textContent = updatedText(feed);
   }
 
   /* ---------- boot ---------- */
   renderChrome();
   wireEmbeds();
-  if (page === "podcasts") loadArt().then(renderPodcasts);
+  if (page === "podcasts") loadPodcasts().then(renderPodcasts);
   if (["home", "news", "articles", "about"].includes(page)) {
-    Promise.all([loadFeed(), page === "home" ? loadArt() : null]).then(([feed]) => {
+    Promise.all([loadFeed(), ["home", "about"].includes(page) ? loadPodcasts() : null]).then(([feed]) => {
       if (page === "home") renderHome(feed);
       if (page === "news") renderListing(feed, null);
       if (page === "articles") renderListing(feed, "analysis");

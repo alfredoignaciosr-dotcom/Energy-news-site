@@ -22,8 +22,8 @@ jobs:
       - name: Fetch feeds
         run: python3 scripts/fetch_feeds.py
 
-      - name: Fetch podcast episode artwork
-        run: python3 scripts/fetch_podcast_art.py
+      - name: Fetch latest podcast episodes
+        run: python3 scripts/fetch_podcasts.py
 
       - name: Commit changes
         id: commit
