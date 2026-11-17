@@ -38,6 +38,7 @@ SOURCES = [
     {"name": "CleanTechnica", "site": "https://cleantechnica.com/", "feed": "https://cleantechnica.com/feed/", "kind": "news"},
     {"name": "Carbon Brief", "site": "https://www.carbonbrief.org/", "feed": "https://www.carbonbrief.org/feed/", "kind": "analysis"},
     {"name": "EIA Today in Energy", "site": "https://www.eia.gov/todayinenergy/", "feed": "https://www.eia.gov/rss/todayinenergy.xml", "kind": "analysis"},
+    {"name": "CTVC by Sightline Climate", "site": "https://www.ctvc.co/", "feed": "https://www.ctvc.co/rss/", "kind": "analysis"},
     {"name": "Canary Media", "site": "https://www.canarymedia.com/", "feed": "https://www.canarymedia.com/rss.rss", "kind": "analysis"},
 ]
 

@@ -10,7 +10,7 @@ No build step: host it on GitHub Pages / Netlify as-is.
 | --- | --- |
 | `index.html` | Top analysis story, latest news, more analysis, latest podcast episodes, topics |
 | `news.html` | Every story with search, topic chips, a News / Analysis toggle and a source filter (`?cat=solar&type=news&source=Utility%20Dive&q=grid`) |
-| `articles.html` | Analysis only (Carbon Brief, EIA Today in Energy, Canary Media) |
+| `articles.html` | Analysis only (Carbon Brief, EIA Today in Energy, CTVC by Sightline Climate, Canary Media) |
 | `podcasts.html` | Latest episodes and 12 energy podcasts, playable through Spotify's embedded player |
 | `about.html` | What the site is, plus live status of every source and the podcast list |
 
@@ -20,7 +20,7 @@ Also: light/dark mode, responsive layout, accessible markup.
 
 **News & analysis** — `scripts/fetch_feeds.py` reads the RSS/Atom feeds listed in `SOURCES` (Utility Dive,
 pv magazine, Energy-Storage.news, offshoreWIND.biz, World Nuclear News, OilPrice.com, Electrek, CleanTechnica,
-Carbon Brief, EIA Today in Energy, Canary Media) and writes `assets/data/feeds.json`. Only the headline, date,
+Carbon Brief, EIA Today in Energy, CTVC by Sightline Climate, Canary Media) and writes `assets/data/feeds.json`. Only the headline, date,
 author and a short summary are stored; each links to the full story. Stories are tagged with a topic by keyword.
 
 `.github/workflows/news-feeds.yml` runs it every 3 hours (or on demand: Actions tab → *Update news feeds* →
