@@ -6,6 +6,7 @@ For each show:
      (iTunes Search API, no key) by matching the show name, and save it. To pin a feed by hand,
      set "feed" yourself and it will be used as-is.
   2. Read the feed and store the newest episode's title, date and cover image in "latest".
+  3. Store the show's cover from Spotify in "artwork" (small, reliable image; used first on the site).
 If anything fails for a show, its previous details are kept. Standard library only.
 """
 import html
@@ -26,6 +27,14 @@ ITUNES = "{http://www.itunes.com/dtds/podcast-1.0.dtd}"
 def get(url, timeout=30):
     with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=timeout) as r:
         return r.read()
+
+
+def spotify_cover(spotify_id):
+    """Show cover from Spotify's public oEmbed endpoint (small image on Spotify's CDN, no key)."""
+    url = "https://open.spotify.com/oembed?url=" + urllib.parse.quote(
+        f"https://open.spotify.com/show/{spotify_id}", safe="")
+    thumb = json.loads(get(url, timeout=20)).get("thumbnail_url", "")
+    return thumb if thumb.startswith("https://") else ""
 
 
 def norm(s):
@@ -79,6 +88,10 @@ def main():
     data = json.loads(OUT.read_text())
     before = json.dumps(data["shows"])
     for show in data["shows"]:
+        try:
+            show["artwork"] = spotify_cover(show["spotifyId"]) or show.get("artwork", "")
+        except Exception as exc:
+            print(f"FAIL {show['name']} cover: {type(exc).__name__}: {exc}"[:200])
         try:
             if not show.get("feed"):
                 show["feed"] = find_feed(show) or ""

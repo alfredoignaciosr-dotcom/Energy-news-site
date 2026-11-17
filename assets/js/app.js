@@ -78,9 +78,12 @@
     `<button class="btn btn-sm load-embed" data-show="${esc(s.spotifyId)}" data-title="${esc(s.name)}">
       <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>${label}</button>`;
 
-  const artwork = (s, cls = "show-mono") => s.latest?.image
-    ? `<img class="${cls} ep-art" src="${esc(s.latest.image)}" alt="" loading="lazy" width="64" height="64">`
-    : `<div class="${cls}" aria-hidden="true">${esc(initials(s.name))}</div>`;
+  // Cover image over an initials tile; if the image fails to load, the initials show instead.
+  const artwork = (s) => {
+    const src = s.artwork || s.latest?.image;
+    return `<div class="show-mono" aria-hidden="true">${esc(initials(s.name))}${src
+      ? `<img src="${esc(src)}" alt="" loading="lazy" width="64" height="64" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}</div>`;
+  };
 
   function showCard(s) {
     return `<article class="show-card" data-embed-host style="--c:${cat(s.category).color}">

@@ -308,3 +308,8 @@ p { margin: 0 0 1em; }
 .show-top .ep-art { width: 64px; height: 64px; }
 .episode .ep-art { width: 64px; height: 64px; border-radius: 10px; }
 
+
+/* cover images sit over the initials tile */
+.show-mono { position: relative; overflow: hidden; }
+.show-mono img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.show-top .show-mono { width: 64px; height: 64px; }
