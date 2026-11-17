@@ -1,5 +1,5 @@
 {
-  "updatedAt": null,
+  "updatedAt": "2026-11-17T04:52:17+00:00",
   "shows": [
     {
       "spotifyId": "0GT5BuD33AiPnqOzQE7YAE",
@@ -7,12 +7,11 @@
       "publisher": "Wood Mackenzie",
       "category": "policy",
       "description": "A weekly roundtable on the biggest stories in energy, from oil and gas to power, renewables and climate policy.",
-      "feed": "",
+      "feed": "https://rss.art19.com/the-energy-gang",
       "latest": {
-        "title": "The future of the grid: Can new technologies deliver more electricity without building more infrastructure?",
-        "date": "2026-10-29",
-        "url": "https://open.spotify.com/episode/6AOfomG6dTMHbk5y7Nliux",
-        "image": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fa309acf7647e36db84d1053b"
+        "title": "AI in energy: How can new technology strengthen the resilience of energy systems? | From ADIPEC in Abu Dhabi",
+        "date": "2026-11-12",
+        "image": "https://content.production.cdn.art19.com/images/eb/77/cd/8a/eb77cd8a-67ce-411b-bf0e-c526711bc1aa/3c13de2a603359e3c72edb66785394ca3cd8d31691034f741cce62e4014c8c528ce94e6791256bba4882574c2084270cc5b6d84e7d332025e5434515d4927872.jpeg"
       }
     },
     {
@@ -21,12 +20,11 @@
       "publisher": "Columbia University",
       "category": "policy",
       "description": "Interviews with leaders across government, business and research on energy policy and global energy markets.",
-      "feed": "",
+      "feed": "https://columbiaenergyexchange.libsyn.com/rss",
       "latest": {
         "title": "Aliya Haq and Rich Powell on Energy Affordability and the New Congress",
         "date": "2026-11-10",
-        "url": "https://open.spotify.com/episode/5XamLFmhWOaoKjrOjr6Pdv",
-        "image": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fd49d0f90b31a78108ce9890f"
+        "image": "https://static.libsyn.com/p/assets/3/d/d/0/3dd0245c6a06d0c0a04421dee9605cbd/Final-Columbia-Energy-Exchange-Cover-Art-01.png"
       }
     },
     {
@@ -35,12 +33,11 @@
       "publisher": "Bloomberg",
       "category": "policy",
       "description": "Bloomberg's show on the people, technologies and money racing to cut emissions.",
-      "feed": "",
+      "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/37c6caa7-d377-4c08-b479-af9d012ed5ad/a7faefb0-28ec-4b1d-85f3-af9d012ed5c9/podcast.rss",
       "latest": {
         "title": "Why electricity is the answer to energy security",
         "date": "2026-11-12",
-        "url": "https://open.spotify.com/episode/3EkmTCpfhAXbnfXf6s4J7u",
-        "image": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f6bec58495d75ca878579150d"
+        "image": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/37c6caa7-d377-4c08-b479-af9d012ed5ad/a7faefb0-28ec-4b1d-85f3-af9d012ed5c9/image.jpg?t=1675362156&size=Large"
       }
     },
     {
@@ -49,12 +46,11 @@
       "publisher": "XE Network",
       "category": "storage",
       "description": "Long-form, technically detailed conversations about how the energy system is changing.",
-      "feed": "",
+      "feed": "https://feeds.feedburner.com/TheEnergyTransitionShow",
       "latest": {
         "title": "[Episode #287] – Clearing the Connection Queue",
         "date": "2026-11-12",
-        "url": "https://open.spotify.com/episode/3yPqDBc5OIVLy57RxpaTlE",
-        "image": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f21bb9da473d0d1a97a3f6090"
+        "image": "https://cdn.xenetwork.org/ets/wp-content/uploads/sites/2/powerpress/ETS-PodcastArtwork-full.png"
       }
     },
     {
@@ -63,12 +59,11 @@
       "publisher": "David Roberts",
       "category": "policy",
       "description": "Deep-dive interviews on clean energy technology, politics and policy.",
-      "feed": "",
+      "feed": "https://api.substack.com/feed/podcast/193024.rss",
       "latest": {
-        "title": "Forcing utilities to justify their distribution-system spending",
-        "date": "2026-07-08",
-        "url": "https://open.spotify.com/episode/5QHHIKODsEL5RZRwbISg6B",
-        "image": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f462b3fc467a18c828b022846"
+        "title": "The federal permitting bill has been updated. What changed?",
+        "date": "2026-11-11",
+        "image": "https://substackcdn.com/feed/podcast/193024/post/223988186/99409a7443dabc8526e277e77f56c2dc.jpg"
       }
     },
     {
@@ -77,12 +72,11 @@
       "publisher": "Latitude Media",
       "category": "storage",
       "description": "Conversations about the technologies and business models of climate tech and clean energy.",
-      "feed": "",
+      "feed": "https://feeds.megaphone.fm/catalyst",
       "latest": {
-        "title": "Volts crossover: Six big energy questions",
-        "date": "2026-02-25",
-        "url": "https://open.spotify.com/episode/481jlJBm9jl3vrWSg53IVi",
-        "image": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f98a4b7551e425291e700098a"
+        "title": "The insider’s playbook for new nuclear projects",
+        "date": "2026-11-12",
+        "image": "https://megaphone.imgix.net/podcasts/d2f3b172-3bc3-11ec-a455-6f999fef6a5d/image/fbec5c0a5554c2cf93735bd48e4c42a1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
       }
     },
     {
@@ -91,12 +85,11 @@
       "publisher": "Latitude Media",
       "category": "policy",
       "description": "A weekly panel breaking down the business and economics of the energy transition.",
-      "feed": "",
+      "feed": "https://feeds.megaphone.fm/opencircuit",
       "latest": {
-        "title": "State of the transition: The biggest fights in energy",
-        "date": "2026-03-20",
-        "url": "https://open.spotify.com/episode/2spSoQzwnsYv4G2g9hDY5h",
-        "image": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fc6744d9babbef225b200c4bd"
+        "title": "Did energy prices break MAGA?",
+        "date": "2026-11-10",
+        "image": "https://megaphone.imgix.net/podcasts/7ec68a0c-e24b-11ef-b277-7b3d3c3c73b9/image/796dd136afa5782eae8ad683dd946957.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
       }
     },
     {
@@ -105,12 +98,11 @@
       "publisher": "Wood Mackenzie",
       "category": "storage",
       "description": "Wood Mackenzie's show on power markets, grid flexibility and the companies reshaping electricity.",
-      "feed": "",
+      "feed": "https://rss.art19.com/the-interchange",
       "latest": {
         "title": "Re-release: Flexibility as a service: Can Octopus's acquisition of Uplight finally make US residential VPPs work?",
         "date": "2026-11-03",
-        "url": "https://open.spotify.com/episode/3RNSYkELhtt4OIkGuE1P57",
-        "image": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fa028ee82fcccb4d5577a5cd4"
+        "image": "https://content.production.cdn.art19.com/images/b6/56/1c/53/b6561c53-206c-4247-a10b-24ba827509b0/c2860f4a864766abfde003250fb48d283b0bd02e55fd77f8d26e983ada7d82f5ccf8d280d42ff7eadf18b30e0ac0b9005c949c6efcc5f5c4f73f1d69c44a3e15.jpeg"
       }
     },
     {
@@ -119,12 +111,11 @@
       "publisher": "Laurent Segalen and Gerard Reid",
       "category": "storage",
       "description": "Two energy financiers discuss markets, investment and the global energy transition.",
-      "feed": "",
+      "feed": "https://www.spreaker.com/show/3170008/episodes/feed",
       "latest": {
-        "title": "219. Hyperscalers vs US Utilities - Mar26",
-        "date": "2026-03-09",
-        "url": "https://open.spotify.com/episode/59pmmtT4pXY2No4jhliJW3",
-        "image": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fb0d067b94164ba6fdb871390"
+        "title": "255. Digital Twins for Grids - Nov26",
+        "date": "2026-11-16",
+        "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/fa1c63cafe4125f965be053136455eca.jpg"
       }
     },
     {
@@ -133,12 +124,11 @@
       "publisher": "Harvard Business School",
       "category": "policy",
       "description": "Business leaders and researchers on how companies and investors are responding to climate change.",
-      "feed": "",
+      "feed": "https://feeds.megaphone.fm/TPG7476737324",
       "latest": {
-        "title": "Powering AI and the Energy Transition: Why Permitting Reform Matters",
-        "date": "2026-09-30",
-        "url": "https://open.spotify.com/episode/4ltS8AMdwexEH68TS47qwB",
-        "image": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f6fbf2f7d38e7d431da685334"
+        "title": "Azolla Ventures: Using Catalytic Capital to Fund Novel Climate Technologies",
+        "date": "2026-11-11",
+        "image": "https://megaphone.imgix.net/podcasts/31eee1e6-dc7e-11f1-a735-47bb974df0ef/image/56906ea128f9619665c2d7592f80832c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
       }
     },
     {
@@ -147,12 +137,11 @@
       "publisher": "Mark LaCour & Paige Wilson",
       "category": "oilgas",
       "description": "A weekly rundown of oil and gas industry news.",
-      "feed": "",
+      "feed": "https://feeds.oggn.com/category/ogtw/feed/",
       "latest": {
         "title": "Oil and Gas This Week | Oct 28 2026 | Ep 413",
         "date": "2026-10-28",
-        "url": "https://open.spotify.com/episode/5DG3EnGoysBKKzoHBZnbz8",
-        "image": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f11a11c1bdb4e15150fc09c44"
+        "image": "https://feeds.oggn.com/wp-content/uploads/2026/04/ogtw-2026.jpg"
       }
     },
     {
@@ -161,12 +150,11 @@
       "publisher": "Dr. Melissa Lott",
       "category": "ev",
       "description": "Season-long series that explain a single clean energy topic in depth.",
-      "feed": "",
+      "feed": "https://rss.libsyn.com/shows/351275/destinations/2870417.xml",
       "latest": {
         "title": "Part 5: The Battery Recycling Dilemma",
         "date": "2024-03-27",
-        "url": "https://open.spotify.com/episode/2Ev0TdagUDFHsyCXHg2SD7",
-        "image": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f8d67d885151edd9f9ea96891"
+        "image": "https://static.libsyn.com/p/assets/3/0/b/5/30b574ada9b742ede5bbc093207a2619/FINAL_showart_TheBigSwitch_010924.jpg"
       }
     }
   ]
