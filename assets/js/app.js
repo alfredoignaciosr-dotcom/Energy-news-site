@@ -69,6 +69,45 @@
     </li>`;
   }
 
+
+  /* ---------- recommended podcasts (Spotify) ---------- */
+  const spotifyShow = (id) => `https://open.spotify.com/show/${encodeURIComponent(id)}`;
+  function showCard(s) {
+    const initials = s.name.split(/[\s:]+/).filter((w) => w && !/^(the|with|and|of|a)$/i.test(w)).slice(0, 2).map((w) => w[0].toUpperCase()).join("");
+    return `<article class="show-card" style="--c:${cat(s.category).color}">
+      <div class="show-top">
+        <div class="show-mono" aria-hidden="true">${esc(initials)}</div>
+        <div>
+          <h3><a href="${spotifyShow(s.id)}" target="_blank" rel="noopener">${esc(s.name)}</a></h3>
+          <div class="byline">${esc(s.publisher)}</div>
+        </div>
+      </div>
+      <p>${esc(s.description)}</p>
+      <div class="show-latest">
+        <small>Latest episode · ${fmtDate(s.latest.date)}</small>
+        <span>${esc(s.latest.title)}</span>
+      </div>
+      <div class="embed-slot"></div>
+      <div class="show-actions">
+        <button class="btn btn-sm load-embed" data-episode="${esc(s.latest.id)}" data-title="${esc(s.latest.title)}">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>Play latest episode
+        </button>
+        <a class="btn-ghost btn-sm" href="${spotifyShow(s.id)}" target="_blank" rel="noopener">Open in Spotify ↗</a>
+      </div>
+    </article>`;
+  }
+
+  function wireEmbeds() {
+    document.addEventListener("click", (e) => {
+      const b = e.target.closest(".load-embed");
+      if (!b) return;
+      const slot = b.closest(".show-card").querySelector(".embed-slot");
+      slot.innerHTML = `<iframe title="Spotify player: ${b.dataset.title}" src="https://open.spotify.com/embed/episode/${encodeURIComponent(b.dataset.episode)}?utm_source=generator"
+        height="152" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>`;
+      b.remove();
+    });
+  }
+
   /* ---------- layout: header & footer ---------- */
   function renderChrome() {
     const nav = [
@@ -166,6 +205,9 @@
     $("#latest-news").innerHTML = posts.filter((p) => p.type === "news").slice(0, 6).map(newsRow).join("");
     $("#latest-articles").innerHTML = posts.filter((p) => p.type === "article" && !side.includes(p) && p !== lead).slice(0, 3).map((p) => card(p, "card-row card-row-sm")).join("");
     $("#latest-episodes").innerHTML = [...EPISODES].sort(byDate).slice(0, 3).map(episodeRow).join("");
+
+    const picks = $("#recommended-home");
+    if (picks) picks.innerHTML = [...RECOMMENDED_PODCASTS].sort((a, b) => b.latest.date.localeCompare(a.latest.date)).slice(0, 3).map(showCard).join("");
 
     $("#topics").innerHTML = Object.entries(CATEGORIES)
       .map(([k, c]) => {
@@ -275,6 +317,7 @@
     $("#show-desc").textContent = PODCAST.description;
     $("#show-links").innerHTML = PODCAST.links.map((l) => `<a class="btn-ghost" href="${esc(l.url)}">${esc(l.label)}</a>`).join("");
     $("#episodes").innerHTML = [...EPISODES].sort(byDate).map(episodeRow).join("");
+    $("#recommended").innerHTML = RECOMMENDED_PODCASTS.map(showCard).join("");
     const hash = location.hash.match(/^#ep-(\d+)/);
     if (hash) $(`#ep-${hash[1]}`)?.classList.add("highlight");
   }
@@ -363,5 +406,6 @@
   if (page === "article") renderArticle();
   if (page === "podcasts") renderPodcasts();
   setupPlayer();
+  wireEmbeds();
   wireNewsletter();
 })();
