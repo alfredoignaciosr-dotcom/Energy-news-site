@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-17T11:58:15+00:00",
+  "fetchedAt": "2026-11-17T16:09:32+00:00",
   "sources": [
     {
       "name": "Utility Dive",
@@ -123,6 +123,176 @@
   ],
   "items": [
     {
+      "title": "Repression in Balochistan: ‘It’s Terror Against Ordinary People’",
+      "url": "https://www.ipsnews.net/2026/11/repression-in-balochistan-its-terror-against-ordinary-people/",
+      "date": "2026-11-17T16:08:24+00:00",
+      "author": "Karlos Zurutuza",
+      "summary": "The walls of a school assembly hall in Hanover are covered with photographs of Baloch people killed by the Pakistani state. Around a hundred people have gathered for a solemn, intimate ceremony. Candles are lit and flowers are laid in…",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Batteries included: A practical checklist for storage owners, operators to boost reliability",
+      "url": "https://www.utilitydive.com/news/battery-storage-markets-ercot-xpansiv/873451/",
+      "date": "2026-11-17T15:44:48+00:00",
+      "author": "Brian Fellon",
+      "summary": "Sophisticated storage operators utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv’s Brian Fellon.",
+      "source": "Utility Dive",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "US solar’s new makers, batteries for data centres and electrostates vs petrostates: PV Tech Power 46 out now!",
+      "url": "https://www.energy-storage.news/us-solars-new-makers-batteries-for-data-centres-and-electrostates-vs-petrostates-pv-tech-power-46-out-now/",
+      "date": "2026-11-17T15:20:37+00:00",
+      "author": "Ben Willis",
+      "summary": "The latest edition of PV Tech Power is available to download, full of exclusive content for the downstream solar PV and BESS industries.",
+      "source": "Energy-Storage.news",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "Spain votes first: What its snap election could mean for Europe and the United States",
+      "url": "https://www.atlanticcouncil.org/dispatches/spain-votes-first-what-its-snap-election-could-mean-for-europe-and-the-united-states/",
+      "date": "2026-11-17T15:04:28+00:00",
+      "author": "Jacobo Ramos Folch",
+      "summary": "With nationalist parties gaining ground across Europe, Sánchez’s record offers a warning about the limits of mobilizing voters against them.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Poland awards 1.81 GW of solar in latest renewables auctions",
+      "url": "https://www.pv-magazine.com/2026/11/17/poland-awards-1-81-gw-of-solar-in-latest-renewables-auctions/",
+      "date": "2026-11-17T14:58:46+00:00",
+      "author": "Emiliano Bellini",
+      "summary": "Winning solar bids ranged from PLN 180 ($49)/MWh to PLN 377.77/MWh, depending on project size.",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "‘Be hands-on, but don’t micromanage your optimiser,’ BESS owner-operators say",
+      "url": "https://www.energy-storage.news/be-hands-on-dont-micromanage-optimiser-owner-operators/",
+      "date": "2026-11-17T14:40:19+00:00",
+      "author": "Cameron Murray",
+      "summary": "There is limited benefit to questioning every decision made, but operators should be hands on with their optimiser, industry sources said at the Battery Asset Management Summit UK & Ireland 2026 last month.",
+      "source": "Energy-Storage.news",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "How does EIA account for small differences between energy supply and demand data?",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68464",
+      "date": "2026-11-17T14:00:00+00:00",
+      "author": "",
+      "summary": "EIA uses over 60 surveys to collect data on the U.S. energy sector's supply and demand. In theory, supply and demand should balance. In practice, we often have small differences between our total supply and total demand figures.",
+      "source": "EIA Today in Energy",
+      "kind": "analysis",
+      "category": "general"
+    },
+    {
+      "title": "Italy surpasses 1 million renewable-linked battery storage systems",
+      "url": "https://www.pv-magazine.com/2026/11/17/italy-surpasses-1-million-renewable-linked-battery-storage-systems/",
+      "date": "2026-11-17T13:48:57+00:00",
+      "author": "Brian Publicover",
+      "summary": "Italy had more than 1 million electrochemical storage systems integrated with renewable energy installations at the end of October, with combined capacity of 12.84 GWh and power output of 6.5 GW, according to grid operator Terna.",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "America Can’t Racially Profile Its Way to AI Supremacy",
+      "url": "https://foreignpolicy.com/2026/11/17/nvidia-racial-profiling-jensen-huang-usa-ai/",
+      "date": "2026-11-17T12:49:13+00:00",
+      "author": "Ethan Chiu",
+      "summary": "U.S. public discourse is threatening to make the country even more vulnerable to foreign threats.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "US energy storage deployments for first nine months of 2026 up 20% from last year",
+      "url": "https://www.energy-storage.news/us-energy-storage-deployments-for-first-nine-months-of-2026-up-20-from-last-year/",
+      "date": "2026-11-17T12:44:03+00:00",
+      "author": "Andy Colthorpe",
+      "summary": "US energy storage deployments have increased year-on-year by a fifth, underpinned by utility-scale activity and state-level targets that have translated into installed capacity.",
+      "source": "Energy-Storage.news",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "Amazon to invest $7 billion in renewable energy in India by 2030",
+      "url": "https://www.pv-magazine.com/2026/11/17/amazon-to-invest-7-billion-in-renewable-energy-in-india-by-2030/",
+      "date": "2026-11-17T12:37:38+00:00",
+      "author": "Uma Gupta",
+      "summary": "Amazon also announced four new utility-scale wind and solar projects with a combined total capacity of 934 MW in India. The projects have been secured through power purchase agreements (PPAs) and are part of Amazon’s existing $4 billion…",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "Waaree Energy Storage says new 5.15GWh Gujarat battery pack manufacturing line is ‘milestone’ for ‘Make-in-India’ strategy",
+      "url": "https://www.energy-storage.news/waaree-energy-storage-says-new-5-15gwh-gujarat-battery-pack-manufacturing-line-is-milestone-for-make-in-india-strategy/",
+      "date": "2026-11-17T12:37:33+00:00",
+      "author": "Shreeyashi Ojha",
+      "summary": "Waaree ESS has begun commercial production at its 5.15GWh battery pack manufacturing line in Rola, Valsad, Gujarat.",
+      "source": "Energy-Storage.news",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "‘Protectionism has never created prosperity’: EnerVenue CEO on US manufacturing plans at RE+",
+      "url": "https://www.energy-storage.news/protectionism-has-never-created-prosperity-enervenue-ceo-on-us-manufacturing-plans-at-re/",
+      "date": "2026-11-17T12:28:25+00:00",
+      "author": "April Bonner",
+      "summary": "EnerVenue CEO Henning Rath discussed its first multi-MWh order, its North American push, and the policy uncertainty shaping battery manufacturing in the US.",
+      "source": "Energy-Storage.news",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "German companies develop safety concept for inverter-free plug-in battery storage",
+      "url": "https://www.pv-magazine.com/2026/11/17/german-companies-develop-safety-concept-for-inverter-free-plug-in-battery-storage/",
+      "date": "2026-11-17T12:04:02+00:00",
+      "author": "Emiliano Bellini",
+      "summary": "The proposed system combines cell-level power electronics with real-time circuit monitoring to prevent household wiring from overheating. Each module will offer 2 kWh to 5 kWh of storage capacity, with integrated grid protection and…",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "Italy reaches 6GWh of operational grid-scale BESS; 10GWh under construction",
+      "url": "https://www.energy-storage.news/italy-6gwh-operational-grid-scale-bess-10gwh-under-construction/",
+      "date": "2026-11-17T12:01:14+00:00",
+      "author": "Cameron Murray",
+      "summary": "Italy’s grid-scale market continues to accelerate following last year’s MACSE auction starting gun, with capacity set to nearly double in the next 12 months.",
+      "source": "Energy-Storage.news",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "Bows and old guns: Indigenous militias left to fight Peru’s cocaine gangs alone",
+      "url": "https://www.theguardian.com/global-development/2026/nov/17/indigenous-groups-ashaninka-amazon-peru-crime-drug-gangs",
+      "date": "2026-11-17T12:00:36+00:00",
+      "author": "Rowan Glass in Poyeni, Peru",
+      "summary": "Decades after Lima armed them to fight Shining Path rebels, the Asháninka are still defending their Amazon rainforest, but now against drug traffickers – and without any help Shielding his eyes from the tropical sun, Irmeo Sánchez Gómez …",
+      "source": "The Guardian: Global development",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168821",
+      "date": "2026-11-17T12:00:00+00:00",
+      "author": "",
+      "summary": "Gaza is facing a deepening shelter, sanitation and food security crisis as winter rains flood makeshift shelters, destroy scarce food supplies and leave displaced families struggling to stay warm and fed.",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
+    {
       "title": "Disparities in Birth and Death",
       "url": "https://www.ipsnews.net/2026/11/disparities-in-birth-and-death/",
       "date": "2026-11-17T11:57:07+00:00",
@@ -153,7 +323,7 @@
       "category": "policy"
     },
     {
-      "title": "Sunkean unveils ETL-certified 2000 VDC TRUNK-TTM system at RE+",
+      "title": "Sunkean unveils ETL-certified 2000 VDC TRUNK-T system at RE+",
       "url": "https://www.pv-magazine.com/2026/11/17/sunkean-unveils-ul-certified-2000-vdc-trunk-ttm-system-at-re/",
       "date": "2026-11-17T10:00:00+00:00",
       "author": "Bernadette Geyer",
@@ -223,21 +393,21 @@
       "category": "geopolitics"
     },
     {
-      "title": "Is China Misreading the Moment?",
-      "url": "https://www.foreignaffairs.com/united-states/china-misreading-moment",
+      "title": "The Fantasy of a Turkish Middle East",
+      "url": "https://www.foreignaffairs.com/turkey/fantasy-turkish-middle-east",
       "date": "2026-11-17T09:00:00+00:00",
-      "author": "Rush Doshi",
-      "summary": "When U.S. President Donald Trump lands in Shenzhen later this week for the Asia-Pacific Economic Cooperation summit, he will sit down with Chinese leader Xi Jinping for the fourth time amid an unexpected détente between Washington and…",
+      "author": "Meliha Benli Altunisik",
+      "summary": "Ankara’s risky bid to impose regional order.",
       "source": "Foreign Affairs",
       "kind": "world",
       "category": "geopolitics"
     },
     {
-      "title": "A More Turkish Middle East?",
-      "url": "https://www.foreignaffairs.com/turkey/more-turkish-middle-east",
+      "title": "Is China Misreading the Moment?",
+      "url": "https://www.foreignaffairs.com/united-states/china-misreading-moment",
       "date": "2026-11-17T09:00:00+00:00",
-      "author": "Meliha Benli Altunisik",
-      "summary": "Ankara’s risky bid to impose regional order.",
+      "author": "Rush Doshi",
+      "summary": "When U.S. President Donald Trump lands in Shenzhen later this week for the Asia-Pacific Economic Cooperation summit, he will sit down with Chinese leader Xi Jinping for the fourth time amid an unexpected détente between Washington and…",
       "source": "Foreign Affairs",
       "kind": "world",
       "category": "geopolitics"
@@ -283,24 +453,14 @@
       "category": "solar"
     },
     {
-      "title": "Havells unveils battery energy storage systems",
-      "url": "https://www.pv-magazine.com/2026/11/17/havells-unveils-battery-energy-storage-systems/",
-      "date": "2026-11-17T07:12:41+00:00",
-      "author": "Uma Gupta",
-      "summary": "Havells India showcased its battery energy storage systems (BESS) at the REI Expo 2026, highlighting its energy storage solutions as part of its broader renewable energy portfolio, which also includes hybrid inverters, EV chargers, solar…",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
-      "title": "ClearVue secures solar cladding supply deal for Singapore project",
-      "url": "https://www.pv-magazine.com/2026/11/17/clearvue-secures-solar-cladding-supply-deal-for-singapore-project/",
-      "date": "2026-11-17T07:06:38+00:00",
-      "author": "David Carroll",
-      "summary": "Perth-based building-integrated PV specialist ClearVue Technologies has secured a contract to supply 4,000 square metres of solar cladding, with a designed capacity of about 670 kW, for a government building in Singapore.",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
+      "title": "Positive Growth, Negative Vibes: The Disconnect in the Indonesian Economy",
+      "url": "https://thediplomat.com/2026/11/positive-growth-negative-vibes-the-disconnect-in-the-indonesian-economy/",
+      "date": "2026-11-17T06:33:00+00:00",
+      "author": "James Guild",
+      "summary": "Despite a whirlwind of economic challenges, GDP is up, and big listed firms continue to book large profits.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "Energy Transition only Works if Development Works",
@@ -311,6 +471,26 @@
       "source": "Inter Press Service",
       "kind": "world",
       "category": "development"
+    },
+    {
+      "title": "Cambodian Sins Overshadow Global Francophonie Summit in Phnom Penh",
+      "url": "https://thediplomat.com/2026/11/cambodian-sins-overshadow-global-francophonie-summit-in-phnom-penh/",
+      "date": "2026-11-17T06:21:00+00:00",
+      "author": "Luke Hunt",
+      "summary": "French President Emmanuel Macron urged Prime Minister Hun Manet to investigate the assassination of former Cambodian lawmaker Lim Kimya.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Thousands Protest Pax Silica in the Philippines Ahead of President Trump’s Arrival",
+      "url": "https://thediplomat.com/2026/11/thousands-protest-pax-silica-in-the-philippines-ahead-of-president-trumps-arrival/",
+      "date": "2026-11-17T05:51:00+00:00",
+      "author": "Sebastian Strangio",
+      "summary": "Critics claim that the U.S.-led initiative will compromise Philippine sovereignty, in addition to having significant social and environmental impacts.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "‘I’m not ready to go to jail’: co-founder of Egypt’s last independent media outlet faces prison",
@@ -403,6 +583,16 @@
       "category": "geopolitics"
     },
     {
+      "title": "Cuba’s Communist Allies in Asia",
+      "url": "https://thediplomat.com/2026/11/cubas-communist-allies-in-asia/",
+      "date": "2026-11-16T20:48:00+00:00",
+      "author": "Armando Chaguaceda and César Eduardo Santos",
+      "summary": "China, Vietnam, and North Korea offer more than diplomatic support against U.S. pressure – they offer different models for keeping one-party rule intact.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "AI agents promise a life free from friction. The cost could be human judgment.",
       "url": "https://www.atlanticcouncil.org/dispatches/ai-agents-promise-a-life-free-from-friction-the-cost-could-be-human-judgment/",
       "date": "2026-11-16T19:55:30+00:00",
@@ -483,16 +673,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "Solar recycling 2.0",
-      "url": "https://www.pv-magazine.com/2026/11/16/solar-recycling-2-0/",
-      "date": "2026-11-16T17:00:00+00:00",
-      "author": "Mark Hutchins",
-      "summary": "Millions of solar panels will soon reach the end of their useful lives across the globe, not least in the United States where companies are in a race to deploy novel processes to capture and monetize as much material from these modules as…",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
-    },
-    {
       "title": "Can Montenegro’s accession reinvigorate EU enlargement? A Debrief with Gert Jan Koopman",
       "url": "https://www.atlanticcouncil.org/content-series/balkans-debrief/can-montenegros-accession-reinvigorate-eu-enlargement-a-debrief-with-gert-jan-koopman/",
       "date": "2026-11-16T16:33:09+00:00",
@@ -521,16 +701,6 @@
       "source": "Foreign Policy",
       "kind": "world",
       "category": "geopolitics"
-    },
-    {
-      "title": "Global solar installations face first annual decline in eight years",
-      "url": "https://www.pv-magazine.com/2026/11/16/global-solar-additions-set-to-fall-for-first-time-since-2018/",
-      "date": "2026-11-16T16:05:00+00:00",
-      "author": "Brian Publicover",
-      "summary": "China’s shift to market-based tariffs will drive most of this year’s drop in global solar installations, before cheaper batteries help revive growth from 2027, says GlobalData.",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
     },
     {
       "title": "🌎 BAAJA blast off #322",
@@ -628,26 +798,6 @@
       "date": "2026-11-16T13:54:00+00:00",
       "author": "Kevin G. Cai",
       "summary": "It's not about the First Island Chain, or semiconductors. There's a more basic interest at stake for the CCP.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Just by Meeting, Quad Leaders Send a Signal to Beijing",
-      "url": "https://thediplomat.com/2026/11/just-by-meeting-quad-leaders-send-a-signal-to-beijing/",
-      "date": "2026-11-16T13:25:00+00:00",
-      "author": "Rajeswari Pillai Rajagopalan and Justin Bassi",
-      "summary": "China’s longstanding opposition to the Quad, and its concern with this week’s meeting of the group’s leaders in Manila, heightens the importance of the summit’s political signal.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Indonesia and Singapore: A Tale of Two Air Forces",
-      "url": "https://thediplomat.com/2026/11/indonesia-and-singapore-a-tale-of-two-air-forces/",
-      "date": "2026-11-16T13:13:00+00:00",
-      "author": "Abdul Rahman Yaacob",
-      "summary": "Indonesia is pursuing diversification; Singapore specialization. There are upsides and risks to both approaches.",
       "source": "The Diplomat",
       "kind": "world",
       "category": "geopolitics"
@@ -893,16 +1043,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "‘The market’s getting tough’: Australia values BESS bankability above all, says director at Wärtsilä JV Valo",
-      "url": "https://www.energy-storage.news/the-markets-getting-tough-australia-values-bess-bankability-above-all-says-director-at-wartsila-jv-valo/",
-      "date": "2026-11-16T08:38:06+00:00",
-      "author": "George Heynes",
-      "summary": "ESN Premium speaks with to Suraj Narayan, managing director, Australia, at Valo, about the company's new ownership.",
-      "source": "Energy-Storage.news",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
       "title": "The Limits of Quiet Resignation from the U.S. Military",
       "url": "https://warontherocks.com/the-limits-of-quiet-resignation-from-the-u-s-military/",
       "date": "2026-11-16T08:30:37+00:00",
@@ -953,32 +1093,12 @@
       "category": "development"
     },
     {
-      "title": "Ashok Swain on the Mounting Opposition to Modi’s Authoritarian Rule",
-      "url": "https://thediplomat.com/2026/11/ashok-swain-on-the-mounting-opposition-to-modis-authoritarian-rule/",
-      "date": "2026-11-16T05:31:00+00:00",
-      "author": "Sudha Ramachandran",
-      "summary": "In India, “fear is gradually being replaced by political confidence. Modi remains in power, but his aura of invincibility has been seriously weakened.”",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "Lessons From the Watergate Babies for the ‘No Kings’ Congress",
       "url": "https://foreignpolicy.com/2026/11/16/democratic-congress-after-midterms-watergate-babies/",
       "date": "2026-11-16T05:01:24+00:00",
       "author": "Julian E. Zelizer",
       "summary": "The one thing they can’t afford to do is nothing.",
       "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Economic Diplomacy Abroad and Restrictions at Home: Myanmar’s International Trade Dilemma",
-      "url": "https://thediplomat.com/2026/11/economic-diplomacy-abroad-and-restrictions-at-home-myanmars-international-trade-dilemma/",
-      "date": "2026-11-16T04:34:00+00:00",
-      "author": "Maung Maung Oo",
-      "summary": "Ongoing conflicts and restrictive domestic economic policies continue to undermine Naypyidaw's pursuit of foreign investment and trade.",
-      "source": "The Diplomat",
       "kind": "world",
       "category": "geopolitics"
     },
@@ -1008,16 +1128,6 @@
       "date": "2026-11-15T12:00:00+00:00",
       "author": "",
       "summary": "Religious, traditional and Indigenous leaders need to be empowered to act as full partners in preventing conflict, not just praised for their role, speakers said Sunday at the opening of the Muscat Plan of Action Forum in Oman.",
-      "source": "UN News",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "Nadia Murad: ‘Day by day, I took my story back’",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168801",
-      "date": "2026-11-15T12:00:00+00:00",
-      "author": "",
-      "summary": "Nobel Peace Prize laureate Nadia Murad has spent years telling the world about the atrocities committed against her and the Yazidi community by militants from the terrorist group, ISIL.",
       "source": "UN News",
       "kind": "world",
       "category": "development"
@@ -1068,16 +1178,6 @@
       "date": "2026-11-13T19:56:57+00:00",
       "author": "Anastasia Edel",
       "summary": "An intimate documentary follows a group of exiles determined to tell their country the truth.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "What Jensen Huang’s Fall Means for U.S.-China Relations",
-      "url": "https://foreignpolicy.com/2026/11/13/jensen-huang-nvidia-resignation-china-spy-scandal-trump/",
-      "date": "2026-11-13T19:50:23+00:00",
-      "author": "James Palmer",
-      "summary": "The Nvidia scandal could upend a fragile consensus in Washington.",
       "source": "Foreign Policy",
       "kind": "world",
       "category": "geopolitics"
@@ -1153,16 +1253,6 @@
       "category": "policy"
     },
     {
-      "title": "Washington is reshaping security in North Africa. Congress needs to ask how.",
-      "url": "https://www.atlanticcouncil.org/blogs/menasource/washington-is-reshaping-security-in-north-africa-congress-needs-to-ask-how/",
-      "date": "2026-11-13T15:16:01+00:00",
-      "author": "Frank Talbot",
-      "summary": "The next US Congress should demand clearer plans from the White House on its Western Sahara and Libya policies.",
-      "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
       "url": "https://www.utilitydive.com/news/southern/874111/",
       "date": "2026-11-13T14:45:20+00:00",
@@ -1171,16 +1261,6 @@
       "source": "Utility Dive",
       "kind": "news",
       "category": "nuclear"
-    },
-    {
-      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
-      "url": "https://www.energy-storage.news/the-next-phase-of-ess-lg-energy-solutions-strategy-for-an-evolving-energy-market/",
-      "date": "2026-11-13T14:14:09+00:00",
-      "author": "Andy Colthorpe",
-      "summary": "Chang Beom Kang, Head of the ESS Battery Division at LG Energy Solution, discusses his view of the changing market and the company's strategy for future growth.",
-      "source": "Energy-Storage.news",
-      "kind": "news",
-      "category": "storage"
     },
     {
       "title": "Hydropower generation in the Southwest fell to record lows this summer",
@@ -1193,16 +1273,6 @@
       "category": "general"
     },
     {
-      "title": "Toll makes way for floor, offtake contracting beginning to standardise in UK BESS market",
-      "url": "https://www.energy-storage.news/toll-makes-way-for-floor-offtake-contracting-beginning-to-standardise-in-uk-bess-market/",
-      "date": "2026-11-13T12:24:56+00:00",
-      "author": "Cameron Murray",
-      "summary": "Floors are increasingly the offtake structure of choice in the UK market, and the contracting for them is beginning to standardise, industry experts said.",
-      "source": "Energy-Storage.news",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
       "title": "El Niño will increase risk of death in childbirth for millions, say midwives",
       "url": "https://www.theguardian.com/global-development/2026/nov/13/el-nino-death-in-childbirth-millions-midwives-cop31-extreme-weather-maternal-newborn-death-rates",
       "date": "2026-11-13T12:00:18+00:00",
@@ -1211,26 +1281,6 @@
       "source": "The Guardian: Global development",
       "kind": "world",
       "category": "development"
-    },
-    {
-      "title": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries",
-      "url": "https://www.energy-storage.news/sunrun-closes-preferred-equity-investment-for-us-distributed-energy-resources-totalling-110mwh-of-batteries/",
-      "date": "2026-11-13T11:38:00+00:00",
-      "author": "April Bonner",
-      "summary": "US distributed energy resource (DER) installer Sunrun has announced a preferred equity investment with energy investment firm Captona.",
-      "source": "Energy-Storage.news",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
-      "title": "BESS Industry Buzz: CATL sodium-ion specs, BESS availability and the price of speed-to-power",
-      "url": "https://www.energy-storage.news/bess-industry-buzz-catl-sodium-ion-specs-bess-availability-and-the-price-of-speed-to-power/",
-      "date": "2026-11-13T10:01:42+00:00",
-      "author": "Cameron Murray",
-      "summary": "Another edition of our BESS Industry Buzz, this week looking at new details on CATL's sodium-ion technology, BESS availability, BAAJA trade-offs and the price of speed to power.",
-      "source": "Energy-Storage.news",
-      "kind": "news",
-      "category": "storage"
     },
     {
       "title": "A Conversation With Former Secretary of Veterans Affairs David Shulkin",
@@ -1251,16 +1301,6 @@
       "source": "Inter Press Service",
       "kind": "world",
       "category": "development"
-    },
-    {
-      "title": "Lacour Energy refers 4,000MWh wind-plus-storage site to Australia’s EPBC Act",
-      "url": "https://www.energy-storage.news/lacour-energy-refers-4000mwh-wind-plus-storage-site-to-australias-epbc-act/",
-      "date": "2026-11-13T09:10:33+00:00",
-      "author": "George Heynes",
-      "summary": "West Arthur Energy, a project company owned by Western Australian developer Lacour Energy, has referred a wind generation site with a 4,000MWh battery energy storage system (BESS) to Australia's EPBC Act.",
-      "source": "Energy-Storage.news",
-      "kind": "news",
-      "category": "storage"
     },
     {
       "title": "Solar PAC got revenge on clean energy’s enemies in Congress",
@@ -1381,26 +1421,6 @@
       "source": "Carbon Brief",
       "kind": "analysis",
       "category": "policy"
-    },
-    {
-      "title": "Africa–Asia: Turning Demographic Change into Opportunity",
-      "url": "https://www.ipsnews.net/2026/11/africa-asia-turning-demographic-change-into-opportunity/",
-      "date": "2026-11-12T16:28:24+00:00",
-      "author": "Cecilia Russell",
-      "summary": "Although Africa and Asia face different demographic challenges, they share a common imperative: ensuring that legislation, policies and budgets translate into tangible improvements in people’s lives. This was the central message of Dr…",
-      "source": "Inter Press Service",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "ConEd joins utilities seeking to loosen New York restrictions on owning generation",
-      "url": "https://www.utilitydive.com/news/coned-says-resource-adequacy-environmental-compliance-drive-planning/874511/",
-      "date": "2026-11-12T16:05:13+00:00",
-      "author": "Brian Martucci",
-      "summary": "The company says reforms would boost renewables and help it achieve resource adequacy and environmental compliance targets. It has also asked regulators to expand distribution and transmission-connected storage options.",
-      "source": "Utility Dive",
-      "kind": "news",
-      "category": "storage"
     },
     {
       "title": "How many winters must Palestinians in Gaza survive before they are allowed to live?",
@@ -1629,16 +1649,6 @@
       "author": "Merve Arısoy",
       "summary": "As COP31 gets underway in air-conditioned conference halls, Türkiye’s outdoor workers are calling for urgent action to protect their health and livelihoods.",
       "source": "The New Humanitarian",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "‘We said no, no, no, but they kept insisting’: the Paraguayan people battling a eucalyptus empire",
-      "url": "https://www.theguardian.com/global-development/2026/nov/10/investigation-pulp-company-paraguay-paracel-eucalyptus-plantation",
-      "date": "2026-11-10T11:00:49+00:00",
-      "author": "Laurence Blair in Concepción, Maximiliano Manzoni in Asunción, and Marcello Rossi in Parma. Photographs and video by Matteo Fabi",
-      "summary": "It is Paraguay’s largest private investment but local people accuse a forestry giant of ignoring their contamination concerns over its vast plantation When Paracel arrived in Tacuarita, an Indigenous community of homes made from planks and…",
-      "source": "The Guardian: Global development",
       "kind": "world",
       "category": "development"
     },
@@ -1961,16 +1971,6 @@
       "source": "EIA Today in Energy",
       "kind": "analysis",
       "category": "storage"
-    },
-    {
-      "title": "Monthly wind generation in ISO-NE is about 68% higher than last year",
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68304",
-      "date": "2026-10-14T14:00:00+00:00",
-      "author": "",
-      "summary": "Monthly wind generation in the first nine months of 2026 was an average of 68% higher compared with the same period in 2025 in ISO New England (ISO-NE).",
-      "source": "EIA Today in Energy",
-      "kind": "analysis",
-      "category": "wind"
     },
     {
       "title": "🌎 Q3 roundup ft. mega deals, nuclear listings, and more #317",
