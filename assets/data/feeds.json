@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-17T05:07:37+00:00",
+  "fetchedAt": "2026-11-17T05:09:08+00:00",
   "sources": [
     {
       "name": "Utility Dive",
@@ -77,14 +77,6 @@
       "kind": "world",
       "ok": true,
       "count": 12
-    },
-    {
-      "name": "Brookings",
-      "site": "https://www.brookings.edu/",
-      "kind": "world",
-      "ok": false,
-      "count": 0,
-      "error": "https://www.brookings.edu/feed/: ParseError: mismatched tag: line 130, column 2"
     },
     {
       "name": "The Diplomat",
@@ -285,7 +277,7 @@
       "url": "https://www.utilitydive.com/news/nrg-energy-gas-plants-ls-power-4b/874761/",
       "date": "2026-11-16T16:21:32+00:00",
       "author": "Diana DiGangi",
-      "summary": "NRG Energy CEO Robert Gaudette said the sale values one 1.2-GW Texas gas plant at $1,400/kW, while NRG is “developing 1.5 GW of new natural gas generation in Texas” for just above $1,000/kW.",
+      "summary": "NRG Energy CEO Robert Gaudette said the sale values one 1.2-GW Texas gas plant at $1,400/KW, while NRG is “developing 1.5 GW of new natural gas generation in Texas for just above $1,000/KW.”",
       "source": "Utility Dive",
       "kind": "news",
       "category": "oilgas"
