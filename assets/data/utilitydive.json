@@ -1,1 +1,77 @@
-{ "source": "Utility Dive", "sourceUrl": "https://www.utilitydive.com/", "fetchedAt": null, "items": [] }
+{
+  "source": "Utility Dive",
+  "sourceUrl": "https://www.utilitydive.com/",
+  "fetchedAt": "2026-11-17T02:04:22+00:00",
+  "items": [
+    {
+      "title": "NRG to sell 4.9 GW of gas plants to LS Power for $4B",
+      "url": "https://www.utilitydive.com/news/nrg-energy-gas-plants-ls-power-4b/874761/",
+      "date": "2026-11-16T16:21:32+00:00",
+      "author": "Diana DiGangi",
+      "summary": "NRG Energy CEO Robert Gaudette said the sale values one 1.2-GW Texas gas plant at $1,400/kW, while NRG is “developing 1.5 GW of new natural gas generation in Texas” for just above $1,000/kW."
+    },
+    {
+      "title": "FERC’s See on large loads, Western markets and affordability",
+      "url": "https://www.utilitydive.com/news/ferc-lindsay-see-large-loads-western-markets-affordability/874736/",
+      "date": "2026-11-16T15:00:32+00:00",
+      "author": "Ethan Howland",
+      "summary": "FERC’s Lindsay See on federal permitting reform: “I'm a former litigator. I lived in the trenches here. I think one of the biggest drivers in terms of cost and extra time is uncertainty in legal statutes.”"
+    },
+    {
+      "title": "Over court objections, DOE issues 7th order to keep Michigan coal plant online",
+      "url": "https://www.utilitydive.com/news/over-court-objections-doe-issues-order-campbell-coal-plant/874733/",
+      "date": "2026-11-16T13:56:20+00:00",
+      "author": "Robert Walton",
+      "summary": "Environmental groups say they are “evaluating all legal options” after a federal appeals court vacated a previous order for the same plant, ruling DOE exceeded its authority. The plant’s owner says it has spent more than $300 million…"
+    },
+    {
+      "title": "People and Vertical AI: The responsible and trusted framework for energy and water",
+      "url": "https://www.utilitydive.com/spons/people-and-vertical-ai-the-responsible-and-trusted-framework-for-energy-an/874672/",
+      "date": "2026-11-16T10:00:00+00:00",
+      "author": "Deepak Garg - Founder, Chairman & Group-CEO, SEW.AI",
+      "summary": "People + Vertical AI is redefining how energy and utilities think, operate and deliver impact at scale."
+    },
+    {
+      "title": "Utilities don’t need cheaper vendors. They need to stop guessing.",
+      "url": "https://www.utilitydive.com/spons/utilities-dont-need-cheaper-vendors-they-need-to-stop-guessing/874537/",
+      "date": "2026-11-16T10:00:00+00:00",
+      "author": "Kelly Hall",
+      "summary": "Jobsites generate massive data daily. Most of it disappears before anyone acts. Here's the fix."
+    },
+    {
+      "title": "Utility, tech officials see opportunities to increase grid utilization",
+      "url": "https://www.utilitydive.com/news/utility-tech-officials-see-opportunities-to-increase-grid-utilization/874644/",
+      "date": "2026-11-13T17:26:00+00:00",
+      "author": "Brian Martucci",
+      "summary": "Specialized AI models and grid-enhancing technologies could help, but the industry already has the basic planning and tools to make the grid more flexible, panelists said at the BNEF Houston Summit."
+    },
+    {
+      "title": "What’s next for California’s climate laws following an appeals court split decision",
+      "url": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
+      "date": "2026-11-13T17:00:00+00:00",
+      "author": "Zoya Mirza",
+      "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261."
+    },
+    {
+      "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
+      "url": "https://www.utilitydive.com/news/southern/874111/",
+      "date": "2026-11-13T14:45:20+00:00",
+      "author": "Meris Lutz",
+      "summary": "Executives downplayed the potential for sweeping political change to impact the company’s strategy and growth plans. “I feel pretty confident about what we have in place,” CEO Chris Womack said in a third-quarter earnings call."
+    },
+    {
+      "title": "As coal burn declines, rising power demand will be primarily met by renewables: EIA",
+      "url": "https://www.utilitydive.com/news/as-coal-burn-declines-rising-power-demand-will-be-primarily-met-by-renewab/874315/",
+      "date": "2026-11-12T18:25:33+00:00",
+      "author": "Robert Walton",
+      "summary": "The electric power sector could install more than 26 GW of battery storage next year, helping support a renewable resource base that is expected to supply almost a quarter of 2027 consumption, EIA said."
+    },
+    {
+      "title": "ConEd joins utilities seeking to loosen New York restrictions on owning generation",
+      "url": "https://www.utilitydive.com/news/coned-says-resource-adequacy-environmental-compliance-drive-planning/874511/",
+      "date": "2026-11-12T16:05:13+00:00",
+      "author": "Brian Martucci",
+      "summary": "The company says reforms would boost renewables and help it achieve resource adequacy and environmental compliance targets. It has also asked regulators to expand distribution and transmission-connected storage options."
+    }
+  ]
+}
