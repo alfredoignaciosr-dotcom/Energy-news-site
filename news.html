@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>News — Gridline</title>
-  <meta name="description" content="Independent coverage of the energy transition: news, in-depth articles and the Gridline Podcast.">
+  <meta name="description" content="The day's energy news and analysis from leading publications, plus the best energy podcasts.">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%230f8a5f'/><text x='50' y='70' font-size='60' text-anchor='middle'>⚡</text></svg>">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -17,27 +17,20 @@
 <main id="main">
 
   <section class="wrap page-head">
-    <h1>Latest news &amp; analysis</h1>
-    <p>Every story we publish, newest first. Filter by topic or search across headlines.</p>
+    <h1>Energy news</h1>
+    <p>The latest stories from leading energy publications, newest first. Filter by topic or source, or search across headlines. Stories open on the publisher's site.</p>
   </section>
   <section class="wrap">
     <div class="toolbar">
       <div class="toolbar-row">
         <label class="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="search" type="search" placeholder="Search stories…" aria-label="Search stories"></label>
         <div class="segmented" id="types" role="group" aria-label="Story type"></div>
+        <select id="sources" class="select" aria-label="Source"></select>
       </div>
       <div class="chips" id="filters" role="group" aria-label="Topics"></div>
-      <span class="count" id="result-count" aria-live="polite"></span>
+      <div class="count"><span id="result-count" aria-live="polite"></span> · <span id="updated"></span></div>
     </div>
-    <div id="listing"></div>
-  </section>
-
-  <section class="section" data-external-news data-summaries hidden>
-    <div class="wrap">
-      <div class="section-head"><h2>Around the industry</h2><a href="https://www.utilitydive.com/" target="_blank" rel="noopener">Utility Dive ↗</a></div>
-      <p class="ext-source">Headlines from <a href="https://www.utilitydive.com/" target="_blank" rel="noopener">Utility Dive</a>. Stories open on their site. <span class="ext-updated"></span></p>
-      <ul class="ext-list"></ul>
-    </div>
+    <div id="listing"><p class="empty">Loading the latest stories…</p></div>
   </section>
 </main>
 <script src="assets/js/data.js"></script>

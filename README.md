@@ -1,55 +1,42 @@
-# Gridline — energy news, articles & podcast
+# Gridline — energy news, analysis & podcasts
 
-A fast, dependency-free static website for energy news, long-form articles and a podcast.
-No build step: open it with any static web server or host it on GitHub Pages / Netlify as-is.
+A fast, dependency-free static site that brings together the day's energy news and analysis from
+leading publications, plus the best energy podcasts. Every story links to its original publisher.
+No build step: host it on GitHub Pages / Netlify as-is.
 
 ## Pages
 
 | Page | What it shows |
 | --- | --- |
-| `index.html` | Featured story, "must read" picks, latest news, features, latest podcast episodes, topics, newsletter |
-| `news.html` | Every story with search, topic filters and a News / Features toggle (`?cat=solar&type=news&q=grid`) |
-| `articles.html` | Features & analysis only, with search and topic filters |
-| `article.html?id=…` | A single story with author, related stories and copy-link sharing |
-| `podcasts.html` | "The best energy podcasts" (12 real shows, playable via Spotify embeds), plus Gridline's own episodes with a sticky audio player |
-| `about.html` | About copy and the team (from `AUTHORS`) |
+| `index.html` | Top analysis story, latest news, more analysis, latest podcast episodes, topics |
+| `news.html` | Every story with search, topic chips, a News / Analysis toggle and a source filter (`?cat=solar&type=news&source=Utility%20Dive&q=grid`) |
+| `articles.html` | Analysis only (Carbon Brief, EIA Today in Energy, Canary Media) |
+| `podcasts.html` | Latest episodes and 12 energy podcasts, playable through Spotify's embedded player |
+| `about.html` | What the site is, plus live status of every source and the podcast list |
 
-Also included: light/dark mode (follows the system, with a toggle), responsive mobile layout, and accessible markup.
+Also: light/dark mode, responsive layout, accessible markup.
 
-## Editing content
+## Where the content comes from
 
-All content lives in **`assets/js/data.js`**:
+**News & analysis** — `scripts/fetch_feeds.py` reads the RSS/Atom feeds listed in `SOURCES` (Utility Dive,
+pv magazine, Energy-Storage.news, offshoreWIND.biz, World Nuclear News, OilPrice.com, Electrek, CleanTechnica,
+Carbon Brief, EIA Today in Energy, Canary Media) and writes `assets/data/feeds.json`. Only the headline, date,
+author and a short summary are stored; each links to the full story. Stories are tagged with a topic by keyword.
 
-- `POSTS` — news (`type: "news"`) and features (`type: "article"`). Set `featured: true` to promote a feature to the home hero.
-  Body paragraphs support `## Heading` and `> Pull quote`.
-- `EPISODES` — podcast episodes. Point `audio` at an `.mp3`/`.m4a` URL or a file in `assets/audio/`.
-- `RECOMMENDED_PODCASTS` — real shows on Spotify (show id + latest episode id). "Play latest episode" loads Spotify's embedded player; update `latest` as shows publish.
-- `CATEGORIES`, `AUTHORS`, `PODCAST`, `SITE` — topics (with colours), bylines, show links and site name.
+`.github/workflows/news-feeds.yml` runs it every 3 hours (or on demand: Actions tab → *Update news feeds* →
+*Run workflow*), commits the result and republishes the site. If a feed fails, its previous headlines are kept,
+and the About page shows which feeds are currently unavailable.
 
-> The bundled stories, people and figures are **sample placeholders**, and `assets/audio/demo-episode.wav`
-> is a short test tone. Replace them with real content before publishing.
+To add or remove a publication, edit `SOURCES` in `scripts/fetch_feeds.py` (`kind` is `news` or `analysis`).
 
-## Utility Dive headlines
+**Podcasts** — `RECOMMENDED_PODCASTS` in `assets/js/data.js`: real shows on Spotify (show id + latest episode id).
+"Play" loads Spotify's embedded player. Update `latest` as shows publish.
 
-`news.html` ("Around the industry") and the home page ("Industry headlines") can show the latest stories from
-[Utility Dive](https://www.utilitydive.com/): headline, date, author and a short summary, each linking to the full story
-on utilitydive.com. `scripts/fetch_utilitydive.py` reads the RSS feed and writes `assets/data/utilitydive.json`;
-the sections stay hidden while that file is empty. `.github/workflows/utilitydive.yml` refreshes it every 3 hours (or on demand: Actions tab → *Run workflow*); if a fetch fails, the last good headlines are kept.
+**Site name, description, topics** — `SITE` and `CATEGORIES` in `assets/js/data.js`.
 
 ## Running locally
 
 ```bash
-python3 -m http.server 8000
-# then open http://localhost:8000
+python3 -m http.server 8000      # then open http://localhost:8000
+python3 scripts/fetch_feeds.py   # refresh assets/data/feeds.json (needs internet access)
 ```
-
-## Deploying
-
-- **GitHub Pages:** Settings → Pages → deploy from branch, folder `/ (root)`.
-- **Netlify / Vercel / Cloudflare Pages:** no build command; publish directory is the repo root.
-
-## Next steps
-
-- Connect the newsletter form (`wireNewsletter` in `assets/js/app.js`) to a mailing-list provider.
-- Add real podcast feed URLs in `PODCAST.links`.
-- For a large archive or several editors, move `data.js` to a headless CMS or Markdown files with a static site generator.

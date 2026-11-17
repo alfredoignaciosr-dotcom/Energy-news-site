@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>About — Gridline</title>
-  <meta name="description" content="Independent coverage of the energy transition: news, in-depth articles and the Gridline Podcast.">
+  <meta name="description" content="The day's energy news and analysis from leading publications, plus the best energy podcasts.">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%230f8a5f'/><text x='50' y='70' font-size='60' text-anchor='middle'>⚡</text></svg>">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -18,40 +18,22 @@
 
   <section class="wrap page-head">
     <h1>About Gridline</h1>
-    <p>Clear, independent reporting on how the world powers itself.</p>
+    <p>One place to follow the energy transition.</p>
   </section>
   <section class="wrap about-copy">
-    <p>Gridline covers the full energy system: renewables and fossil fuels, nuclear and storage, the wires and markets that connect them, and the policies that shape it all. We aim to explain, not cheerlead, so readers can make sense of one of the biggest economic shifts of our time.</p>
-    <p>Have a tip, correction or pitch? Email <a href="mailto:newsroom@example.com" style="color:var(--accent)">newsroom@example.com</a>.</p>
+    <p>Gridline brings together the day's energy news and analysis from respected publications, along with the best energy podcasts. Headlines refresh automatically every few hours. Each story is shown with its headline, a short summary and its publisher, and links straight to the original. All reporting belongs to the publishers listed below.</p>
+    <p>Topic labels (Solar, Wind, Nuclear and so on) are assigned automatically from each headline, so the occasional story may land in a neighbouring topic.</p>
   </section>
-  <section class="section">
+  <section class="section" id="sources">
     <div class="wrap">
-      <div class="section-head"><h2>Our team</h2></div>
-      <div class="about-grid" id="team"></div>
+      <div class="section-head"><h2>News &amp; analysis sources</h2><span class="count" id="updated"></span></div>
+      <ul class="source-list" id="source-list"><li class="empty">Loading…</li></ul>
     </div>
   </section>
-  <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      document.getElementById("team").innerHTML = Object.values(AUTHORS).map(function (a) {
-        var initials = a.name.split(" ").map(function (w) { return w[0]; }).join("");
-        return '<div class="person"><div class="avatar">' + initials + '</div><strong>' + a.name + '</strong><br><span>' + a.role + '</span></div>';
-      }).join("");
-    });
-  </script>
-
   <section class="section">
     <div class="wrap">
-      <div class="newsletter">
-        <div>
-          <h2>The Daily Charge</h2>
-          <p>The day's most important energy stories in five minutes, every weekday morning. Free.</p>
-        </div>
-        <form class="newsletter-form" novalidate>
-          <label class="sr" for="nl-about" hidden>Email address</label>
-          <input id="nl-about" type="email" required placeholder="you@example.com" autocomplete="email" aria-label="Email address">
-          <button class="btn" type="submit">Subscribe</button>
-        </form>
-      </div>
+      <div class="section-head"><h2>Podcasts</h2><a href="podcasts.html">Listen →</a></div>
+      <ul class="source-list" id="podcast-list"></ul>
     </div>
   </section>
 </main>
