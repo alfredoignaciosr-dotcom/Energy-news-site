@@ -28,11 +28,6 @@ and the About page shows which feeds are currently unavailable.
 
 To add or remove a publication, edit `SOURCES` in `scripts/fetch_feeds.py` (`kind` is `news` or `analysis`).
 
-**AI briefing** — `scripts/make_briefing.py` sends the last ~36 hours of headlines to Claude (`claude-opus-5-5`)
-and saves a 4–6 point briefing to `assets/data/briefing.json`; each point links to the stories it cites. It runs
-in the same workflow whenever the headlines change, and needs an `ANTHROPIC_API_KEY` repository secret
-(Settings → Secrets and variables → Actions). Without the secret, the briefing section stays hidden.
-
 **Podcast artwork** — `scripts/fetch_podcast_art.py` looks up each listed episode's cover image through
 Spotify's public oEmbed endpoint and saves `assets/data/podcast-art.json`.
 

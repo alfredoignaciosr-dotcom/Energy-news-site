@@ -20,26 +20,10 @@ jobs:
       - uses: actions/checkout@v5
 
       - name: Fetch feeds
-        id: feeds
-        run: |
-          python3 scripts/fetch_feeds.py
-          if git diff --quiet -- assets/data/feeds.json && [ -f assets/data/briefing.json ]; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-          else
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-          fi
+        run: python3 scripts/fetch_feeds.py
 
       - name: Fetch podcast episode artwork
         run: python3 scripts/fetch_podcast_art.py
-
-      # Needs the ANTHROPIC_API_KEY repository secret; skipped quietly without it.
-      - name: Write AI briefing
-        if: steps.feeds.outputs.changed == 'true'
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: |
-          if [ -n "$ANTHROPIC_API_KEY" ]; then pip install --quiet anthropic; fi
-          python3 scripts/make_briefing.py
 
       - name: Commit changes
         id: commit

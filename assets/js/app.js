@@ -154,27 +154,6 @@
   const emptyMsg = (feed) =>
     `<p class="empty">${feed.error ? "Headlines couldn't be loaded right now. Please try again in a moment." : "No stories yet. Headlines refresh every few hours."}</p>`;
 
-  /* ---------- AI briefing ---------- */
-  async function renderBriefing() {
-    const box = $("#briefing");
-    if (!box) return;
-    let b;
-    try {
-      const res = await fetch("assets/data/briefing.json", { cache: "no-cache" });
-      if (!res.ok) return;
-      b = await res.json();
-    } catch (e) { return; }
-    if (!b.points || !b.points.length) return;
-    $("#briefing-intro").textContent = b.intro || "";
-    $("#briefing-updated").textContent = b.generatedAt ? `Updated ${ago(b.generatedAt)}` : "";
-    $("#briefing-points").innerHTML = b.points.map((p) => `<li>
-      <strong>${esc(p.headline)}</strong> ${esc(p.text)}
-      <span class="briefing-src">${(p.stories || []).map((st) =>
-        `<a href="${esc(st.url)}" ${newTab} title="${esc(st.title)}">${esc(st.source)} ↗</a>`).join("")}</span>
-    </li>`).join("");
-    box.hidden = false;
-  }
-
   /* ---------- layout: header & footer ---------- */
   function renderChrome() {
     const nav = [
@@ -358,7 +337,6 @@
   renderChrome();
   wireEmbeds();
   if (page === "podcasts") loadArt().then(renderPodcasts);
-  if (page === "home") renderBriefing();
   if (["home", "news", "articles", "about"].includes(page)) {
     Promise.all([loadFeed(), page === "home" ? loadArt() : null]).then(([feed]) => {
       if (page === "home") renderHome(feed);
