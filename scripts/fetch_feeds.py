@@ -134,7 +134,7 @@ def parse(xml_bytes, source):
 
 def fetch(source):
     req = urllib.request.Request(source["feed"], headers={
-        "User-Agent": "Mozilla/5.0 (compatible; GridlineFeedReader/1.0)",
+        "User-Agent": "Mozilla/5.0 (compatible; GridbaseFeedReader/1.0)",
         "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8",
     })
     try:

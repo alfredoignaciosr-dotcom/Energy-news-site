@@ -1,4 +1,4 @@
-/* Gridline — shared rendering for every page.
+/* Gridbase — shared rendering for every page.
  * Headlines come from assets/data/feeds.json (refreshed by a GitHub Action); topics and
  * podcasts come from data.js. Every story links to its original publisher. */
 (function () {
@@ -80,7 +80,7 @@
   function showCard(s) {
     return `<article class="show-card" data-embed-host style="--c:${cat(s.category).color}">
       <div class="show-top">
-        <div class="show-mono" aria-hidden="true">${esc(initials(s.name))}</div>
+        ${artwork(s)}
         <div>
           <h3><a href="${spotifyShow(s.id)}" ${newTab}>${esc(s.name)}</a></h3>
           <div class="byline">${esc(s.publisher)}</div>
@@ -101,7 +101,7 @@
 
   function episodeRow(s) {
     return `<li class="episode" data-embed-host style="--c:${cat(s.category).color}">
-      <div class="show-mono" aria-hidden="true">${esc(initials(s.name))}</div>
+      ${artwork(s)}
       <div class="episode-info">
         <div class="meta"><span>${esc(s.name)}</span><span>${fmtDate(s.latest.date)}</span></div>
         <h3>${esc(s.latest.title)}</h3>
@@ -110,6 +110,17 @@
       </div>
     </li>`;
   }
+
+  let ART = {};
+  async function loadArt() {
+    try {
+      const res = await fetch("assets/data/podcast-art.json", { cache: "no-cache" });
+      if (res.ok) ART = await res.json();
+    } catch (e) {}
+  }
+  const artwork = (s, cls = "show-mono") => ART[s.latest.id]
+    ? `<img class="${cls} ep-art" src="${esc(ART[s.latest.id])}" alt="" loading="lazy" width="64" height="64">`
+    : `<div class="${cls}" aria-hidden="true">${esc(initials(s.name))}</div>`;
 
   const latestEpisodes = () => [...RECOMMENDED_PODCASTS].sort((a, b) => b.latest.date.localeCompare(a.latest.date));
 
@@ -142,6 +153,27 @@
 
   const emptyMsg = (feed) =>
     `<p class="empty">${feed.error ? "Headlines couldn't be loaded right now. Please try again in a moment." : "No stories yet. Headlines refresh every few hours."}</p>`;
+
+  /* ---------- AI briefing ---------- */
+  async function renderBriefing() {
+    const box = $("#briefing");
+    if (!box) return;
+    let b;
+    try {
+      const res = await fetch("assets/data/briefing.json", { cache: "no-cache" });
+      if (!res.ok) return;
+      b = await res.json();
+    } catch (e) { return; }
+    if (!b.points || !b.points.length) return;
+    $("#briefing-intro").textContent = b.intro || "";
+    $("#briefing-updated").textContent = b.generatedAt ? `Updated ${ago(b.generatedAt)}` : "";
+    $("#briefing-points").innerHTML = b.points.map((p) => `<li>
+      <strong>${esc(p.headline)}</strong> ${esc(p.text)}
+      <span class="briefing-src">${(p.stories || []).map((st) =>
+        `<a href="${esc(st.url)}" ${newTab} title="${esc(st.title)}">${esc(st.source)} ↗</a>`).join("")}</span>
+    </li>`).join("");
+    box.hidden = false;
+  }
 
   /* ---------- layout: header & footer ---------- */
   function renderChrome() {
@@ -325,9 +357,10 @@
   /* ---------- boot ---------- */
   renderChrome();
   wireEmbeds();
-  if (page === "podcasts") renderPodcasts();
+  if (page === "podcasts") loadArt().then(renderPodcasts);
+  if (page === "home") renderBriefing();
   if (["home", "news", "articles", "about"].includes(page)) {
-    loadFeed().then((feed) => {
+    Promise.all([loadFeed(), page === "home" ? loadArt() : null]).then(([feed]) => {
       if (page === "home") renderHome(feed);
       if (page === "news") renderListing(feed, null);
       if (page === "articles") renderListing(feed, "analysis");

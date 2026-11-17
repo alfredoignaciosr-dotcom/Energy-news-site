@@ -6,10 +6,9 @@
  */
 
 const SITE = {
-  name: "Gridline",
+  name: "Gridbase",
   tagline: "Energy news, analysis & podcasts",
-  description:
-    "The day's energy news and analysis from leading publications, plus the best energy podcasts, in one place. Every story links to its original publisher.",
+  description: "Energy news, analysis and podcasts in one place.",
 };
 
 /* Topics. Feed items are tagged with these keys by scripts/fetch_feeds.py. */

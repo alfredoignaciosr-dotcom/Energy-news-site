@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Gridline — Energy news, analysis & podcasts</title>
+  <title>Gridbase — Energy news, analysis & podcasts</title>
   <meta name="description" content="The day's energy news and analysis from leading publications, plus the best energy podcasts.">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%230f8a5f'/><text x='50' y='70' font-size='60' text-anchor='middle'>⚡</text></svg>">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -22,10 +22,24 @@
         <div>
           <div class="meta" style="color:#34c58b">Listen</div>
           <h2>The best energy podcasts</h2>
-          <p>New episodes from the shows covering power markets, the grid, oil and gas, and climate policy. Press play to listen here.</p>
           <a class="btn" href="podcasts.html">All podcasts</a>
         </div>
         <ul class="episodes" id="latest-episodes"></ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="section briefing-sec" id="briefing" hidden aria-label="Today's briefing">
+    <div class="wrap">
+      <div class="briefing">
+        <div class="briefing-head">
+          <h2>Today's briefing</h2>
+          <span class="ai-badge" title="Written automatically by Claude, an AI model, from the latest headlines">AI-generated</span>
+          <span class="count" id="briefing-updated"></span>
+        </div>
+        <p class="briefing-intro" id="briefing-intro"></p>
+        <ol class="briefing-points" id="briefing-points"></ol>
+        <p class="briefing-note">Summarized by AI from the headlines on this page. Check the linked stories for full details.</p>
       </div>
     </div>
   </section>
