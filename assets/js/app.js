@@ -108,6 +108,34 @@
     });
   }
 
+
+  /* ---------- external headlines (Utility Dive, refreshed by a GitHub Action) ---------- */
+  async function renderExternalNews() {
+    const slots = document.querySelectorAll("[data-external-news]");
+    if (!slots.length) return;
+    let feed;
+    try {
+      const res = await fetch("assets/data/utilitydive.json", { cache: "no-cache" });
+      feed = await res.json();
+    } catch (e) { return; }
+    if (!feed.items || !feed.items.length) return;
+    const when = (iso) => new Date(iso).toLocaleDateString(undefined, { month: "short", day: "numeric" });
+    slots.forEach((slot) => {
+      const limit = Number(slot.dataset.limit) || feed.items.length;
+      slot.querySelector(".ext-list").innerHTML = feed.items.slice(0, limit).map((it) => `
+        <li class="ext-item">
+          <a href="${esc(it.url)}" target="_blank" rel="noopener">
+            <span class="ext-meta">${it.date ? `<time datetime="${esc(it.date)}">${when(it.date)}</time>` : ""}${it.author ? ` · ${esc(it.author)}` : ""}</span>
+            <strong>${esc(it.title)}</strong>
+            ${slot.dataset.summaries !== undefined && it.summary ? `<span class="ext-summary">${esc(it.summary)}</span>` : ""}
+          </a>
+        </li>`).join("");
+      const updated = slot.querySelector(".ext-updated");
+      if (updated && feed.fetchedAt) updated.textContent = `Updated ${new Date(feed.fetchedAt).toLocaleString(undefined, { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" })}`;
+      slot.hidden = false;
+    });
+  }
+
   /* ---------- layout: header & footer ---------- */
   function renderChrome() {
     const nav = [
@@ -408,4 +436,5 @@
   setupPlayer();
   wireEmbeds();
   wireNewsletter();
+  renderExternalNews();
 })();

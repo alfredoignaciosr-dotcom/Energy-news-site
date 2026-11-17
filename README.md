@@ -29,6 +29,13 @@ All content lives in **`assets/js/data.js`**:
 > The bundled stories, people and figures are **sample placeholders**, and `assets/audio/demo-episode.wav`
 > is a short test tone. Replace them with real content before publishing.
 
+## Utility Dive headlines
+
+`news.html` ("Around the industry") and the home page ("Industry headlines") can show the latest stories from
+[Utility Dive](https://www.utilitydive.com/): headline, date, author and a short summary, each linking to the full story
+on utilitydive.com. `scripts/fetch_utilitydive.py` reads the RSS feed and writes `assets/data/utilitydive.json`;
+the sections stay hidden while that file is empty. A scheduled GitHub Action to refresh it automatically is pending approval.
+
 ## Running locally
 
 ```bash

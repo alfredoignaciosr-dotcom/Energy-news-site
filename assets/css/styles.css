@@ -358,3 +358,17 @@ p { margin: 0 0 1em; }
 .btn svg { width: 16px; height: 16px; fill: currentColor; }
 .embed-slot iframe { width: 100%; border-radius: 12px; display: block; }
 .embed-slot:empty { display: none; }
+
+/* ---------- external headlines ---------- */
+[data-external-news][hidden] { display: none; }
+.ext-source { color: var(--muted); font-size: .9rem; margin: -6px 0 16px; }
+.ext-source a { color: var(--accent); font-weight: 600; }
+.ext-updated { opacity: .8; }
+.ext-list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(2, 1fr); column-gap: 40px; }
+.ext-item a { display: flex; flex-direction: column; gap: 4px; padding: 14px 0; border-bottom: 1px solid var(--border); height: 100%; }
+.ext-item strong { font-weight: 600; line-height: 1.4; }
+.ext-item a:hover strong { color: var(--accent); }
+.ext-item a::after { content: none; }
+.ext-meta { font-size: .78rem; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; font-weight: 600; }
+.ext-summary { color: var(--muted); font-size: .92rem; }
+@media (max-width: 760px) { .ext-list { grid-template-columns: 1fr; } }
