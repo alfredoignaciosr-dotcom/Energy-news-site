@@ -266,6 +266,19 @@
         "image": "https://static.libsyn.com/p/assets/4/1/0/c/410c7e1c4214f32888c4a68c3ddbc4f2/CGDpodcastlogo_square.png"
       },
       "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f93825c292bf1e76b95c471fd"
+    },
+    {
+      "spotifyId": "6VpV9ZlbQTzMngKilhJlZs",
+      "name": "The President's Daily Brief",
+      "publisher": "The First TV",
+      "category": "geopolitics",
+      "description": "A daily rundown of national security and world events, modelled on the intelligence briefing prepared for the president.",
+      "feed": "",
+      "latest": {
+        "title": "November 16th, 2026: Putin Reveals His Demands for Ending the War in Ukraine & America's Aviation Breakdown",
+        "date": "2026-11-16",
+        "image": ""
+      }
     }
   ]
 }
