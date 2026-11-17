@@ -26,7 +26,9 @@ OUT = Path(__file__).resolve().parent.parent / "assets" / "data" / "feeds.json"
 PER_SOURCE = 12
 SUMMARY_CHARS = 240
 
-# kind: "news" (timely reporting) or "analysis" (explainers, data, long-form)
+# kind: "news" (timely reporting), "analysis" (explainers, data, long-form) or "world"
+# (geopolitics & international development; tagged with the source's own "category").
+# "feed" may be a list of candidate URLs; the first that works is used.
 SOURCES = [
     {"name": "Utility Dive", "site": "https://www.utilitydive.com/", "feed": "https://www.utilitydive.com/feeds/news/", "kind": "news"},
     {"name": "pv magazine", "site": "https://www.pv-magazine.com/", "feed": "https://www.pv-magazine.com/feed/", "kind": "news"},
@@ -35,6 +37,32 @@ SOURCES = [
     {"name": "EIA Today in Energy", "site": "https://www.eia.gov/todayinenergy/", "feed": "https://www.eia.gov/rss/todayinenergy.xml", "kind": "analysis"},
     {"name": "CTVC by Sightline Climate", "site": "https://www.ctvc.co/", "feed": "https://www.ctvc.co/rss/", "kind": "analysis"},
     {"name": "Canary Media", "site": "https://www.canarymedia.com/", "feed": "https://www.canarymedia.com/rss.rss", "kind": "analysis"},
+    # World: geopolitics
+    {"name": "Foreign Affairs", "site": "https://www.foreignaffairs.com/", "kind": "world", "category": "geopolitics",
+     "feed": ["https://www.foreignaffairs.com/rss.xml"]},
+    {"name": "Foreign Policy", "site": "https://foreignpolicy.com/", "kind": "world", "category": "geopolitics",
+     "feed": ["https://foreignpolicy.com/feed/"]},
+    {"name": "Council on Foreign Relations", "site": "https://www.cfr.org/", "kind": "world", "category": "geopolitics",
+     "feed": ["https://www.cfr.org/rss.xml", "https://www.cfr.org/rss/publications", "https://feeds.cfr.org/publication"]},
+    {"name": "Atlantic Council", "site": "https://www.atlanticcouncil.org/", "kind": "world", "category": "geopolitics",
+     "feed": ["https://www.atlanticcouncil.org/feed/"]},
+    {"name": "Brookings", "site": "https://www.brookings.edu/", "kind": "world", "category": "geopolitics",
+     "feed": ["https://www.brookings.edu/feed/"]},
+    {"name": "The Diplomat", "site": "https://thediplomat.com/", "kind": "world", "category": "geopolitics",
+     "feed": ["https://thediplomat.com/feed/"]},
+    {"name": "War on the Rocks", "site": "https://warontherocks.com/", "kind": "world", "category": "geopolitics",
+     "feed": ["https://warontherocks.com/feed/"]},
+    # World: international development
+    {"name": "Devex", "site": "https://www.devex.com/", "kind": "world", "category": "development",
+     "feed": ["https://www.devex.com/news.rss", "https://www.devex.com/news/feed", "https://www.devex.com/feed"]},
+    {"name": "Center for Global Development", "site": "https://www.cgdev.org/", "kind": "world", "category": "development",
+     "feed": ["https://www.cgdev.org/rss.xml", "https://www.cgdev.org/rss/blog", "https://www.cgdev.org/feed"]},
+    {"name": "The New Humanitarian", "site": "https://www.thenewhumanitarian.org/", "kind": "world", "category": "development",
+     "feed": ["https://www.thenewhumanitarian.org/rss/all.xml", "https://www.thenewhumanitarian.org/rss.xml"]},
+    {"name": "UN News", "site": "https://news.un.org/", "kind": "world", "category": "development",
+     "feed": ["https://news.un.org/feed/subscribe/en/news/all/rss.xml"]},
+    {"name": "World Bank Blogs", "site": "https://blogs.worldbank.org/", "kind": "world", "category": "development",
+     "feed": ["https://blogs.worldbank.org/en/rss.xml", "https://blogs.worldbank.org/rss.xml", "https://feeds.feedburner.com/WorldBankBlogs"]},
 ]
 
 # Topic keywords (regex, case-insensitive unless noted). Title hits count triple.
@@ -126,23 +154,29 @@ def parse(xml_bytes, source):
             "summary": summary,
             "source": source["name"],
             "kind": source["kind"],
-            "category": topic(title, summary),
+            "category": source.get("category") or topic(title, summary),
         })
     items.sort(key=lambda x: x["date"], reverse=True)
     return items[:PER_SOURCE]
 
 
 def fetch(source):
-    req = urllib.request.Request(source["feed"], headers={
-        "User-Agent": "Mozilla/5.0 (compatible; GridbaseFeedReader/1.0)",
-        "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8",
-    })
-    try:
-        with urllib.request.urlopen(req, timeout=30) as r:
-            items = parse(r.read(), source)
-        return source, items, None if items else "no items in feed"
-    except Exception as exc:  # network errors, HTTP errors, bad XML
-        return source, [], f"{type(exc).__name__}: {exc}"[:200]
+    urls = source["feed"] if isinstance(source["feed"], list) else [source["feed"]]
+    error = "no feed URL"
+    for url in urls:
+        req = urllib.request.Request(url, headers={
+            "User-Agent": "Mozilla/5.0 (compatible; GridbaseFeedReader/1.0)",
+            "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8",
+        })
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                items = parse(r.read(), source)
+            if items:
+                return source, items, None
+            error = f"{url}: no items in feed"
+        except Exception as exc:  # network errors, HTTP errors, bad XML
+            error = f"{url}: {type(exc).__name__}: {exc}"[:200]
+    return source, [], error
 
 
 def main():

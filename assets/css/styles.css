@@ -313,3 +313,5 @@ p { margin: 0 0 1em; }
 .show-mono { position: relative; overflow: hidden; }
 .show-mono img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
 .show-top .show-mono { width: 64px; height: 64px; }
+.split.split-even { grid-template-columns: 1fr 1fr; }
+@media (max-width: 900px) { .split.split-even { grid-template-columns: 1fr; } }

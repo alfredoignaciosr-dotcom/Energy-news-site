@@ -33,6 +33,8 @@
     ev: '<path d="M12 40l4-12c1-3 3-4 6-4h20c3 0 5 1 6 4l4 12v8H12z"/><circle cx="22" cy="48" r="4"/><circle cx="42" cy="48" r="4"/><path d="M33 28l-4 7h6l-4 7"/>',
     policy: '<path d="M32 10v44M20 54h24M14 20h36M14 20l-6 14a7 7 0 0 0 12 0zM50 20l-6 14a7 7 0 0 0 12 0z"/>',
     general: '<path d="M36 6 16 36h14l-4 22 22-32H34z"/>',
+    geopolitics: '<circle cx="32" cy="32" r="22"/><path d="M10 32h44M32 10c7 7 7 37 0 44M32 10c-7 7-7 37 0 44"/>',
+    development: '<path d="M32 56V30M32 30c0-10 8-16 18-16 0 10-8 16-18 16zM32 38c0-8-6-13-14-13 0 8 6 13 14 13z"/>',
   };
 
   function cover(key, extraClass = "") {
@@ -41,8 +43,11 @@
     </div>`;
   }
 
+  const WORLD_CATS = ["geopolitics", "development"];
+  const isWorld = (it) => it.kind === "world";
+  const kindLabel = (k) => ({ analysis: "Analysis", world: "World" }[k] || "News");
   const tag = (key) =>
-    `<a class="tag" href="news.html?cat=${encodeURIComponent(key)}" style="--c:${cat(key).color}">${esc(cat(key).label)}</a>`;
+    `<a class="tag" href="${WORLD_CATS.includes(key) ? "world" : "news"}.html?cat=${encodeURIComponent(key)}" style="--c:${cat(key).color}">${esc(cat(key).label)}</a>`;
 
   const byline = (it) =>
     `<div class="byline"><strong class="source">${esc(it.source)}</strong>${it.author ? ` · ${esc(it.author)}` : ""}${it.date ? ` · <time datetime="${esc(it.date)}" title="${esc(fmtDate(it.date))}">${ago(it.date)}</time>` : ""}</div>`;
@@ -51,7 +56,7 @@
     return `<article class="card ${variant}">
       <a href="${esc(it.url)}" ${newTab} class="card-media" tabindex="-1" aria-hidden="true">${cover(it.category)}</a>
       <div class="card-body">
-        <div class="meta">${tag(it.category)}<span>${it.kind === "analysis" ? "Analysis" : "News"}</span></div>
+        <div class="meta">${tag(it.category)}<span>${kindLabel(it.kind)}</span></div>
         <h3><a href="${esc(it.url)}" ${newTab}>${esc(it.title)}<span class="ext" aria-label="(on ${esc(it.source)})"> ↗</span></a></h3>
         ${it.summary ? `<p>${esc(it.summary)}</p>` : ""}
         ${byline(it)}
@@ -164,6 +169,7 @@
       ["index.html", "Home", "home"],
       ["news.html", "News", "news"],
       ["articles.html", "Analysis", "articles"],
+      ["world.html", "World", "world"],
       ["podcasts.html", "Podcasts", "podcasts"],
       ["about.html", "About", "about"],
     ];
@@ -193,12 +199,13 @@
       </div>
       <div>
         <h4>Topics</h4>
-        ${Object.entries(CATEGORIES).filter(([k]) => k !== "general").map(([k, c]) => `<a href="news.html?cat=${k}">${esc(c.label)}</a>`).join("")}
+        ${Object.entries(CATEGORIES).filter(([k]) => k !== "general").map(([k, c]) => `<a href="${WORLD_CATS.includes(k) ? "world" : "news"}.html?cat=${k}">${esc(c.label)}</a>`).join("")}
       </div>
       <div>
         <h4>Explore</h4>
         <a href="news.html?type=news">Latest news</a>
         <a href="articles.html">Analysis</a>
+        <a href="world.html">World</a>
         <a href="podcasts.html">Podcasts</a>
         <a href="about.html#sources">Our sources</a>
       </div>
@@ -224,7 +231,8 @@
 
   /* ---------- pages ---------- */
   function renderHome(feed) {
-    const items = feed.items;
+    const world = feed.items.filter(isWorld);
+    const items = feed.items.filter((i) => !isWorld(i));
     const analysis = items.filter((i) => i.kind === "analysis");
     const news = items.filter((i) => i.kind !== "analysis");
     const lead = analysis[0] || items[0];
@@ -246,11 +254,13 @@
     $("#latest-news").innerHTML = news.filter((i) => !shown.has(i)).slice(0, 8).map(newsRow).join("") || emptyMsg(feed);
     $("#latest-analysis").innerHTML = analysis.filter((i) => !shown.has(i)).slice(0, 3).map((i) => card(i, "card-row card-row-sm")).join("")
       || `<p class="empty">More analysis soon.</p>`;
+    $("#world-geo").innerHTML = world.filter((i) => i.category === "geopolitics").slice(0, 6).map(newsRow).join("") || `<p class="empty">Coming soon.</p>`;
+    $("#world-dev").innerHTML = world.filter((i) => i.category === "development").slice(0, 6).map(newsRow).join("") || `<p class="empty">Coming soon.</p>`;
     $("#latest-episodes").innerHTML = latestEpisodes().slice(0, 3).map(episodeRow).join("");
     $("#updated").textContent = updatedText(feed);
 
     $("#topics").innerHTML = Object.entries(CATEGORIES)
-      .filter(([k]) => k !== "general")
+      .filter(([k]) => k !== "general" && !WORLD_CATS.includes(k))
       .map(([k, c]) => {
         const n = items.filter((i) => i.category === k).length;
         return `<a class="topic" href="news.html?cat=${k}" style="--c:${c.color}">${cover(k, "cover-sm")}<span>${esc(c.label)}</span><small>${n} ${n === 1 ? "story" : "stories"}</small></a>`;
@@ -264,7 +274,7 @@
     let query = params.get("q") || "";
     let kind = fixedKind || params.get("type") || "all";
     let source = params.get("source") || "all";
-    const pool = feed.items.filter((i) => !fixedKind || i.kind === fixedKind);
+    const pool = feed.items.filter((i) => (fixedKind ? i.kind === fixedKind : !isWorld(i)));
     const list = $("#listing");
     const search = $("#search");
     const filters = $("#filters");
@@ -329,7 +339,7 @@
     $("#source-list").innerHTML = list.length
       ? list.map((s) => `<li class="source-item">
           <a href="${esc(s.site)}" ${newTab}><strong>${esc(s.name)}</strong> ↗</a>
-          <span>${s.kind === "analysis" ? "Analysis" : "News"} · ${s.count} ${s.count === 1 ? "story" : "stories"} now${s.ok ? "" : " · feed temporarily unavailable"}</span>
+          <span>${kindLabel(s.kind)} · ${s.count} ${s.count === 1 ? "story" : "stories"} now${s.ok ? "" : " · feed temporarily unavailable"}</span>
         </li>`).join("")
       : emptyMsg(feed);
     $("#podcast-list").innerHTML = SHOWS.map((s) =>
@@ -341,11 +351,12 @@
   renderChrome();
   wireEmbeds();
   if (page === "podcasts") loadPodcasts().then(renderPodcasts);
-  if (["home", "news", "articles", "about"].includes(page)) {
+  if (["home", "news", "articles", "world", "about"].includes(page)) {
     Promise.all([loadFeed(), ["home", "about"].includes(page) ? loadPodcasts() : null]).then(([feed]) => {
       if (page === "home") renderHome(feed);
       if (page === "news") renderListing(feed, null);
       if (page === "articles") renderListing(feed, "analysis");
+      if (page === "world") renderListing(feed, "world");
       if (page === "about") renderAbout(feed);
     });
   }

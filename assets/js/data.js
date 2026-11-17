@@ -21,6 +21,8 @@ const CATEGORIES = {
   ev:      { label: "EVs & Transport", color: "#2fb67c" },
   policy:  { label: "Policy",          color: "#4c7bd9" },
   general: { label: "Energy",          color: "#5f6b7a" },
+  geopolitics: { label: "Geopolitics", color: "#b5523b" },
+  development: { label: "Development", color: "#2a8c8c" },
 };
 
 /* Podcasts live in assets/data/podcasts.json (shows you pick; latest episodes refresh automatically). */
