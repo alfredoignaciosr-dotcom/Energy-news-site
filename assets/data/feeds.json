@@ -23,41 +23,6 @@
       "count": 12
     },
     {
-      "name": "offshoreWIND.biz",
-      "site": "https://www.offshorewind.biz/",
-      "kind": "news",
-      "ok": true,
-      "count": 12
-    },
-    {
-      "name": "World Nuclear News",
-      "site": "https://www.world-nuclear-news.org/",
-      "kind": "news",
-      "ok": true,
-      "count": 12
-    },
-    {
-      "name": "OilPrice.com",
-      "site": "https://oilprice.com/",
-      "kind": "news",
-      "ok": true,
-      "count": 12
-    },
-    {
-      "name": "Electrek",
-      "site": "https://electrek.co/",
-      "kind": "news",
-      "ok": true,
-      "count": 12
-    },
-    {
-      "name": "CleanTechnica",
-      "site": "https://cleantechnica.com/",
-      "kind": "news",
-      "ok": true,
-      "count": 12
-    },
-    {
       "name": "Carbon Brief",
       "site": "https://www.carbonbrief.org/",
       "kind": "analysis",
@@ -88,86 +53,6 @@
   ],
   "items": [
     {
-      "title": "The Army Just Did Something Extraordinary To Break China’s Rare Earth Monopoly",
-      "url": "https://oilprice.com/Energy/Energy-General/The-Army-Just-Did-Something-Extraordinary-To-Break-Chinas-Rare-Earth-Monopoly.html",
-      "date": "2026-11-17T02:00:00+00:00",
-      "author": "Tom Kool",
-      "summary": "On November 3, the Pentagon did something it’s never done before. The Army signed a non-binding term sheet to host a commercial rare earth plant on one of its own bases, under a lease that could run past the year 2100. And the company it…",
-      "source": "OilPrice.com",
-      "kind": "news",
-      "category": "general"
-    },
-    {
-      "title": "NAED Energy Holding Inc. Details the Rating of Its PV-1 Tandem Cell Line: 16,000 Wafers per Hour per Line, 4.6 GW from Six Lines",
-      "url": "https://cleantechnica.com/2026/11/16/naed-energy-holding-inc-details-the-rating-of-its-pv-1-tandem-cell-line-16000-wafers-per-hour-per-line-4-6-gw-from-six-lines/",
-      "date": "2026-11-17T01:57:52+00:00",
-      "author": "Press Release",
-      "summary": "NAED Energy Holding Inc. (NAED) just published the rating of PV-1, its production line for T2X perovskite/silicon heterojunction tandem solar cells. Each PV-1 line is rated at 16,000 G12 half-cut wafers per hour: 400 wafers every 90-second…",
-      "source": "CleanTechnica",
-      "kind": "news",
-      "category": "solar"
-    },
-    {
-      "title": "Minister O’Brien Announces Completion of Over 300,000 Home Energy Upgrades with Government Support Since 2019",
-      "url": "https://cleantechnica.com/2026/11/16/minister-obrien-announces-completion-of-over-300000-home-energy-upgrades-with-government-support-since-2019/",
-      "date": "2026-11-17T01:47:04+00:00",
-      "author": "Guest Contributor",
-      "summary": "2 billion invested by government of Ireland to support SEAI retrofits in communities and households all over the country. Supports result in homes that are warmer, more comfortable, healthier and with lower energy bills. Over 42,000…",
-      "source": "CleanTechnica",
-      "kind": "news",
-      "category": "policy"
-    },
-    {
-      "title": "Why Iraq Just Fast-Tracked Chevron’s Takeover Of A 14-Billion-Barrel Supergiant",
-      "url": "https://oilprice.com/Energy/Energy-General/Why-Iraq-Just-Fast-Tracked-Chevrons-Takeover-Of-A-14-Billion-Barrel-Supergiant.html",
-      "date": "2026-11-17T01:00:00+00:00",
-      "author": "Simon Watkins",
-      "summary": "U.S. supermajor Chevron has moved from open-ended negotiations under its previous USD200 million exclusivity window to finalising commercial terms for Iraq’s supergiant West Qurna 2 oilfield. Whilst the American firm originally had until…",
-      "source": "OilPrice.com",
-      "kind": "news",
-      "category": "general"
-    },
-    {
-      "title": "REO returns to challenge Slate and Fathom in a cheap truck showdown",
-      "url": "https://electrek.co/2026/11/16/reo-returns-to-challenge-slate-and-fathom-in-a-cheap-truck-showdown/",
-      "date": "2026-11-17T00:51:43+00:00",
-      "author": "Jo Borrás",
-      "summary": "On today’s surprisingly affordable edition of Quick Charge , we check out all the new cheap tricks trucks coming for your hard-earned money in 2027, and challenge the seemingly popular idea that low tech automatically begets low costs…",
-      "source": "Electrek",
-      "kind": "news",
-      "category": "general"
-    },
-    {
-      "title": "Airlines Face Fuel Crisis as Price Hedges Expire",
-      "url": "https://oilprice.com/Energy/Energy-General/Airlines-Face-Fuel-Crisis-as-Price-Hedges-Expire.html",
-      "date": "2026-11-17T00:00:00+00:00",
-      "author": "Irina Slav",
-      "summary": "Reports about an oil glut are back in the media, and U.S. diesel just dropped below $6 per gallon. But these signs of normalization have yet to reach the airline industry, where jet fuel prices remain eye-wateringly high and hedging…",
-      "source": "OilPrice.com",
-      "kind": "news",
-      "category": "oilgas"
-    },
-    {
-      "title": "Cummins Told Electrolyser Customers to Stop. Who Keeps the Hydrogen Plants Running?",
-      "url": "https://cleantechnica.com/2026/11/16/cummins-hylyzer-stop-use-hydrogen-equipment-support/",
-      "date": "2026-11-16T23:07:20+00:00",
-      "author": "Michael Barnard",
-      "summary": "A stop-use recommendation, a shrinking OEM workforce and mixed customer markets reveal the overlooked economics of hydrogen equipment after sales end.",
-      "source": "CleanTechnica",
-      "kind": "news",
-      "category": "general"
-    },
-    {
-      "title": "Uganda Pushes First Oil to Mid-2027 as Iran War Holds Up Equipment",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Uganda-Pushes-First-Oil-to-Mid-2027-as-Iran-War-Holds-Up-Equipment.html",
-      "date": "2026-11-16T23:00:00+00:00",
-      "author": "Alex Kimani",
-      "summary": "Uganda’s dream to achieve its first commercial oil production and crude exports has been delayed yet again, extending the country’s wait to more than two decades since commercial oil reserves were first discovered in the country in 2006…",
-      "source": "OilPrice.com",
-      "kind": "news",
-      "category": "oilgas"
-    },
-    {
       "title": "Permitting reform is a big, controversial bet for the energy transition",
       "url": "https://www.canarymedia.com/articles/politics/permitting-reform-uncertain-bet",
       "date": "2026-11-16T22:30:00+00:00",
@@ -176,176 +61,6 @@
       "source": "Canary Media",
       "kind": "analysis",
       "category": "policy"
-    },
-    {
-      "title": "Can Underwater Data Centers Escape the Land-Based Backlash?",
-      "url": "https://oilprice.com/Energy/Energy-General/Can-Underwater-Data-Centers-Escape-the-Land-Based-Backlash.html",
-      "date": "2026-11-16T22:00:00+00:00",
-      "author": "Tsvetana Paraskova",
-      "summary": "The AI boom is pushing developers to test a new frontier for positioning data centers, following the growing backlash against the excessive use of land, water, and energy resources onshore. So hyperscalers and start-ups have moved to test…",
-      "source": "OilPrice.com",
-      "kind": "news",
-      "category": "general"
-    },
-    {
-      "title": "Adding wind cuts solar + battery storage power costs nearly 20%",
-      "url": "https://electrek.co/2026/11/16/adding-wind-cuts-solar-battery-storage-power-costs-nearly-20-percent/",
-      "date": "2026-11-16T21:42:57+00:00",
-      "author": "Michelle Lewis",
-      "summary": "Solar and battery storage can do a lot of the heavy lifting in a renewable electricity system. Add wind, and supplying reliable power gets nearly 20% cheaper, according to new analysis from energy think tank Ember. more…",
-      "source": "Electrek",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
-      "title": "Tesla Cybercab has crashed 8 times, and the data shows a speed problem",
-      "url": "https://electrek.co/2026/11/16/tesla-cybercab-crashes-speed-problem/",
-      "date": "2026-11-16T21:41:36+00:00",
-      "author": "Fred Lambert",
-      "summary": "Tesla’s Cybercab now has 8 crashes on file with NHTSA, barely two months after the purpose-built robotaxi started giving public rides in Austin. Four happened in driverless “Robotaxi” service, and none topped 5 mph. The other four happened…",
-      "source": "Electrek",
-      "kind": "news",
-      "category": "ev"
-    },
-    {
-      "title": "Can Economic Populism Survive an Age of Scarcity?",
-      "url": "https://oilprice.com/Geopolitics/North-America/Can-Economic-Populism-Survive-an-Age-of-Scarcity.html",
-      "date": "2026-11-16T21:00:00+00:00",
-      "author": "Kurt Cobb",
-      "summary": "A number of candidates who prevailed in the last U.S. election can rightly be called populist in the 19th-century \"prairie populist\" mold, opposing monopolies and concentrated power, championing the rights of the average citizen, and…",
-      "source": "OilPrice.com",
-      "kind": "news",
-      "category": "general"
-    },
-    {
-      "title": "Ausom Black Friday sale has the right scooter for the right job, at the right price",
-      "url": "https://electrek.co/2026/11/16/ausom-black-friday-sale-right-scooter-right-job-at-right-price/",
-      "date": "2026-11-16T21:00:00+00:00",
-      "author": "Sponsored Post",
-      "summary": "Not all commutes are created equal, and tackling a hard commute takes a lot more than a motor and a set of wheels. Ausom knows this better than most, with six highly capable, long-range electric scooters designed to handle your toughest…",
-      "source": "Electrek",
-      "kind": "news",
-      "category": "general"
-    },
-    {
-      "title": "Volkswagen’s cheapest EV already has buyers waiting nearly 2 years",
-      "url": "https://electrek.co/2026/11/16/volkswagens-cheapest-ev-buyers-waiting-nearly-2-years/",
-      "date": "2026-11-16T20:26:22+00:00",
-      "author": "Peter Johnson",
-      "summary": "The most affordable Volkswagen ID. Polo Trend starts at just €24,995, or about $27,500, but you’ll have to wait close to two years to get one. more…",
-      "source": "Electrek",
-      "kind": "news",
-      "category": "ev"
-    },
-    {
-      "title": "Motorcycles are notoriously dangerous. Could electric motorcycles actually change that?",
-      "url": "https://electrek.co/2026/11/16/motorcycles-are-notoriously-dangerous-could-electric-motorcycles-actually-change-that/",
-      "date": "2026-11-16T20:16:30+00:00",
-      "author": "Micah Toll",
-      "summary": "There’s no particularly comfortable way to talk about motorcycle safety. Motorcycles are dangerous. All the statistics point to the fact that per mile, motorcycles are significantly more dangerous. And as someone who promotes them as a…",
-      "source": "Electrek",
-      "kind": "news",
-      "category": "general"
-    },
-    {
-      "title": "Libya Has Africa's Biggest Oil Reserves, but Western Majors Aren't Biting",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Libya-Has-Africas-Biggest-Oil-Reserves-but-Western-Majors-Arent-Biting.html",
-      "date": "2026-11-16T20:00:00+00:00",
-      "author": "Simon Watkins",
-      "summary": "In the immediate aftermath of Russia’s 24 February 2022 invasion of Ukraine, the pressure was on the West to quickly find new sources of oil and gas to compensate for those from Russia that would be lost through initial supply-chain…",
-      "source": "OilPrice.com",
-      "kind": "news",
-      "category": "oilgas"
-    },
-    {
-      "title": "Turkmenistan Races to Complete Key TAPI Pipeline Section by Year-End",
-      "url": "https://oilprice.com/Energy/Energy-General/Turkmenistan-Races-to-Complete-Key-TAPI-Pipeline-Section-by-Year-End.html",
-      "date": "2026-11-16T19:00:00+00:00",
-      "author": "OilPrice.com",
-      "summary": "Turkmenistan seems poised to make good on a pledge to complete a section of the TAPI pipeline by the end of 2026. In early October, Myrat Archayev, deputy chair of the state-owned gas entity Turkmengaz, said in an interview that the…",
-      "source": "OilPrice.com",
-      "kind": "news",
-      "category": "oilgas"
-    },
-    {
-      "title": "Anker SOLIX S5000 power station $2,380 exclusive savings, Navee ST3 Pro e-scooter $552 low, Lectric e-bike accessory sale, more",
-      "url": "https://electrek.co/2026/11/16/anker-solix-s5000-power-station-navee-st3-pro-e-scooter-lectric-e-bike-accessory-sale-more/",
-      "date": "2026-11-16T19:00:00+00:00",
-      "author": "Reinette LeJeune",
-      "summary": "The seasonal savings won’t be slowing down anytime soon, with this week’s Green Deals kicking off led by the exclusive deals for Anker’s SOLIX S5000 Power Station and bundles starting from $2,470 . There’s also Navee’s Early Access Black…",
-      "source": "Electrek",
-      "kind": "news",
-      "category": "ev"
-    },
-    {
-      "title": "Diamondback to Buy Double Eagle’s Midland Stake for $5 Billion",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Diamondback-to-Buy-Double-Eagles-Midland-Stake-for-5-Billion.html",
-      "date": "2026-11-16T18:30:00+00:00",
-      "author": "Michael Kern",
-      "summary": "Diamondback Energy agreed on Monday to buy Double Eagle’s 40% share of their Midland Basin partnership for cash and stock that Reuters valued at about $5.03 billion, a purchase that gives it a bigger share of wells it had already planned…",
-      "source": "OilPrice.com",
-      "kind": "news",
-      "category": "general"
-    },
-    {
-      "title": "Tesla Model X on Autopilot/FSD hit a pole and flipped, killing passenger",
-      "url": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-model-x-pole-rollover-naples/",
-      "date": "2026-11-16T18:10:05+00:00",
-      "author": "Fred Lambert",
-      "summary": "A Tesla Model X veered off Golden Gate Parkway in Naples, Florida, hit a traffic signal pole and overturned in September, killing a 50-year-old woman riding as a passenger. Tesla’s own report to federal regulators says Autopilot or “Full…",
-      "source": "Electrek",
-      "kind": "news",
-      "category": "ev"
-    },
-    {
-      "title": "The Hidden Cost Holding Back Europe’s Energy Innovators",
-      "url": "https://oilprice.com/Energy/Energy-General/The-Hidden-Cost-Holding-Back-Europes-Energy-Innovators.html",
-      "date": "2026-11-16T18:00:00+00:00",
-      "author": "Leon Stille",
-      "summary": "Europe’s debate about startups usually ends with the same prescription: become more like America. Find bigger venture capital funds, accept more risk, and produce more billion-dollar companies. For energy, that diagnosis is incomplete…",
-      "source": "OilPrice.com",
-      "kind": "news",
-      "category": "general"
-    },
-    {
-      "title": "BYD is bringing its $10,000 ‘Great’ Seagull overseas, but it won’t replace the Dolphin Surf",
-      "url": "https://electrek.co/2026/11/16/byd-bringing-10000-great-seagull-ev-overseas/",
-      "date": "2026-11-16T17:58:05+00:00",
-      "author": "Peter Johnson",
-      "summary": "BYD’s new, larger entry-level EV will go on sale in Europe, but it won’t be called the Dolphin Surf as expected. more…",
-      "source": "Electrek",
-      "kind": "news",
-      "category": "ev"
-    },
-    {
-      "title": "Illinois Ethanol Plant Bomb Is the Latest Threat to U.S. Energy Sites",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Illinois-Ethanol-Plant-Bomb-Is-the-Latest-Threat-to-US-Energy-Sites.html",
-      "date": "2026-11-16T17:30:00+00:00",
-      "author": "Charles Kennedy",
-      "summary": "Authorities arrested a suspect Monday morning in the investigation into an explosive device found Friday at an Illinois ethanol plant that forced thousands of people out of downtown Peoria for 18 hours and shut Interstate 74 and a stretch…",
-      "source": "OilPrice.com",
-      "kind": "news",
-      "category": "general"
-    },
-    {
-      "title": "COP31 Leaders’ Summit Spotlights Electrification & Transition Away from Fossil Fuels",
-      "url": "https://cleantechnica.com/2026/11/16/cop31-leaders-summit-spotlights-electrification-transition-away-from-fossil-fuels/",
-      "date": "2026-11-16T17:28:27+00:00",
-      "author": "World Resources Institute",
-      "summary": "Antalya, Türkiye — The COP31 Leaders’ Summit concluded today, with several new announcements and speeches from heads of state and the UN Secretary-General. Developments included country endorsements of the COP Presidency’s 35×35…",
-      "source": "CleanTechnica",
-      "kind": "news",
-      "category": "policy"
-    },
-    {
-      "title": "Tesla confirms €3B Cybercab factory at Giga Berlin for up to 1M a year",
-      "url": "https://electrek.co/2026/11/16/tesla-cybercab-giga-berlin-3-billion-1-million/",
-      "date": "2026-11-16T17:22:25+00:00",
-      "author": "Fred Lambert",
-      "summary": "Tesla is going to build the Cybercab in Germany. The company confirmed today a first €3 billion investment in a new production building at Giga Berlin designed for up to 1 million Cybercabs a year, with production planned for 2029. That’s…",
-      "source": "Electrek",
-      "kind": "news",
-      "category": "ev"
     },
     {
       "title": "Solar recycling 2.0",
@@ -358,36 +73,6 @@
       "category": "solar"
     },
     {
-      "title": "Venezuela’s Oil Comeback Faces a New Threat From Washington",
-      "url": "https://oilprice.com/Energy/Energy-General/Venezuelas-Oil-Comeback-Faces-a-New-Threat-From-Washington.html",
-      "date": "2026-11-16T17:00:00+00:00",
-      "author": "OilPrice.com",
-      "summary": "The Democratic victory in the 2026 US midterm elections has given the party control of both chambers of Congress, limiting President Trump’s domestic agenda from January 2027. However, foreign policy remains largely within the president’s…",
-      "source": "OilPrice.com",
-      "kind": "news",
-      "category": "oilgas"
-    },
-    {
-      "title": "Trump again orders broken coal plant to stay open, even after court said it’s illegal",
-      "url": "https://electrek.co/2026/11/16/trump-again-orders-broken-coal-plant-to-stay-open-even-after-court-said-its-illegal/",
-      "date": "2026-11-16T16:48:21+00:00",
-      "author": "Jameson Dow",
-      "summary": "The Department of Energy has issued a seventh “emergency” order forcing J.H. Campbell coal plant in Michigan to remain open, 534 days after the plant’s planned retirement. The orders have cost ratepayers $303 million and counting, causing…",
-      "source": "Electrek",
-      "kind": "news",
-      "category": "policy"
-    },
-    {
-      "title": "Hyundai IONIQ 5 caught with a new high-tech interior and big display screen",
-      "url": "https://electrek.co/2026/11/16/hyundai-ioniq-5-caught-new-high-tech-interior-big-display/",
-      "date": "2026-11-16T16:27:16+00:00",
-      "author": "Peter Johnson",
-      "summary": "Hyundai appears to be testing a new high-tech setup in the IONIQ 5 . A prototype was spotted with the door wide open, exposing a large display and a layout that looks very different from the current model. more…",
-      "source": "Electrek",
-      "kind": "news",
-      "category": "general"
-    },
-    {
       "title": "NRG to sell 4.9 GW of gas plants to LS Power for $4B",
       "url": "https://www.utilitydive.com/news/nrg-energy-gas-plants-ls-power-4b/874761/",
       "date": "2026-11-16T16:21:32+00:00",
@@ -396,16 +81,6 @@
       "source": "Utility Dive",
       "kind": "news",
       "category": "oilgas"
-    },
-    {
-      "title": "Low electricity prices could impact EPR2 programme funding, auditor warns",
-      "url": "https://www.world-nuclear-news.org/articles/low-electricity-prices-could-impact-epr2-programme-funding-auditor-warns",
-      "date": "2026-11-16T16:05:34+00:00",
-      "author": "",
-      "summary": "EDF could face difficulties funding its planned construction of six EPR2 reactors, France's state audit office, the Cour des Comptes (Court of Auditors) has said.",
-      "source": "World Nuclear News",
-      "kind": "news",
-      "category": "nuclear"
     },
     {
       "title": "Global solar installations face first annual decline in eight years",
@@ -488,52 +163,12 @@
       "category": "storage"
     },
     {
-      "title": "Mobile Energy Hubs: How Chery Auto’s Smart Energy Ecosystem Supports the Development of Smart Cities Worldwide",
-      "url": "https://cleantechnica.com/2026/11/16/mobile-energy-hubs-how-chery-autos-smart-energy-ecosystem-supports-the-development-of-smart-cities-worldwide/",
-      "date": "2026-11-16T14:45:29+00:00",
-      "author": "Press Release",
-      "summary": "WUHU, China — Following the 2026 Chery International User Summit, Chery Auto is pressing ahead with its new energy ecosystem strategy. Entering the Globalization 3.0 phase, the company is deploying a mix of energy solutions to meet…",
-      "source": "CleanTechnica",
-      "kind": "news",
-      "category": "general"
-    },
-    {
       "title": "New York launches second annual 1GW ‘bulk’ energy storage solicitation",
       "url": "https://www.energy-storage.news/new-york-launches-second-annual-1gw-bulk-energy-storage-solicitation/",
       "date": "2026-11-16T14:40:53+00:00",
       "author": "Andy Colthorpe",
       "summary": "New York’s second competitive solicitation for large-scale energy storage has launched, seeking a gigawatt (1GW) of grid-connected resources.",
       "source": "Energy-Storage.news",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
-      "title": "IX Renewables, TWD Strengthen Offshore Wind Partnership in Taiwan and APAC",
-      "url": "https://www.offshorewind.biz/2026/11/16/ix-renewables-twd-strengthen-offshore-wind-partnership-in-taiwan-and-apac",
-      "date": "2026-11-16T14:38:23+00:00",
-      "author": "Sara Kosmajac",
-      "summary": "IX Renewables and TWD have reaffirmed a memorandum of understanding (MoU) that sets up a path toward continued collaboration and the establishing...",
-      "source": "offshoreWIND.biz",
-      "kind": "news",
-      "category": "wind"
-    },
-    {
-      "title": "Newcleo, Curio team up for recycled nuclear fuel supply",
-      "url": "https://www.world-nuclear-news.org/articles/newcleo-curio-team-up-for-recycled-nuclear-fuel-supply",
-      "date": "2026-11-16T14:35:51+00:00",
-      "author": "",
-      "summary": "France-headquartered innovative nuclear energy company Newcleo is to collaborate with US advanced nuclear recycling technologies firm Curio on the supply of recycled used nuclear fuel and transuranic materials for the production of…",
-      "source": "World Nuclear News",
-      "kind": "news",
-      "category": "nuclear"
-    },
-    {
-      "title": "Semco Maritime and PTSC M&C Net Offshore Substation Contract for CIP’s Second Fengmiao Project",
-      "url": "https://www.offshorewind.biz/2026/11/16/semco-maritime-and-ptsc-mandc-net-offshore-substation-contract-for-cips-second-fengmiao-project",
-      "date": "2026-11-16T14:17:31+00:00",
-      "author": "Adrijana Buljan",
-      "summary": "Copenhagen Infrastructure Partners (CIP) has signed an offshore substation supply contract with Semco Maritime and PTSC Mechanical & Construction...",
-      "source": "offshoreWIND.biz",
       "kind": "news",
       "category": "storage"
     },
@@ -548,16 +183,6 @@
       "category": "solar"
     },
     {
-      "title": "NRC extends Project Ike review timetable",
-      "url": "https://www.world-nuclear-news.org/articles/nrc-extends-project-ike-review-timetable",
-      "date": "2026-11-16T14:08:05+00:00",
-      "author": "",
-      "summary": "The US regulator has pushed the expected completion date for its review of Orano's application for a licence for its proposed centrifuge enrichment facility back to June 2027 after the company asked for more time to respond to the…",
-      "source": "World Nuclear News",
-      "kind": "news",
-      "category": "policy"
-    },
-    {
       "title": "Over court objections, DOE issues 7th order to keep Michigan coal plant online",
       "url": "https://www.utilitydive.com/news/over-court-objections-doe-issues-order-campbell-coal-plant/874733/",
       "date": "2026-11-16T13:56:20+00:00",
@@ -566,36 +191,6 @@
       "source": "Utility Dive",
       "kind": "news",
       "category": "policy"
-    },
-    {
-      "title": "Work programme being planned for next year, as Paks II audit continues",
-      "url": "https://www.world-nuclear-news.org/articles/work-programme-being-planned-for-next-year-as-paks-ii-audit-continues",
-      "date": "2026-11-16T13:48:42+00:00",
-      "author": "",
-      "summary": "Construction is continuing and a programme for next year is being prepared, Rosatom said, as Hungary's government continues its review of the Paks II nuclear power project.",
-      "source": "World Nuclear News",
-      "kind": "news",
-      "category": "nuclear"
-    },
-    {
-      "title": "First Monopiles, Turbine Towers Delivered for 315 MW Japanese Offshore Wind Farm Ahead of 2027 Construction",
-      "url": "https://www.offshorewind.biz/2026/11/16/first-monopiles-turbine-towers-delivered-for-315-mw-japanese-offshore-wind-farm-ahead-of-2027-construction",
-      "date": "2026-11-16T13:30:22+00:00",
-      "author": "Adrijana Buljan",
-      "summary": "Preparations for offshore construction of Japan's 315 MW Oga–Katagami–Akita offshore wind farm are advancing, with the first batch of monopiles...",
-      "source": "offshoreWIND.biz",
-      "kind": "news",
-      "category": "wind"
-    },
-    {
-      "title": "Akkuyu 1 fuel loading 'could start next month'",
-      "url": "https://www.world-nuclear-news.org/articles/akkuyu-1-fuel-loading-could-start-next-month",
-      "date": "2026-11-16T13:18:42+00:00",
-      "author": "",
-      "summary": "Turkey's first nuclear power unit is preparing for hot tests - with Rosatom hoping that successful completion will allow the start of nuclear fuel loading in December.",
-      "source": "World Nuclear News",
-      "kind": "news",
-      "category": "nuclear"
     },
     {
       "title": "PV and batteries could help cut global power costs by 40% in 2030s",
@@ -638,26 +233,6 @@
       "category": "solar"
     },
     {
-      "title": "Port of Blyth Sets Out GBP 200 Million Offshore Wind Upgrade Plan",
-      "url": "https://www.offshorewind.biz/2026/11/16/port-of-blyth-sets-out-gbp-200-million-offshore-wind-upgrade-plan",
-      "date": "2026-11-16T11:48:37+00:00",
-      "author": "Sara Kosmajac",
-      "summary": "The Port of Blyth has revealed a phased investment programme of up to GBP 200 million (around EUR 239.6 million) to improve infrastructure and...",
-      "source": "offshoreWIND.biz",
-      "kind": "news",
-      "category": "wind"
-    },
-    {
-      "title": "China’s Offshore Wind Capacity Nears 50 GW as Country Targets 100+ GW by 2030",
-      "url": "https://www.offshorewind.biz/2026/11/16/chinas-offshore-wind-capacity-nears-50-gw-as-country-targets-100-gw-by-2030",
-      "date": "2026-11-16T10:40:39+00:00",
-      "author": "Adrijana Buljan",
-      "summary": "China’s grid-connected offshore wind capacity reached 49.84 GW at the end of September 2026, according to data from the National Energy...",
-      "source": "offshoreWIND.biz",
-      "kind": "news",
-      "category": "wind"
-    },
-    {
       "title": "People and Vertical AI: The responsible and trusted framework for energy and water",
       "url": "https://www.utilitydive.com/spons/people-and-vertical-ai-the-responsible-and-trusted-framework-for-energy-an/874672/",
       "date": "2026-11-16T10:00:00+00:00",
@@ -674,16 +249,6 @@
       "author": "Kelly Hall",
       "summary": "Jobsites generate massive data daily. Most of it disappears before anyone acts. Here's the fix.",
       "source": "Utility Dive",
-      "kind": "news",
-      "category": "general"
-    },
-    {
-      "title": "Acta Marine Welcomes Last of Four Next-Generation CSOVs",
-      "url": "https://www.offshorewind.biz/2026/11/16/acta-marine-welcomes-last-of-four-next-generation-csovs",
-      "date": "2026-11-16T09:25:05+00:00",
-      "author": "Sara Kosmajac",
-      "summary": "Acta Marine has added Acta Aquarius, the fourth and final vessel in its series of next-generation walk-to-work (W2W) DP2 construction service...",
-      "source": "offshoreWIND.biz",
       "kind": "news",
       "category": "general"
     },
@@ -716,86 +281,6 @@
       "source": "Canary Media",
       "kind": "analysis",
       "category": "general"
-    },
-    {
-      "title": "Aberdeen Subsea Robotics Firm Secures First Offshore Wind Contract in Taiwan",
-      "url": "https://www.offshorewind.biz/2026/11/16/aberdeen-subsea-robotics-firm-secures-first-offshore-wind-contract-in-taiwan",
-      "date": "2026-11-16T08:12:00+00:00",
-      "author": "Adrijana Buljan",
-      "summary": "Aberdeen-based High Performance Robotics (HPR) has been awarded its first commercial contract in Taiwan, where it will provide subsea inspection...",
-      "source": "offshoreWIND.biz",
-      "kind": "news",
-      "category": "wind"
-    },
-    {
-      "title": "NAED Unveils PV-1 PECVD-V, a U.S.-Engineered Vertical Deposition Platform Built for 96,000-Wafer-per-Hour Tandem Solar Manufacturing",
-      "url": "https://cleantechnica.com/2026/11/15/naed-unveils-pv-1-pecvd-v-a-u-s-engineered-vertical-deposition-platform-built-for-96000-wafer-per-hour-tandem-solar-manufacturing/",
-      "date": "2026-11-16T02:50:38+00:00",
-      "author": "Press Release",
-      "summary": "Patent-pending vertical PECVD/PVD architecture doubles wafer throughput over NAED’s previous platform and is designed to produce perovskite/HJT tandem cells targeting 30% efficiency NAED Energy Holding Inc. (“NAED”), the U.S. aerospace…",
-      "source": "CleanTechnica",
-      "kind": "news",
-      "category": "solar"
-    },
-    {
-      "title": "A Radically Different Approach to AI",
-      "url": "https://cleantechnica.com/2026/11/15/a-radically-different-approach-to-ai/",
-      "date": "2026-11-15T22:05:07+00:00",
-      "author": "George Harvey",
-      "summary": "About forty years ago, I decided I would develop artificial intelligence in my spare time. I knew about the Turing test, and I believed that a computer tricking people into thinking it was human did not indicate intelligence. There was a…",
-      "source": "CleanTechnica",
-      "kind": "news",
-      "category": "general"
-    },
-    {
-      "title": "Scout Steps Toward Mass Production, With 200,000+ Reservations On The Line",
-      "url": "https://cleantechnica.com/2026/11/15/scout-steps-toward-mass-production-with-200000-reservations-on-the-line/",
-      "date": "2026-11-15T16:01:50+00:00",
-      "author": "Z. S.",
-      "summary": "Scout Motors, the revived American brand now focused on off-road capable and affordable electric trucks and SUVs, has apparently produced its first validation build vehicles at its factory in South Carolina. This is a significant step…",
-      "source": "CleanTechnica",
-      "kind": "news",
-      "category": "ev"
-    },
-    {
-      "title": "Darlington’s First SMR Is Late and Over Budget. Ontario Needs to Rethink the Next Three.",
-      "url": "https://cleantechnica.com/2026/11/15/darlington-smr-cost-overrun-four-reactor-risk/",
-      "date": "2026-11-15T15:56:31+00:00",
-      "author": "Michael Barnard",
-      "summary": "Darlington's SMR budget and schedule have broken before the design has stabilised. Ontario has cheaper clean energy procurement contracts, but must compare complete reliability portfolios.",
-      "source": "CleanTechnica",
-      "kind": "news",
-      "category": "nuclear"
-    },
-    {
-      "title": "Accelerating Electrification Can Unlock the Full Benefits of Spain’s Renewables Leadership",
-      "url": "https://cleantechnica.com/2026/11/15/accelerating-electrification-can-unlock-the-full-benefits-of-spains-renewables-leadership/",
-      "date": "2026-11-15T14:17:31+00:00",
-      "author": "Press Release",
-      "summary": "A new IEA report finds renewables are already strengthening energy security and competitiveness while cutting fuel import costs—but faster electrification, grid modernization, and greater flexibility can extend these gains across the…",
-      "source": "CleanTechnica",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
-      "title": "Sonnen, SOLRITE, & ADAPT Energy, Integrating VPP Breakers to Turn Home Loads into Flexible Grid Assets",
-      "url": "https://cleantechnica.com/2026/11/14/sonnen-solrite-adapt-energy-integrating-vpp-breakers-to-turn-home-loads-into-flexible-grid-assets/",
-      "date": "2026-11-15T04:39:35+00:00",
-      "author": "Press Release",
-      "summary": "SOLRITE Unveils Next-Gen Virtual Power Plant Node with sonnen and ADAPT Energy, Integrating VPP Breakers to Turn Home Loads into Flexible Grid Assets ADAPT Energy’s control of VPP breakers will add dispatchable load flexibility to the…",
-      "source": "CleanTechnica",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
-      "title": "Rocket Fuel: The Last Frontier For Natural Gas",
-      "url": "https://cleantechnica.com/2026/11/14/natural-gas-methane-rocket-fuel-spacex-pipelines/",
-      "date": "2026-11-15T03:40:32+00:00",
-      "author": "Tina Casey",
-      "summary": "SpaceX is among the industrial-scale consumers of natural gas adding more pipes to the nation's sprawling network of gas pipelines, which the startup needs to ensure a steady supply of fuel for its growing fleet of rockets.",
-      "source": "CleanTechnica",
-      "kind": "news",
-      "category": "oilgas"
     },
     {
       "title": "How California Gov.-elect Becerra could be better on climate than Newsom",
@@ -838,16 +323,6 @@
       "category": "policy"
     },
     {
-      "title": "BWXT manufacturing facility expansion complete",
-      "url": "https://www.world-nuclear-news.org/articles/bwxt-manufacturing-facility-expansion-complete",
-      "date": "2026-11-13T15:23:46+00:00",
-      "author": "",
-      "summary": "The CAD80 million (USD56 million) investment in the Cambridge, Ontario facility significantly expands BWX Technologies' capacity to manufacture large-scale nuclear components for both conventional and advanced reactors of all sizes.",
-      "source": "World Nuclear News",
-      "kind": "news",
-      "category": "nuclear"
-    },
-    {
       "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
       "url": "https://www.utilitydive.com/news/southern/874111/",
       "date": "2026-11-13T14:45:20+00:00",
@@ -878,26 +353,6 @@
       "category": "general"
     },
     {
-      "title": "Keel Laid for Heerema’s Barge Purpose-Built for TenneT 2 GW Offshore Grid Connection Platforms",
-      "url": "https://www.offshorewind.biz/2026/11/13/keel-laid-for-heeremas-barge-purpose-built-for-tennet-2-gw-offshore-grid-connection-platforms",
-      "date": "2026-11-13T13:16:33+00:00",
-      "author": "Adrijana Buljan",
-      "summary": "Construction of Heerema Marine Contractors’ new H-731 float-over barge has reached the keel-laying stage, around eleven months after the first...",
-      "source": "offshoreWIND.biz",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
-      "title": "Industry urges nuclear recognition in COP31's 35-by-35 pledge",
-      "url": "https://www.world-nuclear-news.org/articles/industry-urges-nuclear-recognition-in-cop31s-35-by-35-pledge",
-      "date": "2026-11-13T12:51:20+00:00",
-      "author": "",
-      "summary": "The role that nuclear can play in achieving the COP31 summit's pledge to increase electricity to 35% of energy demand by 2035 should be acknowledged, industry leaders have said, with nuclear construction at a 40-year high.",
-      "source": "World Nuclear News",
-      "kind": "news",
-      "category": "nuclear"
-    },
-    {
       "title": "Toll makes way for floor, offtake contracting beginning to standardise in UK BESS market",
       "url": "https://www.energy-storage.news/toll-makes-way-for-floor-offtake-contracting-beginning-to-standardise-in-uk-bess-market/",
       "date": "2026-11-13T12:24:56+00:00",
@@ -906,16 +361,6 @@
       "source": "Energy-Storage.news",
       "kind": "news",
       "category": "storage"
-    },
-    {
-      "title": "Fengmiao 1 Offshore Substation Energised as Wind Turbine Foundation Installation Continues",
-      "url": "https://www.offshorewind.biz/2026/11/13/fengmiao-1-offshore-substation-energised-as-wind-turbine-foundation-installation-continues",
-      "date": "2026-11-13T11:39:35+00:00",
-      "author": "Adrijana Buljan",
-      "summary": "The offshore substation at the 495 MW Fengmiao 1 offshore wind farm in Taiwan has been energised, bringing the project’s transmission system...",
-      "source": "offshoreWIND.biz",
-      "kind": "news",
-      "category": "wind"
     },
     {
       "title": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries",
@@ -928,16 +373,6 @@
       "category": "storage"
     },
     {
-      "title": "Centrus, Oklo deal secures fuel for Ohio reactor deployment",
-      "url": "https://www.world-nuclear-news.org/articles/centrus-oklo-deal-secures-fuel-for-ohio-reactor-deployment",
-      "date": "2026-11-13T10:41:28+00:00",
-      "author": "",
-      "summary": "Centrus and Oklo have finalised agreements securing fuel to power up to five Aurora powerhouses for multiple years at a 1.2 GW Ohio campus for tech giant Meta, an agreement which helps Centrus's capacity expansion plans.",
-      "source": "World Nuclear News",
-      "kind": "news",
-      "category": "nuclear"
-    },
-    {
       "title": "BESS Industry Buzz: CATL sodium-ion specs, BESS availability and the price of speed-to-power",
       "url": "https://www.energy-storage.news/bess-industry-buzz-catl-sodium-ion-specs-bess-availability-and-the-price-of-speed-to-power/",
       "date": "2026-11-13T10:01:42+00:00",
@@ -948,16 +383,6 @@
       "category": "storage"
     },
     {
-      "title": "Massachusetts, Nova Scotia Explore Joint Offshore Wind Energy Opportunities",
-      "url": "https://www.offshorewind.biz/2026/11/13/massachusetts-nova-scotia-explore-joint-offshore-wind-energy-opportunities",
-      "date": "2026-11-13T09:38:04+00:00",
-      "author": "Sara Kosmajac",
-      "summary": "The governments of Canada’s Nova Scotia and the US state of Massachusetts have issued a joint request for information (RFI) on offshore wind...",
-      "source": "offshoreWIND.biz",
-      "kind": "news",
-      "category": "wind"
-    },
-    {
       "title": "Lacour Energy refers 4,000MWh wind-plus-storage site to Australia’s EPBC Act",
       "url": "https://www.energy-storage.news/lacour-energy-refers-4000mwh-wind-plus-storage-site-to-australias-epbc-act/",
       "date": "2026-11-13T09:10:33+00:00",
@@ -966,16 +391,6 @@
       "source": "Energy-Storage.news",
       "kind": "news",
       "category": "storage"
-    },
-    {
-      "title": "Ørsted Gearing Up for Turbine Installation at 2.9 GW UK Offshore Wind Farm",
-      "url": "https://www.offshorewind.biz/2026/11/13/orsted-gearing-up-for-turbine-installation-at-29-gw-uk-offshore-wind-farm",
-      "date": "2026-11-13T08:49:55+00:00",
-      "author": "Adrijana Buljan",
-      "summary": "Ørsted is preparing to start installing wind turbines at its Hornsea 3 offshore wind farm in the UK, with the first Siemens Gamesa turbine...",
-      "source": "offshoreWIND.biz",
-      "kind": "news",
-      "category": "wind"
     },
     {
       "title": "Solar PAC got revenge on clean energy’s enemies in Congress",
@@ -1058,26 +473,6 @@
       "category": "ev"
     },
     {
-      "title": "AtkinsRéalis producing study for six-unit Candu plant in Turkey",
-      "url": "https://www.world-nuclear-news.org/articles/atkinsrealis-producing-study-for-six-unit-candu-plant-in-turkey",
-      "date": "2026-11-12T14:05:57+00:00",
-      "author": "",
-      "summary": "AtkinsRéalis's Candu Energy Inc and state-owned Türkiye Nükleer Enerji Anonim Şirketi have signed a memorandum of agreement which includes a feasibility study for a potential 4.5 GW plant featuring up to six Candu reactors.",
-      "source": "World Nuclear News",
-      "kind": "news",
-      "category": "nuclear"
-    },
-    {
-      "title": "Finland Could Launch First Offshore Wind Tender in H1 2027 as Government Designates Four Development Areas",
-      "url": "https://www.offshorewind.biz/2026/11/12/finland-could-launch-first-offshore-wind-tender-in-h1-2027-as-government-designates-four-development-areas",
-      "date": "2026-11-12T14:02:10+00:00",
-      "author": "Adrijana Buljan",
-      "summary": "Finland could launch its first tender for offshore wind development in its exclusive economic zone (EEZ) in the first half of 2027, following the...",
-      "source": "offshoreWIND.biz",
-      "kind": "news",
-      "category": "wind"
-    },
-    {
       "title": "EIA forecasts Alaskan crude oil production to grow 13% in 2027",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68444",
       "date": "2026-11-12T14:00:00+00:00",
@@ -1088,16 +483,6 @@
       "category": "oilgas"
     },
     {
-      "title": "First steam generator installed at Lufeng unit 1",
-      "url": "https://www.world-nuclear-news.org/articles/first-steam-generator-installed-at-lufeng-unit-1",
-      "date": "2026-11-12T12:03:39+00:00",
-      "author": "",
-      "summary": "The first of two steam generators has been installed at unit 1 of the Lufeng nuclear power plant in China's Guangdong province, China Nuclear Industry 23 Construction Company Limited has announced.",
-      "source": "World Nuclear News",
-      "kind": "news",
-      "category": "nuclear"
-    },
-    {
       "title": "German utility to build 7.5MW/30MWh project using Eos’ zinc-bromide battery tech",
       "url": "https://www.energy-storage.news/german-utility-to-build-7-5mw-30mwh-project-using-eos-zinc-bromide-battery-tech/",
       "date": "2026-11-12T11:59:58+00:00",
@@ -1106,16 +491,6 @@
       "source": "Energy-Storage.news",
       "kind": "news",
       "category": "storage"
-    },
-    {
-      "title": "Mochovce 4's power increased to 35%",
-      "url": "https://www.world-nuclear-news.org/articles/mochovce-4s-power-increased-to-35",
-      "date": "2026-11-12T11:55:18+00:00",
-      "author": "",
-      "summary": "The power output of the fourth unit at Slovakia's Mochovce Nuclear Power Plant has been increased to 35% as the new reactor continues its commissioning process.",
-      "source": "World Nuclear News",
-      "kind": "news",
-      "category": "nuclear"
     },
     {
       "title": "The GOP lost its iron grip on Ohio. What’s the outlook for clean energy?",
@@ -1136,16 +511,6 @@
       "source": "Canary Media",
       "kind": "analysis",
       "category": "policy"
-    },
-    {
-      "title": "Bids invited for construction of UK prototype fusion plant",
-      "url": "https://www.world-nuclear-news.org/articles/bids-invited-for-construction-of-uk-prototype-fusion-plant",
-      "date": "2026-11-12T08:28:42+00:00",
-      "author": "",
-      "summary": "UK Fusion Energy is seeking tenders for five engineering contracts worth up to GBP115 million (USD152 million) covering the design, integration, testing and control of key systems needed to operate the planned STEP fusion power plant.",
-      "source": "World Nuclear News",
-      "kind": "news",
-      "category": "nuclear"
     },
     {
       "title": "Leading small modular nuclear reactor will be late and over budget",

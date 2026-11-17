@@ -19,8 +19,7 @@ Also: light/dark mode, responsive layout, accessible markup.
 ## Where the content comes from
 
 **News & analysis** — `scripts/fetch_feeds.py` reads the RSS/Atom feeds listed in `SOURCES` (Utility Dive,
-pv magazine, Energy-Storage.news, offshoreWIND.biz, World Nuclear News, OilPrice.com, Electrek, CleanTechnica,
-Carbon Brief, EIA Today in Energy, CTVC by Sightline Climate, Canary Media) and writes `assets/data/feeds.json`. Only the headline, date,
+pv magazine, Energy-Storage.news, Carbon Brief, EIA Today in Energy, CTVC by Sightline Climate, Canary Media) and writes `assets/data/feeds.json`. Only the headline, date,
 author and a short summary are stored; each links to the full story. Stories are tagged with a topic by keyword.
 
 `.github/workflows/news-feeds.yml` runs it every 3 hours (or on demand: Actions tab → *Update news feeds* →
