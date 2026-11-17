@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T05:05:35+00:00",
+  "updatedAt": "2026-11-17T05:08:02+00:00",
   "shows": [
     {
       "spotifyId": "0GT5BuD33AiPnqOzQE7YAE",
@@ -27,7 +27,7 @@
         "date": "2026-11-10",
         "image": "https://static.libsyn.com/p/assets/3/d/d/0/3dd0245c6a06d0c0a04421dee9605cbd/Final-Columbia-Energy-Exchange-Cover-Art-01.png"
       },
-      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fd49d0f90b31a78108ce9890f"
+      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fd49d0f90b31a78108ce9890f"
     },
     {
       "spotifyId": "5rHwnJEjFRnivIdpWwnZyZ",
@@ -41,7 +41,7 @@
         "date": "2026-11-17",
         "image": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/37c6caa7-d377-4c08-b479-af9d012ed5ad/a7faefb0-28ec-4b1d-85f3-af9d012ed5c9/image.jpg?t=1675362156&size=Large"
       },
-      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f6bec58495d75ca878579150d"
+      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f6bec58495d75ca878579150d"
     },
     {
       "spotifyId": "0KREPYRAQorrSYIedTnBel",
@@ -111,7 +111,7 @@
         "date": "2026-11-03",
         "image": "https://content.production.cdn.art19.com/images/b6/56/1c/53/b6561c53-206c-4247-a10b-24ba827509b0/c2860f4a864766abfde003250fb48d283b0bd02e55fd77f8d26e983ada7d82f5ccf8d280d42ff7eadf18b30e0ac0b9005c949c6efcc5f5c4f73f1d69c44a3e15.jpeg"
       },
-      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fa028ee82fcccb4d5577a5cd4"
+      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fa028ee82fcccb4d5577a5cd4"
     },
     {
       "spotifyId": "4FDIRo16s1C9Fpc9v1HyGi",
@@ -153,7 +153,7 @@
         "date": "2026-10-28",
         "image": "https://feeds.oggn.com/wp-content/uploads/2026/04/ogtw-2026.jpg"
       },
-      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f11a11c1bdb4e15150fc09c44"
+      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f11a11c1bdb4e15150fc09c44"
     },
     {
       "spotifyId": "3vCDodm2QxZXsZFzdv1mPV",
@@ -161,12 +161,13 @@
       "publisher": "Foreign Affairs",
       "category": "geopolitics",
       "description": "Long conversations with leading thinkers and policymakers on international affairs.",
-      "feed": "",
+      "feed": "https://feed.podbean.com/foreignaffairsmagazine/feed.xml",
       "latest": {
-        "title": "Bonus: Is America on the Path to Authoritarianism? A Conversation With Steven Levitsky and Lucan Way",
-        "date": "2025-02-21",
-        "image": ""
-      }
+        "title": "Is China Aging Out of Power? A Conversation With Carl Minzner",
+        "date": "2026-11-12",
+        "image": "https://pbcdn1.podbean.com/imglogo/image-logo/13951093/FAI_Logo_2023.jpg"
+      },
+      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f9ed6c133cba9b15fbc0e23ab"
     },
     {
       "spotifyId": "65u6jcFyV5BnlVhhzSi7UJ",
@@ -179,7 +180,8 @@
         "title": "A General and an Admiral Discuss the Pentagon Purge",
         "date": "2026-11-11",
         "image": ""
-      }
+      },
+      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1ffb2a2e907401ba52cfcae643"
     },
     {
       "spotifyId": "4pbzJRK0uPozoTxxSZhpQS",
@@ -187,12 +189,13 @@
       "publisher": "Foreign Policy",
       "category": "geopolitics",
       "description": "Foreign Policy's editors and guests on the week's biggest global stories.",
-      "feed": "",
+      "feed": "https://feeds.megaphone.fm/FGP8797000077",
       "latest": {
         "title": "How Democrats Will Wield Congressional Power",
         "date": "2026-11-12",
-        "image": ""
-      }
+        "image": "https://megaphone.imgix.net/podcasts/fd576844-de36-11f1-8d4c-a3d1b342ba3c/image/33b736c98c1a2e3fc065dca47340b851.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+      },
+      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab6772ab000015beed5c50111f498fe20a5c2d47"
     },
     {
       "spotifyId": "44pekawcpIJ7KgwcFIgZDr",
@@ -200,12 +203,13 @@
       "publisher": "Foreign Policy",
       "category": "geopolitics",
       "description": "Economic historian Adam Tooze on the economics behind world events.",
-      "feed": "",
+      "feed": "https://feeds.megaphone.fm/FGP6717686883",
       "latest": {
         "title": "Nvidia and Economic Espionage",
         "date": "2026-11-13",
-        "image": ""
-      }
+        "image": "https://megaphone.imgix.net/podcasts/7cfd9522-df5a-11f1-b864-2f9804953fa0/image/90e9f3e4c9c280cdea4f9f18eacc28cf.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+      },
+      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f2e4ea4669769f7cea4d20ab6"
     },
     {
       "spotifyId": "016vrvCdyUC5N5QjdaX7hZ",
@@ -213,12 +217,13 @@
       "publisher": "Financial Times",
       "category": "geopolitics",
       "description": "The FT's chief foreign affairs commentator talks to the people shaping world politics.",
-      "feed": "",
+      "feed": "https://feeds.acast.com/public/shows/7144a390-7a86-440e-9b2e-db712c18368c",
       "latest": {
         "title": "After the US, how should middle powers work together?",
         "date": "2026-11-12",
-        "image": ""
-      }
+        "image": "https://assets.pippa.io/shows/62874923a6361b2c768dddbf/1763129187815-1d9f2d07-12ed-47ce-9374-06b5266f2113.jpeg"
+      },
+      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f783ff1f2abaabf8cd0269708"
     },
     {
       "spotifyId": "6wjEyU23yOwrPRBN93b3jV",
@@ -226,12 +231,13 @@
       "publisher": "Devex",
       "category": "development",
       "description": "Devex reporters on the week's news in global aid and development.",
-      "feed": "",
+      "feed": "https://www.spreaker.com/show/5837438/episodes/feed",
       "latest": {
         "title": "Special edition: Humanitarian lessons for today’s private sector partnerships",
         "date": "2026-11-16",
-        "image": ""
-      }
+        "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1497aef0dc85e1e6550cabcabe35cf75.jpg"
+      },
+      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fb6f17eb562c7c3dd9a6486c4"
     },
     {
       "spotifyId": "7i8AYUeJqhBSHCYLqlzA8C",
@@ -239,12 +245,13 @@
       "publisher": "Global Dispatches",
       "category": "development",
       "description": "Interviews on the international news stories that matter, from humanitarian crises to global health.",
-      "feed": "",
+      "feed": "https://rss.libsyn.com/shows/41455/destinations/125334.xml",
       "latest": {
         "title": "Can the World Learn to Cooperate on AI Safety?",
         "date": "2026-11-16",
-        "image": ""
-      }
+        "image": "https://static.libsyn.com/p/assets/c/9/a/7/c9a7a5a9fa3f6a5227a2322813b393ee/gloaaldispath.jpg"
+      },
+      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fe3d1aa0e4ba896deafbe45fe"
     },
     {
       "spotifyId": "2dkl4yaeS78nY1m1Gttufg",
@@ -252,12 +259,13 @@
       "publisher": "Center for Global Development",
       "category": "development",
       "description": "Center for Global Development experts on the policies that reduce global poverty.",
-      "feed": "",
+      "feed": "https://cgdev.libsyn.com/rss",
       "latest": {
         "title": "Who Is Responsible for Climate Change? with Melanie Robinson and Jonathan Beynon",
         "date": "2026-11-05",
-        "image": ""
-      }
+        "image": "https://static.libsyn.com/p/assets/4/1/0/c/410c7e1c4214f32888c4a68c3ddbc4f2/CGDpodcastlogo_square.png"
+      },
+      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f93825c292bf1e76b95c471fd"
     }
   ]
 }

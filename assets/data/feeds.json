@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-17T05:05:25+00:00",
+  "fetchedAt": "2026-11-17T05:07:37+00:00",
   "sources": [
     {
       "name": "Utility Dive",
@@ -84,7 +84,7 @@
       "kind": "world",
       "ok": false,
       "count": 0,
-      "error": "https://www.brookings.edu/feed/: ParseError: not well-formed (invalid token): line 115, column 44"
+      "error": "https://www.brookings.edu/feed/: ParseError: mismatched tag: line 130, column 2"
     },
     {
       "name": "The Diplomat",
@@ -101,22 +101,6 @@
       "count": 12
     },
     {
-      "name": "Devex",
-      "site": "https://www.devex.com/",
-      "kind": "world",
-      "ok": false,
-      "count": 0,
-      "error": "https://www.devex.com/news.rss: HTTPError: HTTP Error 404: Not Found | https://www.devex.com/news/feed: HTTPError: HTTP Error 403: Forbidden | https://www.devex.com/feed: HTTPError: HTTP Error 403: Forbidden"
-    },
-    {
-      "name": "Center for Global Development",
-      "site": "https://www.cgdev.org/",
-      "kind": "world",
-      "ok": false,
-      "count": 0,
-      "error": "https://www.cgdev.org/rss.xml: HTTPError: HTTP Error 403: Forbidden | https://www.cgdev.org/rss/blog: HTTPError: HTTP Error 403: Forbidden | https://www.cgdev.org/feed: HTTPError: HTTP Error 403: Forbidden"
-    },
-    {
       "name": "The New Humanitarian",
       "site": "https://www.thenewhumanitarian.org/",
       "kind": "world",
@@ -129,14 +113,6 @@
       "kind": "world",
       "ok": true,
       "count": 12
-    },
-    {
-      "name": "World Bank Blogs",
-      "site": "https://blogs.worldbank.org/",
-      "kind": "world",
-      "ok": false,
-      "count": 0,
-      "error": "https://blogs.worldbank.org/en/rss.xml: HTTPError: HTTP Error 404: Not Found | https://blogs.worldbank.org/rss.xml: HTTPError: HTTP Error 404: Not Found | https://feeds.feedburner.com/WorldBankBlogs: ParseError: mismatched tag: line 18, column 2"
     },
     {
       "name": "The Guardian: Global development",
@@ -309,7 +285,7 @@
       "url": "https://www.utilitydive.com/news/nrg-energy-gas-plants-ls-power-4b/874761/",
       "date": "2026-11-16T16:21:32+00:00",
       "author": "Diana DiGangi",
-      "summary": "NRG Energy CEO Robert Gaudette said the sale values one 1.2-GW Texas gas plant at $1,400/KW, while NRG is “developing 1.5 GW of new natural gas generation in Texas for just above $1,000/KW.”",
+      "summary": "NRG Energy CEO Robert Gaudette said the sale values one 1.2-GW Texas gas plant at $1,400/kW, while NRG is “developing 1.5 GW of new natural gas generation in Texas” for just above $1,000/kW.",
       "source": "Utility Dive",
       "kind": "news",
       "category": "oilgas"
