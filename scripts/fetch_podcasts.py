@@ -43,19 +43,22 @@ def norm(s):
 
 
 def find_feed(show):
-    q = urllib.parse.urlencode({"term": show["name"], "media": "podcast", "entity": "podcast", "limit": 15})
-    results = json.loads(get(f"https://itunes.apple.com/search?{q}")).get("results", [])
     want, pub = norm(show["name"]), set(norm(show.get("publisher")).split())
     best, best_score = None, 0
-    for r in results:
-        name, feed = norm(r.get("collectionName")), r.get("feedUrl", "")
-        if not feed:
-            continue
-        score = 3 if name == want else 2 if name.startswith(want) or want.startswith(name) else 0
-        if score and pub & set(norm(r.get("artistName")).split()):
-            score += 1  # publisher matches too
-        if score > best_score:
-            best, best_score = feed, score
+    for term in (show["name"], f"{show['name']} {show.get('publisher', '')}"):
+        q = urllib.parse.urlencode({"term": term, "media": "podcast", "entity": "podcast", "limit": 25})
+        for r in json.loads(get(f"https://itunes.apple.com/search?{q}")).get("results", []):
+            name, feed = norm(r.get("collectionName")), r.get("feedUrl", "")
+            if not feed:
+                continue
+            score = (3 if name == want else 2 if name.startswith(want) or want.startswith(name)
+                     else 1 if want in name or name in want else 0)
+            if score and pub & set(norm(r.get("artistName")).split()):
+                score += 2  # publisher matches too
+            if score > best_score:
+                best, best_score = feed, score
+        if best_score >= 3:
+            break
     return best
 
 

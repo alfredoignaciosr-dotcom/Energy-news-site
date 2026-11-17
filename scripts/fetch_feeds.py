@@ -49,8 +49,6 @@ SOURCES = [
      "feed": ["https://www.cfr.org/rss.xml", "https://www.cfr.org/rss/publications", "https://feeds.cfr.org/publication"]},
     {"name": "Atlantic Council", "site": "https://www.atlanticcouncil.org/", "kind": "world", "category": "geopolitics",
      "feed": ["https://www.atlanticcouncil.org/feed/"]},
-    {"name": "Brookings", "site": "https://www.brookings.edu/", "kind": "world", "category": "geopolitics",
-     "feed": ["https://www.brookings.edu/feed/"]},
     {"name": "The Diplomat", "site": "https://thediplomat.com/", "kind": "world", "category": "geopolitics",
      "feed": ["https://thediplomat.com/feed/"]},
     {"name": "War on the Rocks", "site": "https://warontherocks.com/", "kind": "world", "category": "geopolitics",
