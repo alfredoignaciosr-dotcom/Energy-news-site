@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-17T05:03:37+00:00",
+  "fetchedAt": "2026-11-17T05:05:25+00:00",
   "sources": [
     {
       "name": "Utility Dive",
@@ -84,7 +84,7 @@
       "kind": "world",
       "ok": false,
       "count": 0,
-      "error": "https://www.brookings.edu/feed/: ParseError: undefined entity: line 57, column 0"
+      "error": "https://www.brookings.edu/feed/: ParseError: not well-formed (invalid token): line 115, column 44"
     },
     {
       "name": "The Diplomat",
@@ -106,7 +106,7 @@
       "kind": "world",
       "ok": false,
       "count": 0,
-      "error": "https://www.devex.com/feed: HTTPError: HTTP Error 403: Forbidden"
+      "error": "https://www.devex.com/news.rss: HTTPError: HTTP Error 404: Not Found | https://www.devex.com/news/feed: HTTPError: HTTP Error 403: Forbidden | https://www.devex.com/feed: HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "name": "Center for Global Development",
@@ -114,7 +114,7 @@
       "kind": "world",
       "ok": false,
       "count": 0,
-      "error": "https://www.cgdev.org/feed: HTTPError: HTTP Error 403: Forbidden"
+      "error": "https://www.cgdev.org/rss.xml: HTTPError: HTTP Error 403: Forbidden | https://www.cgdev.org/rss/blog: HTTPError: HTTP Error 403: Forbidden | https://www.cgdev.org/feed: HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "name": "The New Humanitarian",
@@ -127,9 +127,8 @@
       "name": "UN News",
       "site": "https://news.un.org/",
       "kind": "world",
-      "ok": false,
-      "count": 0,
-      "error": "https://news.un.org/feed/subscribe/en/news/all/rss.xml: ParseError: not well-formed (invalid token): line 1, column 0"
+      "ok": true,
+      "count": 12
     },
     {
       "name": "World Bank Blogs",
@@ -137,10 +136,34 @@
       "kind": "world",
       "ok": false,
       "count": 0,
-      "error": "https://feeds.feedburner.com/WorldBankBlogs: ParseError: mismatched tag: line 22, column 2"
+      "error": "https://blogs.worldbank.org/en/rss.xml: HTTPError: HTTP Error 404: Not Found | https://blogs.worldbank.org/rss.xml: HTTPError: HTTP Error 404: Not Found | https://feeds.feedburner.com/WorldBankBlogs: ParseError: mismatched tag: line 18, column 2"
+    },
+    {
+      "name": "The Guardian: Global development",
+      "site": "https://www.theguardian.com/global-development",
+      "kind": "world",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Inter Press Service",
+      "site": "https://www.ipsnews.net/",
+      "kind": "world",
+      "ok": true,
+      "count": 12
     }
   ],
   "items": [
+    {
+      "title": "Revealed: Russia, Saudi Arabia and Australia are largest CO2 exporters of all time",
+      "url": "https://www.carbonbrief.org/revealed-russia-saudi-arabia-and-australia-are-largest-co2-exporters-of-all-time",
+      "date": "2026-11-17T05:00:00+00:00",
+      "author": "Simon Evans",
+      "summary": "Russia, Saudi Arabia and COP31 co-president Australia are the largest exporters of carbon dioxide (CO2) emissions in history, reveals Carbon…",
+      "source": "Carbon Brief",
+      "kind": "analysis",
+      "category": "policy"
+    },
     {
       "title": "Permitting reform is a big, controversial bet for the energy transition",
       "url": "https://www.canarymedia.com/articles/politics/permitting-reform-uncertain-bet",
@@ -472,6 +495,16 @@
       "category": "geopolitics"
     },
     {
+      "title": "‘These men feel protected’: how Mexico’s first femicide squad is turning the tide on record killings",
+      "url": "https://www.theguardian.com/global-development/2026/nov/16/femicide-crisis-mexico-judge-killed-my-mother-one-more-time",
+      "date": "2026-11-16T13:00:01+00:00",
+      "author": "Beril Eski and Natalia Meneses Alís in Mexico City",
+      "summary": "The female-led unit in Mexico City has cut gender-based murders from a historic high in 2021. Now, there are hopes to appoint specialist teams and prosecutors nationwide Paz Rodríguez woke up about 5am at her home in Milpa Alta, a suburb…",
+      "source": "The Guardian: Global development",
+      "kind": "world",
+      "category": "development"
+    },
+    {
       "title": "PV and batteries could help cut global power costs by 40% in 2030s",
       "url": "https://www.pv-magazine.com/2026/11/16/pv-and-batteries-could-help-cut-global-power-costs-by-40-in-2030s/",
       "date": "2026-11-16T12:54:32+00:00",
@@ -532,6 +565,96 @@
       "category": "geopolitics"
     },
     {
+      "title": "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168820",
+      "date": "2026-11-16T12:00:00+00:00",
+      "author": "",
+      "summary": "Children from across the world sent a message of peace from the Omani capital Muscat on Monday, calling for an end to hatred, respect for diversity and the protection of human rights.",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168819",
+      "date": "2026-11-16T12:00:00+00:00",
+      "author": "",
+      "summary": "More countries are drawing up plans to tackle antimicrobial resistance (AMR), but major gaps in testing and treatment mean billions of people continue to be at risk, according to new data released by the World Health Organization (WHO) on…",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Lebanon leading the way in mental health support",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168818",
+      "date": "2026-11-16T12:00:00+00:00",
+      "author": "",
+      "summary": "Mental health support must be a core part of the humanitarian response, said the UN Deputy Secretary-General during a visit to Lebanon over the weekend, where efforts to address the psychological toll of years of conflict and instability…",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "AI gets climate science right – until users push back",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168817",
+      "date": "2026-11-16T12:00:00+00:00",
+      "author": "",
+      "summary": "The best AI models answer most climate science questions correctly, but they often abandon established facts as soon as a user disagrees, according to a new report co-authored by the UN.",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168814",
+      "date": "2026-11-16T12:00:00+00:00",
+      "author": "",
+      "summary": "Syria is showing “undeniable signs of progress” nearly two years after the fall of the Assad regime, but explosive ordnance, the approaching winter and severe funding shortfalls threaten those fragile gains, senior UN officials told the…",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "COP31 enters decisive week as climate talks face political test and AI initiatives gather pace",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168812",
+      "date": "2026-11-16T12:00:00+00:00",
+      "author": "",
+      "summary": "New international initiatives on artificial intelligence and green industrialization showcased technology’s growing role in climate action, even as negotiators remained deadlocked on finance, fossil fuels and adaptation ahead of the final…",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Funding cuts raise risks of trafficking and exploitation for refugee children",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168811",
+      "date": "2026-11-16T12:00:00+00:00",
+      "author": "",
+      "summary": "Sharp reductions in humanitarian funding are putting refugees, particularly children, at increased risk of being trafficked, exploited or abused, while the systems that protect them are weakening.",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Guterres calls for a legally binding instrument for ‘killer robots'",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168810",
+      "date": "2026-11-16T12:00:00+00:00",
+      "author": "",
+      "summary": "Talks began in Geneva on Monday to push for controls on lethal autonomous weapons systems that are often referred to as “killer robots”.",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "At his final ASEAN Summit, Guterres upholds cooperation and action on Myanmar",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168809",
+      "date": "2026-11-16T12:00:00+00:00",
+      "author": "",
+      "summary": "UN Secretary-General António Guterres underscored the need for stronger collaboration with the Association of Southeast Asian Nations (ASEAN) and an end to the crisis in Myanmar, in remarks to regional leaders meeting in the Philippine…",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
+    {
       "title": "The rising cost of ambition in Saudi Arabia’s Vision 2030",
       "url": "https://www.atlanticcouncil.org/blogs/menasource/the-rising-cost-of-ambition-in-saudi-arabias-vision-2030/",
       "date": "2026-11-16T11:27:26+00:00",
@@ -542,6 +665,26 @@
       "category": "geopolitics"
     },
     {
+      "title": "After the death of a literary giant in Africa, why could I find no copies of his book?",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/14/after-the-death-of-a-literary-giant-in-africa-why-could-i-find-no-copies-of-his-book",
+      "date": "2026-11-16T10:34:17+00:00",
+      "author": "Tracy McVeigh",
+      "summary": "In this week’s newsletter: what the death of Cheikh Hamidou Kane reveals about the cultural gap, plus Iran’s rising use of executions to curb dissent After reading about the death of the Senegalese writer Cheikh Hamidou Kane this week, I…",
+      "source": "The Guardian: Global development",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "New Working Group Seeks Justice for Critical Mineral Mining Communities",
+      "url": "https://www.ipsnews.net/2026/11/new-working-group-seeks-justice-for-critical-mineral-mining-communities/",
+      "date": "2026-11-16T10:32:49+00:00",
+      "author": "Isaiah Esipisu",
+      "summary": "A coalition of African civil society organisations, representatives from the Africa Institute of Resilience Studies (an independent organisation working in research, policy, training and capacity development), and representatives from the…",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
+    },
+    {
       "title": "Can South Africa Tackle HIV Without the U.S.?",
       "url": "https://foreignpolicy.com/2026/11/16/south-africa-hiv-aids-pepfar-trump-health-funding-withdrawal/",
       "date": "2026-11-16T10:00:22+00:00",
@@ -550,6 +693,16 @@
       "source": "Foreign Policy",
       "kind": "world",
       "category": "geopolitics"
+    },
+    {
+      "title": "‘Crocodiles are possible, but hunger is certain’: Malawi’s foragers forced into infested waters",
+      "url": "https://www.theguardian.com/global-development/2026/nov/16/malawi-hunger-food-foraging-nyika-shire-river-crocodiles",
+      "date": "2026-11-16T10:00:03+00:00",
+      "author": "Kenneth Zindondo",
+      "summary": "Once ‘famine food’, empty granaries have forced people along the Shire River to harvest water-lily roots in waters full of the reptiles The mid-morning heat in Malawi’s lower Shire River basin is already suffocating, but Beatrice Maseko…",
+      "source": "The Guardian: Global development",
+      "kind": "world",
+      "category": "development"
     },
     {
       "title": "People and Vertical AI: The responsible and trusted framework for energy and water",
@@ -570,6 +723,16 @@
       "source": "Utility Dive",
       "kind": "news",
       "category": "general"
+    },
+    {
+      "title": "The Legal Path to Autocracy",
+      "url": "https://www.ipsnews.net/2026/11/the-legal-path-to-autocracy/",
+      "date": "2026-11-16T09:39:37+00:00",
+      "author": "Ines M Pousadela",
+      "summary": "Zimbabwe’s President Emmerson Mnangagwa, who took over when a miliary coup ended Robert Mugabe’s 37 years in power, has made clear he has no intention of limiting himself to a decade at the top. In July, he signed a constitutional…",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
     },
     {
       "title": "Nigeria’s disappeared: Families left to struggle for answers in a labyrinth of secret detentions",
@@ -652,6 +815,26 @@
       "category": "general"
     },
     {
+      "title": "Africa Makes Some Gains but Faces Major Setbacks at COP31",
+      "url": "https://www.ipsnews.net/2026/11/africa-makes-some-gains-but-faces-major-setbacks-at-cop31/",
+      "date": "2026-11-16T08:28:52+00:00",
+      "author": "Farai Shawn Matiashe",
+      "summary": "Today (November 15) marks the second week of negotiations at the United Nations climate summit in the resort city of Antalya, Turkey. This two-week Conference of the Parties, or COP31, comes as scientists have warned that the world is…",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Time to Home",
+      "url": "https://www.ipsnews.net/2026/11/time-to-home/",
+      "date": "2026-11-16T05:59:24+00:00",
+      "author": "Amy Pope and Anaclaudia Rossbach",
+      "summary": "After a flood or other disaster, finding a safe home can take years. At COP31, we should commit to measuring – and shortening – that wait.",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
+    },
+    {
       "title": "Ashok Swain on the Mounting Opposition to Modi’s Authoritarian Rule",
       "url": "https://thediplomat.com/2026/11/ashok-swain-on-the-mounting-opposition-to-modis-authoritarian-rule/",
       "date": "2026-11-16T05:31:00+00:00",
@@ -720,6 +903,46 @@
       "source": "Atlantic Council",
       "kind": "world",
       "category": "geopolitics"
+    },
+    {
+      "title": "First Person: Managing risk on Ukraine’s frontline",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168807",
+      "date": "2026-11-15T12:00:00+00:00",
+      "author": "",
+      "summary": "Humanitarian workers providing support to communities on the frontline of the war between Ukraine and Russia must balance remaining close to those in need with the heightened risks of operating in a conflict zone, according to the top UN…",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Empowering faith and Indigenous leaders to combat hate",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168808",
+      "date": "2026-11-15T12:00:00+00:00",
+      "author": "",
+      "summary": "Religious, traditional and Indigenous leaders need to be empowered to act as full partners in preventing conflict, not just praised for their role, speakers said Sunday at the opening of the Muscat Plan of Action Forum in Oman.",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Nadia Murad: ‘Day by day, I took my story back’",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168801",
+      "date": "2026-11-15T12:00:00+00:00",
+      "author": "",
+      "summary": "Nobel Peace Prize laureate Nadia Murad has spent years telling the world about the atrocities committed against her and the Yazidi community by militants from the terrorist group, ISIL.",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "COP31: National Oil Companies Must Lead Global Shift Away from Fossil Fuels, Says NRGI Expert",
+      "url": "https://www.ipsnews.net/2026/11/cop31-national-oil-companies-must-lead-global-shift-away-from-fossil-fuels-says-nrgi-expert/",
+      "date": "2026-11-14T13:52:22+00:00",
+      "author": "Umar Manzoor Shah",
+      "summary": "The shift away from fossil fuels is made more difficult by the powerful, often overlooked role of national oil companies. These companies are deeply embedded in their countries’ economies and political systems. During the COP31 climate…",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
     },
     {
       "title": "The EU’s First AI Summit",
@@ -892,6 +1115,16 @@
       "category": "storage"
     },
     {
+      "title": "El Niño will increase risk of death in childbirth for millions, say midwives",
+      "url": "https://www.theguardian.com/global-development/2026/nov/13/el-nino-death-in-childbirth-millions-midwives-cop31-extreme-weather-maternal-newborn-death-rates",
+      "date": "2026-11-13T12:00:18+00:00",
+      "author": "Emily Maclean in Nairobi",
+      "summary": "Effects of extreme weather expected in countries that already have high maternal and newborn death rates El Niño stokes a higher risk of death in childbirth for millions of women in the world’s harshest crisis zones, midwives have warned…",
+      "source": "The Guardian: Global development",
+      "kind": "world",
+      "category": "development"
+    },
+    {
       "title": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries",
       "url": "https://www.energy-storage.news/sunrun-closes-preferred-equity-investment-for-us-distributed-energy-resources-totalling-110mwh-of-batteries/",
       "date": "2026-11-13T11:38:00+00:00",
@@ -922,6 +1155,16 @@
       "category": "geopolitics"
     },
     {
+      "title": "‘Africa Cannot Burn Its Way Out of Its Waste Crisis’, Zero-Waste Advocates Say at COP31",
+      "url": "https://www.ipsnews.net/2026/11/africa-cannot-burn-its-way-out-of-its-waste-crisis-zero-waste-advocates-say-at-cop31/",
+      "date": "2026-11-13T09:55:22+00:00",
+      "author": "Chemtai Kirui",
+      "summary": "Plans to build waste incineration plants across Africa risk undermining efforts to curb methane emissions, zero-waste campaigners have warned, as world leaders and climate negotiators gather in Antalya, Türkiye, for the COP31 climate…",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
+    },
+    {
       "title": "Lacour Energy refers 4,000MWh wind-plus-storage site to Australia’s EPBC Act",
       "url": "https://www.energy-storage.news/lacour-energy-refers-4000mwh-wind-plus-storage-site-to-australias-epbc-act/",
       "date": "2026-11-13T09:10:33+00:00",
@@ -950,6 +1193,26 @@
       "source": "Canary Media",
       "kind": "analysis",
       "category": "general"
+    },
+    {
+      "title": "GLOBAL GOVERNANCE: ‘A New World Order Is Going to Emerge, Whether We like It or Not’",
+      "url": "https://www.ipsnews.net/2026/11/global-governance-a-new-world-order-is-going-to-emerge-whether-we-like-it-or-not/",
+      "date": "2026-11-13T08:15:53+00:00",
+      "author": "CIVICUS",
+      "summary": "CIVICUS discusses the case for United Nations (UN) reform with Heba Aly, director of the Article 109 Coalition, an international civil society network that calls on states to review and update the UN Charter. In its ninth decade, the UN is…",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Boxer on death row in Iran vows ‘not to bow before oppression’ after winning rights prize",
+      "url": "https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award",
+      "date": "2026-11-13T06:00:11+00:00",
+      "author": "Sarah Johnson",
+      "summary": "Political prisoner Mohammad Javad Vafaei Sani, one of seven athletes at risk of execution in Iran, given prestigious Magnitsky humanitarian award A boxer and political prisoner on death row in Iran said he will “never surrender” as he…",
+      "source": "The Guardian: Global development",
+      "kind": "world",
+      "category": "development"
     },
     {
       "title": "The World’s Last Chance for Peace",
@@ -1022,6 +1285,16 @@
       "category": "storage"
     },
     {
+      "title": "Growing Movement Boycotts Krill Products as CCAMLR Fails to Protect Antarctic Ecosystems",
+      "url": "https://www.ipsnews.net/2026/11/growing-movement-boycotts-krill-products-as-ccamlr-fails-to-protect-antarctic-ecosystems/",
+      "date": "2026-11-12T18:18:14+00:00",
+      "author": "Oritro Karim",
+      "summary": "On October 30, the 45th annual meeting of the Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR-45) concluded in Hobart, Australia. After another year of negotiations without a consensus reached on Antarctic…",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
+    },
+    {
       "title": "COP31: How Ed Miliband answered Carbon Brief readers’ questions",
       "url": "https://www.carbonbrief.org/cop31-how-ed-miliband-answered-carbon-brief-readers-questions",
       "date": "2026-11-12T16:55:59+00:00",
@@ -1030,6 +1303,16 @@
       "source": "Carbon Brief",
       "kind": "analysis",
       "category": "policy"
+    },
+    {
+      "title": "Africa–Asia: Turning Demographic Change into Opportunity",
+      "url": "https://www.ipsnews.net/2026/11/africa-asia-turning-demographic-change-into-opportunity/",
+      "date": "2026-11-12T16:28:24+00:00",
+      "author": "Cecilia Russell",
+      "summary": "Although Africa and Asia face different demographic challenges, they share a common imperative: ensuring that legislation, policies and budgets translate into tangible improvements in people’s lives. This was the central message of Dr…",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
     },
     {
       "title": "ConEd joins utilities seeking to loosen New York restrictions on owning generation",
@@ -1072,6 +1355,16 @@
       "category": "oilgas"
     },
     {
+      "title": "Rats, dengue and an all-day stench: can Panama City solve its waste crisis?",
+      "url": "https://www.theguardian.com/global-development/2026/nov/12/rats-dengue-and-an-all-day-stench-can-panama-city-solve-its-waste-crisis",
+      "date": "2026-11-12T13:00:41+00:00",
+      "author": "Jessica Rawnsley in San Miguelito, Panama",
+      "summary": "For decades, mountains of waste have blighted poor neighbourhoods on the edge of the city. But as the problems spread, a belated reckoning is under way Life in San Miguelito has long been dictated by rubbish. Routes to the shop are…",
+      "source": "The Guardian: Global development",
+      "kind": "world",
+      "category": "development"
+    },
+    {
       "title": "German utility to build 7.5MW/30MWh project using Eos’ zinc-bromide battery tech",
       "url": "https://www.energy-storage.news/german-utility-to-build-7-5mw-30mwh-project-using-eos-zinc-bromide-battery-tech/",
       "date": "2026-11-12T11:59:58+00:00",
@@ -1080,6 +1373,16 @@
       "source": "Energy-Storage.news",
       "kind": "news",
       "category": "storage"
+    },
+    {
+      "title": "COP31: New Research Ties Extreme Weather and Mental Health Challenges in Africa",
+      "url": "https://www.ipsnews.net/2026/11/cop31-new-research-ties-extreme-weather-to-mental-health-challenges-in-africa/",
+      "date": "2026-11-12T09:54:40+00:00",
+      "author": "Ignatius Banda",
+      "summary": "Floods. Extreme heat. Droughts. African communities have experienced it all and more. And as has come to be expected, humanitarian agencies have responded by providing essential emergency assistance such as food aid and other critical…",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
     },
     {
       "title": "COP31’s new climate initiative risks leaving the most vulnerable behind",
@@ -1142,6 +1445,36 @@
       "category": "policy"
     },
     {
+      "title": "‘The War Must Stop’: Nobel Peace Laureate Oleksandra Matviichuk on the Urgent Need to Protect Ukraine’s Women and Children",
+      "url": "https://www.ipsnews.net/2026/11/the-war-must-stop-nobel-peace-laureate-oleksandra-matviichuk-on-the-urgent-need-to-protect-ukraines-women-and-children/",
+      "date": "2026-11-12T07:52:05+00:00",
+      "author": "Sania Farooqui",
+      "summary": "Four years after Russia’s all-out invasion of Ukraine, the human cost of the war keeps rising. Even though the global public eye is primarily glued to the progress of the conflict itself, its geopolitical implications and territorial…",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "I Sustain My Accusation",
+      "url": "https://www.ipsnews.net/2026/11/i-sustain-my-accusation/",
+      "date": "2026-11-12T06:56:29+00:00",
+      "author": "Saber Azam",
+      "summary": "This is the final article in a four-part series.",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Afghan women told to ‘go home’ after de facto ban on male doctors treating them",
+      "url": "https://www.theguardian.com/global-development/2026/nov/12/taliban-ban-male-doctors-treating-women-afghanistan",
+      "date": "2026-11-12T06:00:12+00:00",
+      "author": "Zan Times reporters",
+      "summary": "The unofficial Taliban restriction has forced women into desperate and absurd situations as they seek medical help, according to interviews given to the Guardian and Zan Times Farida*, 37, woke up in excruciating pain one night with a…",
+      "source": "The Guardian: Global development",
+      "kind": "world",
+      "category": "development"
+    },
+    {
       "title": "Leading small modular nuclear reactor will be late and over budget",
       "url": "https://www.canarymedia.com/articles/nuclear/small-modular-nuclear-reactor-late-canada",
       "date": "2026-11-11T19:00:00+00:00",
@@ -1158,6 +1491,26 @@
       "author": "Daniela Mohor, Jerôme Wendy Norestyl, Wethzer Piercin",
       "summary": "The Salvadoran leader’s deployment of 2,000+ troops has dangerously raised the stakes, fuelling violence and splitting Haitians between hope and fear.",
       "source": "The New Humanitarian",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Woman in Saudi Arabia sentenced to 100 lashes for giving birth outside marriage",
+      "url": "https://www.theguardian.com/global-development/2026/nov/11/woman-in-saudi-arabia-sentenced-to-100-lashes-for-giving-birth-outside-marriage",
+      "date": "2026-11-11T09:15:44+00:00",
+      "author": "Deepa Parent",
+      "summary": "Rights groups condemn reported punishment of Kenyan migrant worker as an ‘act of violence’ A Kenyan mother in Saudi Arabia has reportedly been sentenced to 100 lashes after giving birth outside marriage. Under the Saudi sharia law system…",
+      "source": "The Guardian: Global development",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Economies are improving, but rule of law is slipping. The buck now stops with Africa’s leaders | Kenneth Mohammed",
+      "url": "https://www.theguardian.com/global-development/2026/nov/11/mo-ibrahim-africa-governance-colonialism-power-development-corruption-buck-stops",
+      "date": "2026-11-11T09:00:34+00:00",
+      "author": "Kenneth Mohammed",
+      "summary": "The west has spent decades judging Africa’s governance and colonialism is much to blame. But Mo Ibrahim’s latest index offers a different perspective – and some uncomfortable truths The west has never been short of advice on how Africa…",
+      "source": "The Guardian: Global development",
       "kind": "world",
       "category": "development"
     },
@@ -1212,6 +1565,16 @@
       "category": "policy"
     },
     {
+      "title": "‘The cold is lethal’: storms leave thousands in Gaza without shelter",
+      "url": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
+      "date": "2026-11-11T05:00:32+00:00",
+      "author": "Kaamil Ahmed",
+      "summary": "Charities warn of lack of protection amid health fears for more than 940,000 displaced people living in flood-prone areas Tens of thousands of Palestinians have been left in waterlogged and damaged tents after deadly storms at the weekend…",
+      "source": "The Guardian: Global development",
+      "kind": "world",
+      "category": "development"
+    },
+    {
       "title": "🌎🏛️ Webinar: Breaking down the midterms",
       "url": "https://www.ctvc.co/webinar-breaking-down-the-midterms/",
       "date": "2026-11-10T22:38:10+00:00",
@@ -1248,6 +1611,16 @@
       "author": "Merve Arısoy",
       "summary": "As COP31 gets underway in air-conditioned conference halls, Türkiye’s outdoor workers are calling for urgent action to protect their health and livelihoods.",
       "source": "The New Humanitarian",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "‘We said no, no, no, but they kept insisting’: the Paraguayan people battling a eucalyptus empire",
+      "url": "https://www.theguardian.com/global-development/2026/nov/10/investigation-pulp-company-paraguay-paracel-eucalyptus-plantation",
+      "date": "2026-11-10T11:00:49+00:00",
+      "author": "Laurence Blair in Concepción, Maximiliano Manzoni in Asunción, and Marcello Rossi in Parma. Photographs and video by Matteo Fabi",
+      "summary": "It is Paraguay’s largest private investment but local people accuse a forestry giant of ignoring their contamination concerns over its vast plantation When Paracel arrived in Tacuarita, an Indigenous community of homes made from planks and…",
+      "source": "The Guardian: Global development",
       "kind": "world",
       "category": "development"
     },
@@ -1290,6 +1663,16 @@
       "source": "War on the Rocks",
       "kind": "world",
       "category": "geopolitics"
+    },
+    {
+      "title": "How a Jordan mosque is recycling ritual water to create a green oasis",
+      "url": "https://www.theguardian.com/global-development/2026/nov/10/mosque-jordan-valley-ablution-water-irrigation",
+      "date": "2026-11-10T05:00:29+00:00",
+      "author": "Shefa'a al-Qudah",
+      "summary": "In a country of severe water scarcity, the Abu Obeida mosque in Deir Alla captures ablution wastewater before it reaches the sewers to use for irrigation The Abu Obeida mosque in Deir Alla, Balqa, to the west of Amman, stands in one of the…",
+      "source": "The Guardian: Global development",
+      "kind": "world",
+      "category": "development"
     },
     {
       "title": "Analysis: Fossil-fuel CO2 emissions set to dip in 2026 as Iran conflict hits oil use",
@@ -1477,16 +1860,6 @@
       "date": "2026-11-04T10:40:52+00:00",
       "author": "Carbon Brief Staff",
       "summary": "Following this year’s UN COP17 biodiversity conference, Carbon Brief’s journalists hosted a livestream to explain what happened at the summit.…",
-      "source": "Carbon Brief",
-      "kind": "analysis",
-      "category": "policy"
-    },
-    {
-      "title": "UK climate minister Katie White: COP31 must respond to ‘really scary’ science",
-      "url": "https://www.carbonbrief.org/uk-climate-minister-katie-white-cop31-must-respond-to-really-scary-science",
-      "date": "2026-11-03T16:50:09+00:00",
-      "author": "Simon Evans",
-      "summary": "The upcoming COP31 climate talks in Antalya, Turkey need to respond to the latest science on global warming, which is…",
       "source": "Carbon Brief",
       "kind": "analysis",
       "category": "policy"

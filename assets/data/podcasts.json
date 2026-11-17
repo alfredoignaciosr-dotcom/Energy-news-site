@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T05:03:44+00:00",
+  "updatedAt": "2026-11-17T05:05:35+00:00",
   "shows": [
     {
       "spotifyId": "0GT5BuD33AiPnqOzQE7YAE",
@@ -13,7 +13,7 @@
         "date": "2026-11-12",
         "image": "https://content.production.cdn.art19.com/images/eb/77/cd/8a/eb77cd8a-67ce-411b-bf0e-c526711bc1aa/3c13de2a603359e3c72edb66785394ca3cd8d31691034f741cce62e4014c8c528ce94e6791256bba4882574c2084270cc5b6d84e7d332025e5434515d4927872.jpeg"
       },
-      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fa309acf7647e36db84d1053b"
+      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fa309acf7647e36db84d1053b"
     },
     {
       "spotifyId": "4AnIQG21dDcwNSHwMcW4yh",
@@ -27,7 +27,7 @@
         "date": "2026-11-10",
         "image": "https://static.libsyn.com/p/assets/3/d/d/0/3dd0245c6a06d0c0a04421dee9605cbd/Final-Columbia-Energy-Exchange-Cover-Art-01.png"
       },
-      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fd49d0f90b31a78108ce9890f"
+      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fd49d0f90b31a78108ce9890f"
     },
     {
       "spotifyId": "5rHwnJEjFRnivIdpWwnZyZ",
@@ -55,7 +55,7 @@
         "date": "2026-11-12",
         "image": "https://cdn.xenetwork.org/ets/wp-content/uploads/sites/2/powerpress/ETS-PodcastArtwork-full.png"
       },
-      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f21bb9da473d0d1a97a3f6090"
+      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f21bb9da473d0d1a97a3f6090"
     },
     {
       "spotifyId": "3dYMY5T3UZJLDKFQaA3tFS",
@@ -69,7 +69,7 @@
         "date": "2026-11-11",
         "image": "https://substackcdn.com/feed/podcast/193024/post/223988186/99409a7443dabc8526e277e77f56c2dc.jpg"
       },
-      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fd62f7293f341be9c5ea4cfa8"
+      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fd62f7293f341be9c5ea4cfa8"
     },
     {
       "spotifyId": "4C5Qx3wJn0GeTnDxIVYcAR",
@@ -111,7 +111,7 @@
         "date": "2026-11-03",
         "image": "https://content.production.cdn.art19.com/images/b6/56/1c/53/b6561c53-206c-4247-a10b-24ba827509b0/c2860f4a864766abfde003250fb48d283b0bd02e55fd77f8d26e983ada7d82f5ccf8d280d42ff7eadf18b30e0ac0b9005c949c6efcc5f5c4f73f1d69c44a3e15.jpeg"
       },
-      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fa028ee82fcccb4d5577a5cd4"
+      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fa028ee82fcccb4d5577a5cd4"
     },
     {
       "spotifyId": "4FDIRo16s1C9Fpc9v1HyGi",
@@ -153,7 +153,7 @@
         "date": "2026-10-28",
         "image": "https://feeds.oggn.com/wp-content/uploads/2026/04/ogtw-2026.jpg"
       },
-      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f11a11c1bdb4e15150fc09c44"
+      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f11a11c1bdb4e15150fc09c44"
     }
   ]
 }
