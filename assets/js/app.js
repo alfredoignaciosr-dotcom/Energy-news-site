@@ -53,7 +53,7 @@
     `<div class="byline"><strong class="source">${esc(it.source)}</strong>${it.author ? ` · ${esc(it.author)}` : ""}${it.date ? ` · <time datetime="${esc(it.date)}" title="${esc(fmtDate(it.date))}">${ago(it.date)}</time>` : ""}</div>`;
 
   function card(it, variant = "") {
-    return `<article class="card ${variant}">
+    return `<article class="card ${variant}" data-story="${esc(it.url)}">
       <a href="${esc(it.url)}" ${newTab} class="card-media" tabindex="-1" aria-hidden="true">${cover(it.category)}</a>
       <div class="card-body">
         <div class="meta">${tag(it.category)}<span>${kindLabel(it.kind)}</span></div>
@@ -65,7 +65,7 @@
   }
 
   function newsRow(it) {
-    return `<li class="news-row">
+    return `<li class="news-row" data-story="${esc(it.url)}">
       <time datetime="${esc(it.date)}">${ago(it.date)}</time>
       <div>
         <a href="${esc(it.url)}" ${newTab}>${esc(it.title)}</a>
@@ -246,7 +246,7 @@
     const shown = new Set([lead, ...side]);
 
     $("#hero").innerHTML = !lead ? emptyMsg(feed) : `
-      <article class="lead">
+      <article class="lead" data-story="${esc(lead.url)}">
         <a href="${esc(lead.url)}" ${newTab} class="lead-media" tabindex="-1" aria-hidden="true">${cover(lead.category, "cover-lg")}</a>
         <div class="lead-body">
           <div class="meta">${tag(lead.category)}<span>${lead.kind === "analysis" ? "Analysis" : "Top story"}</span></div>
@@ -353,6 +353,36 @@
       `<li class="source-item"><a href="${spotifyShow(s.spotifyId)}" ${newTab}><strong>${esc(s.name)}</strong> ↗</a><span>${esc(s.publisher)}</span></li>`).join("");
     $("#updated").textContent = updatedText(feed);
   }
+
+  /* ---------- read markers (saved only in this browser) ---------- */
+  const READ_KEY = "gridbase-read";
+  function readSet() {
+    try { return new Set(JSON.parse(localStorage.getItem(READ_KEY) || "[]")); } catch (e) { return new Set(); }
+  }
+  function markRead(url) {
+    const set = readSet();
+    set.delete(url);
+    set.add(url);
+    try { localStorage.setItem(READ_KEY, JSON.stringify([...set].slice(-1500))); } catch (e) {}
+  }
+  function applyReadMarkers() {
+    const set = readSet();
+    document.querySelectorAll("[data-story]").forEach((el) => {
+      const read = set.has(el.dataset.story);
+      el.classList.toggle("is-read", read);
+      const meta = el.querySelector(".meta, .row-meta");
+      const badge = meta && meta.querySelector(".read-badge");
+      if (read && meta && !badge) meta.insertAdjacentHTML("beforeend", '<span class="read-badge">✓ Read</span>');
+      if (!read && badge) badge.remove();
+    });
+  }
+  document.addEventListener("click", (e) => {
+    const a = e.target.closest("[data-story] a[href]");
+    if (a && !a.classList.contains("tag")) { markRead(a.closest("[data-story]").dataset.story); applyReadMarkers(); }
+  });
+  // Coming back with the Back button can restore an old copy of the page: refresh the markers.
+  window.addEventListener("pageshow", applyReadMarkers);
+  new MutationObserver(() => applyReadMarkers()).observe(document.body, { childList: true, subtree: true });
 
   /* ---------- boot ---------- */
   renderChrome();

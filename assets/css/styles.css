@@ -324,3 +324,9 @@ p { margin: 0 0 1em; }
   font: 700 .65rem var(--sans); text-transform: uppercase; letter-spacing: .07em;
   color: var(--accent); background: color-mix(in srgb, var(--accent) 14%, transparent); }
 .podcast-band .ai-tag { color: #34c58b; background: rgba(52,197,139,.15); }
+
+/* read markers */
+.is-read h3 a, .is-read h1 a, .news-row.is-read > div > a { color: var(--muted); }
+.is-read .card-media, .is-read .lead-media { opacity: .55; }
+.read-badge { display: inline-flex; align-items: center; padding: 2px 8px; border-radius: 999px; font: 700 .68rem var(--sans);
+  letter-spacing: .05em; text-transform: uppercase; color: var(--muted); background: var(--surface-2); }
