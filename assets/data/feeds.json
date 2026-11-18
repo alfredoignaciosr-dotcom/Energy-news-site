@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-17T20:59:39+00:00",
+  "fetchedAt": "2026-11-18T02:55:51+00:00",
   "sources": [
     {
       "name": "Utility Dive",
@@ -123,6 +123,36 @@
   ],
   "items": [
     {
+      "title": "Russia’s colossal losses in Ukraine will not push Putin toward peace",
+      "url": "https://www.atlanticcouncil.org/blogs/ukrainealert/russias-colossal-losses-in-ukraine-will-not-push-putin-toward-peace/",
+      "date": "2026-11-17T22:00:14+00:00",
+      "author": "David Kirichenko",
+      "summary": "Russia's heavy losses in Ukraine may hamper Putin’s invasion, but they will not push the Kremlin dictator toward the negotiating table, writes David Kirichenko.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Xi Makes the Most of Trump’s Asia-Pacific Trip",
+      "url": "https://foreignpolicy.com/2026/11/17/china-xi-trade-canada-tariffs-peru-trump-asean-apec/",
+      "date": "2026-11-17T21:52:41+00:00",
+      "author": "Alexandra Sharp",
+      "summary": "The Chinese president is currying favor with some of the region’s most powerful leaders.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Ukraine’s Crimean Bridge attack is a very personal humiliation for Putin",
+      "url": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-crimean-bridge-attack-is-a-very-personal-humiliation-for-putin/",
+      "date": "2026-11-17T21:31:58+00:00",
+      "author": "Peter Dickinson",
+      "summary": "Ukraine hit and partially destroyed the Crimean Bridge on November 17 with an unprecedented drone and missile strike that highlighted Russia's vulnerabilities and served as a very personal humiliation for Vladimir Putin, writes Peter…",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "5 Freshmen Democratic Lawmakers to Watch",
       "url": "https://foreignpolicy.com/2026/11/17/freshmen-house-democratic-lawmakers-congress-israel-defense-military/",
       "date": "2026-11-17T20:31:45+00:00",
@@ -136,7 +166,7 @@
       "title": "Power sector emissions set to fall in US amid lower coal use",
       "url": "https://www.canarymedia.com/articles/fossil-fuels/us-power-sector-emissions-fall-coal",
       "date": "2026-11-17T20:00:00+00:00",
-      "author": "",
+      "author": "Julian Spector",
       "summary": "The U.S. electricity sector is set to emit less planet-warming carbon dioxide this year despite record-high demand and the Trump administration’s efforts to prop up uncompetitive coal-fired power plants. Power plants burned 10% less coal…",
       "source": "Canary Media",
       "kind": "analysis",
@@ -264,7 +294,7 @@
     },
     {
       "title": "The AI Safety Debate Has a Human Rights Blind Spot",
-      "url": "https://foreignpolicy.com/2026/11/17/ai-human-rights-safety-debate/",
+      "url": "https://foreignpolicy.com/2026/11/17/ai-human-rights-safety-debate-regulation-united-nations/",
       "date": "2026-11-17T16:53:25+00:00",
       "author": "Suzanne Nossel",
       "summary": "Instead of writing its own rules, the industry should look to a framework that already exists.",
@@ -343,6 +373,26 @@
       "category": "solar"
     },
     {
+      "title": "A Former Pakistani Army Captain Now Commands the BLA",
+      "url": "https://thediplomat.com/2026/11/a-former-pakistani-army-captain-now-commands-the-bla/",
+      "date": "2026-11-17T15:05:00+00:00",
+      "author": "Rizwan Naseer",
+      "summary": "Rahman Gul will most likely implement a style of leadership and military strategy that will be dangerous for both Pakistan and China.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "A New Anti-Taliban Group Emerges With a Bang: The Afghanistan United Front",
+      "url": "https://thediplomat.com/2026/11/a-new-anti-taliban-group-emerges-with-a-bang-the-afghanistan-united-front/",
+      "date": "2026-11-17T15:05:00+00:00",
+      "author": "Muhammad Murad",
+      "summary": "In August, the AUF announced the launch of a military campaign, “Operation Muharib,” against the Taliban. It has claimed 126 attacks since then.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "Spain votes first: What its snap election could mean for Europe and the United States",
       "url": "https://www.atlanticcouncil.org/dispatches/spain-votes-first-what-its-snap-election-could-mean-for-europe-and-the-united-states/",
       "date": "2026-11-17T15:04:28+00:00",
@@ -383,6 +433,16 @@
       "category": "storage"
     },
     {
+      "title": "Quad Moves to Counter China’s Mineral Monopoly",
+      "url": "https://thediplomat.com/2026/11/quad-moves-to-counter-chinas-mineral-monopoly/",
+      "date": "2026-11-17T14:13:00+00:00",
+      "author": "Hayley Channer",
+      "summary": "The Quad is the most likely minilateral framework to address this strategic chokepoint.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "How does EIA account for small differences between energy supply and demand data?",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68464",
       "date": "2026-11-17T14:00:00+00:00",
@@ -393,6 +453,16 @@
       "category": "general"
     },
     {
+      "title": "To Many Chinese, Jensen Huang’s Race Was What Led to His Downfall",
+      "url": "https://thediplomat.com/2026/11/to-many-chinese-jensen-huangs-race-was-what-led-to-his-downfall/",
+      "date": "2026-11-17T13:51:00+00:00",
+      "author": "Yang Meng",
+      "summary": "Huang reached the pinnacle of American technological power, but many Chinese believe he was never fully accepted – and was eventually brought down – because of his race.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "Italy surpasses 1 million renewable-linked battery storage systems",
       "url": "https://www.pv-magazine.com/2026/11/17/italy-surpasses-1-million-renewable-linked-battery-storage-systems/",
       "date": "2026-11-17T13:48:57+00:00",
@@ -401,6 +471,26 @@
       "source": "pv magazine",
       "kind": "news",
       "category": "storage"
+    },
+    {
+      "title": "Rethinking the Indus Waters Treaty in an Era of Climate Uncertainty",
+      "url": "https://thediplomat.com/2026/11/rethinking-the-indus-waters-treaty-in-an-era-of-climate-uncertainty/",
+      "date": "2026-11-17T13:37:00+00:00",
+      "author": "Jahan Taganova, Saleem H. Ali, and Ambika Vishwanath",
+      "summary": "What would it take to modernize the treaty's legal and institutional architecture while integrating scientific knowledge, environmental sustainability, and the political realities of transboundary water cooperation?",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Australia, Philippines Sign New Defense Cooperation Arrangement",
+      "url": "https://thediplomat.com/2026/11/australia-philippines-sign-new-defense-cooperation-arrangement/",
+      "date": "2026-11-17T13:31:00+00:00",
+      "author": "Grant Wyeth",
+      "summary": "The arrangement fast-tracks military cooperation between Canberra and Manila.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "Elevated demand for gas turbines could persist through 2035: Siemens Energy",
@@ -489,6 +579,16 @@
       "author": "Rowan Glass in Poyeni, Peru",
       "summary": "Decades after Lima armed them to fight Shining Path rebels, the Asháninka are still defending their Amazon rainforest, but now against drug traffickers – and without any help Shielding his eyes from the tropical sun, Irmeo Sánchez Gómez …",
       "source": "The Guardian: Global development",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168828",
+      "date": "2026-11-17T12:00:00+00:00",
+      "author": "",
+      "summary": "This year has seen dramatically higher civilian casualties in Ukraine than any other year since the full-scale invasion of the eastern European country by Russia in February 2022, the UN Human Rights Monitoring Mission in Ukraine (HRMMU)…",
+      "source": "UN News",
       "kind": "world",
       "category": "development"
     },
@@ -683,6 +783,16 @@
       "category": "solar"
     },
     {
+      "title": "How the Modi Government Weaponizes Visas and OCI Cards to Silence Critics",
+      "url": "https://thediplomat.com/2026/11/how-the-modi-government-weaponizes-visas-and-oci-cards-to-silence-critics/",
+      "date": "2026-11-17T08:40:00+00:00",
+      "author": "Sudha Ramachandran",
+      "summary": "Around 115 of 315 people from abroad were denied visas or had their visas canceled to prevent them from participating in a recent Congress party event.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "The Military Strategic Drivers Behind China’s Nuclear Expansion",
       "url": "https://warontherocks.com/the-military-strategic-drivers-behind-chinas-nuclear-expansion/",
       "date": "2026-11-17T08:30:21+00:00",
@@ -773,16 +883,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "Despite the ‘Donroe Doctrine,’ China Is Still Gaining Ground in Latin America",
-      "url": "https://thediplomat.com/2026/11/despite-the-donroe-doctrine-china-is-still-gaining-ground-in-latin-america/",
-      "date": "2026-11-17T00:32:00+00:00",
-      "author": "Joseph Bouchard",
-      "summary": "The Trump administration's threats have not pushed the region to distance itself from China. In fact, they may have had the opposite effect.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "Permitting reform is a big, controversial bet for the energy transition",
       "url": "https://www.canarymedia.com/articles/politics/permitting-reform-uncertain-bet",
       "date": "2026-11-16T22:30:00+00:00",
@@ -823,16 +923,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "Cuba’s Communist Allies in Asia",
-      "url": "https://thediplomat.com/2026/11/cubas-communist-allies-in-asia/",
-      "date": "2026-11-16T20:48:00+00:00",
-      "author": "Armando Chaguaceda and César Eduardo Santos",
-      "summary": "China, Vietnam, and North Korea offer more than diplomatic support against U.S. pressure – they offer different models for keeping one-party rule intact.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "AI agents promise a life free from friction. The cost could be human judgment.",
       "url": "https://www.atlanticcouncil.org/dispatches/ai-agents-promise-a-life-free-from-friction-the-cost-could-be-human-judgment/",
       "date": "2026-11-16T19:55:30+00:00",
@@ -869,16 +959,6 @@
       "author": "Liliana Diaz",
       "summary": "Venezuela has vast natural gas reserves, yet flares or vents half of what it produces. The core failure is market design, not the law.",
       "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Is Bangladesh Sending Human Rights Violators Abroad as Peacekeepers?",
-      "url": "https://thediplomat.com/2026/11/is-bangladesh-sending-human-rights-violators-abroad-as-peacekeepers/",
-      "date": "2026-11-16T18:37:00+00:00",
-      "author": "Natiq Malikzada",
-      "summary": "For decades the U.N. has documented a serious human rights crisis in Bangladesh; it has also paid the very institutions responsible for that crisis to keep the peace elsewhere in the world.",
-      "source": "The Diplomat",
       "kind": "world",
       "category": "geopolitics"
     },
@@ -953,16 +1033,6 @@
       "category": "storage"
     },
     {
-      "title": "Tibet’s Top Elected Leader on Repression, Reincarnation, and the Future for Tibetans",
-      "url": "https://thediplomat.com/2026/11/tibets-top-elected-leader-on-repression-reincarnation-and-the-future-for-tibetans/",
-      "date": "2026-11-16T15:33:00+00:00",
-      "author": "Shannon Tiezzi",
-      "summary": "“We are dying a slow death… we are being strangled by the dragon, slowly but surely,” Sikyong Penpa Tsering, the head of Tibet's government-in-exile, says.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "FERC’s See on large loads, Western markets and affordability",
       "url": "https://www.utilitydive.com/news/ferc-lindsay-see-large-loads-western-markets-affordability/874736/",
       "date": "2026-11-16T15:00:32+00:00",
@@ -1003,26 +1073,6 @@
       "category": "storage"
     },
     {
-      "title": "Countering China’s College Campus Playbook",
-      "url": "https://thediplomat.com/2026/11/countering-chinas-college-campus-playbook/",
-      "date": "2026-11-16T14:18:00+00:00",
-      "author": "Audrye Wong",
-      "summary": "China’s efforts to gain a strategic foothold in universities require responses that establish needed safeguards while preserving the innovative spirit of U.S. higher education.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "The Geopolitics of Eurasia’s Newest Proposed Route: The CASA Railway Project",
-      "url": "https://thediplomat.com/2026/11/the-geopolitics-of-eurasias-newest-proposed-route-the-casa-railway-project/",
-      "date": "2026-11-16T14:10:00+00:00",
-      "author": "Sabina Insebayeva and Yernar Serik",
-      "summary": "In September, Kazakhstan, Uzbekistan and the UAE signed a memorandum to develop a railway bridging Central and South Asia.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "Over court objections, DOE issues 7th order to keep Michigan coal plant online",
       "url": "https://www.utilitydive.com/news/over-court-objections-doe-issues-order-campbell-coal-plant/874733/",
       "date": "2026-11-16T13:56:20+00:00",
@@ -1033,16 +1083,6 @@
       "category": "policy"
     },
     {
-      "title": "Why Is Beijing So Determined to Pursue Reunification With Taiwan?",
-      "url": "https://thediplomat.com/2026/11/why-is-beijing-so-determined-to-pursue-reunification-with-taiwan/",
-      "date": "2026-11-16T13:54:00+00:00",
-      "author": "Kevin G. Cai",
-      "summary": "It's not about the First Island Chain, or semiconductors. There's a more basic interest at stake for the CCP.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "‘These men feel protected’: how Mexico’s first femicide squad is turning the tide on record killings",
       "url": "https://www.theguardian.com/global-development/2026/nov/16/femicide-crisis-mexico-judge-killed-my-mother-one-more-time",
       "date": "2026-11-16T13:00:01+00:00",
@@ -1051,16 +1091,6 @@
       "source": "The Guardian: Global development",
       "kind": "world",
       "category": "development"
-    },
-    {
-      "title": "How Xi Sees a Weakened Trump",
-      "url": "https://foreignpolicy.com/2026/11/16/trump-xi-meeting-shenzhen-apec-midterms-congress-us-china-relations/",
-      "date": "2026-11-16T12:00:55+00:00",
-      "author": "Deng Yuwen",
-      "summary": "Political instability is more danger than opportunity for Beijing.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
     },
     {
       "title": "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
@@ -1121,26 +1151,6 @@
       "source": "UN News",
       "kind": "world",
       "category": "development"
-    },
-    {
-      "title": "Funding cuts raise risks of trafficking and exploitation for refugee children",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168811",
-      "date": "2026-11-16T12:00:00+00:00",
-      "author": "",
-      "summary": "Sharp reductions in humanitarian funding are putting refugees, particularly children, at increased risk of being trafficked, exploited or abused, while the systems that protect them are weakening.",
-      "source": "UN News",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "The rising cost of ambition in Saudi Arabia’s Vision 2030",
-      "url": "https://www.atlanticcouncil.org/blogs/menasource/the-rising-cost-of-ambition-in-saudi-arabias-vision-2030/",
-      "date": "2026-11-16T11:27:26+00:00",
-      "author": "Khalid Azim",
-      "summary": "The Iran war and the rising cost of global capital demand a reassessment of the assumptions underlying how Vision 2030 is executed.",
-      "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
     },
     {
       "title": "After the death of a literary giant in Africa, why could I find no copies of his book?",
@@ -1283,16 +1293,6 @@
       "category": "development"
     },
     {
-      "title": "A new vision for the Vertical Corridor: European energy security through infrastructure optimization",
-      "url": "https://www.atlanticcouncil.org/in-depth-research-reports/report/a-new-vision-for-the-vertical-corridor-european-energy-security-through-infrastructure-optimization/",
-      "date": "2026-11-15T12:20:24+00:00",
-      "author": "Benjamin L. Schmitt and Uliana Certan",
-      "summary": "Europe's Vertical Corridor region is well positioned to reverse its historical Soviet infrastructure legacy and natural gas dependency, while supporting broader European energy security.",
-      "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "COP31: National Oil Companies Must Lead Global Shift Away from Fossil Fuels, Says NRGI Expert",
       "url": "https://www.ipsnews.net/2026/11/cop31-national-oil-companies-must-lead-global-shift-away-from-fossil-fuels-says-nrgi-expert/",
       "date": "2026-11-14T13:52:22+00:00",
@@ -1403,11 +1403,11 @@
       "category": "development"
     },
     {
-      "title": "The Case for a Trump-Xi-Putin Summit",
-      "url": "https://www.foreignaffairs.com/united-states/case-trump-xi-putin-summit",
+      "title": "The World’s Last Chance for Peace",
+      "url": "https://www.foreignaffairs.com/spain/pedro-sanchez-world-last-chance-peace-avert-world-war",
       "date": "2026-11-13T05:00:00+00:00",
-      "author": "Charles Kupchan",
-      "summary": "In just a few days’ time, U.S. President Donald Trump, Chinese leader Xi Jinping, and Russian President Vladimir Putin could be holding a three-way summit on the sidelines of next week’s Asia-Pacific Economic Cooperation meeting in…",
+      "author": "Pedro Sánchez",
+      "summary": "How to avert a new world war.",
       "source": "Foreign Affairs",
       "kind": "world",
       "category": "geopolitics"
@@ -1423,11 +1423,11 @@
       "category": "geopolitics"
     },
     {
-      "title": "The World’s Last Chance for Peace",
-      "url": "https://www.foreignaffairs.com/spain/pedro-sanchez-world-last-chance-peace-avert-world-war",
+      "title": "The Case for a Trump-Xi-Putin Summit",
+      "url": "https://www.foreignaffairs.com/united-states/case-trump-xi-putin-summit",
       "date": "2026-11-13T05:00:00+00:00",
-      "author": "Pedro Sánchez",
-      "summary": "How to avert a new world war.",
+      "author": "Charles Kupchan",
+      "summary": "In just a few days’ time, U.S. President Donald Trump, Chinese leader Xi Jinping, and Russian President Vladimir Putin could be holding a three-way summit on the sidelines of next week’s Asia-Pacific Economic Cooperation meeting in…",
       "source": "Foreign Affairs",
       "kind": "world",
       "category": "geopolitics"
