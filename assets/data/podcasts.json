@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T02:56:07+00:00",
+  "updatedAt": "2026-11-18T05:11:31+00:00",
   "shows": [
     {
       "spotifyId": "0GT5BuD33AiPnqOzQE7YAE",
@@ -11,7 +11,8 @@
       "latest": {
         "title": "AI in energy: How can new technology strengthen the resilience of energy systems? | From ADIPEC in Abu Dhabi",
         "date": "2026-11-12",
-        "image": "https://content.production.cdn.art19.com/images/eb/77/cd/8a/eb77cd8a-67ce-411b-bf0e-c526711bc1aa/3c13de2a603359e3c72edb66785394ca3cd8d31691034f741cce62e4014c8c528ce94e6791256bba4882574c2084270cc5b6d84e7d332025e5434515d4927872.jpeg"
+        "image": "https://content.production.cdn.art19.com/images/eb/77/cd/8a/eb77cd8a-67ce-411b-bf0e-c526711bc1aa/3c13de2a603359e3c72edb66785394ca3cd8d31691034f741cce62e4014c8c528ce94e6791256bba4882574c2084270cc5b6d84e7d332025e5434515d4927872.jpeg",
+        "notes": "The first ADIPEC special examined how conflict in the Middle East has put energy security under pressure, and how the industry is responding. This second episode looks at the role of innovation: can new technologies help energy systems withstand disruption? It is an increasingly urgent question, as new threats emerge to supply chains, energy installations and networks. To discuss that issue, host Ed Crooks is joined by four energy executives working on different aspects of innovation in energy. Per Erik Holsten is President of ABB Energy Industries. Chris Rezendes is the Chief Business Officer of Context Labs. Jim Masso is the President and CEO of Process Automation at Honeywell Technologies. And Bruno Melles is the Executive Vice President and CEO of Hitachi Energy’s Transformers business. Per Erik argues that resilience, affordability and sustainability must be pursued together, and one way to do that is to get more output from existing energy assets. He talks about the optimization technologies that can achieve that, and the role of AI. Processes can become increasingly autonomous, he says, but progress will be slower in safety-critical applications. The model must be “people in charge of AI rather than AI in charge of people.” Chris makes the case that AI depends on trustworthy data: energy companies need to establish the provenance and consistency of operational information before relying on model outputs. He also explains how credible, asset-level emissions data can inform investment and commercial decisions. One key example for Context Labs is emissions data. It recently acquired a carbon tracking software platform called Kinertic. Jim says industrial AI can help operators assess complex situations and make better decisions, but critical processes need clear guardrails. He says there are significant cost savings that can be made. Honeywell’s work at the Dangote refinery in Nigeria, for example, is targeting savings of more than 29 cents per barrel, which means a material difference in a business that generally operates on tight margins. Bruno describes how data centers, electrification and renewables are driving demand for transformers, putting strain on supply chains. Hitachi Energy is expanding capacity, but customers still cannot expect equipment at short notice. The best way to secure essential equipment, he says, is to plan for future demand through long-term partnerships. Even if AI demand moderates, broader electrification trends will keep power demand rising, he says. The test for the industry is whether it can keep critical energy systems reliable as demand grows. This episode of the Energy Gang is brought to you by ADIPEC, the world's largest energy event, which took place in Abu Dhabi from 2-5 November. As demand rises and global energy markets evolve, ADIPEC 2026 brought together governments, industry, investors and technology leaders to accelerate investment, advance technology and build the partnerships needed to meet today's energy needs while building a more resilient system for tomorrow. Discover more at adipec.com See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info ."
       },
       "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fa309acf7647e36db84d1053b"
     },
@@ -25,9 +26,10 @@
       "latest": {
         "title": "Ethan Zindler and Lily Bermel on Clean Energy's Headwinds and Tailwinds",
         "date": "2026-11-17",
-        "image": "https://static.libsyn.com/p/assets/3/d/d/0/3dd0245c6a06d0c0a04421dee9605cbd/Final-Columbia-Energy-Exchange-Cover-Art-01.png"
+        "image": "https://static.libsyn.com/p/assets/3/d/d/0/3dd0245c6a06d0c0a04421dee9605cbd/Final-Columbia-Energy-Exchange-Cover-Art-01.png",
+        "notes": "Earlier this month, US voters handed Democrats control of both chambers of Congress and flipped several governorships across the country. The dramatic shift in power raises big questions about where US energy policy is headed. Following the passage of the One Big Beautiful Bill Act—which ended or cut back many of the Inflation Reduction Act's clean energy tax credits—analysts warned that new clean power additions could fall by more than half over the next decade. But the buildout has held up better than many expected. Last year, the US added more new power capacity than it had in over two decades, most of it coming from clean energy sources. Rising electricity demand, much of it from data centers, keeps pushing developers to build. Recent analyses suggest the clean energy buildout will keep growing, even without the full set of tax incentives. So what does the incoming Congress mean for clean energy policy? Should Democrats spend their political capital on restoring the tax credits or on clearing bottlenecks like permitting? With hyperscalers heavily relying on new natural gas capacity, how can policymakers make the case for clean energy heading into 2028? Today on the show, Jason Bordoff talks to Ethan Zindler and Lily Bermel about how Trump administration policies have impacted the state of clean energy in the US. Ethan Zindler is a non-resident fellow at the Center on Global Energy Policy (CGEP) and leads country and policy research at BloombergNEF (BNEF). Lily Bermel is a visiting fellow at CGEP and also consults with climate philanthropies on clean industrial strategy. Credits: Hosted by Jason Bordoff, Bill Loveless, and Daniel Sternoff. Produced by Mary Catherine O'Connor, Dara Diamond, and Kyu Lee. Engineering by Gregory Vilfranc."
       },
-      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fd49d0f90b31a78108ce9890f"
+      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fd49d0f90b31a78108ce9890f"
     },
     {
       "spotifyId": "5rHwnJEjFRnivIdpWwnZyZ",
@@ -39,7 +41,8 @@
       "latest": {
         "title": "Al Gore: Fossil fuels are losing their two main markets",
         "date": "2026-11-17",
-        "image": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/37c6caa7-d377-4c08-b479-af9d012ed5ad/a7faefb0-28ec-4b1d-85f3-af9d012ed5c9/image.jpg?t=1675362156&size=Large"
+        "image": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/37c6caa7-d377-4c08-b479-af9d012ed5ad/a7faefb0-28ec-4b1d-85f3-af9d012ed5c9/image.jpg?t=1675362156&size=Large",
+        "notes": "At COP31, the absence of an official US delegation — following the country’s withdrawal from the Paris Agreement — has been notable. This week on Zero , Akshat Rathi asks former US Vice President Al Gore what it would take to bring the world’s largest economy back into the climate fold, whether it can regain credibility on climate action both domestically and internationally and what the “blue wave” at the recent US midterms means for climate politics. Explore further: Watch the video of this conversation, recorded at the Bloomberg Green event at COP31: https://www.youtube.com/watch?v=jOJHEU5uIJs Follow all of Bloomberg Green's coverage from COP31: https://www.bloomberg.com/green Zero is a production of Bloomberg Green . This episode was produced by Julia Press and Oscar Boyd. Special thanks to Sommer Saadi and Alyssa McDonald. Thoughts or suggestions? Email us at zeropod@bloomberg.net. For more coverage of climate change and solutions, visit https://www.bloomberg.com/green . See omnystudio.com/listener for privacy information."
       },
       "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f6bec58495d75ca878579150d"
     },
@@ -53,9 +56,10 @@
       "latest": {
         "title": "[Episode #287] – Clearing the Connection Queue",
         "date": "2026-11-12",
-        "image": "https://cdn.xenetwork.org/ets/wp-content/uploads/sites/2/powerpress/ETS-PodcastArtwork-full.png"
+        "image": "https://cdn.xenetwork.org/ets/wp-content/uploads/sites/2/powerpress/ETS-PodcastArtwork-full.png",
+        "notes": "Around the world, renewable energy and storage projects are waiting years in queues before they can come onto the grid. Even as the energy transition accelerated, many of these queues continued to run on the conventional first-come, first-served basis. So speculative proposals could get ahead of projects that were practical to build, providing a headwind on how fast the transition could move. Britain is one example, where in December 2025, its National Energy System Operator (NESO) told a committee of Parliament that 70% of the projects in its queue would never be built. Nine months later, Britain’s Minister for Energy told another committee that the connection dates many projects had been holding were “a work of fiction in most cases.” What would it take to get real projects onto the grid faster, so that they can cut carbon emissions and make our energy supply more sustainable? A version of that question is under debate in the US as this episode is released. Congress is considering a wide-ranging bill on permitting and the power grid, the Bipartisan American Affordability and Jobs Act (BAAJA), which, among other changes, would reform interconnection queues to discourage speculative projects. In this episode of our documentary series, we look at the reforms and proposals in Britain, the US, Europe and Australia for getting projects through these queues faster and building the power lines they need, drawing on public recordings and episodes featuring conversations with our host Chris Nelder. We’ll hear why, nearly a decade ago, a state utility commission could tell a company that wanted to build a multi-state power line that it couldn’t even apply for a permit, because it had no customers in that state. And we’ll hear about tenants in the German city of Neumünster who have spent two years looking at the solar panels on the roofs of their buildings, still waiting for the local grid operator to connect them. Featured in this episode , with titles as they were at the time of each recording: Public recordings : excerpts from official proceedings, in the order we hear them: Claire Dykta , Director of Strategy and Policy at NESO, giving evidence to the UK Parliament’s Environmental Audit Committee, December 3, 2025 Michael Shanks MP , UK Minister of State for Energy, giving evidence to the Energy Security and Net Zero Committee, September 2, 2026 Tristan Kessler , Office of Energy Policy and Innovation (since disbanded), Federal Energy Regulatory Commission, presenting the draft final rule that became Order No. 2023 at FERC’s open meeting, July 27, 2023 Rob Gramlich , founder and president of Grid Strategies, and Michael Skelly , co-founder and CEO of Grid United, testifying at the House Energy and Commerce Subcommittee on Energy hearing “Wires, Rates, and States,” chaired by Bob Latta , Chairman of the Subcommittee on Energy, May 13, 2026 The two committee recordings are by the UK Parliamentary Recording Unit, used under license, with our thanks. The FERC meeting and the House hearing are public domain. Energy Transition Show episodes : excerpts, in the order we hear them: Liza Reed , research manager for low carbon technology policy at the Niskanen Center (currently its Vice President of Policy), on Episode #161 (2021) Alexandra Klass , Distinguished McKnight University Professor at the University of Minnesota Law School (currently at the University of Michigan Law School), on Episode #50 (2017) Ari Peskoe , Director of the Electricity Law Initiative at Harvard Law School, on Episode #227 (2024) Tara Connolly , Programme Lead for Energy Markets and Grids at Beyond Fossil Fuels, on Episode #279 (2026) Chris Bowen , Australia’s Minister for Climate Change and Energy, and Tristan Edis , Director of Analysis and Advisory at Green Energy Markets (currently its CEO), on Episode #246 (2024) Sources and licenses for this episode, including the full recordings, with our excerpt times."
       },
-      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f21bb9da473d0d1a97a3f6090"
+      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f21bb9da473d0d1a97a3f6090"
     },
     {
       "spotifyId": "3dYMY5T3UZJLDKFQaA3tFS",
@@ -81,9 +85,10 @@
       "latest": {
         "title": "The insider’s playbook for new nuclear projects",
         "date": "2026-11-12",
-        "image": "https://megaphone.imgix.net/podcasts/d2f3b172-3bc3-11ec-a455-6f999fef6a5d/image/fbec5c0a5554c2cf93735bd48e4c42a1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+        "image": "https://megaphone.imgix.net/podcasts/d2f3b172-3bc3-11ec-a455-6f999fef6a5d/image/fbec5c0a5554c2cf93735bd48e4c42a1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "notes": "As the nuclear renaissance comes into focus in the U.S., the sector’s true bottleneck might not be advanced reactors, but its lack of heavy-lifting project developers. These are the companies who secure and permit sites, navigate the interconnection queue, line up offtakers, and assemble a team of both savvy EPCs and experienced plant operators. In this episode of Catalyst, Shayle Kann sits down with David Faherty, co-founder of Elementl Power, to walk through the soup-to-nuts playbook for delivering new nuclear projects in the United States. David explains everything from how his team approaches greenfield site screening, why early-stage development capital remains the hardest money to raise, and how portfolio-level structuring could unlock nuclear's elusive learning curve. Shayle and David also discuss: - What makes a viable nuclear site, from seismic and geotechnical screenings to community engagement and interconnection dynamics - Why 20- to 25-year investment-grade offtakes from hyperscalers are critical for debt financing - Why Elementl opts for GE Hitachi’s BWRX-300 SMR over Gen IV startup reactor concepts - Lessons learned from Vogtle — from the design phase and regulatory alignment to workforce retention - How standardizing the nuclear island can help developers cut costs Note: EIP is an investor in Elementl, where Shayle sits on the board. - Catalyst : The global geopolitics of nuclear fuel - Catalyst : A blueprint for scalable fusion power - Catalyst : Building a domestic nuclear fuel supply chain - Catalyst : The path to market for new nuclear reactors - Open Circuit : Is commercial fusion finally near? - Latitude Media : DOE Is dedicating $17.5 billion in loans to the nuclear supply chain Credits: Hosted by Shayle Kann. Produced and edited by Max Savage Levenson. Original music and engineering by Sean Marquand. Stephen Lacey is our executive editor. Catalyst is brought to you by GridBeyond. GridBeyond is the world’s leading technology platform for managing distributed and flexible energy resources. Learn more by visiting GridBeyond.com . Catalyst is brought to you by Antenna Group, the strategic communications and marketing partner behind the biggest names in energy, climate, and infrastructure. For three decades, Antenna has helped breakout companies amplify their stories, build reputation, differentiate from the competition, define new categories and accelerate growth. Learn more at antennagroup.com . Catalyst is brought to you by EnergyHub. Peak season puts every grid to the test — and the utilities that pass are the ones that built flexible capacity before they needed it. EnergyHub works with more than 230 utilities to coordinate over 2.6 million DERs and more than 3.6 gigawatts of dispatchable flexibility through a single platform designed to perform when it counts most. See what that looks like at EnergyHub.com ."
       },
-      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f98a4b7551e425291e700098a"
+      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f98a4b7551e425291e700098a"
     },
     {
       "spotifyId": "2HZmokyIl2h4UuiO1qx5XP",
@@ -95,9 +100,10 @@
       "latest": {
         "title": "Could distributed computing solve AI's power crunch?",
         "date": "2026-11-17",
-        "image": "https://megaphone-images.spotifycdn.com/podcasts/7ec68a0c-e24b-11ef-b277-7b3d3c3c73b9/image/796dd136afa5782eae8ad683dd946957.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+        "image": "https://megaphone-images.spotifycdn.com/podcasts/7ec68a0c-e24b-11ef-b277-7b3d3c3c73b9/image/796dd136afa5782eae8ad683dd946957.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "notes": "We’ve been sold a very specific story about AI data centers: bigger is always better. But is that true? There’s no question that we need a lot more computation to push the limits of large language models. But there’s a new debate emerging around how it should get built. Over the last year, distributed computing has gained attention as a possible solution to the challenges facing data centers. They’re being framed as a way to avoid costly grid upgrades, reduce local opposition, use empty office buildings, and even give homeowners a financial stake in AI. It’s turning into a distributed energy story. Companies like Span, Sunrun, Arcadia, and Generate Capital are exploring residential and commercial compute nodes paired with solar and batteries. Others, like Perimeter, are turning old office buildings into data centers. So far, the market is very small. But what would it take to scale these models? And are there hidden impacts on the grid that we need to consider? This week, Jim Kapsis, CEO of the Ad Hoc Group, joins us to explore the concept. He recently wrote about distributed data centers for The Gist newsletter. Plus, we talk about the fallout from Jensen Huang’s departure from NVIDIA, and explore some storylines in the wake of the U.S. midterm elections. Open Circuit is brought to you by EnergyHub. EnergyHub works with more than 230 utilities to coordinate over 2.6 million DERs and more than 3.6 gigawatts of dispatchable flexibility through a single platform designed to perform when it counts most. See what that looks like at EnergyHub.com . Open Circuit is brought to you by Giving Green. Giving Green researches the climate nonprofits best positioned for the next big climate win, and sends 100% of every dollar donated to the Giving Green Fund to them. Make your first gift before 2027, and it’s matched up to $500. Go to GivingGreen.earth/Circuit or select Open Circuit at checkout. Open Circuit is brought to you by Everyday Electric. Everyday Electric simplifies savings at home, helping support a more reliable, affordable grid. Operating the country’s largest residential VPP, it coordinates 6+ GW of capacity across connected products. Learn more at everydayelectric.com ."
       },
-      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f82393edffecf4fe4af073720"
+      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f82393edffecf4fe4af073720"
     },
     {
       "spotifyId": "19HNFf7SZ2ox90YqVC4RUt",
@@ -109,9 +115,10 @@
       "latest": {
         "title": "Clean firm power’s next test: Can nuclear and geothermal scale economically?",
         "date": "2026-11-17",
-        "image": "https://content.production.cdn.art19.com/images/b6/56/1c/53/b6561c53-206c-4247-a10b-24ba827509b0/c2860f4a864766abfde003250fb48d283b0bd02e55fd77f8d26e983ada7d82f5ccf8d280d42ff7eadf18b30e0ac0b9005c949c6efcc5f5c4f73f1d69c44a3e15.jpeg"
+        "image": "https://content.production.cdn.art19.com/images/b6/56/1c/53/b6561c53-206c-4247-a10b-24ba827509b0/c2860f4a864766abfde003250fb48d283b0bd02e55fd77f8d26e983ada7d82f5ccf8d280d42ff7eadf18b30e0ac0b9005c949c6efcc5f5c4f73f1d69c44a3e15.jpeg",
+        "notes": "Rising electricity demand, especially from AI and data centers, has brought nuclear and geothermal back into focus as sources of clean, firm power. But demand, corporate partnerships and policy support are not the same as projects delivering affordable electricity on time. The central question is whether both technologies can turn renewed momentum into repeatable deployment. Host Caitlin Connolly, Senior Analyst at Wood Mackenzie, is joined by Jenifer Shafer, professor of chemistry and Ben L. Fryrear Presidential Chair at Colorado School of Mines, and Anna Littlefield, Geothermal and Low Carbon Technologies Program Manager at the Payne Institute for Public Policy. They compare what is driving this moment and where the routes to scale diverge. On nuclear, uprates and restarts could add capacity sooner than new builds, while small modular reactors are more likely to arrive in the 2030s. Shafer explains how fuel recycling could improve fuel security and reduce the amount of material requiring disposal, but would not remove the need for a repository. Cost, safeguards and social license remain central challenges, while progress through the Nuclear Regulatory Commission is a key signal to watch. Enhanced geothermal systems aim to reach heat in deep rock beyond the limited areas served by conventional hydrothermal resources. Drilling and reservoir engineering have advanced, but the test now is whether projects can sustain heat flow economically over time while managing water loss, scaling, corrosion and reservoir performance. Littlefield points to power purchase agreements scheduled for the 2028 to 2030 period as an important test of delivery, not yet proof of scale. Colorado’s permitting and development efforts, including work to assess whether treated oil and gas produced water can support geothermal circulation, may offer lessons for other states. The technologies face different constraints: nuclear must address fuel, waste and project execution, while geothermal must prove durable reservoirs and manage water and induced-seismicity concerns. Both also depend on community trust. The guests argue that developers need to listen to local concerns and share monitoring data, rather than assume technical explanations alone will win support. Over the next five years, the clearest evidence will be projects that reach operation and perform as promised, alongside nuclear licensing progress and geothermal’s ability to deliver contracted power reliably. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info ."
       },
-      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fa028ee82fcccb4d5577a5cd4"
+      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fa028ee82fcccb4d5577a5cd4"
     },
     {
       "spotifyId": "4FDIRo16s1C9Fpc9v1HyGi",
@@ -123,7 +130,8 @@
       "latest": {
         "title": "255. Digital Twins for Grids - Nov26",
         "date": "2026-11-16",
-        "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/fa1c63cafe4125f965be053136455eca.jpg"
+        "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/fa1c63cafe4125f965be053136455eca.jpg",
+        "notes": "Geographic Information System (GIS) are used by all Infrastructure managers to map where physical assets are. But they are mostly a glorified version of Google Maps. Here come digital twins, where new systems seemingly integrate and unifies fragmented software tools for GIS mapping, engineering design, asset records, and weather tracking. Digital Twins sit at the intersection of 3D geospatial reality modelling, structural engineering, and utility asset management. And Neara is one of the fastest growing start-ups in that segment, once dominated by the Siemens and Schneider Electric. Working with Utlities take time, as you go from Pilot to Pilot and certain are even reluctant to know what is going on in their grid, for fear of having to do something about it. And still, Neara has achieved massive progress giving visibility to its clients (SoCal, Centerpoint, Scottish Power, ESB, Ausgrid). Originally from Australia and now global, Neara has reached a valuation of almost 1bnUSD after a series of successful capital raises. Gerard and Laurent bring in Taco Engelaar, Senior Vice President & Managing Director at Neara. Named one of Time Magazine’s 100 Most Influential Companies in 2024, Taco leads Neara’s team and operations in the UK and Europe, building partnerships and developing relationships across the continent. He also oversees Neara’s international expansion in the EMEA & LATAM regions. With Taco, we discuss the benefits of digital twins, how they are integrated within clients, which are slow and conservative, and how they are saving the grids by optimising Maintenance, reducing the need for new built, and are accelerating the connection of datacenters."
       },
       "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fb0d067b94164ba6fdb871390"
     },
@@ -137,7 +145,8 @@
       "latest": {
         "title": "Azolla Ventures: Using Catalytic Capital to Fund Novel Climate Technologies",
         "date": "2026-11-11",
-        "image": "https://megaphone.imgix.net/podcasts/31eee1e6-dc7e-11f1-a735-47bb974df0ef/image/56906ea128f9619665c2d7592f80832c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+        "image": "https://megaphone.imgix.net/podcasts/31eee1e6-dc7e-11f1-a735-47bb974df0ef/image/56906ea128f9619665c2d7592f80832c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "notes": "Many of the technologies needed to address climate change are not easy to fund with the traditional venture capital model that is developed around software. They can require significant upfront investment, take years to reach commercial scale, and operate in sectors where markets and regulations are still evolving.Amy Duffuor, Co-Founder and General Partner at Azolla Ventures, joins Climate Rising to explain how catalytic capital can help bridge that financing gap. She describes Azolla’s approach to investing in early-stage climate technologies that have the potential for large-scale emissions reductions but may be too early, capital-intensive, or unconventional for traditional venture investors. Amy shares how Azolla sources and evaluates investments, why the firm prioritizes additionality and freestanding unit economics when choosing what to fund, and how it supports founders beyond providing capital. She also shares examples from long-duration energy storage company Noon Energy and geothermal company Zanskar, and discusses emerging opportunities in super pollutants, water, and other underfunded areas of climate technology. Note: guest host John Mulliken is both an HBS professor and an Operating Partner at Azolla Ventures."
       },
       "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f6fbf2f7d38e7d431da685334"
     },
@@ -151,9 +160,10 @@
       "latest": {
         "title": "Oil and Gas This Week | Oct 28 2026 | Ep 413",
         "date": "2026-10-28",
-        "image": "https://feeds.oggn.com/wp-content/uploads/2026/04/ogtw-2026.jpg"
+        "image": "https://feeds.oggn.com/wp-content/uploads/2026/04/ogtw-2026.jpg",
+        "notes": "Sponsored by NavVis – Laser Scanning Solutions & Digital Twin Technology News Stories Russia to Send First Diesel Tanker to U.S. on Thursday https://oilprice.com/Latest-Energy-News/World-News/Russia-to-Send-First-Diesel-Tanker-to-US-on-Thursday.html S&P Global Warns Hormuz Energy Shock Could Become a Global Food Crisis https://oilprice.com/Energy/Energy-General/SP-Global-Warns-Hormuz-Energy-Shock-Could-Become-a-Global-Food-Crisis.html As BP Leaves the North Sea, These Independents Are Buying In https://oilprice.com/Energy/Energy-General/As-BP-Leaves-the-North-Sea-These-Independents-Are-Buying-In.html Kinder Morgan’s Natural Gas Pipeline Backlog Hits Record $13.2 Billion https://oilprice.com/Company-News/Kinder-Morgans-Natural-Gas-Pipeline-Backlog-Hits-Record-132-Billion.html Elon Musk’s gas strategy shows how the US market is changing https://www.woodmac.com/blogs/energy-pulse/elon-musks-gas-strategy-shows-how-the-us-market-is-changing/ Cenovus acquisition of Athabasca Oil Corporation deepens large-cap concentration in Canadian oil sands https://www.woodmac.com/press-releases/cenovus-acquisition-of-athabasca-oil-corporation-deepens-large-cap-concentration-in-canadian-oil-sands/ Plastic roads in Kenya: Turning waste into opportunity https://www.hydrocarbonprocessing.com/news/2026/10/plastic-roads-in-kenya-turning-waste-into-opportunity/ Galveston (U.S.) approves $240-MM Project Seawolf LNG project https://www.hydrocarbonprocessing.com/news/2026/10/galveston-us-approves-240-mm-project-seawolf-lng-project/ Phillips 66 locks out union workers at New Jersey (U.S.) refinery after contract expires https://www.hydrocarbonprocessing.com/news/2026/10/phillips-66-locks-out-union-workers-at-new-jersey-us-refinery-after-contract-expires/ Venture Global Targets 10 GW of Gas-Fired Power for AI Data Centers https://energynewsbeat.co/big-oil-companies/venture-global-targets-10-gw-of-gas-fired-power-for-ai-data-centers/ Students Need Energy Literacy https://www.realcleareducation.com/articles/2026/08/09/students_need_energy_literacy_1199362.html Brought to you on OGGN , the largest and most listened to podcast network for the oil and energy industry. Don’t forget to ask a question for our next First Friday Q&A . You ask the questions and we answer them. Enjoying the show? Leave us a review here . Sign up for OGGN newsletters here . Visit the OGGN Merch store here . Curious about podcast advertising? Learn more here . The Weekly Rig Count by Baker Hughes https://rigcount.bakerhughes.com/rig-count-overview More from OGGN … Podcasts LinkedIn Group LinkedIn Company Page"
       },
-      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f11a11c1bdb4e15150fc09c44"
+      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f11a11c1bdb4e15150fc09c44"
     },
     {
       "spotifyId": "3vCDodm2QxZXsZFzdv1mPV",
@@ -165,7 +175,8 @@
       "latest": {
         "title": "Is China Aging Out of Power? A Conversation With Carl Minzner",
         "date": "2026-11-12",
-        "image": "https://pbcdn1.podbean.com/imglogo/image-logo/13951093/FAI_Logo_2023.jpg"
+        "image": "https://pbcdn1.podbean.com/imglogo/image-logo/13951093/FAI_Logo_2023.jpg",
+        "notes": "In 2021, China’s population hit a peak of 1.4 billion and then rapidly started to decline. This demographic picture presents enormous challenges in its own right. But Carl Minzner stresses in a new essay in Foreign Affairs that what makes China’s future “especially bleak” is the convergence of a demographic decline and political paralysis. This, Minzner argues, is the real story of twenty-first-century China. That convergence will define Chinese foreign policy, threaten Chinese stability, and call into question the future of Chinese Communist Party rule. Dan Kurtz-Phelan spoke with Minzner, a scholar of China at Fordham University and the Council on Foreign Relations, about the drivers of these demographic trends; about how and why Xi Jinping and Chinese policymakers are making the problem worse rather than better; about what those problems portend for Chinese power in the decades ahead; and about why all of this should serve as a warning for the United States. You can find sources, transcripts, and more episodes of The Foreign Affairs Interview at https://www.foreignaffairs.com/podcasts/foreign-affairs-interview ."
       },
       "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f9ed6c133cba9b15fbc0e23ab"
     },
@@ -179,7 +190,8 @@
       "latest": {
         "title": "A General and an Admiral Discuss the Pentagon Purge",
         "date": "2026-11-11",
-        "image": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog7700361/CFR_TPI_261111_ApplePodcasts-Website_3000x3000.jpeg"
+        "image": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog7700361/CFR_TPI_261111_ApplePodcasts-Website_3000x3000.jpeg",
+        "notes": "This episode unpacks Secretary of Defense Pete Hegseth's purge of senior military leaders and what it means for civilian control, retention, and the armed forces. Host: James M. Lindsay , Mary and David Boies Distinguished Senior Fellow in U.S. Foreign Policy, CFR Guest: Charles Bolden , retired Marine Corps major general and former NASA administrator Michael E. Smith , retired rear admiral and president and founder of National Security Leaders for America We Discuss: Whether Secretary Hegseth's removal of roughly two dozen senior officers marks a break with earlier approaches to turnover in the senior military ranks. How the military screens and grooms officers for flag rank over decades, and Bolden’s warning that “cutting off the head of the snake” does generational damage. What blocked or delayed promotions for more than eighty flag officers—more than half of them women or Black—signal about the politicization of a traditionally nonpartisan institution. Whether a secretary of defense can lawfully overrule or reshape a promotion board, and what civilian control of the military actually means. Whether there is merit to the claim that the United States has too many flag officers, and how Hegseth's proposed 20 percent cut differs from past drawdowns. What Bolden’s personal experience navigating discrimination in his path to the Naval Academy says about what an inclusive service should look like. Why retention and recruiting may suffer for years, and whether the damage to the officer corps can be undone. What advice two retired flag officers would give young people weighing military service, and where they still find reasons for confidence in the service. For an episode transcript and show notes, visit The President’s Inbox at: https://www.cfr.org/podcasts/presidents-inbox/a-general-and-an-admiral-discuss-the-pentagon-purge Opinions expressed on The President’s Inbox are solely those of the host or guests, not of CFR, which takes no institutional positions on matters of policy."
       },
       "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1ffb2a2e907401ba52cfcae643"
     },
@@ -193,9 +205,10 @@
       "latest": {
         "title": "How Democrats Will Wield Congressional Power",
         "date": "2026-11-12",
-        "image": "https://megaphone.imgix.net/podcasts/fd576844-de36-11f1-8d4c-a3d1b342ba3c/image/33b736c98c1a2e3fc065dca47340b851.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+        "image": "https://megaphone.imgix.net/podcasts/fd576844-de36-11f1-8d4c-a3d1b342ba3c/image/33b736c98c1a2e3fc065dca47340b851.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "notes": "When Democrats take over the House and Senate in January, how will they use their new powers, and what foreign-policy issues will they prioritize? Representative Jason Crow just won reelection in Colorado, and helped lead the selection of Democratic midterm candidates and direct their battleground and campaign strategy. He also serves on the House Armed Services and Intelligence Committees. Plus, Ravi shares his read on the impeachment effort against Defense Secretary Pete Hegseth. Kori Schake: Hegseth’s Leadership Has Damaged the Pentagon Christian Caryl: Why Hegseth Should Go FP Staff: ‘Sabotage’: Read Hegseth’s Fiery Speech Against His Impeachment Ravi Agrawal: The Beginning of the End of Trumpism Learn more about your ad choices. Visit megaphone.fm/adchoices"
       },
-      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab6772ab000015beed5c50111f498fe20a5c2d47"
+      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab6772ab000015beed5c50111f498fe20a5c2d47"
     },
     {
       "spotifyId": "44pekawcpIJ7KgwcFIgZDr",
@@ -207,7 +220,8 @@
       "latest": {
         "title": "Nvidia and Economic Espionage",
         "date": "2026-11-13",
-        "image": "https://megaphone.imgix.net/podcasts/7cfd9522-df5a-11f1-b864-2f9804953fa0/image/90e9f3e4c9c280cdea4f9f18eacc28cf.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+        "image": "https://megaphone.imgix.net/podcasts/7cfd9522-df5a-11f1-b864-2f9804953fa0/image/90e9f3e4c9c280cdea4f9f18eacc28cf.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "notes": "Nvidia lost around $200 billion in market value in a single day this week after its CEO, Jensen Huang, disclosed having an affair with a woman who may have been a Chinese intelligence asset. The story has broader implications for the global economy. Adam and Cameron discuss. And an update regarding the Ones and Tooze live show in Berlin. It has been postponed to March 15, 2027. Our apologies for any inconvenience. Follow the link for details. https://www.eventbrite.com/e/ones-and-tooze-live-in-berlin-tickets-2003735342348 Learn more about your ad choices. Visit megaphone.fm/adchoices"
       },
       "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f2e4ea4669769f7cea4d20ab6"
     },
@@ -221,9 +235,10 @@
       "latest": {
         "title": "After the US, how should middle powers work together?",
         "date": "2026-11-12",
-        "image": "https://assets.pippa.io/shows/62874923a6361b2c768dddbf/1763129187815-1d9f2d07-12ed-47ce-9374-06b5266f2113.jpeg"
+        "image": "https://assets.pippa.io/shows/62874923a6361b2c768dddbf/1763129187815-1d9f2d07-12ed-47ce-9374-06b5266f2113.jpeg",
+        "notes": "The world’s superpowers have become increasingly unpredictable. How should ‘middle powers’ such as Japan, Canada, Brazil and the UK react? Gideon speaks to Robin Niblett, warden of New College, Oxford, who is the former chief executive of Chatham House, and author of ‘After America: The End of the Old Order and the Rise of the Middle Powers'. They discuss how middle powers are co-ordinating on defence and trade, how necessity is drawing former rivals closer together, and why co-operation is worthwhile – even when it’s difficult. Clip: Face the Nation Further reading: Australia’s treasurer says middle powers should co-operate to avoid being hostage to geopolitics Sorry Carney, the world does need a great power with better manners Presented by Gideon Rachman. Produced by Mischa Frankl-Duval. The senior producer was Edwin Lane. Sound design is by Sean McGarrity and Samantha Giovinco. Read a transcript of this episode on FT.com Hosted on Acast. See acast.com/privacy for more information."
       },
-      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f783ff1f2abaabf8cd0269708"
+      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f783ff1f2abaabf8cd0269708"
     },
     {
       "spotifyId": "6wjEyU23yOwrPRBN93b3jV",
@@ -235,7 +250,8 @@
       "latest": {
         "title": "Special edition: Humanitarian lessons for today’s private sector partnerships",
         "date": "2026-11-16",
-        "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1497aef0dc85e1e6550cabcabe35cf75.jpg"
+        "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1497aef0dc85e1e6550cabcabe35cf75.jpg",
+        "notes": "In this special edition episode of This Week in Global Development, sponsored by Direct Relief, Devex’s Kate Warren speaks with Direct Relief’s Amy Weaver and Baxter Healthcare’s Verónica Arroyave. The conversation explores the shift from reactive emergency relief to proactive disaster preparedness, corporate philanthropy, and the role of the private sector in global humanitarian response. The discussion examines approaches to building supply chain resilience, utilizing “manufacture-to-donate” models, and developing trust-based partnerships that allow aid to deploy in hours instead of weeks."
       },
       "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fb6f17eb562c7c3dd9a6486c4"
     },
@@ -249,9 +265,10 @@
       "latest": {
         "title": "Can the World Learn to Cooperate on AI Safety?",
         "date": "2026-11-16",
-        "image": "https://static.libsyn.com/p/assets/c/9/a/7/c9a7a5a9fa3f6a5227a2322813b393ee/gloaaldispath.jpg"
+        "image": "https://static.libsyn.com/p/assets/c/9/a/7/c9a7a5a9fa3f6a5227a2322813b393ee/gloaaldispath.jpg",
+        "notes": "Next week, the United Nations is co-hosting the Bridgetown Summit on AI Safety in Barbados, bringing together governments, technology experts, and civil society to explore how countries can work together to make AI safer. A key goal is to establish common approaches to assessing AI risks and ensure that developing countries are not left behind in efforts to govern this rapidly evolving technology. I'm joined by Amandeep Singh Gill, the United Nations Under-Secretary-General and Special Envoy for Digital and Emerging Technologies, for a conversation about what's at stake in Barbados, the geopolitical challenges of international AI cooperation, and whether the world can agree on how to manage the risks of this transformative technology."
       },
-      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fe3d1aa0e4ba896deafbe45fe"
+      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fe3d1aa0e4ba896deafbe45fe"
     },
     {
       "spotifyId": "2dkl4yaeS78nY1m1Gttufg",
@@ -263,9 +280,10 @@
       "latest": {
         "title": "Who Is Responsible for Climate Change? with Melanie Robinson and Jonathan Beynon",
         "date": "2026-11-05",
-        "image": "https://static.libsyn.com/p/assets/4/1/0/c/410c7e1c4214f32888c4a68c3ddbc4f2/CGDpodcastlogo_square.png"
+        "image": "https://static.libsyn.com/p/assets/4/1/0/c/410c7e1c4214f32888c4a68c3ddbc4f2/CGDpodcastlogo_square.png",
+        "notes": "Ahead of COP31, CGD's Ian Mitchell speaks with colleague Jonathan Beynon and the World Resources Institute's Melanie Robinson about climate policy. Together they explore what the data say about countries' responsibility for emissions and climate change, discuss the financial implications, and share their wishlists for policy change at COP31 and beyond."
       },
-      "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f93825c292bf1e76b95c471fd"
+      "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f93825c292bf1e76b95c471fd"
     },
     {
       "spotifyId": "6VpV9ZlbQTzMngKilhJlZs",
@@ -277,7 +295,8 @@
       "latest": {
         "title": "PDB Afternoon Bulletin | November 17th, 2026: U.S. Intel Uncovers Iranian Dirty-Bomb Plot & Trump's AI Chip Crackdown",
         "date": "2026-11-17",
-        "image": "https://cdn-media.speakeasystudio.ai/uploads/general/01a01f88-f140-7740-aecd-eb99550c84f1/main.jpg?1787235464136"
+        "image": "https://cdn-media.speakeasystudio.ai/uploads/general/01a01f88-f140-7740-aecd-eb99550c84f1/main.jpg?1787235464136",
+        "notes": "In this episode of The PDB Afternoon Bulletin: U.S. intelligence warns that Iran may be plotting a dirty-bomb attack targeting senior Trump administration officials in Washington, raising concerns that Tehran could bring its conflict with America directly onto U.S. soil. The Trump administration moves to close a major loophole allowing Chinese companies to access advanced American AI chips, just days before a high-stakes meeting with China's president. To listen to the show ad-free, become a premium member of The President’s Daily Brief by visiting https://PDBPremium.com . Please remember to subscribe if you enjoyed this episode of The President’s Daily Brief. YouTube: youtube.com/@presidentsdailybrief HexClad: Take advantage of HexClad’s Best Sale of the Year and GET UP TO 52% Off by going to https://hexclad.com/PDB#hexcladpartner MOD: For a free consultation and get 10% off your first order PLUS free shipping with promo code PDB at https://mod.com Aura Frames: Life is amazing. Remember that with Aura Frames. Additional $5 off at https://auraframes.com/pdp/PDBwith Promo Code PDB For advertising inquiries, please email Advertising@redseatventures.com"
       },
       "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1ff7858a55a8ca07f98fb48d5a"
     }
