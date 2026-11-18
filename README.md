@@ -35,6 +35,11 @@ Apple's podcast directory (saved in `feed`; set it yourself to pin one) and upda
 episode's title, date and cover image. "Play" loads Spotify's player for the show, which starts on its newest
 episode. To add a show, add an entry with its `spotifyId` and leave `feed` empty.
 
+**AI episode summaries** — `scripts/summarize_episodes.py` (same workflow) asks Claude (`claude-opus-5-5`) for a
+1–2 sentence summary of each new episode, using only its show notes, and saves it in `latest.summary`. Each episode
+is summarized once. Needs an `ANTHROPIC_API_KEY` repository secret (Settings → Secrets and variables → Actions);
+without it, episodes show no summary.
+
 **Site name, description, topics** — `SITE` and `CATEGORIES` in `assets/js/data.js`.
 
 ## Running locally

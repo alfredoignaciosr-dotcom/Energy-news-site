@@ -22,6 +22,7 @@ from pathlib import Path
 OUT = Path(__file__).resolve().parent.parent / "assets" / "data" / "podcasts.json"
 UA = {"User-Agent": "Mozilla/5.0 (compatible; GridbaseFeedReader/1.0)"}
 ITUNES = "{http://www.itunes.com/dtds/podcast-1.0.dtd}"
+CONTENT = "{http://purl.org/rss/1.0/modules/content/}"
 
 
 def get(url, timeout=30):
@@ -84,7 +85,12 @@ def latest_episode(feed_url):
     title = re.sub(r"\s+", " ", html.unescape(newest.findtext("title", ""))).strip()
     if not title:
         return None
-    return {"title": title, "date": newest_date, "image": image if image.startswith("https://") else ""}
+    # Show notes, used for the AI summary (scripts/summarize_episodes.py).
+    notes = (newest.findtext(f"{CONTENT}encoded") or newest.findtext("description")
+             or newest.findtext(f"{ITUNES}summary") or "")
+    notes = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", notes))).strip()[:4000]
+    return {"title": title, "date": newest_date, "image": image if image.startswith("https://") else "",
+            "notes": notes}
 
 
 def main():
@@ -102,7 +108,11 @@ def main():
             if show["feed"]:
                 ep = latest_episode(show["feed"])
                 if ep:
-                    show["latest"] = {**ep, "image": ep["image"] or show.get("latest", {}).get("image", "")}
+                    old = show.get("latest", {})
+                    new = {**ep, "image": ep["image"] or old.get("image", "")}
+                    if old.get("summaryFor") == ep["title"]:  # same episode: keep its AI summary
+                        new.update(summary=old.get("summary", ""), summaryFor=old["summaryFor"])
+                    show["latest"] = new
                     print(f"OK   {show['name']}: {ep['date']} {ep['title'][:70]}")
                 else:
                     print(f"FAIL {show['name']}: no episodes in feed")

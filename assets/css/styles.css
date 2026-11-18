@@ -315,3 +315,12 @@ p { margin: 0 0 1em; }
 .show-top .show-mono { width: 64px; height: 64px; }
 .split.split-even { grid-template-columns: 1fr 1fr; }
 @media (max-width: 900px) { .split.split-even { grid-template-columns: 1fr; } }
+
+/* AI episode summaries */
+.ep-summary { margin: 0; color: var(--muted); font-size: .93rem; line-height: 1.5; }
+.show-latest .ep-summary { font-weight: 400; margin-top: 4px; }
+.podcast-band .ep-summary { color: #b9c4c0; }
+.ai-tag { display: inline-block; margin-right: 8px; padding: 1px 7px; border-radius: 999px; vertical-align: 1px;
+  font: 700 .65rem var(--sans); text-transform: uppercase; letter-spacing: .07em;
+  color: var(--accent); background: color-mix(in srgb, var(--accent) 14%, transparent); }
+.podcast-band .ai-tag { color: #34c58b; background: rgba(52,197,139,.15); }

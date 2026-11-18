@@ -25,6 +25,14 @@ jobs:
       - name: Fetch latest podcast episodes
         run: python3 scripts/fetch_podcasts.py
 
+      # AI summaries of new episodes. Needs the ANTHROPIC_API_KEY repository secret; skipped without it.
+      - name: Summarize new episodes
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -n "$ANTHROPIC_API_KEY" ]; then pip install --quiet anthropic; fi
+          python3 scripts/summarize_episodes.py
+
       - name: Commit changes
         id: commit
         run: |

@@ -90,6 +90,9 @@
       ? `<img src="${esc(src)}" alt="" loading="lazy" width="64" height="64" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}</div>`;
   };
 
+  const epSummary = (s) => s.latest?.summary && s.latest.summaryFor === s.latest.title
+    ? `<p class="ep-summary"><span class="ai-tag" title="Summarized by AI from the episode's show notes">AI summary</span>${esc(s.latest.summary)}</p>` : "";
+
   function showCard(s) {
     return `<article class="show-card" data-embed-host style="--c:${cat(s.category).color}">
       <div class="show-top">
@@ -103,6 +106,7 @@
       <div class="show-latest">
         <small>Latest episode · ${fmtDate(s.latest.date)}</small>
         <span>${esc(s.latest.title)}</span>
+        ${epSummary(s)}
       </div>
       <div class="embed-slot"></div>
       <div class="show-actions">
@@ -118,6 +122,7 @@
       <div class="episode-info">
         <div class="meta"><span>${esc(s.name)}</span><span>${fmtDate(s.latest.date)}</span></div>
         <h3>${esc(s.latest.title)}</h3>
+        ${epSummary(s)}
         <div class="embed-slot"></div>
         <div class="show-actions">${playBtn(s, "Play")}<a class="btn-ghost btn-sm" href="${spotifyShow(s.spotifyId)}" ${newTab}>Show on Spotify ↗</a></div>
       </div>
