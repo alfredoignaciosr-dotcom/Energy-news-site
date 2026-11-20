@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-19T20:42:56+00:00",
+  "fetchedAt": "2026-11-20T02:22:10+00:00",
   "sources": [
     {
       "name": "Utility Dive",
@@ -123,8 +123,78 @@
   ],
   "items": [
     {
+      "title": "What the Trump-Putin-Xi meeting actually achieved",
+      "url": "https://www.atlanticcouncil.org/content-series/fastthinking/what-the-trump-putin-xi-meeting-actually-achieved/",
+      "date": "2026-11-19T23:16:48+00:00",
+      "author": "Atlantic Council",
+      "summary": "Our experts unpack what Trump, Xi, and Putin gained from their summit and what their declaration means for the global order.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The US didn’t have a strong plan for the Shenzhen summit. It showed.",
+      "url": "https://www.atlanticcouncil.org/dispatches/the-us-didnt-have-a-strong-plan-for-the-shenzhen-summit-it-showed/",
+      "date": "2026-11-19T22:46:35+00:00",
+      "author": "Melanie Hart",
+      "summary": "The leaders’ trilateral meeting in Shenzhen ended up benefiting Beijing and Moscow at the expense of Washington.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The U.S. and Iran Are Back to Trading Strikes",
+      "url": "https://foreignpolicy.com/2026/11/19/us-iran-strikes-bahrain-kuwait-trump/",
+      "date": "2026-11-19T22:39:31+00:00",
+      "author": "John Haltiwanger and Rishi Iyengar",
+      "summary": "A roughly two-month lull in the fighting is seemingly over.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Charai for The Jerusalem Strategic Tribune: The Hidden Cost of America’s Political Inconsistency",
+      "url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/charai-for-the-jerusalem-strategic-tribune-the-hidden-cost-of-americas-political-inconsistency/",
+      "date": "2026-11-19T22:23:08+00:00",
+      "author": "Atlantic Council",
+      "summary": "",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Lessons from Brazil and Peru on how to build AI-ready institutions across Latin America",
+      "url": "https://www.atlanticcouncil.org/blogs/geotech-cues/lessons-from-brazil-and-peru-on-how-to-build-ai-ready-institutions-across-latin-america/",
+      "date": "2026-11-19T22:17:49+00:00",
+      "author": "Olivia Torres, Angel Ortega",
+      "summary": "Brazil and Peru offer early blueprints for AI regulation in Latin America: one for building regulatory institutions before legislation is in place, and another for turning AI laws into effective governance.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Dispatch from Manama: The Iran war is not over for Bahrain",
+      "url": "https://www.atlanticcouncil.org/dispatches/dispatch-from-manama-the-most-underappreciated-us-ally-in-the-gulf/",
+      "date": "2026-11-19T21:47:15+00:00",
+      "author": "William F. Wechsler",
+      "summary": "A recent visit to Bahrain offers a window into the ongoing tensions with Iran and diplomatic maneuvering among Gulf nations.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Trump, Xi, Putin Hold Historic Trilateral Talks",
+      "url": "https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-talks-nuclear-disarmament-un-icc-oil/",
+      "date": "2026-11-19T21:28:32+00:00",
+      "author": "Alexandra Sharp",
+      "summary": "Initially framed as a peacemaking opportunity, the summit resulted in few tangible wins.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "Kyiv’s partners should prioritize Ukraine’s domestic drone production",
-      "url": "https://www.atlanticcouncil.org/uncategorized/kyivs-partners-should-prioritize-ukraines-domestic-drone-production/",
+      "url": "https://www.atlanticcouncil.org/blogs/ukrainealert/kyivs-partners-should-prioritize-ukraines-domestic-drone-production/",
       "date": "2026-11-19T20:39:47+00:00",
       "author": "Leonid Baratz",
       "summary": "Ukrainian long-range drone strikes have reduced Russian oil refining output by around 45 percent in the past few weeks, Reuters reports. Kyiv's partners should build on this success and prioritize funding for Ukraine's domestic drone…",
@@ -203,7 +273,7 @@
       "category": "development"
     },
     {
-      "title": "How would Becerra’s solar Power Hour actually work",
+      "title": "How would Becerra’s solar Power Hour actually work?",
       "url": "https://www.canarymedia.com/articles/politics/becerra-solar-power-hour",
       "date": "2026-11-19T19:00:00+00:00",
       "author": "Jeff St. John",
@@ -211,6 +281,16 @@
       "source": "Canary Media",
       "kind": "analysis",
       "category": "solar"
+    },
+    {
+      "title": "China Ratchets Up Its Weaponization of Trade",
+      "url": "https://thediplomat.com/2026/11/china-ratchets-up-its-weaponization-of-trade/",
+      "date": "2026-11-19T18:34:00+00:00",
+      "author": "Brahma Chellaney",
+      "summary": "China’s expansive export-control system is in key respects modeled on that of the United States. But there is an important difference.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "Google signs 50-MW superhot geothermal PPA with Quaise Energy",
@@ -257,10 +337,20 @@
       "url": "https://www.utilitydive.com/news/grid-operators-data-center-ride-through-rules-ercot-nerc/873466/",
       "date": "2026-11-19T17:13:16+00:00",
       "author": "Alan Cooper",
-      "summary": "Large load ride-through concerns can be addressed, but the power sector must adopt rules that protect grid reliability while providing certainty to the data center industry, writes ON.energy CEO Alan Cooper.",
+      "summary": "The first facilities built to Texas’ new standard are about to come online, proving that firm, predictable regulation can protect reliability without slowing market development, writes ON.energy CEO Alan Cooper.",
       "source": "Utility Dive",
       "kind": "news",
       "category": "storage"
+    },
+    {
+      "title": "Mongolia’s President Steps Down Amid Corruption Allegations",
+      "url": "https://thediplomat.com/2026/11/mongolias-president-steps-down-amid-corruption-allegations/",
+      "date": "2026-11-19T17:01:00+00:00",
+      "author": "Sumiya Chuluunbaatar",
+      "summary": "Yet more turnover in Mongolia’s leadership highlights factional politics and a lack of accountability mechanisms.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "Mercenaries, apps, and crypto: Russia’s hybrid war on Europe",
@@ -303,12 +393,32 @@
       "category": "development"
     },
     {
+      "title": "Uzbek Professor Reportedly Convicted of Espionage in Kazakhstan",
+      "url": "https://thediplomat.com/2026/11/uzbek-professor-reportedly-convicted-of-espionage-in-kazakhstan/",
+      "date": "2026-11-19T15:46:00+00:00",
+      "author": "Catherine Putz",
+      "summary": "Neither Kazakh nor Uzbek authorities have commented on the case, with Dr. Ikboljon Qoraboyev’s relatives stating that he’s been sentenced to 10 years.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "The Gulf Is America’s Next AI Security Test",
       "url": "https://foreignpolicy.com/2026/11/19/nvidia-huang-scandal-ai-security-chips-export-controls-gulf-saudi-uae/",
       "date": "2026-11-19T15:26:55+00:00",
       "author": "Elizabeth Dent",
       "summary": "Even after the Nvidia scandal, new rules leave significant loopholes.",
       "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "China, Russia, US Talk UN Reform, Nuclear Risks, and Ukraine at Trilateral Summit",
+      "url": "https://thediplomat.com/2026/11/china-russia-us-talk-un-reform-nuclear-risks-and-ukraine-at-trilateral-summit/",
+      "date": "2026-11-19T15:26:00+00:00",
+      "author": "Shannon Tiezzi",
+      "summary": "Xi seems to have been a reluctant host who decided to turn the event to his own advantage.",
+      "source": "The Diplomat",
       "kind": "world",
       "category": "geopolitics"
     },
@@ -343,6 +453,16 @@
       "category": "storage"
     },
     {
+      "title": "Are Kazakhs Giving Up on Civic Action?",
+      "url": "https://thediplomat.com/2026/11/are-kazakhs-giving-up-on-civic-action/",
+      "date": "2026-11-19T14:15:00+00:00",
+      "author": "Albert Otkjær",
+      "summary": "With a politically tense year coming to an end, a new national survey suggests that Kazakhs are increasingly disillusioned with the country's political life, feeling that engagement has little impact on government decisions.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "Oil flows through Middle East chokepoints increased in the third quarter",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=",
       "date": "2026-11-19T14:00:00+00:00",
@@ -353,6 +473,26 @@
       "category": "oilgas"
     },
     {
+      "title": "ICJ Delivers Historic Verdict: Myanmar Guilty of Genocide Against the Rohingya",
+      "url": "https://thediplomat.com/2026/11/icj-delivers-historic-verdict-myanmar-guilty-of-genocide-against-the-rohingya/",
+      "date": "2026-11-19T13:50:00+00:00",
+      "author": "Sebastian Strangio and Catherine Putz",
+      "summary": "Myanmar's security forces killed thousands of Rohingya civilians and committed \"widespread sexual violence\" against women and \"extreme violence\" against children, the court said.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "At APEC, Lee Urges Asia-Pacific Leaders to Back Talks With North Korea",
+      "url": "https://thediplomat.com/2026/11/at-apec-lee-urges-asia-pacific-leaders-to-back-talks-with-north-korea/",
+      "date": "2026-11-19T13:43:00+00:00",
+      "author": "Mitch Shin",
+      "summary": "The South Korean president made his appeal in Shenzhen, hoping to entice fellow leaders to address North Korea issues.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "MicroQuanta, Zhejiang University achieve world-record efficiency of 23.9% for 19.48 cm² perovskite solar module",
       "url": "https://www.pv-magazine.com/2026/11/19/microquanta-achieves-world-record-efficiency-of-23-9-for-19-48-cm%c2%b2-perovskite-solar-module/",
       "date": "2026-11-19T13:31:19+00:00",
@@ -361,6 +501,26 @@
       "source": "pv magazine",
       "kind": "news",
       "category": "solar"
+    },
+    {
+      "title": "The ICJ Just Recognized the Genocide of the Rohingya. What’s Next?",
+      "url": "https://thediplomat.com/2026/11/the-icj-just-recognized-the-genocide-of-the-rohingya-whats-next/",
+      "date": "2026-11-19T13:02:00+00:00",
+      "author": "Lucky Karim",
+      "summary": "The international community must recognize that the well-being of the Rohingya is inseparable from the well-being of Myanmar.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Takaichi Meets Putin a Day After Suspected Russian Aircraft Violate Japanese Airspace",
+      "url": "https://thediplomat.com/2026/11/takaichi-meets-putin-a-day-after-suspected-russian-aircraft-violate-japanese-airspace/",
+      "date": "2026-11-19T12:52:00+00:00",
+      "author": "Takahashi Kosuke",
+      "summary": "Russian military flights near Japan and Taiwan raise questions about Moscow’s message to Beijing.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "Solyco unveils 485 W full-black residential solar module with stainless steel protection",
@@ -497,7 +657,7 @@
       "url": "https://www.utilitydive.com/news/new-york-is-short-electric-resources-beginning-2033-iso/875155/",
       "date": "2026-11-19T10:55:14+00:00",
       "author": "Robert Walton",
-      "summary": "New York will face an approximately 225 MW statewide resource deficiency beginning 2033, with the need for power resources growing to 1,850 MW by 2036, the state’s grid operator said Wednesday.",
+      "summary": "New York will face an approximately 225 MW statewide resource deficiency, with the need for power resources growing to 1,850 MW by 2036, the state’s grid operator said Wednesday.",
       "source": "Utility Dive",
       "kind": "news",
       "category": "storage"
@@ -773,16 +933,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "Donald Tusk, Chris Wright, and Miłosz Motyka on the mindset shift needed across the energy system",
-      "url": "https://www.atlanticcouncil.org/commentary/event-recap/donald-tusk-chris-wright-and-milosz-motyka-on-the-mindset-shift-needed-across-the-energy-system/",
-      "date": "2026-11-18T23:39:30+00:00",
-      "author": "Katherine Golden",
-      "summary": "The three leaders spoke at the seventh Partnership for Transatlantic Energy Cooperation, making the case for more energy production as supplies tighten and prices skyrocket.",
-      "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "Myanmar’s Military-backed Government to ‘Review’ Relationship With ASEAN",
       "url": "https://thediplomat.com/2026/11/myanmars-military-backed-government-to-review-relationship-with-asean/",
       "date": "2026-11-18T23:15:00+00:00",
@@ -833,66 +983,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "Libya’s reunification and path to democracy start with fixing its budget",
-      "url": "https://www.atlanticcouncil.org/blogs/menasource/libyas-reunification-and-path-to-democracy-start-with-fixing-its-budget/",
-      "date": "2026-11-18T21:22:44+00:00",
-      "author": "Sveva Cristina Pontiroli and Emma Torresi",
-      "summary": "A recent Atlantic Council roundtable with Libyan officials, Italian policymakers, and international experts and analysts examined UN and US efforts to reunite the country.",
-      "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Dispatch from Kyiv: Let Ukraine strike Russia’s missile launchers at the source",
-      "url": "https://www.atlanticcouncil.org/dispatches/dispatch-from-kyiv-let-ukraine-strike-russias-missile-launchers-at-the-source/",
-      "date": "2026-11-18T21:12:04+00:00",
-      "author": "Clara Kaluderovic",
-      "summary": "Russia's missile production vastly outpaces the output of interceptors for Ukraine and by the United States—an issue that should concern militaries around the world.",
-      "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Upheaval in the Greater North African Security Complex demands a new transatlantic policy approach",
-      "url": "https://www.atlanticcouncil.org/blogs/menasource/upheaval-in-the-greater-north-african-security-complex-demands-a-new-transatlantic-policy-approach/",
-      "date": "2026-11-18T21:05:40+00:00",
-      "author": "Sveva Cristina Pontiroli and Emma Torresi",
-      "summary": "A recent Atlantic Council roundtable brought together Italian policymakers, international experts, and analysts to examine interconnected security dynamics across North Africa, the Sahel, and the Red Sea.",
-      "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "With APEC Summit, Beijing Showcases Its Vision for a New Tech Megapolis",
-      "url": "https://thediplomat.com/2026/11/with-apec-summit-beijing-showcases-its-vision-for-a-new-tech-megapolis/",
-      "date": "2026-11-18T20:45:00+00:00",
-      "author": "Catherine Tan",
-      "summary": "Shenzhen gives Beijing a stage to showcase its ambitions for the “Greater Bay Area” and China's next phase of growth.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "America and China Are Trying to Alter Their Economic Bargain",
-      "url": "https://foreignpolicy.com/2026/11/18/china-united-states-economy-open-derisk/",
-      "date": "2026-11-18T20:22:59+00:00",
-      "author": "Aaron L. Friedberg",
-      "summary": "With decoupling too painful, derisking is on the menu instead.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Without U.S. Military Aid, Can Israel Afford So Many Wars?",
-      "url": "https://foreignpolicy.com/2026/11/18/israel-military-aid-united-states-trump-netanyahu-wars/",
-      "date": "2026-11-18T20:19:30+00:00",
-      "author": "David E. Rosenberg",
-      "summary": "Deterioration in ties with Washington poses serious trouble.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "Is Dollar Dominance in Decline?",
       "url": "https://warontherocks.com/is-dollar-dominance-in-decline/",
       "date": "2026-11-18T18:46:20+00:00",
@@ -903,52 +993,12 @@
       "category": "geopolitics"
     },
     {
-      "title": "Lichfield cited in a The Diplomatic Insight article on Trump’s Russian diesel deal and congressional opposition",
-      "url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-4-9-6/",
-      "date": "2026-11-18T18:44:06+00:00",
-      "author": "lsuazo",
-      "summary": "Read the full article here",
-      "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Korean Defense Start-up Continues Its Work in Ukraine",
-      "url": "https://thediplomat.com/2026/11/korean-defense-start-up-continues-its-work-in-ukraine/",
-      "date": "2026-11-18T18:24:00+00:00",
-      "author": "Shannon Tiezzi",
-      "summary": "“Our cooperation with Ukraine has not ended,” says Newtype’s CEO, Sengwon Joe Cho. “...This incident tells me that Russia has noticed our system and wants it gone from the battlefield.”",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "The Afghan Taliban’s Environmental Misgovernance",
-      "url": "https://thediplomat.com/2026/11/the-afghan-talibans-environmental-misgovernance/",
-      "date": "2026-11-18T17:49:00+00:00",
-      "author": "Sadia Sulaiman",
-      "summary": "Afghanistan's environmental crisis is also a crisis of governance.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "The Atlantic Brief: After the U.S. Midterms, Trans-Atlantic Defense Cooperation",
       "url": "https://warontherocks.com/the-atlantic-brief-after-the-u-s-midterms-trans-atlantic-defense-cooperation/",
       "date": "2026-11-18T16:40:05+00:00",
       "author": "Rachel Ellehuus",
       "summary": "For this edition of The Atlantic Brief, the Royal United Services Institute and War on the Rocks present a dialogue on the future of trans-Atlantic defense cooperation following the U.S. midterm elections. Participating experts from the…",
       "source": "War on the Rocks",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Vietnam’s Opening in Fractured Asia-Pacific Supply Chains",
-      "url": "https://thediplomat.com/2026/11/vietnams-opening-in-fractured-asia-pacific-supply-chains/",
-      "date": "2026-11-18T16:01:00+00:00",
-      "author": "Tobias Burgers",
-      "summary": "As supply chains move from “just-in-time” to “just-in-case,” Vietnam has key advantages over its neighbors.",
-      "source": "The Diplomat",
       "kind": "world",
       "category": "geopolitics"
     },
@@ -977,40 +1027,10 @@
       "url": "https://www.utilitydive.com/news/national-grid-eversource-vpp-demand-response/875039/",
       "date": "2026-11-18T15:31:06+00:00",
       "author": "Brian Martucci",
-      "summary": "The Northeast’s virtual power plant foundations are far stronger today than a decade ago, but utilities still need more visibility into distribution-system loads and energy resources, executives said.",
+      "summary": "The Northeast’s virtual power plant foundations are far stronger today than they were a decade ago, but executives say utilities still need more visibility into distribution-system loads and energy resources.",
       "source": "Utility Dive",
       "kind": "news",
       "category": "storage"
-    },
-    {
-      "title": "What Would the ‘Finlandization’ of Taiwan Look Like?",
-      "url": "https://thediplomat.com/2026/11/what-would-the-finlandization-of-taiwan-look-like/",
-      "date": "2026-11-18T15:26:00+00:00",
-      "author": "Mercy A. Kuo",
-      "summary": "Insights from Pekka Virkki.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Riding the Gelombang Biru: Melaka and the Freezing of Malaysia’s Ethnic Fault Line",
-      "url": "https://thediplomat.com/2026/11/riding-the-gelombang-biru-melaka-and-the-freezing-of-malaysias-fault-line/",
-      "date": "2026-11-18T15:13:00+00:00",
-      "author": "Michio Ueda",
-      "summary": "Melaka's landslide looked like a win for Malay nationalism. Seen from the ground, it was a test of whether Malaysian votes still follow their leaders.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "The China-US AI Hotline Needs to Be Different",
-      "url": "https://thediplomat.com/2026/11/the-china-us-ai-hotline-needs-to-be-different/",
-      "date": "2026-11-18T15:07:00+00:00",
-      "author": "Abigail Rudolph",
-      "summary": "China-U.S. hotlines have historically failed when needed most. This one needs to actually work – and here’s how to make sure it does.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
     },
     {
       "title": "US ROUNDUP: Samsung SDI, EQT and Canadian Solar announce deals as RE+ takes place",
@@ -1021,16 +1041,6 @@
       "source": "Energy-Storage.news",
       "kind": "news",
       "category": "solar"
-    },
-    {
-      "title": "‘Bienvenue à Phnom Penh’: Why Cambodia’s Francophonie Summit Matters",
-      "url": "https://thediplomat.com/2026/11/bienvenue-a-phnom-penh-why-cambodias-francophonie-summit-matters/",
-      "date": "2026-11-18T14:45:00+00:00",
-      "author": "Paco Milhiet",
-      "summary": "By hosting the 20th Francophonie summit, Cambodia has turned a historical legacy into a diplomatic opportunity. Political divisions, however, threaten to overshadow the institution’s Asian ambition.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
     },
     {
       "title": "DOE-funded transmission projects could boost East-West transfer capacity 440%",
@@ -1051,16 +1061,6 @@
       "source": "Inter Press Service",
       "kind": "world",
       "category": "development"
-    },
-    {
-      "title": "Can Singapore Get the South China Sea COC Over the Finish Line in 2027?",
-      "url": "https://thediplomat.com/2026/11/can-singapore-get-the-south-china-sea-coc-over-the-finish-line-in-2027/",
-      "date": "2026-11-18T14:20:00+00:00",
-      "author": "Chen Wangwanyu",
-      "summary": "Another ASEAN summit ended with no Code of Conduct. With 80% done, can Singapore spearhead the completion of the agreement next year?",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
     },
     {
       "title": "U.S. natural gas inventories end injection season above normal levels",
