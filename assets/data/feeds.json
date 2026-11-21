@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-21T11:13:40+00:00",
+  "fetchedAt": "2026-11-21T19:21:38+00:00",
   "sources": [
     {
       "name": "Utility Dive",
@@ -122,6 +122,16 @@
     }
   ],
   "items": [
+    {
+      "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168834",
+      "date": "2026-11-21T12:00:00+00:00",
+      "author": "",
+      "summary": "Years of insecurity, violence perpetrated by murderous armed gangs and economic instability, combined with displacement, poor agricultural performance and climate shocks, have left millions of Haitians struggling to meet their food needs.",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
     {
       "title": "CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31",
       "url": "https://www.pv-magazine.com/2026/11/21/catl-byd-acwa-among-co-initiators-of-storage-alliance-unveiled-at-cop31/",
@@ -653,6 +663,16 @@
       "category": "general"
     },
     {
+      "title": "Bridgetown AI summit to tackle safety as risks outpace capacity to respond",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168854",
+      "date": "2026-11-20T12:00:00+00:00",
+      "author": "",
+      "summary": "UN Secretary-General António Guterres is heading to Barbados to co-host a special summit on artificial intelligence (AI) safety on Monday, aimed at closing the gap between accelerating risks and many countries’ capacity to deal with the…",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
+    {
       "title": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168853",
       "date": "2026-11-20T12:00:00+00:00",
@@ -693,7 +713,7 @@
       "category": "development"
     },
     {
-      "title": "COP31: Countries demand stronger climate deal as talks in Antalya reach final day",
+      "title": "COP31: Countries demand stronger climate deal amid deadlock in Antalya",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168845",
       "date": "2026-11-20T12:00:00+00:00",
       "author": "",
@@ -1133,26 +1153,6 @@
       "category": "development"
     },
     {
-      "title": "No government approval needed to form or join a group, UN rights committee says",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168837",
-      "date": "2026-11-19T12:00:00+00:00",
-      "author": "",
-      "summary": "People do not need their government’s permission to form or join an association, the UN Human Rights Committee said on Thursday, issuing new guidance as civic space shrinks around the world.",
-      "source": "UN News",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "World’s top court finds Myanmar guilty of genocide against Rohingya",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168836",
-      "date": "2026-11-19T12:00:00+00:00",
-      "author": "",
-      "summary": "The International Court of Justice, the principal judicial organ of the UN, delivered its judgment on Thursday in the case of The Gambia v. Myanmar on the application of the Genocide Convention, finding Myanmar responsible for the crime…",
-      "source": "UN News",
-      "kind": "world",
-      "category": "development"
-    },
-    {
       "title": "A young Palestinian’s disillusionment with the West Bank’s NGO industrial complex",
       "url": "https://www.thenewhumanitarian.org/opinion/2026/11/19/young-palestinians-disillusionment-west-banks-ngo-industrial-complex",
       "date": "2026-11-19T11:59:07+00:00",
@@ -1253,6 +1253,16 @@
       "category": "development"
     },
     {
+      "title": "Avoiding Colombia’s Escalation Trap",
+      "url": "https://www.foreignaffairs.com/colombia/avoiding-colombias-escalation-trap",
+      "date": "2026-11-19T09:00:00+00:00",
+      "author": "Elizabeth Dickinson",
+      "summary": "Why a U.S.-backed offensive against armed groups could backfire.",
+      "source": "Foreign Affairs",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "The Only Way to End the Netanyahu Era",
       "url": "https://www.foreignaffairs.com/israel/only-way-end-netanyahu-era",
       "date": "2026-11-19T09:00:00+00:00",
@@ -1268,16 +1278,6 @@
       "date": "2026-11-19T09:00:00+00:00",
       "author": "Joshua A. Schwartz",
       "summary": "How fighting weakens Washington’s reputation—and backing down may strengthen it.",
-      "source": "Foreign Affairs",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Avoiding Colombia’s Escalation Trap",
-      "url": "https://www.foreignaffairs.com/colombia/avoiding-colombias-escalation-trap",
-      "date": "2026-11-19T09:00:00+00:00",
-      "author": "Elizabeth Dickinson",
-      "summary": "Why a U.S.-backed offensive against armed groups could backfire.",
       "source": "Foreign Affairs",
       "kind": "world",
       "category": "geopolitics"
@@ -1683,11 +1683,11 @@
       "category": "geopolitics"
     },
     {
-      "title": "The World’s Last Chance for Peace",
-      "url": "https://www.foreignaffairs.com/spain/pedro-sanchez-world-last-chance-peace-avert-world-war",
+      "title": "La última oportunidad para la paz",
+      "url": "https://www.foreignaffairs.com/es/spain/pedro-sanchez-ultima-oportunidad-paz-evitar-guerra-mundial",
       "date": "2026-11-13T05:00:00+00:00",
       "author": "Pedro Sánchez",
-      "summary": "How to avert a new world war.",
+      "summary": "Cómo evitar otra guerra mundial.",
       "source": "Foreign Affairs",
       "kind": "world",
       "category": "geopolitics"
