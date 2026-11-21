@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-21T02:23:07+00:00",
+  "fetchedAt": "2026-11-21T11:13:40+00:00",
   "sources": [
     {
       "name": "Utility Dive",
@@ -122,6 +122,86 @@
     }
   ],
   "items": [
+    {
+      "title": "CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31",
+      "url": "https://www.pv-magazine.com/2026/11/21/catl-byd-acwa-among-co-initiators-of-storage-alliance-unveiled-at-cop31/",
+      "date": "2026-11-21T09:30:00+00:00",
+      "author": "Emiliano Bellini",
+      "summary": "An international energy storage cooperation initiative backed by 27 companies and institutions has been formally launched at the UN climate conference in Turkey.",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "Celebrating men, challenging stereotypes, building a stronger energy future together",
+      "url": "https://www.pv-magazine.com/2026/11/21/celebrating-men-challenging-stereotypes-building-a-stronger-energy-future-together/",
+      "date": "2026-11-21T09:00:00+00:00",
+      "author": "Emiliano Bellini",
+      "summary": "On International Men's Day, and as Movember raises awareness of men's health and wellbeing, Women in Solar+ Europe (WiSEu) and Solar+ Leaders celebrate the men across the solar and wider energy transition industries who are helping build a…",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "Unigrid looks to fill gaps in lithium-ion storage with effective sodium-ion alternatives",
+      "url": "https://www.pv-magazine.com/2026/11/21/unigrid-looks-to-fill-gaps-in-lithium-ion-storage-with-effective-sodium-ion-alternatives/",
+      "date": "2026-11-21T08:30:00+00:00",
+      "author": "Ryan Kennedy",
+      "summary": "CEO Darren Tan says sodium-ion batteries can compete on safety, performance and price in key market segments.",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "Spain approves new data center rules requiring 80% renewable electricity",
+      "url": "https://www.pv-magazine.com/2026/11/21/spain-approves-new-data-center-rules-requiring-80-renewable-electricity/",
+      "date": "2026-11-21T08:00:00+00:00",
+      "author": "Emiliano Bellini",
+      "summary": "The new framework introduces energy and water efficiency standards, renewable electricity procurement obligations, and grid flexibility requirements for data centers. A €17.14 billion transmission network plan will support 47.4 GW of new…",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "The U.S. solar manufacturing landscape in 2026",
+      "url": "https://www.pv-magazine.com/2026/11/21/the-us-solar-manufacturing-landscape-in-2026-2/",
+      "date": "2026-11-21T07:30:00+00:00",
+      "author": "Mark Hutchins",
+      "summary": "Having watched the global solar industry move from tens of megawatts annual demand to levels in excess of 500 GW by the early 2020s, the United States is finally making moves to create a silicon-based ecosystem to allow its demand for…",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "Battery patents: Solid-state filings surpass lithium-ion to hit record high",
+      "url": "https://www.pv-magazine.com/2026/11/21/battery-patents-solid-state-filings-surpass-lithium-ion-to-hit-record-high/",
+      "date": "2026-11-21T07:00:00+00:00",
+      "author": "Emiliano Bellini",
+      "summary": "Global solid-state battery patent filings hit a record 2,230 in 2024, up 16%, with South Korea overtaking Japan, driven by Samsung SDI’s rapid growth. Meanwhile, lithium-ion patent filings fell nearly 15% to 2,092, while sodium-ion filings…",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "Beating Ebola takes more than medicine – I saw what worked in west Africa a decade ago | Kayode Akintola",
+      "url": "https://www.theguardian.com/global-development/2026/nov/21/ebola-outbreak-congo-worst-ever",
+      "date": "2026-11-21T06:00:53+00:00",
+      "author": "Kayode Akintola",
+      "summary": "The outbreak in DR Congo is shaping up to be the worst ever, but the support of local faith leaders – and adequate funding – will be needed to bring it under control Ebola is terrifying: I know, because I lived through the world’s worst…",
+      "source": "The Guardian: Global development",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Tariffs, taxes and a BESS price rise",
+      "url": "https://www.pv-magazine.com/2026/11/21/tariffs-taxes-and-a-bess-price-rise/",
+      "date": "2026-11-21T05:00:00+00:00",
+      "author": "Mark Hutchins",
+      "summary": "Geopolitical tensions and trade policy changes in the United States, China and other markets are driving up battery prices and creating supply chain pressures, write Edward Rackley and Max Reid of CRU Group.",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "storage"
+    },
     {
       "title": "Will Putin achieve by guile what Stalin achieved with millions of troops?",
       "url": "https://www.atlanticcouncil.org/blogs/ukrainealert/will-putin-achieve-by-guile-what-stalin-achieved-with-millions-of-troops/",
@@ -377,7 +457,7 @@
       "url": "https://thediplomat.com/2026/11/uzbekistans-energy-sector-faces-the-perfect-storm/",
       "date": "2026-11-20T14:35:00+00:00",
       "author": "Joël Ruet",
-      "summary": "They way forward requires immense investment. But international investors need legal certainty and protection from political interference.",
+      "summary": "The way forward requires immense investment. But international investors need legal certainty and protection from political interference.",
       "source": "The Diplomat",
       "kind": "world",
       "category": "geopolitics"
@@ -683,16 +763,6 @@
       "category": "development"
     },
     {
-      "title": "Proper Voltage, Unigrid unveil sodium-ion storage solution for data centers",
-      "url": "https://www.pv-magazine.com/2026/11/20/proper-voltage-unigrid-unveil-sodium-ion-storage-solution-for-data-centers/",
-      "date": "2026-11-20T11:11:19+00:00",
-      "author": "Emiliano Bellini",
-      "summary": "The Salt Vault High Power cabinet aims to deliver some of the benefits of sodium-ion chemistries including the concept that rapid and repeated power transients may not degrade sodium-ion batteries as fast as lithium and lead-acid.",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
       "title": "Ebola killed 46 members of one man’s family. Now he is fighting to save the rest",
       "url": "https://www.theguardian.com/global-development/2026/nov/20/ebola-virus-disease-epidemic-bundibugyo-strain-bunia-ituri-democratic-republic-congo",
       "date": "2026-11-20T11:00:30+00:00",
@@ -703,16 +773,6 @@
       "category": "development"
     },
     {
-      "title": "Chinese PV Industry Brief: China Three Gorges opens 5.24 GW solar module tender",
-      "url": "https://www.pv-magazine.com/2026/11/20/chinese-pv-industry-brief-china-three-gorges-opens-5-24-gw-solar-module-tender/",
-      "date": "2026-11-20T10:40:38+00:00",
-      "author": "Emiliano Bellini",
-      "summary": "China Three Gorges has opened bidding for 5.24 GW of solar modules for 2027, while TCL Zhonghuan plans to increase its stake in a semiconductor subsidiary. In other news, Longi has secured a module supply deal in Australia, and China is…",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
-    },
-    {
       "title": "What the Trump-Xi-Putin Meeting at Shenzhen Means for Pakistan",
       "url": "https://thediplomat.com/2026/11/what-the-trump-xi-putin-meeting-at-shenzhen-means-for-pakistan/",
       "date": "2026-11-20T10:29:00+00:00",
@@ -721,16 +781,6 @@
       "source": "The Diplomat",
       "kind": "world",
       "category": "geopolitics"
-    },
-    {
-      "title": "Vietnam sets rooftop solar monitoring and control acceptance procedure",
-      "url": "https://www.pv-magazine.com/2026/11/20/vietnam-sets-rooftop-solar-monitoring-and-control-acceptance-procedure/",
-      "date": "2026-11-20T10:10:21+00:00",
-      "author": "Patrick Jowett",
-      "summary": "Vietnam's state-owned utility has introduced a formal acceptance testing procedure for rooftop solar systems connected to its monitoring and control systems.",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
     },
     {
       "title": "‘Close proximity to key grid infrastructure’: EDF buys 1GWh battery storage system in Australia",
@@ -773,16 +823,6 @@
       "category": "storage"
     },
     {
-      "title": "High pressure drives irradiance gains across South East Asia as Sichuan misses out",
-      "url": "https://www.pv-magazine.com/2026/11/20/high-pressure-drives-irradiance-gains-across-south-east-asia-as-sichuan-misses-out/",
-      "date": "2026-11-20T09:14:20+00:00",
-      "author": "Emiliano Bellini",
-      "summary": "In a new weekly update for pv magazine, Solcast , a DNV company, reports that October 2026 saw solar irradiance exceed average levels by over 20% across southern China and Southeast Asia, driven by strong El Niño conditions, persistent…",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
-    },
-    {
       "title": "Congress and the Coming Crises",
       "url": "https://www.foreignaffairs.com/united-states/congress-and-coming-crises",
       "date": "2026-11-20T09:00:00+00:00",
@@ -801,16 +841,6 @@
       "source": "Foreign Affairs",
       "kind": "world",
       "category": "geopolitics"
-    },
-    {
-      "title": "JinkoSolar claims 35.24% efficiency for perovskite-silicon tandem solar cell",
-      "url": "https://www.pv-magazine.com/2026/11/20/jinkosolar-claims-35-24-efficiency-for-perovskite-silicon-tandem-solar-cell/",
-      "date": "2026-11-20T08:55:43+00:00",
-      "author": "Emiliano Bellini",
-      "summary": "The result was confirmed by the Shanghai Institute of Microsystem and Information Technology of the Chinese Academy of Sciences.",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
     },
     {
       "title": "Why the Next Bioterrorists May Not Make the Same Mistakes as Aum Shinrikyo",
@@ -843,16 +873,6 @@
       "category": "storage"
     },
     {
-      "title": "Mexico’s solar capacity could reach 43.8 GW by 2035",
-      "url": "https://www.pv-magazine.com/2026/11/20/mexicos-solar-capacity-could-reach-43-8-gw-by-2035/",
-      "date": "2026-11-20T08:24:09+00:00",
-      "author": "Emiliano Bellini",
-      "summary": "GlobalData has raised its solar growth forecast for Mexico by 6 GW, citing a growing pipeline of renewable energy projects. However, grid congestion, transmission constraints and regulatory uncertainty could slow deployment.",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
-    },
-    {
       "title": "Africa’s Just Transition Ambitions Face Hurdles at COP31",
       "url": "https://www.ipsnews.net/2026/11/africas-just-transition-ambitions-face-hurdles-at-cop31/",
       "date": "2026-11-20T08:09:22+00:00",
@@ -861,16 +881,6 @@
       "source": "Inter Press Service",
       "kind": "world",
       "category": "development"
-    },
-    {
-      "title": "China’s TOPCon solar module export prices slip as makers clear low-efficiency stock ahead of new standard",
-      "url": "https://www.pv-magazine.com/2026/11/20/chinas-topcon-solar-module-export-prices-slip-as-makers-clear-low-efficiency-stock-ahead-of-new-standard/",
-      "date": "2026-11-20T08:04:00+00:00",
-      "author": "Emiliano Bellini",
-      "summary": "In a new weekly update for pv magazine , OPIS, a Dow Jones company, provides a quick look at the main price trends in the global PV industry.",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
     },
     {
       "title": "After the ICJ Verdict, What for Dhaka?",
@@ -1608,16 +1618,6 @@
       "date": "2026-11-16T10:34:17+00:00",
       "author": "Tracy McVeigh",
       "summary": "In this week’s newsletter: what the death of Cheikh Hamidou Kane reveals about the cultural gap, plus Iran’s rising use of executions to curb dissent After reading about the death of the Senegalese writer Cheikh Hamidou Kane this week, I…",
-      "source": "The Guardian: Global development",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "‘Crocodiles are possible, but hunger is certain’: Malawi’s foragers forced into infested waters",
-      "url": "https://www.theguardian.com/global-development/2026/nov/16/malawi-hunger-food-foraging-nyika-shire-river-crocodiles",
-      "date": "2026-11-16T10:00:03+00:00",
-      "author": "Kenneth Zindondo",
-      "summary": "Once ‘famine food’, empty granaries have forced people along the Shire River to harvest water-lily roots in waters full of the reptiles The mid-morning heat in Malawi’s lower Shire River basin is already suffocating, but Beatrice Maseko…",
       "source": "The Guardian: Global development",
       "kind": "world",
       "category": "development"
