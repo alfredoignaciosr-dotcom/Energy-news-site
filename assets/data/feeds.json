@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-20T20:27:31+00:00",
+  "fetchedAt": "2026-11-21T02:23:07+00:00",
   "sources": [
     {
       "name": "Utility Dive",
@@ -123,6 +123,56 @@
   ],
   "items": [
     {
+      "title": "Will Putin achieve by guile what Stalin achieved with millions of troops?",
+      "url": "https://www.atlanticcouncil.org/blogs/ukrainealert/will-putin-achieve-by-guile-what-stalin-achieved-with-millions-of-troops/",
+      "date": "2026-11-20T22:51:01+00:00",
+      "author": "John E. Herbst",
+      "summary": "When a trilateral meeting between the leaders of China, the United States, and Russia was announced, commentators with an eye for history were soon asking whether this Shenzhen summit was going to be a second Yalta allowing Vladimir Putin…",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Pennsylvania Governor Josh Shapiro outlines his vision for US leadership in the world",
+      "url": "https://www.atlanticcouncil.org/commentary/event-recap/pennsylvania-governor-josh-shapiro-outlines-his-vision-for-us-leadership-in-the-world/",
+      "date": "2026-11-20T22:27:20+00:00",
+      "author": "Katherine Golden",
+      "summary": "At the Atlantic Council's NATO in America conference, Shapiro said the United States has an opportunity to push forward a new foreign policy centered on security and prosperity.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "EU, U.K. Agree to a Brexit Reset",
+      "url": "https://foreignpolicy.com/2026/11/20/brexit-reset-deal-eu-uk-summit-burnham-trade-economy/",
+      "date": "2026-11-20T22:07:43+00:00",
+      "author": "Alexandra Sharp",
+      "summary": "But Burnham faces some opposition back home.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Why tribal rights have become key to the energy permitting debate",
+      "url": "https://www.canarymedia.com/articles/land-use/tribal-rights-energy-permitting-debate",
+      "date": "2026-11-20T21:30:00+00:00",
+      "author": "Julia Tilton",
+      "summary": "For months, the climate world and the broader Democratic coalition have argued over whether the sweeping bipartisan permitting reform bill will be good or bad for the energy transition. But inside the Senate, which just passed the…",
+      "source": "Canary Media",
+      "kind": "analysis",
+      "category": "policy"
+    },
+    {
+      "title": "States Are Playing Serious Games on Virtual Battlefields",
+      "url": "https://foreignpolicy.com/2026/11/20/grand-theft-auto-power-play-osborn-review-geopolitics-video-games/",
+      "date": "2026-11-20T20:00:53+00:00",
+      "author": "James Palmer",
+      "summary": "The rise of video gaming has created new geopolitical arenas.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "Bob Woodward Is Scared as Hell",
       "url": "https://foreignpolicy.com/2026/11/20/bob-woodward-memoir-secrets-review/",
       "date": "2026-11-20T19:40:17+00:00",
@@ -154,7 +204,7 @@
     },
     {
       "title": "After ‘Wild Horse Nine,’ 5 of the Best Movies About the CIA",
-      "url": "https://foreignpolicy.com/2026/11/20/movies-about-the-cia/",
+      "url": "https://foreignpolicy.com/2026/11/20/cia-movies-wild-horse-nine-review-espionage-us-intelligence/",
       "date": "2026-11-20T19:00:51+00:00",
       "author": "Jordan Hoffman",
       "summary": "Listed in order from least to most zany.",
@@ -169,6 +219,16 @@
       "author": "Cameron Abadi and Adam Tooze",
       "summary": "Ones and Tooze on permitting reform and what that means for U.S. energy production.",
       "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "A Moment of New Hope for the Rohingya Community",
+      "url": "https://thediplomat.com/2026/11/a-moment-of-new-hope-for-the-rohingya-community/",
+      "date": "2026-11-20T18:20:00+00:00",
+      "author": "Rohim Ullah",
+      "summary": "Rohingya refugees who have spent nearly a decade in crowded camps finally see justice with the ICJ's ruling. Now they are hoping for meaningful action that will allow them to return home.",
+      "source": "The Diplomat",
       "kind": "world",
       "category": "geopolitics"
     },
@@ -189,6 +249,16 @@
       "author": "Frederick Kempe",
       "summary": "US Soccer President Cindy Parlow Cone joins Frederick Kempe to discuss her vision for growing the sport following the 2026 FIFA World Cup, including an ambitious goal to bring soccer to every US school by 2032.",
       "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Russia’s Changing Positions on North Korea Sanctions and Denuclearization",
+      "url": "https://thediplomat.com/2026/11/russias-changing-positions-on-north-korea-sanctions-and-denuclearization/",
+      "date": "2026-11-20T17:58:00+00:00",
+      "author": "Nika Pasko",
+      "summary": "Russia once held firm on denuclearization and reluctantly accepted sanctions as a necessary tool. Those days are over.",
+      "source": "The Diplomat",
       "kind": "world",
       "category": "geopolitics"
     },
@@ -243,6 +313,16 @@
       "category": "geopolitics"
     },
     {
+      "title": "Demography Is the Achilles’ Heel of Dictatorships – Including China",
+      "url": "https://thediplomat.com/2026/11/demography-is-the-achilles-heel-of-dictatorships-including-china/",
+      "date": "2026-11-20T15:53:00+00:00",
+      "author": "Yi Fuxian",
+      "summary": "The longer the Chinese government relied on bogus population figures, the more difficult it became to admit that it had been manipulating them.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "Permitting reform bill heads to House as Democratic divisions persist",
       "url": "https://www.utilitydive.com/news/senate-passes-baaja-permitting-bill/875334/",
       "date": "2026-11-20T15:48:13+00:00",
@@ -251,6 +331,16 @@
       "source": "Utility Dive",
       "kind": "news",
       "category": "policy"
+    },
+    {
+      "title": "Taiwan’s Local Elections: The Races to Watch",
+      "url": "https://thediplomat.com/2026/11/taiwans-local-elections-the-races-to-watch/",
+      "date": "2026-11-20T15:35:00+00:00",
+      "author": "Brian Hioe",
+      "summary": "Your guide to the most competitive races – and the ones that could impact the 2028 presidential election.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "Budderfly to invest $500M to finance and operate municipal energy upgrades",
@@ -271,6 +361,26 @@
       "source": "pv magazine",
       "kind": "news",
       "category": "storage"
+    },
+    {
+      "title": "China Is Investing in Africa’s Factory Moment. Will It Stay?",
+      "url": "https://thediplomat.com/2026/11/china-is-investing-in-africas-factory-moment-will-it-stay/",
+      "date": "2026-11-20T14:43:00+00:00",
+      "author": "Hannah Wanjie Ryder",
+      "summary": "Chinese companies are increasing investments in African manufacturing and processing. Will they also buy from local suppliers and train local engineers?",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Uzbekistan’s Energy Sector Faces the Perfect Storm",
+      "url": "https://thediplomat.com/2026/11/uzbekistans-energy-sector-faces-the-perfect-storm/",
+      "date": "2026-11-20T14:35:00+00:00",
+      "author": "Joël Ruet",
+      "summary": "They way forward requires immense investment. But international investors need legal certainty and protection from political interference.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "Market reforms bolster grid, may lower costs this winter: FERC",
@@ -353,6 +463,16 @@
       "category": "development"
     },
     {
+      "title": "ICJ’s Genocide Verdict on Myanmar and the Ramifications for Israel",
+      "url": "https://thediplomat.com/2026/11/icjs-genocide-verdict-on-myanmar-and-the-ramifications-for-israel/",
+      "date": "2026-11-20T14:08:00+00:00",
+      "author": "Luke Hunt",
+      "summary": "Legal experts warn of a potential backlash against the ICJ after its Rohingya ruling.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "Senate OKs permitting bill that would boost clean and dirty energy",
       "url": "https://www.canarymedia.com/articles/clean-energy/senate-oks-permitting-bill-that-would-boost-clean-and-dirty-energy",
       "date": "2026-11-20T14:00:00+00:00",
@@ -361,6 +481,16 @@
       "source": "Canary Media",
       "kind": "analysis",
       "category": "policy"
+    },
+    {
+      "title": "China’s Downstream Nations Need a Collective Voice",
+      "url": "https://thediplomat.com/2026/11/chinas-downstream-nations-need-a-collective-voice/",
+      "date": "2026-11-20T13:59:00+00:00",
+      "author": "Tenzin Dolma",
+      "summary": "Across Asia’s river basins, upper-riparian infrastructure proceeds unilaterally, without consultation to downstream states. China’s mega-dam in Tibet is just the latest example.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "Texas finalizes ERCOT CEO contract extension, pay raise tied to performance",
@@ -393,6 +523,26 @@
       "category": "geopolitics"
     },
     {
+      "title": "Jensen Huang, Alice Huang, and Gender Bias",
+      "url": "https://thediplomat.com/2026/11/jensen-huang-alice-huang-and-gender-bias/",
+      "date": "2026-11-20T13:26:00+00:00",
+      "author": "Lina Ma",
+      "summary": "Jensen Huang's affair acted as a magnet for controversial takes on gender dynamics, particularly in the workplace.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "From ASEAN to APEC: Highlights From a Busy Week of Asian Summitry",
+      "url": "https://thediplomat.com/2026/11/from-asean-to-apec-highlights-from-a-busy-week-of-asian-summitry/",
+      "date": "2026-11-20T13:21:00+00:00",
+      "author": "Ankit Panda and Catherine Putz",
+      "summary": "The real action was on the sidelines, including a Quad leaders meeting in Manila and a Putin-Trump-Xi trilateral in Shenzhen.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "The Other Summitry in Shenzhen",
       "url": "https://foreignpolicy.com/2026/11/20/apec-summit-chile-mexico-peru-china-xi/",
       "date": "2026-11-20T13:00:10+00:00",
@@ -421,6 +571,16 @@
       "source": "Energy-Storage.news",
       "kind": "news",
       "category": "general"
+    },
+    {
+      "title": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168853",
+      "date": "2026-11-20T12:00:00+00:00",
+      "author": "",
+      "summary": "A day after the UN’s highest court found that Myanmar had committed genocide against the Rohingya, the President of the General Assembly visited the refugee camps in Cox’s Bazar, Bangladesh, urging the world to turn the landmark judgement…",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
     },
     {
       "title": "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
@@ -551,6 +711,16 @@
       "source": "pv magazine",
       "kind": "news",
       "category": "solar"
+    },
+    {
+      "title": "What the Trump-Xi-Putin Meeting at Shenzhen Means for Pakistan",
+      "url": "https://thediplomat.com/2026/11/what-the-trump-xi-putin-meeting-at-shenzhen-means-for-pakistan/",
+      "date": "2026-11-20T10:29:00+00:00",
+      "author": "Umair Jamal",
+      "summary": "Islamabad sees the consensus on nuclear risk reduction and non-use as a validation of its warnings over the dangers of confrontation between nuclear-armed states.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "Vietnam sets rooftop solar monitoring and control acceptance procedure",
@@ -743,52 +913,12 @@
       "category": "development"
     },
     {
-      "title": "The Inflation of Kim Yo Jong’s Statements",
-      "url": "https://thediplomat.com/2026/11/the-inflation-of-kim-yo-jongs-statements/",
-      "date": "2026-11-20T03:03:00+00:00",
-      "author": "ISOZAKI Atsuhito",
-      "summary": "The supreme leader’s sister is speaking out more frequently. There is a risk in that.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "COP31: Why India’s Stress on Country-led Just Transition Pathways Is Justified",
-      "url": "https://thediplomat.com/2026/11/cop31-why-indias-stress-on-country-led-just-transition-pathways-is-justified/",
-      "date": "2026-11-20T02:53:00+00:00",
-      "author": "Snigdhendu Bhattacharya",
-      "summary": "India cannot allow the energy transition to further outpace the socio-economic transition of millions dependent on coal.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "Putin didn’t get his Yalta, but he’s happy nonetheless",
       "url": "https://www.atlanticcouncil.org/dispatches/putin-didnt-get-his-yalta-but-hes-happy-nonetheless/",
       "date": "2026-11-20T02:31:03+00:00",
       "author": "Mikhail Zygar",
       "summary": "In the Shenzhen summit with Trump and Xi, Putin got the propaganda victory he wanted without having to make any concessions on Ukraine.",
       "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Where the Mango Meets the Orchid: Prospects in Pakistan-Singapore Relations",
-      "url": "https://thediplomat.com/2026/11/where-the-mango-meets-the-orchid-prospects-in-pakistan-singapore-relations/",
-      "date": "2026-11-20T00:15:00+00:00",
-      "author": "Sidra Tariq Jamil and Mustafa Izzuddin",
-      "summary": "The recent visit to Pakistan by Singapore's foreign minister offers an opportunity to establish a framework of cooperation connecting South Asia with Southeast Asia.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "EU Governments Sign Off on Previously-agreed Trade Deal With Indonesia",
-      "url": "https://thediplomat.com/2026/11/eu-governments-sign-off-on-previously-agreed-trade-deal-with-indonesia/",
-      "date": "2026-11-19T23:21:00+00:00",
-      "author": "Sebastian Strangio",
-      "summary": "The Comprehensive Economic Partnership Agreement marks an important milestone in the relationship between the EU and Southeast Asia’s most populous nation.",
-      "source": "The Diplomat",
       "kind": "world",
       "category": "geopolitics"
     },
@@ -823,42 +953,12 @@
       "category": "geopolitics"
     },
     {
-      "title": "Charai for The Jerusalem Strategic Tribune: The Hidden Cost of America’s Political Inconsistency",
-      "url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/charai-for-the-jerusalem-strategic-tribune-the-hidden-cost-of-americas-political-inconsistency/",
-      "date": "2026-11-19T22:23:08+00:00",
-      "author": "Atlantic Council",
-      "summary": "",
-      "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Lessons from Brazil and Peru on how to build AI-ready institutions across Latin America",
-      "url": "https://www.atlanticcouncil.org/blogs/geotech-cues/lessons-from-brazil-and-peru-on-how-to-build-ai-ready-institutions-across-latin-america/",
-      "date": "2026-11-19T22:17:49+00:00",
-      "author": "Olivia Torres, Angel Ortega",
-      "summary": "Brazil and Peru offer early blueprints for AI regulation in Latin America: one for building regulatory institutions before legislation is in place, and another for turning AI laws into effective governance.",
-      "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "Trump, Xi, Putin Hold Historic Trilateral Talks",
       "url": "https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-talks-nuclear-disarmament-un-icc-oil/",
       "date": "2026-11-19T21:28:32+00:00",
       "author": "Alexandra Sharp",
       "summary": "Initially framed as a peacemaking opportunity, the summit resulted in few tangible wins.",
       "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "South Korea’s Coal Use Is Surging – and Not Just Because of the Iran War",
-      "url": "https://thediplomat.com/2026/11/south-koreas-coal-use-is-surging-and-not-just-because-of-the-iran-war/",
-      "date": "2026-11-19T20:49:00+00:00",
-      "author": "Sacha Shaw",
-      "summary": "Data suggests the country's current energy transition pains began before the war in the Gulf.",
-      "source": "The Diplomat",
       "kind": "world",
       "category": "geopolitics"
     },
@@ -883,26 +983,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "Shenzhen Was No Yalta Conference",
-      "url": "https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-summit-shenzhen-apec/",
-      "date": "2026-11-19T19:41:00+00:00",
-      "author": "James Palmer",
-      "summary": "For all the talk of a new world order, the Trump-Xi-Putin meeting produced little of substance.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "In Italy, Meloni Grapples With a Potential Spoiler",
-      "url": "https://foreignpolicy.com/2026/11/19/italy-meloni-vannacci-far-right-spoiler-elections-ukraine/",
-      "date": "2026-11-19T19:25:00+00:00",
-      "author": "Giorgio Ghiglione",
-      "summary": "With elections due next year, the prime minister faces pressure from a challenger to her right.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "Genocide Ruling Against Myanmar Sparks Rohingya Celebrations",
       "url": "https://www.ipsnews.net/2026/11/genocide-ruling-against-myanmar-sparks-rohingya-celebrations/",
       "date": "2026-11-19T19:06:03+00:00",
@@ -923,26 +1003,6 @@
       "category": "solar"
     },
     {
-      "title": "China Ratchets Up Its Weaponization of Trade",
-      "url": "https://thediplomat.com/2026/11/china-ratchets-up-its-weaponization-of-trade/",
-      "date": "2026-11-19T18:34:00+00:00",
-      "author": "Brahma Chellaney",
-      "summary": "China’s expansive export-control system is in key respects modeled on that of the United States. But there is an important difference.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "‘It’s Impossible to Refuse’: State-Imposed Forced Labor and Exploitation in Uzbekistan’s Silk Sector",
-      "url": "https://thediplomat.com/2026/11/its-impossible-to-refuse-state-imposed-forced-labor-and-exploitation-in-uzbekistans-silk-sector/",
-      "date": "2026-11-19T18:22:00+00:00",
-      "author": "Umida Niyazova",
-      "summary": "The country's government has big ambitions for its silk industry, but what do those ambitions mean for farmers?",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "Google signs 50-MW superhot geothermal PPA with Quaise Energy",
       "url": "https://www.utilitydive.com/news/google-signs-50-mw-superhot-geothermal-ppa-with-quaise-energy/875217/",
       "date": "2026-11-19T17:58:42+00:00",
@@ -961,16 +1021,6 @@
       "source": "Utility Dive",
       "kind": "news",
       "category": "storage"
-    },
-    {
-      "title": "Mongolia’s President Steps Down Amid Corruption Allegations",
-      "url": "https://thediplomat.com/2026/11/mongolias-president-steps-down-amid-corruption-allegations/",
-      "date": "2026-11-19T17:01:00+00:00",
-      "author": "Sumiya Chuluunbaatar",
-      "summary": "Yet more turnover in Mongolia’s leadership highlights factional politics and a lack of accountability mechanisms.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
     },
     {
       "title": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
@@ -1003,26 +1053,6 @@
       "category": "development"
     },
     {
-      "title": "Uzbek Professor Reportedly Convicted of Espionage in Kazakhstan",
-      "url": "https://thediplomat.com/2026/11/uzbek-professor-reportedly-convicted-of-espionage-in-kazakhstan/",
-      "date": "2026-11-19T15:46:00+00:00",
-      "author": "Catherine Putz",
-      "summary": "Neither Kazakh nor Uzbek authorities have commented on the case, with Dr. Ikboljon Qoraboyev’s relatives stating that he’s been sentenced to 10 years.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "China, Russia, US Talk UN Reform, Nuclear Risks, and Ukraine at Trilateral Summit",
-      "url": "https://thediplomat.com/2026/11/china-russia-us-talk-un-reform-nuclear-risks-and-ukraine-at-trilateral-summit/",
-      "date": "2026-11-19T15:26:00+00:00",
-      "author": "Shannon Tiezzi",
-      "summary": "Xi seems to have been a reluctant host who decided to turn the event to his own advantage.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "PJM urged to delay base capacity auction until data centers cut from forecast",
       "url": "https://www.utilitydive.com/news/ratepayer-advocates-pjm-market-monitor-capacity-auction/875165/",
       "date": "2026-11-19T14:29:26+00:00",
@@ -1031,16 +1061,6 @@
       "source": "Utility Dive",
       "kind": "news",
       "category": "storage"
-    },
-    {
-      "title": "Are Kazakhs Giving Up on Civic Action?",
-      "url": "https://thediplomat.com/2026/11/are-kazakhs-giving-up-on-civic-action/",
-      "date": "2026-11-19T14:15:00+00:00",
-      "author": "Albert Otkjær",
-      "summary": "With a politically tense year coming to an end, a new national survey suggests that Kazakhs are increasingly disillusioned with the country's political life, feeling that engagement has little impact on government decisions.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
     },
     {
       "title": "Oil flows through Middle East chokepoints increased in the third quarter",
@@ -1363,16 +1383,6 @@
       "category": "development"
     },
     {
-      "title": "COP31 deadlock persists as countries launch new ‘climate reality check’",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168833",
-      "date": "2026-11-18T12:00:00+00:00",
-      "author": "",
-      "summary": "With the clock running down at COP31 in Antalya, countries on Wednesday launched a new global check on whether climate promises are being kept, even as ministers remained deadlocked over some of the summit’s toughest questions: who pays…",
-      "source": "UN News",
-      "kind": "world",
-      "category": "development"
-    },
-    {
       "title": "For COP31 attendees, Pakistan offers a cautionary tale on climate finance",
       "url": "https://www.thenewhumanitarian.org/analysis/2026/11/18/cop31-attendees-pakistan-offers-cautionary-tale-climate-finance",
       "date": "2026-11-18T10:35:13+00:00",
@@ -1448,16 +1458,6 @@
       "date": "2026-11-17T20:00:00+00:00",
       "author": "Julian Spector",
       "summary": "The U.S. electricity sector is set to emit less planet-warming carbon dioxide this year despite record-high demand and the Trump administration’s efforts to prop up uncompetitive coal-fired power plants. Power plants burned 10% less coal…",
-      "source": "Canary Media",
-      "kind": "analysis",
-      "category": "general"
-    },
-    {
-      "title": "Google bets on superhot geothermal to power Oregon data centers",
-      "url": "https://www.canarymedia.com/articles/geothermal/google-superhot-geothermal-oregon-data-centers",
-      "date": "2026-11-17T19:00:00+00:00",
-      "author": "Maria Gallucci",
-      "summary": "The geothermal startup Quaise Energy has landed a major first customer for its novel, superhot project in central Oregon. On Tuesday, the Houston-based firm announced that Google has agreed to buy 50 megawatts of carbon-free power from…",
       "source": "Canary Media",
       "kind": "analysis",
       "category": "general"
