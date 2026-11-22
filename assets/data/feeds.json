@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-21T19:21:38+00:00",
+  "fetchedAt": "2026-11-22T11:32:32+00:00",
   "sources": [
     {
       "name": "Utility Dive",
@@ -122,6 +122,26 @@
     }
   ],
   "items": [
+    {
+      "title": "Ronald Reagan Changed His Chief of Staff After a Midterm Trouncing, Too",
+      "url": "https://foreignpolicy.com/2026/11/22/reagan-chief-of-staff-change-midterms/",
+      "date": "2026-11-22T05:01:28+00:00",
+      "author": "Julian E. Zelizer",
+      "summary": "The founding father of the conservative movement’s pick was very different from Trump’s.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168851",
+      "date": "2026-11-21T12:00:00+00:00",
+      "author": "",
+      "summary": "When fighting suddenly escalated around Taiz, in southwestern Yemen two months ago, midwife Anisa Fadhl had no time to pack a bag before she fled, leaving behind her home and her clinic. Both were later looted and destroyed.",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
     {
       "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168834",
@@ -983,16 +1003,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "Trump, Xi, Putin Hold Historic Trilateral Talks",
-      "url": "https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-talks-nuclear-disarmament-un-icc-oil/",
-      "date": "2026-11-19T21:28:32+00:00",
-      "author": "Alexandra Sharp",
-      "summary": "Initially framed as a peacemaking opportunity, the summit resulted in few tangible wins.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "COP31 Nears Close as ‘Weak’, ‘Compromised’ Draft Draws Fierce Backlash",
       "url": "https://www.ipsnews.net/2026/11/cop31-nears-close-as-weak-compromised-draft-draws-fierce-backlash/",
       "date": "2026-11-19T20:18:54+00:00",
@@ -1138,16 +1148,6 @@
       "date": "2026-11-19T12:00:00+00:00",
       "author": "",
       "summary": "Artificial intelligence (AI) is handing predators and criminal groups new ways to groom, extort and exploit children, while efforts to protect them are failing to keep pace, senior UN officials warned on Thursday.",
-      "source": "UN News",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "COP31: Ambition goes missing as fossil fuel language drops from draft deal",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168839",
-      "date": "2026-11-19T12:00:00+00:00",
-      "author": "",
-      "summary": "A cat named Ambition went missing again at COP31 on Thursday. While activists delivered the message with humour, it reflected a serious concern: explicit references to moving away from fossil fuels had disappeared from the latest draft…",
       "source": "UN News",
       "kind": "world",
       "category": "development"
@@ -1413,21 +1413,21 @@
       "category": "development"
     },
     {
-      "title": "America’s Hidden AI Advantage",
-      "url": "https://www.foreignaffairs.com/united-states/americas-hidden-ai-advantage",
-      "date": "2026-11-18T09:00:00+00:00",
-      "author": "Jeffrey Ding",
-      "summary": "The United States—not China—dominates diffusion.",
-      "source": "Foreign Affairs",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "The Model Middle Power",
       "url": "https://www.foreignaffairs.com/south-korea/model-middle-power",
       "date": "2026-11-18T09:00:00+00:00",
       "author": "Andrew Yeo",
       "summary": "What South Korea gets right about geopolitics.",
+      "source": "Foreign Affairs",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "America’s Hidden AI Advantage",
+      "url": "https://www.foreignaffairs.com/united-states/americas-hidden-ai-advantage",
+      "date": "2026-11-18T09:00:00+00:00",
+      "author": "Jeffrey Ding",
+      "summary": "The United States—not China—dominates diffusion.",
       "source": "Foreign Affairs",
       "kind": "world",
       "category": "geopolitics"
@@ -1523,21 +1523,21 @@
       "category": "geopolitics"
     },
     {
-      "title": "The Fantasy of a Turkish Middle East",
-      "url": "https://www.foreignaffairs.com/turkey/fantasy-turkish-middle-east",
-      "date": "2026-11-17T09:00:00+00:00",
-      "author": "Meliha Benli Altunisik",
-      "summary": "Ankara’s risky bid to impose regional order.",
-      "source": "Foreign Affairs",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "Is China Misreading the Moment?",
       "url": "https://www.foreignaffairs.com/united-states/china-misreading-moment",
       "date": "2026-11-17T09:00:00+00:00",
       "author": "Rush Doshi",
       "summary": "When U.S. President Donald Trump lands in Shenzhen later this week for the Asia-Pacific Economic Cooperation summit, he will sit down with Chinese leader Xi Jinping for the fourth time amid an unexpected détente between Washington and…",
+      "source": "Foreign Affairs",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The Fantasy of a Turkish Middle East",
+      "url": "https://www.foreignaffairs.com/turkey/fantasy-turkish-middle-east",
+      "date": "2026-11-17T09:00:00+00:00",
+      "author": "Meliha Benli Altunisik",
+      "summary": "Ankara’s risky bid to impose regional order.",
       "source": "Foreign Affairs",
       "kind": "world",
       "category": "geopolitics"
@@ -1683,11 +1683,11 @@
       "category": "geopolitics"
     },
     {
-      "title": "La última oportunidad para la paz",
-      "url": "https://www.foreignaffairs.com/es/spain/pedro-sanchez-ultima-oportunidad-paz-evitar-guerra-mundial",
+      "title": "The World’s Last Chance for Peace",
+      "url": "https://www.foreignaffairs.com/spain/pedro-sanchez-world-last-chance-peace-avert-world-war",
       "date": "2026-11-13T05:00:00+00:00",
       "author": "Pedro Sánchez",
-      "summary": "Cómo evitar otra guerra mundial.",
+      "summary": "How to avert a new world war.",
       "source": "Foreign Affairs",
       "kind": "world",
       "category": "geopolitics"
