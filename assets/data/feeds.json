@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-24T13:50:09+00:00",
+  "fetchedAt": "2026-11-24T23:55:50+00:00",
   "sources": [
     {
       "name": "Utility Dive",
@@ -123,6 +123,316 @@
   ],
   "items": [
     {
+      "title": "Xi Knows How to Play Trump",
+      "url": "https://foreignpolicy.com/2026/11/24/jensen-huang-nvidia-return-trump-xi-us-china-relations/",
+      "date": "2026-11-24T22:44:55+00:00",
+      "author": "James Palmer",
+      "summary": "The Nvidia scandal reveals an imbalance in U.S.-China relations.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Armenia’s Pivot to Washington",
+      "url": "https://foreignpolicy.com/2026/11/24/armenia-tripp-corridor-new-constitution-azerbaijan-pashinyan-ambassador/",
+      "date": "2026-11-24T22:27:32+00:00",
+      "author": "Rishi Iyengar",
+      "summary": "The country’s ambassador to Washington explains why Yerevan is all-in on Trump.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Huang is back at Nvidia. But the fight over who controls chip exports is just beginning.",
+      "url": "https://www.atlanticcouncil.org/dispatches/huang-is-back-at-nvidia-but-the-fight-over-who-controls-chip-exports-is-just-beginning/",
+      "date": "2026-11-24T22:16:58+00:00",
+      "author": "Lize de Kruijf",
+      "summary": "The scandal has already prompted calls from Congress for a tougher crackdown on chip exports to China.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The Coast Guard offers a model for defending US critical infrastructure against cyberattacks",
+      "url": "https://www.atlanticcouncil.org/dispatches/the-coast-guard-offers-a-model-for-defending-us-critical-infrastructure-against-cyberattacks/",
+      "date": "2026-11-24T22:10:17+00:00",
+      "author": "Peter Gautier, Charlotte Bertrand",
+      "summary": "When it comes to cybersecurity, maritime transportation is arguably the most comprehensively governed of all US critical infrastructure sectors.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "What’s Holding Up Ukraine’s Air Defense?",
+      "url": "https://foreignpolicy.com/2026/11/24/ukraine-patriot-missiles-trump-hegseth-delay-china-purge-chen-jining/",
+      "date": "2026-11-24T22:00:34+00:00",
+      "author": "Sam Skove and Christina Lu",
+      "summary": "Defense Secretary Pete Hegseth is reportedly delaying deliveries of a key weapon.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Ukraine is now a drone superpower at sea, on land, and in the air",
+      "url": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraine-is-now-a-drone-superpower-at-sea-on-land-and-in-the-air/",
+      "date": "2026-11-24T21:57:49+00:00",
+      "author": "Peter Dickinson",
+      "summary": "The recent sinking of a Russian warship by Ukrainian naval drones in the Mediterranean has underlined Ukraine's status as a world leader in drone warfare, writes Peter Dickinson.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Tech Giants Are Effectively Ungovernable. Here’s How to Change That.",
+      "url": "https://foreignpolicy.com/2026/11/24/nvidia-jensen-huang-return-tech-ai-industry-trump-us-corporate-oversight/",
+      "date": "2026-11-24T20:52:13+00:00",
+      "author": "Suzanne Nossel",
+      "summary": "The return of Nvidia’s Jensen Huang exposes a dangerous gap in corporate oversight.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "What Did Xi Jinping Get From the Shenzhen Summit?",
+      "url": "https://foreignpolicy.com/2026/11/24/china-xi-trump-shenzhen-putin-summit/",
+      "date": "2026-11-24T20:42:25+00:00",
+      "author": "Deng Yuwen",
+      "summary": "China is looking to set the language of great-power discourse.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The president and Congress must forge a common US strategy on Ukraine",
+      "url": "https://www.atlanticcouncil.org/blogs/ukrainealert/president-and-congress-must-forge-a-common-us-strategy-on-ukraine/",
+      "date": "2026-11-24T20:16:13+00:00",
+      "author": "Matthew H. Murray",
+      "summary": "The Democratic party’s electoral victory on November 3 and future control of the Senate and House of Representatives create an opening to form a bipartisan strategy to end Russia’s war against Ukraine, writes Matthew H. Murray.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "What Congress can do about China’s support for Russia’s war",
+      "url": "https://www.atlanticcouncil.org/dispatches/what-congress-can-do-about-chinas-support-for-russias-war/",
+      "date": "2026-11-24T20:07:39+00:00",
+      "author": "Allen Maggard",
+      "summary": "US efforts to end Russia's war require a tougher stance on the Chinese firms helping Moscow offshore dual-use production.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The Rohingya genocide ruling faces a geopolitical test",
+      "url": "https://www.atlanticcouncil.org/dispatches/the-rohingya-genocide-ruling-faces-a-geopolitical-test/",
+      "date": "2026-11-24T19:15:23+00:00",
+      "author": "Rudabeh Shahid",
+      "summary": "China, India, the US, and Bangladesh all have roles to play in ensuring that the recent International Court of Justice verdict helps the Rohingya.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Europe Steps Into the Breach on Ukraine",
+      "url": "https://foreignpolicy.com/2026/11/24/ukraine-russia-war-frozen-assets-funding-trump/",
+      "date": "2026-11-24T18:35:03+00:00",
+      "author": "Keith Johnson",
+      "summary": "Brussels will likely finalize this week an additional 45 billion euros for Kyiv, even as Washington retreats.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Winners and Losers from the Shenzhen Summit",
+      "url": "https://warontherocks.com/winners-and-losers-from-the-shenzhen-summit/",
+      "date": "2026-11-24T18:30:04+00:00",
+      "author": "Zack Cooper",
+      "summary": "On Nov. 19, while attending the Asia-Pacific Economic Cooperation meeting, U.S. President Donald Trump, Chinese General Secretary Xi Jinping, and Russian President Vladimir Putin gathered in Shenzhen for a historic summit. The final…",
+      "source": "War on the Rocks",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "After Antalya, Hope Is Not a Luxury",
+      "url": "https://www.ipsnews.net/2026/11/after-antalya-hope-is-not-a-luxury/",
+      "date": "2026-11-24T18:28:30+00:00",
+      "author": "James Alix Michel",
+      "summary": "I left Copenhagen in December 2009 with a heavy heart. I had gone there as President of a small island nation, carrying the hopes of a people whose future is tied to the ocean around them. We had been told that this would be the summit…",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Governor Josh Shapiro on Trump, Iran, and the future of US foreign policy",
+      "url": "https://www.atlanticcouncil.org/inflection-points-with-frederick-kempe/governor-josh-shapiro-on-trump-iran-and-the-future-of-us-foreign-policy/",
+      "date": "2026-11-24T17:29:01+00:00",
+      "author": "Frederick Kempe",
+      "summary": "Josh Shapiro discussed the impact of the war in Iran on the midterm elections, the future of America’s alliances, and his vision for a new foreign policy that strengthens US leadership abroad and economic prosperity at home.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "FirstEnergy utilities get approval for $2.5B gas plant in West Virginia",
+      "url": "https://www.utilitydive.com/news/firstenergy-utilities-get-approval-for-25b-gas-plant-in-west-virginia/875646/",
+      "date": "2026-11-24T17:26:49+00:00",
+      "author": "Charles Paullin",
+      "summary": "Consumer advocates and environmental groups opposed the project, citing concerns over load growth projections and shifting of project risk to ratepayers.",
+      "source": "Utility Dive",
+      "kind": "news",
+      "category": "oilgas"
+    },
+    {
+      "title": "Risk and Reward Along Africa’s Red Sea Littoral",
+      "url": "https://foreignpolicy.com/2026/11/24/horn-africa-red-sea-littoral-eritrea-ethiopia-somalia-somaliland-puntland/",
+      "date": "2026-11-24T17:15:00+00:00",
+      "author": "Michael Woldemariam and Biruk Terrefe",
+      "summary": "What the arrival of Middle Eastern rivalries means for Somaliland, Puntland, and Eritrea.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "CB Live: Carbon Brief journalists discuss key COP31 outcomes",
+      "url": "https://www.carbonbrief.org/cb-live-carbon-brief-journalists-discuss-key-cop31-outcomes",
+      "date": "2026-11-24T17:06:20+00:00",
+      "author": "Carbon Brief Staff",
+      "summary": "Following the close of COP31 in Antalya, Turkey, Carbon Brief’s journalists answered a range of questions in a CB Live…",
+      "source": "Carbon Brief",
+      "kind": "analysis",
+      "category": "policy"
+    },
+    {
+      "title": "COP31: Key outcomes for food, forests, oceans and nature at the UN climate talks in Antalya",
+      "url": "https://www.carbonbrief.org/cop31-key-outcomes-for-food-forests-oceans-and-nature-at-the-un-climate-talks-in-antalya",
+      "date": "2026-11-24T16:33:18+00:00",
+      "author": "Carbon Brief Staff",
+      "summary": "The COP31 climate talks in Antalya, Turkey, failed to agree on a “pact” that – despite making no clear reference…",
+      "source": "Carbon Brief",
+      "kind": "analysis",
+      "category": "policy"
+    },
+    {
+      "title": "Making the Most of South Korea’s Semiconductor Boom",
+      "url": "https://thediplomat.com/2026/11/making-the-most-of-south-koreas-semiconductor-boom/",
+      "date": "2026-11-24T16:21:00+00:00",
+      "author": "Lee Jong-Wha",
+      "summary": "The stronger South Korea’s leading industry becomes, the more dependent the economy is on a single global technology cycle.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "TVA touts $1.7B data center deal under new large-load tariff",
+      "url": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630/",
+      "date": "2026-11-24T16:11:04+00:00",
+      "author": "Diana DiGangi",
+      "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee, but it has “not yet decided” whether to build it.",
+      "source": "Utility Dive",
+      "kind": "news",
+      "category": "policy"
+    },
+    {
+      "title": "FERC must take action to protect ratepayers from higher transmission costs in SPP",
+      "url": "https://www.utilitydive.com/news/spp-decision-to-prevent-transmission-competition-escalates-electric-prices/874143/",
+      "date": "2026-11-24T16:03:19+00:00",
+      "author": "Paul Cicio",
+      "summary": "The Southwest Power Pool is misusing an exemption meant for urgent reliability needs to avoid competition in favor of incumbent utilities, writes Paul Cicio, chairman of the Electricity Transmission Competition Coalition.",
+      "source": "Utility Dive",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "Midterms provide clarity on data center development: Vistra CEO",
+      "url": "https://www.utilitydive.com/news/vistra-midterms-data-center-ercot-pjm/875626/",
+      "date": "2026-11-24T15:54:55+00:00",
+      "author": "Ethan Howland",
+      "summary": "“As we've said for some time, load interconnect queues were overstated across the country and especially in ERCOT, driven by speculation from developers,” Vistra CEO James Burke said.",
+      "source": "Utility Dive",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "Kidnapping Emerges as a Growing Tool of Militant Pressure in Pakistan",
+      "url": "https://thediplomat.com/2026/11/kidnapping-emerges-as-a-growing-tool-of-militant-pressure-in-pakistan/",
+      "date": "2026-11-24T15:53:00+00:00",
+      "author": "Yummna Hina Khan and Natasha Matloob",
+      "summary": "While it doesn’t get the same attention as suicide bombings or gunfights, kidnapping is also a rising concern in Balochistan.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "To compete with China on technology, the United States must address data and trust deficits",
+      "url": "https://www.atlanticcouncil.org/blogs/geotech-cues/to-compete-with-china-on-technology-the-united-states-must-address-data-and-trust-deficits/",
+      "date": "2026-11-24T15:27:26+00:00",
+      "author": "Greg Francis, Trevor Rudolph",
+      "summary": "Washington can't compete on price and performance alone. A more data-driven approach to technology financing could help the United States regain its edge.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Spinning Genocide",
+      "url": "https://foreignpolicy.com/2026/11/24/israel-gaza-genocide-biden-akbar-ahmed-assal-rad/",
+      "date": "2026-11-24T15:20:55+00:00",
+      "author": "Suzy Hansen",
+      "summary": "Two new books explore the chasm between rhetoric and reality in Gaza.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Fiji Declares Nationwide Disaster Amid El Nino Drought",
+      "url": "https://thediplomat.com/2026/11/fiji-declares-nationwide-disaster-amid-el-nino-drought/",
+      "date": "2026-11-24T15:07:00+00:00",
+      "author": "Olya K-Mehri",
+      "summary": "The declaration exposes Fiji’s climate resilience challenges beyond the threat of rising sea levels.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Amid Political Crisis, High Stakes for Mongolia’s 2027 Presidential Election",
+      "url": "https://thediplomat.com/2026/11/amid-political-crisis-high-stakes-for-mongolias-2027-presidential-election/",
+      "date": "2026-11-24T14:36:00+00:00",
+      "author": "Bolor Lkhaajav",
+      "summary": "While the election will undoubtedly be driven by the domestic political crisis, it will have important implications for Mongolia's foreign policy as well.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "France may tie 5.5% solar VAT rate to RG5 hail resistance",
+      "url": "https://www.pv-magazine.com/2026/11/24/france-may-tie-5-5-solar-vat-rate-to-rg5-hail-resistance/",
+      "date": "2026-11-24T14:30:04+00:00",
+      "author": "Brian Publicover",
+      "summary": "A forthcoming French decree could require RG5 hail-resistant modules and qualified installation for residential PV systems up to 9 kW to qualify for the reduced 5.5% value-added tax (VAT) rate.",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "How does EIA compare different types of energy?",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68504",
+      "date": "2026-11-24T14:00:00+00:00",
+      "author": "",
+      "summary": "To compare production and consumption across different resources, we convert to a common energy metric, British thermal units (Btu), which typically measures the heat content of the fuels such as petroleum, natural gas, and coal that are…",
+      "source": "EIA Today in Energy",
+      "kind": "analysis",
+      "category": "oilgas"
+    },
+    {
+      "title": "With Qianfan, China Has Its Answer to Starlink",
+      "url": "https://thediplomat.com/2026/11/with-qianfan-china-has-its-answer-to-starlink/",
+      "date": "2026-11-24T13:57:00+00:00",
+      "author": "Johannes Feige",
+      "summary": "The United States’ long-standing satellite advantage is eroding.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "Algeria’s solar capacity surpasses 1 GW",
       "url": "https://www.pv-magazine.com/2026/11/24/algerias-solar-capacity-surpasses-1-gw/",
       "date": "2026-11-24T13:45:31+00:00",
@@ -133,7 +443,17 @@
       "category": "solar"
     },
     {
-      "title": "Gorkin Solar launches 510 W all-black BC panel with 25.0% efficiency",
+      "title": "In Tajikistan, the US Pitches While Russia Garrisons",
+      "url": "https://thediplomat.com/2026/11/in-tajikistan-the-us-pitches-while-russia-garrisons/",
+      "date": "2026-11-24T13:31:00+00:00",
+      "author": "Kulobiddin Norov",
+      "summary": "Back-to-back visits by a senior U.S. diplomat and Vladimir Putin showed what each power offers Tajikistan.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Gokin Solar launches 510 W all-black BC panel with 25.0% efficiency",
       "url": "https://www.pv-magazine.com/2026/11/24/gorkin-solar-launches-510-w-all-black-bc-panel-with-25-0-efficiency/",
       "date": "2026-11-24T13:30:17+00:00",
       "author": "Emiliano Bellini",
@@ -141,6 +461,16 @@
       "source": "pv magazine",
       "kind": "news",
       "category": "solar"
+    },
+    {
+      "title": "Japan, South Korea, US Are Taking Their Trilateral to the Arctic",
+      "url": "https://thediplomat.com/2026/11/japan-south-korea-us-are-taking-their-trilateral-to-the-arctic/",
+      "date": "2026-11-24T13:26:00+00:00",
+      "author": "Max Holiday",
+      "summary": "With all that’s going on in the world, why focus on the Arctic?",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "The Decolonise How? Digest | Talking up failure at COP31, selling war, and telling official truth",
@@ -201,6 +531,56 @@
       "source": "pv magazine",
       "kind": "news",
       "category": "solar"
+    },
+    {
+      "title": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168871",
+      "date": "2026-11-24T12:00:00+00:00",
+      "author": "",
+      "summary": "More than 364,000 people have been displaced in Yemen since the beginning of August as fighting and insecurity continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Tuesday.",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Decades of gains against AIDS could unravel as HIV funding dries up",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168869",
+      "date": "2026-11-24T12:00:00+00:00",
+      "author": "",
+      "summary": "Decades of progress against AIDS, one of the greatest public health achievements in history, could go into reverse as international HIV funding is cut and campaigns against human rights and gender equality gain ground, the UN agency…",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "‘Far too much failure’: UN deputy chief’s final call to end violence against women",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168868",
+      "date": "2026-11-24T12:00:00+00:00",
+      "author": "",
+      "summary": "UN Deputy Secretary-General Amina Mohammed warned on Tuesday that another woman or girl would be killed by a partner or family member before she finished speaking, as she called for justice for survivors and consequences for perpetrators.",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168866",
+      "date": "2026-11-24T12:00:00+00:00",
+      "author": "",
+      "summary": "When the UN was founded in 1945, computers, the internet and satellites were the stuff of science fiction. Today, artificial intelligence (AI) is already assisting in targeting, drones are reshaping warfare and disinformation is spreading…",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "DR Congo: Concern for trapped Ebola workers as violence against women and girls deepens",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168865",
+      "date": "2026-11-24T12:00:00+00:00",
+      "author": "",
+      "summary": "Staff from the World Health Organization (WHO) and Ebola responders remain trapped in a hospital in Ituri province, Democratic Republic of the Congo (DRC), as heavy fighting continues in the vicinity, the UN agency said in an update on…",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
     },
     {
       "title": "Colombia: Guterres urges renewed commitment to landmark peace deal",
@@ -313,16 +693,6 @@
       "category": "solar"
     },
     {
-      "title": "Rainfall alone cannot eliminate bird-dropping soiling on solar panels, study finds",
-      "url": "https://www.pv-magazine.com/2026/11/24/rainfall-alone-cannot-eliminate-bird-dropping-soiling-on-solar-panels-study-finds/",
-      "date": "2026-11-24T09:15:00+00:00",
-      "author": "Emiliano Bellini",
-      "summary": "An international research team has found that bird-dropping soiling can cause annual PV performance losses of around 6%. The researchers also found that conventional soiling models underestimate these losses, highlighting the need for…",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
-    },
-    {
       "title": "Battlefield Power Is Running Short",
       "url": "https://warontherocks.com/cogs-of-war/battlefield-power-is-running-short/",
       "date": "2026-11-24T09:00:06+00:00",
@@ -373,6 +743,26 @@
       "category": "policy"
     },
     {
+      "title": "First Pakistani Astronaut Is About to Head to Space, on a Chinese Spacecraft",
+      "url": "https://thediplomat.com/2026/11/first-pakistani-astronaut-is-about-to-head-to-space-on-a-chinese-spacecraft/",
+      "date": "2026-11-24T08:28:00+00:00",
+      "author": "Umair Jamal",
+      "summary": "For Pakistan, this development arrives at a moment when it is seeking to reassert technological relevance after years of relative quiet in the space domain.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "What Did the 49th ASEAN Summit Accomplish?",
+      "url": "https://thediplomat.com/2026/11/what-did-the-49th-asean-summit-accomplish/",
+      "date": "2026-11-24T07:53:00+00:00",
+      "author": "James Guild",
+      "summary": "This year's conclave delivered a familiar blend of diplomatic gestures and tentative announcements, but left a lot of pressing issues on the sidelines.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "UN’s Attempt to Regulate Killer Robots Hits a Dead End",
       "url": "https://www.ipsnews.net/2026/11/uns-attempt-to-regulate-killer-robots-hits-a-dead-end/",
       "date": "2026-11-24T06:57:23+00:00",
@@ -383,6 +773,16 @@
       "category": "development"
     },
     {
+      "title": "Rare Visit by Pakistani Minister to India Fuels Speculation of Bilateral Thaw",
+      "url": "https://thediplomat.com/2026/11/rare-visit-by-pakistani-minister-to-india-fuels-speculation-of-bilateral-thaw/",
+      "date": "2026-11-24T06:39:00+00:00",
+      "author": "Elizabeth Roche",
+      "summary": "Analysts say the invitation to the Pakistani minister for a multilateral event is positive. But a change in the status of bilateral ties seems doubtful.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "AI Data Centres: Local Damage, World Threat",
       "url": "https://www.ipsnews.net/2026/11/ai-data-centres-local-damage-world-threat/",
       "date": "2026-11-24T06:30:34+00:00",
@@ -391,6 +791,16 @@
       "source": "Inter Press Service",
       "kind": "world",
       "category": "development"
+    },
+    {
+      "title": "Did the British Create India?",
+      "url": "https://thediplomat.com/2026/11/did-the-british-create-india/",
+      "date": "2026-11-24T05:23:00+00:00",
+      "author": "Akhilesh Pillalamarri",
+      "summary": "They did not create a new country, but took over and appropriated the institutions of a preexisting one while engaging in a policy of consolidation.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "UK Announces Fresh Myanmar Sanctions Following ICJ Genocide Ruling",
@@ -419,16 +829,6 @@
       "author": "Atlantic Council experts",
       "summary": "Atlantic Council experts break down why this year’s UN climate change conference failed to reach a concesusus—and what it means for climate policy.",
       "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Indonesia’s Prabowo Names 2 Cabinet Members as Vice-Presidential Candidates",
-      "url": "https://thediplomat.com/2026/11/indonesias-prabowo-names-2-cabinet-members-as-vice-presidential-candidates/",
-      "date": "2026-11-23T23:01:00+00:00",
-      "author": "Sebastian Strangio",
-      "summary": "Agriculture Minister Andi Amran Sulaiman and former Foreign Minister Sugiono are in line to replace Gibran Rakabuming Raka, who resigned on November 12.",
-      "source": "The Diplomat",
       "kind": "world",
       "category": "geopolitics"
     },
@@ -513,16 +913,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "The Never-Ending China-US Story",
-      "url": "https://thediplomat.com/2026/11/the-never-ending-china-us-story/",
-      "date": "2026-11-23T19:20:00+00:00",
-      "author": "Anthony Teitler",
-      "summary": "From Trump to Biden and back again, Washington keeps talking about apparent turning points. Yet the main problems remain unresolved.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "Huang’s Return Is the Biggest National Security Scandal in U.S. History",
       "url": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
       "date": "2026-11-23T19:06:14+00:00",
@@ -563,16 +953,6 @@
       "category": "development"
     },
     {
-      "title": "Tajikistan Is Leaving the ICC",
-      "url": "https://thediplomat.com/2026/11/tajikistan-is-leaving-the-icc/",
-      "date": "2026-11-23T18:28:00+00:00",
-      "author": "Catherine Putz",
-      "summary": "Dushanbe joins a growing list of countries turning their backs on the court.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO",
       "url": "https://www.utilitydive.com/news/data-centers-mitsubishi-gas-turbines-earnings/875146/",
       "date": "2026-11-23T18:00:00+00:00",
@@ -583,26 +963,6 @@
       "category": "storage"
     },
     {
-      "title": "Can the China-Russia-US Summit Turn Political Momentum Into Nuclear Risk Reduction?",
-      "url": "https://thediplomat.com/2026/11/can-the-china-russia-us-summit-turn-political-momentum-into-nuclear-risk-reduction/",
-      "date": "2026-11-23T17:39:00+00:00",
-      "author": "Mathew Jie Sheng Yeo",
-      "summary": "The Shenzhen summit created a new and unprecedented political opening among the three major nuclear powers. It must be capitalized on.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Ukraine’s Energy Plan Was Too Little, Too Late",
-      "url": "https://foreignpolicy.com/2026/11/23/ukraine-winter-energy-renewables-russian-strikes-infrastructure/",
-      "date": "2026-11-23T17:25:53+00:00",
-      "author": "Paul Hockenos",
-      "summary": "The country’s push for renewables fell short—and now it’s paying the price.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "What NATO allies can learn from World War II partnerships about defense industrial production",
       "url": "https://www.atlanticcouncil.org/dispatches/what-nato-allies-can-learn-from-world-war-ii-partnerships-about-defense-industrial-production/",
       "date": "2026-11-23T17:11:13+00:00",
@@ -611,6 +971,16 @@
       "source": "Atlantic Council",
       "kind": "world",
       "category": "geopolitics"
+    },
+    {
+      "title": "DOJ closes NextEra-Dominion antitrust probe as state hearings continue",
+      "url": "https://www.utilitydive.com/news/doj-closes-nextera-dominion-antitrust-probe-as-state-hearings-continue/875489/",
+      "date": "2026-11-23T16:27:12+00:00",
+      "author": "Diana DiGangi",
+      "summary": "The decision followed a promise by the utilities to allow ISO-NE’s internal market monitor to investigate proposed plant retirements. Separately, executives were pressed during hearings in Virginia on how to quantify and ensure customer…",
+      "source": "Utility Dive",
+      "kind": "news",
+      "category": "general"
     },
     {
       "title": "COP31: Key outcomes agreed at the UN climate talks in Antalya",
@@ -633,34 +1003,14 @@
       "category": "storage"
     },
     {
-      "title": "Could the Jensen Huang Scandal Help China’s AI Industry?",
-      "url": "https://thediplomat.com/2026/11/could-the-jensen-huang-scandal-help-chinas-ai-industry/",
-      "date": "2026-11-23T15:53:00+00:00",
-      "author": "Megha Shrivastava",
-      "summary": "Tightened U.S. export controls will be difficult in the short term, but could open up new opportunities for China.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Why China Is Watching Taiwan’s Local Elections",
-      "url": "https://thediplomat.com/2026/11/why-china-is-watching-taiwans-local-elections/",
-      "date": "2026-11-23T15:35:00+00:00",
-      "author": "Shinan (Austin) Hao",
-      "summary": "The races are not about cross-strait relations – but Beijing has a rooting interest nonetheless.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Japan’s Shenzhen Snub: Why a Thaw Looks Unlikely Under Takaichi and Xi",
-      "url": "https://thediplomat.com/2026/11/japans-shenzhen-snub-why-a-thaw-looks-unlikely-under-takaichi-and-xi/",
-      "date": "2026-11-23T14:45:00+00:00",
-      "author": "Takahashi Kosuke",
-      "summary": "China’s cold reception for Japan’s prime minister makes it difficult for either leader to back down.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
+      "title": "$251M electric bus facility opens in Miami-Dade County",
+      "url": "https://www.utilitydive.com/news/miami-dade-transit-operations-center-electric-bus-facility/875590/",
+      "date": "2026-11-23T16:12:00+00:00",
+      "author": "Dan Zukowski",
+      "summary": "Because lithium-ion batteries can pose a fire hazard, the structure will be heat-insulated to prevent damage should a fire erupt.",
+      "source": "Utility Dive",
+      "kind": "news",
+      "category": "ev"
     },
     {
       "title": "Rohingya refugees welcome momentous genocide ruling, ask when they can go home",
@@ -671,16 +1021,6 @@
       "source": "The New Humanitarian",
       "kind": "world",
       "category": "development"
-    },
-    {
-      "title": "South Korea Cannot Police Its Way Out of AI Cheating",
-      "url": "https://thediplomat.com/2026/11/south-korea-cannot-police-its-way-out-of-ai-cheating/",
-      "date": "2026-11-23T14:12:00+00:00",
-      "author": "Mitch Shin",
-      "summary": "The top scorer on the tax exam confessed to AI cheating, and 111 more alleged cases surfaced at the college entrance exam. Given South Korea's exam-heavy education system, it's nothing short of a crisis.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
     },
     {
       "title": "FERC approves MISO plan to speed legacy interconnection study process",
@@ -701,26 +1041,6 @@
       "source": "Energy-Storage.news",
       "kind": "news",
       "category": "storage"
-    },
-    {
-      "title": "The Paradox of Takaichi’s Popularity",
-      "url": "https://thediplomat.com/2026/11/the-paradox-of-takaichis-popularity/",
-      "date": "2026-11-23T13:31:00+00:00",
-      "author": "Jio Kamata",
-      "summary": "Takaichi continues to enjoy a healthy approval rating, despite controversy over some of her policy moves.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "How Central Asia Fixed Its Most Dangerous Borders",
-      "url": "https://thediplomat.com/2026/11/how-central-asia-fixed-its-most-dangerous-borders/",
-      "date": "2026-11-23T13:13:00+00:00",
-      "author": "",
-      "summary": "In a world riven by conflict today, the peaceful settlement of contested borders in the Fergana Valley stands out.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
     },
     {
       "title": "Gaza war has undone 77 years of human development, UN warns",
@@ -793,16 +1113,6 @@
       "category": "development"
     },
     {
-      "title": "Is It Time for Kyiv to Compromise?",
-      "url": "https://foreignpolicy.com/2026/11/23/oleksiy-goncharenko-interview-ukraine-russia-war-compromise-negotiations-trump-zelensky/",
-      "date": "2026-11-23T10:00:55+00:00",
-      "author": "Sam Skove",
-      "summary": "A Ukrainian parliamentarian makes the case.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "The grid’s hidden bottleneck: engineering capacity",
       "url": "https://www.utilitydive.com/spons/the-grids-hidden-bottleneck-engineering-capacity/874856/",
       "date": "2026-11-23T10:00:00+00:00",
@@ -811,16 +1121,6 @@
       "source": "Utility Dive",
       "kind": "news",
       "category": "storage"
-    },
-    {
-      "title": "Why is Tarique Rahman Blaming India For His Domestic Troubles?",
-      "url": "https://thediplomat.com/2026/11/why-is-tarique-rahman-blaming-india-for-his-domestic-troubles/",
-      "date": "2026-11-23T09:24:00+00:00",
-      "author": "Sudha Ramachandran",
-      "summary": "By pointing to “the country across the border,” he is seeking to deflect attention away from his government’s failures in dealing with the crises gripping Bangladesh today.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
     },
     {
       "title": "More Than a Cautionary Tale: Nepal’s Fight for Mountain Justice at COP31",
@@ -903,82 +1203,12 @@
       "category": "development"
     },
     {
-      "title": "The Democratic Party’s Three Conflicting Camps on AI",
-      "url": "https://foreignpolicy.com/2026/11/23/democratic-party-ai-race-china-regulation-nvidia-data-centers/",
-      "date": "2026-11-23T05:01:00+00:00",
-      "author": "Bhaskar Chakravorti",
-      "summary": "Call them the restrainers, the riders, and the racers.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "COP31 Cover Deal Collapses as EU and Others Reject Draft Over Fossil Fuel Omission",
       "url": "https://www.ipsnews.net/2026/11/cop31-cover-deal-collapses-as-eu-and-others-reject-draft-over-fossil-fuel-omission/",
       "date": "2026-11-22T14:48:44+00:00",
       "author": "IPS Correspondent",
       "summary": "COP31 ended without an overarching climate agreement on Sunday after two days of overtime, as deep divisions over fossil fuels, climate finance and global warming prevented nearly 200 countries from reaching consensus. The European Union…",
       "source": "Inter Press Service",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "Guterres laments COP31 outcome, urges climate justice from Barbados",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168856",
-      "date": "2026-11-22T12:00:00+00:00",
-      "author": "",
-      "summary": "Secretary-General António Guterres on Sunday expressed deep disappointment over the collapse of COP31 climate negotiations, using a visit to Barbados to call for stronger action on fossil fuels, climate finance and support for vulnerable…",
-      "source": "UN News",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168852",
-      "date": "2026-11-22T12:00:00+00:00",
-      "author": "",
-      "summary": "For five years, Zahra cared for an elderly woman in Iran and earned enough to get by. Now back in Herat, western Afghanistan, the 28-year-old trained midwife is unemployed. She lives with her parents and siblings, apart from her…",
-      "source": "UN News",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168855",
-      "date": "2026-11-22T12:00:00+00:00",
-      "author": "",
-      "summary": "COP31 ended on Sunday without a climate pact after negotiators failed to overcome divisions over fossil fuels, bringing two weeks of talks and two days of overtime to a close that UN Secretary-General António Guterres described as a…",
-      "source": "UN News",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "Ronald Reagan Changed His Chief of Staff After a Midterm Trouncing, Too",
-      "url": "https://foreignpolicy.com/2026/11/22/reagan-chief-of-staff-change-midterms/",
-      "date": "2026-11-22T05:01:28+00:00",
-      "author": "Julian E. Zelizer",
-      "summary": "The founding father of the conservative movement’s pick was very different from Trump’s.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168851",
-      "date": "2026-11-21T12:00:00+00:00",
-      "author": "",
-      "summary": "When fighting suddenly escalated around Taiz, in southwestern Yemen two months ago, midwife Anisa Fadhl had no time to pack a bag before she fled, leaving behind her home and her clinic. Both were later looted and destroyed.",
-      "source": "UN News",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168834",
-      "date": "2026-11-21T12:00:00+00:00",
-      "author": "",
-      "summary": "Years of insecurity, violence perpetrated by murderous armed gangs and economic instability, combined with displacement, poor agricultural performance and climate shocks, have left millions of Haitians struggling to meet their food needs.",
-      "source": "UN News",
       "kind": "world",
       "category": "development"
     },
@@ -993,36 +1223,6 @@
       "category": "development"
     },
     {
-      "title": "Will Putin achieve by guile what Stalin achieved with millions of troops?",
-      "url": "https://www.atlanticcouncil.org/blogs/ukrainealert/will-putin-achieve-by-guile-what-stalin-achieved-with-millions-of-troops/",
-      "date": "2026-11-20T22:51:01+00:00",
-      "author": "John E. Herbst",
-      "summary": "When a trilateral meeting between the leaders of China, the United States, and Russia was announced, commentators with an eye for history were soon asking whether this Shenzhen summit was going to be a second Yalta allowing Vladimir Putin…",
-      "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Pennsylvania Governor Josh Shapiro outlines his vision for US leadership in the world",
-      "url": "https://www.atlanticcouncil.org/commentary/event-recap/pennsylvania-governor-josh-shapiro-outlines-his-vision-for-us-leadership-in-the-world/",
-      "date": "2026-11-20T22:27:20+00:00",
-      "author": "Katherine Golden",
-      "summary": "At the Atlantic Council's NATO in America conference, Shapiro said the United States has an opportunity to push forward a new foreign policy centered on security and prosperity.",
-      "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "EU, U.K. Agree to a Brexit Reset",
-      "url": "https://foreignpolicy.com/2026/11/20/brexit-reset-deal-eu-uk-summit-burnham-trade-economy/",
-      "date": "2026-11-20T22:07:43+00:00",
-      "author": "Alexandra Sharp",
-      "summary": "But Burnham faces some opposition back home.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "Why tribal rights have become key to the energy permitting debate",
       "url": "https://www.canarymedia.com/articles/land-use/tribal-rights-energy-permitting-debate",
       "date": "2026-11-20T21:30:00+00:00",
@@ -1031,46 +1231,6 @@
       "source": "Canary Media",
       "kind": "analysis",
       "category": "policy"
-    },
-    {
-      "title": "States Are Playing Serious Games on Virtual Battlefields",
-      "url": "https://foreignpolicy.com/2026/11/20/grand-theft-auto-power-play-osborn-review-geopolitics-video-games/",
-      "date": "2026-11-20T20:00:53+00:00",
-      "author": "James Palmer",
-      "summary": "The rise of video gaming has created new geopolitical arenas.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Bob Woodward Is Scared as Hell",
-      "url": "https://foreignpolicy.com/2026/11/20/bob-woodward-memoir-secrets-review/",
-      "date": "2026-11-20T19:40:17+00:00",
-      "author": "Michael Hirsh",
-      "summary": "In his new memoir, the legendary reporter asks why presidents keep starting dumb wars—and worries about the future.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Pop Culture Still Can’t Figure Out Drone Warfare",
-      "url": "https://foreignpolicy.com/2026/11/20/drone-warfare-movies-tv-culture-video-games-ukraine-war/",
-      "date": "2026-11-20T19:20:52+00:00",
-      "author": "Christian Caryl",
-      "summary": "Hollywood seems oblivious to the radically new nature of war. Why, exactly?",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "US Soccer President Cindy Parlow Cone on equal pay for athletes and soccer’s future in the US",
-      "url": "https://www.atlanticcouncil.org/inflection-points-with-frederick-kempe/us-soccer-president-cindy-parlow-cone-on-equal-pay-for-athletes-and-soccers-future-in-the-us/",
-      "date": "2026-11-20T18:06:27+00:00",
-      "author": "Frederick Kempe",
-      "summary": "US Soccer President Cindy Parlow Cone joins Frederick Kempe to discuss her vision for growing the sport following the 2026 FIFA World Cup, including an ambitious goal to bring soccer to every US school by 2032.",
-      "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
     },
     {
       "title": "Trump EPA keeps trying to kill Solar for All despite court losses",
@@ -1113,86 +1273,6 @@
       "category": "wind"
     },
     {
-      "title": "Permitting reform bill heads to House as Democratic divisions persist",
-      "url": "https://www.utilitydive.com/news/senate-passes-baaja-permitting-bill/875334/",
-      "date": "2026-11-20T15:48:13+00:00",
-      "author": "Diana DiGangi",
-      "summary": "Some Democrats say the party should not agree to a bill that contains what they consider troubling changes to environmental law and state and tribal authority. Others say no better deal is possible with a Republican president.",
-      "source": "Utility Dive",
-      "kind": "news",
-      "category": "policy"
-    },
-    {
-      "title": "Budderfly to invest $500M to finance and operate municipal energy upgrades",
-      "url": "https://www.utilitydive.com/news/budderfly-to-invest-500m-to-finance-and-operate-municipal-energy-upgrades/875320/",
-      "date": "2026-11-20T15:13:48+00:00",
-      "author": "Charles Paullin",
-      "summary": "The energy-as-a-service company will recoup its investment from savings over a contract’s life. Such agreements have become more common, especially for large institutions like universities and hospitals, one expert said.",
-      "source": "Utility Dive",
-      "kind": "news",
-      "category": "general"
-    },
-    {
-      "title": "Market reforms bolster grid, may lower costs this winter: FERC",
-      "url": "https://www.utilitydive.com/news/western-northeast-market-reforms-drought-grid-ferc/875311/",
-      "date": "2026-11-20T14:32:25+00:00",
-      "author": "Ethan Howland",
-      "summary": "Improved coordination in the West will help offset lower hydropower output due to historically low water levels in the Colorado River basin, while New England risks overreliance on oil, FERC’s winter market and reliability report says.",
-      "source": "Utility Dive",
-      "kind": "news",
-      "category": "policy"
-    },
-    {
-      "title": "Chhangani cited in IMF Policy Paper on the shift of CBDC projects towards wholesale applications",
-      "url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chhangani-cited-in-imf-policy-paper-on-the-shift-of-cbdc-projects-towards-wholesale-applications/",
-      "date": "2026-11-20T14:32:21+00:00",
-      "author": "dghadiali",
-      "summary": "Read the full paper here",
-      "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Nikoladze and De Kruijf cited in Challenges on Nvidia’s pressure on Washington to preserve their access to the Chinese market",
-      "url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/nikoladze-and-de-kruijf-cited-in-challenges-on-nvidias-pressure-on-washington-to-preserve-their-access-to-the-chinese-market/",
-      "date": "2026-11-20T14:31:20+00:00",
-      "author": "dghadiali",
-      "summary": "Read the full article here",
-      "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Nikoladze and de Kruijf cited in Journal of Law & Cyber Warfare on US chips and Nvidia’s influence",
-      "url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/nikoladze-and-de-kruijf-cited-in-journal-of-law-cyber-warfare-on-us-chips-and-nvidias-influence/",
-      "date": "2026-11-20T14:29:25+00:00",
-      "author": "dghadiali",
-      "summary": "Read the full article here",
-      "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Nikoladze interviewed by Malaysian Business FM on the Nvidia scandal and implications for export controls",
-      "url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/nikoladze-interviewed-by-malaysian-business-fm-on-the-nvidia-scandal-and-implications-for-export-controls/",
-      "date": "2026-11-20T14:27:43+00:00",
-      "author": "dghadiali",
-      "summary": "Listen to the interview here",
-      "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Tannebaum interviewed on CNBC on the key takeaways from Trump-Xi-Putin meeting",
-      "url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-interviewed-on-cnbc-on-the-key-takeaways-from-trump-xi-putin-meeting/",
-      "date": "2026-11-20T14:25:47+00:00",
-      "author": "dghadiali",
-      "summary": "Watch the full interview here",
-      "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "Why the ICJ ruling won’t stop the Rohingya genocide",
       "url": "https://www.thenewhumanitarian.org/interview/2026/11/20/why-icj-ruling-wont-stop-rohingya-genocide",
       "date": "2026-11-20T14:24:35+00:00",
@@ -1211,16 +1291,6 @@
       "source": "Canary Media",
       "kind": "analysis",
       "category": "policy"
-    },
-    {
-      "title": "Texas finalizes ERCOT CEO contract extension, pay raise tied to performance",
-      "url": "https://www.utilitydive.com/news/texas-finalizes-ercot-ceo-contract-extension-pay-raise-tied-to-performance/875318/",
-      "date": "2026-11-20T13:49:50+00:00",
-      "author": "Robert Walton",
-      "summary": "CEO Pablo Vegas could take home more than $4 million next year. The contract extension and pay raise were put on hold in September following public outcry.",
-      "source": "Utility Dive",
-      "kind": "news",
-      "category": "general"
     },
     {
       "title": "‘They’re struggling for oxygen’: children pay the price as countries allow measles to surge again",
@@ -1353,16 +1423,6 @@
       "category": "storage"
     },
     {
-      "title": "Africa’s Just Transition Ambitions Face Hurdles at COP31",
-      "url": "https://www.ipsnews.net/2026/11/africas-just-transition-ambitions-face-hurdles-at-cop31/",
-      "date": "2026-11-20T08:09:22+00:00",
-      "author": "Farai Shawn Matiashe",
-      "summary": "Valepi Banda still remembers the day she lost dozens of chickens in June last year in Zambia’s capital, Lusaka, after the heating system failed due to power cuts. The southern African nation was experiencing load-shedding schedules lasting…",
-      "source": "Inter Press Service",
-      "kind": "world",
-      "category": "development"
-    },
-    {
       "title": "Iraq university’s removal of male professors teaching women sparks weeks of protests",
       "url": "https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests",
       "date": "2026-11-20T05:00:23+00:00",
@@ -1391,26 +1451,6 @@
       "source": "Canary Media",
       "kind": "analysis",
       "category": "solar"
-    },
-    {
-      "title": "Google signs 50-MW superhot geothermal PPA with Quaise Energy",
-      "url": "https://www.utilitydive.com/news/google-signs-50-mw-superhot-geothermal-ppa-with-quaise-energy/875217/",
-      "date": "2026-11-19T17:58:42+00:00",
-      "author": "Marlene Wilden",
-      "summary": "The agreement will support Google's Oregon data center operations beginning as early as 2030, advancing development of a technology designed to access geothermal resources deeper underground.",
-      "source": "Utility Dive",
-      "kind": "news",
-      "category": "general"
-    },
-    {
-      "title": "Grid operators need data center ride-through rules that protect reliability",
-      "url": "https://www.utilitydive.com/news/grid-operators-data-center-ride-through-rules-ercot-nerc/873466/",
-      "date": "2026-11-19T17:13:16+00:00",
-      "author": "Alan Cooper",
-      "summary": "The first facilities built to Texas’ new standard are about to come online, proving that firm, predictable regulation can protect reliability without slowing market development, writes ON.energy CEO Alan Cooper.",
-      "source": "Utility Dive",
-      "kind": "news",
-      "category": "storage"
     },
     {
       "title": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
@@ -1599,16 +1639,6 @@
       "author": "Jeffrey Ding",
       "summary": "The United States—not China—dominates diffusion.",
       "source": "Foreign Affairs",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "The U.S.-Chinese-Russian Summit and the Future of Trilateral Nuclear Talks",
-      "url": "https://warontherocks.com/the-u-s-chinese-russian-summit-and-the-future-of-trilateral-nuclear-talks/",
-      "date": "2026-11-18T08:30:27+00:00",
-      "author": "Tong Zhao",
-      "summary": "U.S. President Donald Trump, who has sought nuclear arms control with Russia and China since his first term, may finally have his chance. The first-ever U.S.-Chinese-Russian leaders’ summit is set to take place in Shenzhen, with nuclear…",
-      "source": "War on the Rocks",
       "kind": "world",
       "category": "geopolitics"
     },
@@ -1863,26 +1893,6 @@
       "category": "oilgas"
     },
     {
-      "title": "Q&A: What is the Brazil-led ‘deforestation roadmap’?",
-      "url": "https://www.carbonbrief.org/qa-what-is-the-brazil-led-deforestation-roadmap",
-      "date": "2026-11-04T15:39:10+00:00",
-      "author": "Carbon Brief Staff",
-      "summary": "On 3 November, the Brazilian presidency of the COP30 climate talks released its long-awaited “roadmap” on ending deforestation. Ahead of…",
-      "source": "Carbon Brief",
-      "kind": "analysis",
-      "category": "policy"
-    },
-    {
-      "title": "Q&A: What is in the global ‘roadmap’ for transitioning away from fossil fuels?",
-      "url": "https://www.carbonbrief.org/qa-what-is-in-the-global-roadmap-for-transitioning-away-from-fossil-fuels",
-      "date": "2026-11-04T15:23:07+00:00",
-      "author": "Daisy Dunne",
-      "summary": "Transitioning away from fossil fuels is “urgent, inevitable and, yet, possible”, according to a first-of-its-kind global “roadmap” produced by Brazil.…",
-      "source": "Carbon Brief",
-      "kind": "analysis",
-      "category": "general"
-    },
-    {
       "title": "Global refinery inputs fell sharply in the second quarter of 2026 before modest recovery",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68404",
       "date": "2026-11-03T14:00:00+00:00",
@@ -1971,16 +1981,6 @@
       "source": "CTVC by Sightline Climate",
       "kind": "analysis",
       "category": "general"
-    },
-    {
-      "title": "Hybrid sales rise while battery electric sales remain lower after tax credit expiration",
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68325",
-      "date": "2026-10-19T14:00:00+00:00",
-      "author": "",
-      "summary": "In the third quarter of 2026 (3Q26), 23% of new light-duty vehicles sold in the United States were hybrid electric, battery electric, or plug-in hybrid electric vehicles, down slightly from 24% in 3Q25. Between 3Q25 and 3Q26, hybrid…",
-      "source": "EIA Today in Energy",
-      "kind": "analysis",
-      "category": "storage"
     },
     {
       "title": "On Combating Human Trafficking",
