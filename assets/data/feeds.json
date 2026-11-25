@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-24T23:55:50+00:00",
+  "fetchedAt": "2026-11-25T08:43:11+00:00",
   "sources": [
     {
       "name": "Utility Dive",
@@ -123,6 +123,76 @@
   ],
   "items": [
     {
+      "title": "Does Congress Really Want Its War Powers Back?",
+      "url": "https://warontherocks.com/does-congress-really-want-its-war-powers-back/",
+      "date": "2026-11-25T08:30:30+00:00",
+      "author": "Elizabeth Beavers",
+      "summary": "Congress wants its war powers back. At least, that is the message that the legislature has communicated to the public numerous times over the past decade. Members of Congress have forced an astonishing number of votes on resolutions…",
+      "source": "War on the Rocks",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Kyrgyzstan to build first utility-scale floating PV plant",
+      "url": "https://www.pv-magazine.com/2026/11/25/kyrgyzstan-to-build-first-utility-scale-floating-pv-plant/",
+      "date": "2026-11-25T08:30:00+00:00",
+      "author": "Patrick Jowett",
+      "summary": "The Asian Development Bank is providing $20 million in financing for Kyrgyzstan’s first utility-scale floating solar project, to be built at a hydropower reservoir near the country’s capital.",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "Research shows solar module ETFE frontsheets suffer higher soiling losses than glass",
+      "url": "https://www.pv-magazine.com/2026/11/25/research-shows-solar-module-ethylene-tetrafluoroethylene-frontsheets-suffer-higher-soiling-losses-than-glass/",
+      "date": "2026-11-25T08:00:00+00:00",
+      "author": "Lior Kahana",
+      "summary": "Researchers at TU Delft tested four ETFE frontsheet types under outdoor conditions over 12 months, examining the effects of surface texture and wettability on soiling. They found that hydrophilic and matte surfaces initially performed…",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "French startup develops air-based photovoltaic-thermal solar dryer for agricultural, forestry applications",
+      "url": "https://www.pv-magazine.com/2026/11/25/french-startup-develops-air-based-photovoltaic-thermal-solar-dryer-for-agricultural-forestry-applications/",
+      "date": "2026-11-25T07:47:55+00:00",
+      "author": "Emiliano Bellini",
+      "summary": "Thermasol Air Systems has developed a hybrid solar module with an electrical output of 550 W and a thermal output of nearly 1.4 kW. The company claims its technology can recover up to 80% of the heat generated beneath PV modules.",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "Researchers test new tech to help bring solar and storage to apartments",
+      "url": "https://www.pv-magazine.com/2026/11/25/researchers-test-new-tech-to-help-bring-solar-and-storage-to-apartments/",
+      "date": "2026-11-25T06:59:53+00:00",
+      "author": "David Carroll",
+      "summary": "An AI-powered energy system is being installed at an apartment complex in Sydney’s south as part of a $1.2 million project designed to expand access to rooftop solar and battery storage for Australians living in apartments.",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "What Does the ICJ Ruling Mean for Myanmar?",
+      "url": "https://foreignpolicy.com/2026/11/25/icj-myanmar-genocide-rohingya-trump/",
+      "date": "2026-11-25T06:00:40+00:00",
+      "author": "Joseph Rachman",
+      "summary": "The junta thinks it might find a sympathetic ear from Trump.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Ghost strikes: the new drone superpowers raining death from above",
+      "url": "https://www.theguardian.com/global-development/ng-interactive/2026/nov/25/ghost-strikes-the-rise-of-drone-superpowers-fuelling-remote-killing-of-thousands-of-civilians-with-impunity",
+      "date": "2026-11-25T06:00:07+00:00",
+      "author": "By Tess McClure and Mohamed Gabobe. Graphics by Ana Lucía González Paz, Prina Shah and Garry Blight",
+      "summary": "The spread of cheap drones means warfare is increasingly conducted by invisible armies at the push of a button. Victims have no warning and no chance for justice Death had come from the sky for Mohamed’s family: an execution carried out…",
+      "source": "The Guardian: Global development",
+      "kind": "world",
+      "category": "development"
+    },
+    {
       "title": "Xi Knows How to Play Trump",
       "url": "https://foreignpolicy.com/2026/11/24/jensen-huang-nvidia-return-trump-xi-us-china-relations/",
       "date": "2026-11-24T22:44:55+00:00",
@@ -179,6 +249,16 @@
       "author": "Peter Dickinson",
       "summary": "The recent sinking of a Russian warship by Ukrainian naval drones in the Mediterranean has underlined Ukraine's status as a world leader in drone warfare, writes Peter Dickinson.",
       "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Why Nvidia Couldn’t Quit Jensen Huang",
+      "url": "https://thediplomat.com/2026/11/why-nvidia-couldnt-quit-jensen-huang/",
+      "date": "2026-11-24T21:11:00+00:00",
+      "author": "S. Alex Yang and Angela Huyue Zhang",
+      "summary": "In China, the coordination and planning needed to develop AI is led by the government. In the U.S., it has been driven largely by one entrepreneur: Huang.",
+      "source": "The Diplomat",
       "kind": "world",
       "category": "geopolitics"
     },
@@ -613,16 +693,6 @@
       "category": "storage"
     },
     {
-      "title": "Cyprus plans to deploy over 300 MW of battery storage",
-      "url": "https://www.pv-magazine.com/2026/11/24/cyprus-plans-to-deploy-over-300-mw-of-battery-storage/",
-      "date": "2026-11-24T11:15:00+00:00",
-      "author": "Patrick Jowett",
-      "summary": "With Cyprus having more than 1 GW of installed solar capacity against average electricity demand of around 650 MW, its government is looking to accelerate storage deployment to address rising solar curtailment and improve grid flexibility.",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
       "title": "Somalia-UAE Rift: Regional Power Struggle or Distraction from Domestic Crisis?",
       "url": "https://www.ipsnews.net/2026/11/somalia-uae-rift-regional-power-struggle-or-distraction-from-domestic-crisis/",
       "date": "2026-11-24T11:08:20+00:00",
@@ -633,32 +703,12 @@
       "category": "development"
     },
     {
-      "title": "Bangladesh developer plans 45 MW solar plant with foreign funding",
-      "url": "https://www.pv-magazine.com/2026/11/24/bangladesh-developer-plans-45-mw-solar-plant-with-foreign-funding/",
-      "date": "2026-11-24T10:45:00+00:00",
-      "author": "Brian Publicover",
-      "summary": "A Bangladeshi power producer and an international infrastructure investor plan to build a 45 MW solar plant in Chittagong district at a cost of about $45 million, with output sold to the state utility.",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
-    },
-    {
       "title": "European BESS market moves from tolls to floors, ‘operators only just beginning to understand’ SOC challenges",
       "url": "https://www.energy-storage.news/european-bess-market-moves-from-tolls-to-floors-operators-only-just-beginning-to-understand-soc-challenges/",
       "date": "2026-11-24T10:26:24+00:00",
       "author": "Cameron Murray",
       "summary": "Nicolas Chouleur, partner at advisory firm Everoze, shares his views on the key trends and challenges in European BESS asset management today.",
       "source": "Energy-Storage.news",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
-      "title": "Solar and storage insolvencies hit larger German companies",
-      "url": "https://www.pv-magazine.com/2026/11/24/solar-and-storage-insolvencies-hit-larger-german-companies/",
-      "date": "2026-11-24T10:00:00+00:00",
-      "author": "Brian Publicover",
-      "summary": "Solar and storage companies accounted for 10 of Germany’s 103 major corporate insolvencies in the third quarter of 2026, with cases increasingly involving project developers and battery manufacturers alongside installers and distributors…",
-      "source": "pv magazine",
       "kind": "news",
       "category": "storage"
     },
@@ -679,16 +729,6 @@
       "author": "George Heynes",
       "summary": "APA Group has started construction on its 72MW solar PV plant and 52MW/104MWh BESS at Mount Isa in north-west Queensland, Australia.",
       "source": "Energy-Storage.news",
-      "kind": "news",
-      "category": "solar"
-    },
-    {
-      "title": "Residential solar linked to reduced health risks from extreme temperatures",
-      "url": "https://www.pv-magazine.com/2026/11/24/residential-solar-linked-to-reduced-health-risks-from-extreme-temperatures/",
-      "date": "2026-11-24T09:18:43+00:00",
-      "author": "Patrick Jowett",
-      "summary": "Research from Japan finds residential solar installations can offer protection against heat-related mortality by making electricity more affordable for households to run air conditioning.",
-      "source": "pv magazine",
       "kind": "news",
       "category": "solar"
     },
@@ -803,16 +843,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "UK Announces Fresh Myanmar Sanctions Following ICJ Genocide Ruling",
-      "url": "https://thediplomat.com/2026/11/uk-announces-fresh-myanmar-sanctions-following-icj-genocide-ruling/",
-      "date": "2026-11-24T04:00:00+00:00",
-      "author": "Sebastian Strangio",
-      "summary": "London said that it would work with international partners \"to ensure that this judgment leads to meaningful action and renewed international pressure.”",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "Japan’s expanding BESS market and its uncertain progress",
       "url": "https://www.energy-storage.news/japans-expanding-bess-market-and-its-uncertain-progress/",
       "date": "2026-11-24T00:04:52+00:00",
@@ -909,16 +939,6 @@
       "author": "Nicole Wiley",
       "summary": "Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media…",
       "source": "War on the Rocks",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Huang’s Return Is the Biggest National Security Scandal in U.S. History",
-      "url": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
-      "date": "2026-11-23T19:06:14+00:00",
-      "author": "James Palmer",
-      "summary": "Trump has put his pocketbook first and U.S. interests last.",
-      "source": "Foreign Policy",
       "kind": "world",
       "category": "geopolitics"
     },
@@ -1573,16 +1593,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "The Atlantic Brief: After the U.S. Midterms, Trans-Atlantic Defense Cooperation",
-      "url": "https://warontherocks.com/the-atlantic-brief-after-the-u-s-midterms-trans-atlantic-defense-cooperation/",
-      "date": "2026-11-18T16:40:05+00:00",
-      "author": "Rachel Ellehuus",
-      "summary": "For this edition of The Atlantic Brief, the Royal United Services Institute and War on the Rocks present a dialogue on the future of trans-Atlantic defense cooperation following the U.S. midterm elections. Participating experts from the…",
-      "source": "War on the Rocks",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "U.S. natural gas inventories end injection season above normal levels",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68484",
       "date": "2026-11-18T14:00:00+00:00",
@@ -1701,16 +1711,6 @@
       "source": "Foreign Affairs",
       "kind": "world",
       "category": "geopolitics"
-    },
-    {
-      "title": "‘I’m not ready to go to jail’: co-founder of Egypt’s last independent media outlet faces prison",
-      "url": "https://www.theguardian.com/global-development/2026/nov/17/lina-attalah-mada-masr-editor-egypt-independent-media-prison-censorship",
-      "date": "2026-11-17T05:00:06+00:00",
-      "author": "Ruth Michaelson",
-      "summary": "Mada Masr, the news site co-founded by Lina Attalah just before the 2013 military coup, is fighting for its life after being shut down, but its journalists have not given up hope Facing a year in prison for running Egypt’s leading…",
-      "source": "The Guardian: Global development",
-      "kind": "world",
-      "category": "development"
     },
     {
       "title": "Revealed: Russia, Saudi Arabia and Australia are largest CO2 exporters of all time",
