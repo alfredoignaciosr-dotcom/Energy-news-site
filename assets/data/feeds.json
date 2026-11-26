@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-26T03:36:40+00:00",
+  "fetchedAt": "2026-11-26T16:58:56+00:00",
   "sources": [
     {
       "name": "Utility Dive",
@@ -123,6 +123,356 @@
   ],
   "items": [
     {
+      "title": "France triples planned renewable energy auction volume to 1.5 GW",
+      "url": "https://www.pv-magazine.com/2026/11/26/france-triples-planned-renewable-energy-auction-volume-to-1-5-gw/",
+      "date": "2026-11-26T16:23:59+00:00",
+      "author": "Brian Publicover",
+      "summary": "France will increase the capacity of its upcoming technology-neutral renewable energy auction from 500 MW to 1.5 GW, opening the tender to all renewable power technologies and introducing a common baseload reference price for calculating…",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "general"
+    },
+    {
+      "title": "Post-midterms Trump remains a striker—always on offense",
+      "url": "https://www.atlanticcouncil.org/content-series/inflection-points/post-midterms-trump-remains-a-striker-always-on-offense/",
+      "date": "2026-11-26T15:09:27+00:00",
+      "author": "Frederick Kempe",
+      "summary": "Two White House actions this week suggest that Trump is not interested in being a “lame duck” for the next two years.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Zelestra and Statkraft agree 8-year Italy BESS toll as ‘bilateral market develops in parallel to MACSE’",
+      "url": "https://www.energy-storage.news/zelestra-statkraft-8-year-italy-bess-toll-bilateral-market-develops-parallel-macse/",
+      "date": "2026-11-26T15:03:14+00:00",
+      "author": "Cameron Murray",
+      "summary": "IPP Zelestra and Norwegian state-owned power group Statkraft have agreed a BESS toll in Italy, a few days after the country’s second MACSE auction concluded.",
+      "source": "Energy-Storage.news",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "The Top 10 Reasons to Be Thankful in 2026",
+      "url": "https://foreignpolicy.com/2026/11/26/thanksgiving-trump-thankful-list/",
+      "date": "2026-11-26T15:02:44+00:00",
+      "author": "Stephen M. Walt",
+      "summary": "For the first time in a long while, global politics is looking up.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Energy Storage Awards 2026: Fluence, Quinbrook & NHOA win again, CMBlu & ContourGlobal among first-timers",
+      "url": "https://www.energy-storage.news/energy-storage-awards-2026-fluence-quinbrook-nhoa-win-again-cmblu-contourglobal-among-first-timers/",
+      "date": "2026-11-26T14:20:22+00:00",
+      "author": "Andy Colthorpe",
+      "summary": "Last week’s Energy Storage Awards (ESAs) 2026 ceremony saw some repeat winners return, while plenty of newcomers took home trophies, too.",
+      "source": "Energy-Storage.news",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "Gambia signs four solar PPAs totalling 232 MW",
+      "url": "https://www.pv-magazine.com/2026/11/26/gambia-signs-four-solar-ppas-totalling-232-mw/",
+      "date": "2026-11-26T14:15:00+00:00",
+      "author": "Patrick Jowett",
+      "summary": "The Gambia’s state-owned utility has inked four large-scale solar power purchase agreements (PPAs) since late October, with battery storage included in each project.",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "The Chaos Theory of International Relations",
+      "url": "https://foreignpolicy.com/2026/11/26/the-chaos-theory-of-international-relations/",
+      "date": "2026-11-26T14:00:11+00:00",
+      "author": "Parag Khanna",
+      "summary": "How multialignment explains a world with no rules.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Norwegian IPP shifts South African solar project to corporate buyers",
+      "url": "https://www.pv-magazine.com/2026/11/26/norwegian-ipp-shifts-south-african-solar-project-to-corporate-buyers/",
+      "date": "2026-11-26T13:45:00+00:00",
+      "author": "Brian Publicover",
+      "summary": "Norwegian independent power producer (IPP) Scatec said it plans to withdraw a 288 MW solar project from South Africa’s public renewables procurement program and sell it into the country’s growing corporate power market instead.",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "Bangladeshi garment workers clash with police during protests – video",
+      "url": "https://www.theguardian.com/global-development/video/2026/nov/26/bangladeshi-garment-workers-clash-with-police-during-protests-video",
+      "date": "2026-11-26T13:42:18+00:00",
+      "author": "Guardian Staff",
+      "summary": "Bangladeshi garment workers in Gazipur have been protesting for weeks over the stagnant minimum wage and rising living costs. They have blocked roads, set fires and thrown bricks while police in riot gear fired teargas and charged at…",
+      "source": "The Guardian: Global development",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Creating Opportunities in the Maritime Transition for Latin America and the Caribbean",
+      "url": "https://www.ipsnews.net/2026/11/creating-opportunities-in-the-maritime-transition-for-latin-america-and-the-caribbean/",
+      "date": "2026-11-26T13:37:18+00:00",
+      "author": "Tania Miranda",
+      "summary": "The COP31 climate summit in Antalya, Türkiye comes at a decisive moment for humanity. We are now grappling with a scenario in which the Paris Agreement goal of limiting global warming to 1.5 °C will not be met, which brings the concept of…",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Rare periods of low PV generation can be managed with storage",
+      "url": "https://www.pv-magazine.com/2026/11/26/rare-periods-of-low-pv-generation-can-be-managed-with-storage/",
+      "date": "2026-11-26T13:15:00+00:00",
+      "author": "Brian Publicover",
+      "summary": "The German Institute for Economic Research (DIW Berlin) says that batteries could help manage shortfalls in solar and wind generation, while underground storage of green hydrogen could provide backup during prolonged periods of low…",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "Energy Vault backlog hits US$2.3 billion as it closes financing for 150MW Texas BESS",
+      "url": "https://www.energy-storage.news/energy-vault-backlog-hits-us2-3-billion-as-it-closes-financing-for-150mw-texas-bess/",
+      "date": "2026-11-26T13:03:53+00:00",
+      "author": "April Bonner",
+      "summary": "NYSE-listed energy infrastructure company Energy Vault has reported its Q3 2026 financial results and the close of non-recourse project financing for its 150MW/300MWh SOSA Energy Centre in Texas, US.",
+      "source": "Energy-Storage.news",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "Spain could reach 10 GW of batteries by 2030, but bankability remains the major challenge",
+      "url": "https://www.pv-magazine.com/2026/11/26/spain-could-reach-10-gw-of-batteries-by-2030-but-bankability-remains-the-major-challenge/",
+      "date": "2026-11-26T13:00:59+00:00",
+      "author": "Emiliano Bellini",
+      "summary": "The hybridization of solar PV plants, the evolution of arbitrage and ancillary services revenues, the future capacity market, and the financing of energy storage projects were the focus of a roundtable organized by pv magazine at Genera…",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "India adds 11.2 GW of rooftop PV capacity in first nine months of 2026",
+      "url": "https://www.pv-magazine.com/2026/11/26/india-adds-11-2-gw-of-rooftop-solar-capacity-in-first-nine-months-of-2026/",
+      "date": "2026-11-26T12:49:04+00:00",
+      "author": "Uma Gupta",
+      "summary": "India’s residential segment accounted for more than 95% of rooftop solar additions in the third quarter of 2026, driven by the government’s PM Surya Ghar program. Cumulative installed rooftop PV capacity reached 32 GW by the end of…",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "Europe’s Economic Sovereignty Is All Talk and Little Action",
+      "url": "https://foreignpolicy.com/2026/11/26/eu-europe-economic-security-sovereignty-derisking-decoupling-dependence-united-states-china/",
+      "date": "2026-11-26T12:33:15+00:00",
+      "author": "Agathe Demarais",
+      "summary": "The continent’s reliance on the United States has surged despite all promises to diversify.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Estonian solar park energized with 55 MW/250 MWh battery",
+      "url": "https://www.pv-magazine.com/2026/11/26/estonian-hybrid-park-energized-with-55-mw-250-mwh-battery/",
+      "date": "2026-11-26T12:30:00+00:00",
+      "author": "Patrick Jowett",
+      "summary": "Project developers say the battery energy storage system, which is tied to a 77.5 MW solar farm operational from 2024, features the Baltics’ largest battery system by storage capacity to date.",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "‘Come right now’: How a crisis centre in Samarkand helps women escape violence",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168878",
+      "date": "2026-11-26T12:00:00+00:00",
+      "author": "",
+      "summary": "Irina* paced the apartment. Her husband had come home drunk again, and she knew the beatings would follow.",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Maritime trade stagnates amid geopolitical uncertainty",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168884",
+      "date": "2026-11-26T12:00:00+00:00",
+      "author": "",
+      "summary": "Seaborne trade that underpins the global economy continues to slow, while disruption from conflict and climate-related factors is hitting least-developed economies and small island nations hardest, UN economists said on Thursday.",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "DR Congo: Peacekepers step up civilian protection amid fighting in Ituri",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168883",
+      "date": "2026-11-26T12:00:00+00:00",
+      "author": "",
+      "summary": "United Nations peacekeepers in the Democratic Republic of the Congo (DRC) have stepped up efforts to protect civilians in Ebola-hit Ituri province following renewed armed clashes in Djugu territory.",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Huawei launches Luterra S2 in Europe",
+      "url": "https://www.pv-magazine.com/2026/11/26/huawei-launches-luterra-s2-in-europe/",
+      "date": "2026-11-26T11:45:00+00:00",
+      "author": "Bernadette Geyer",
+      "summary": "The Luterra S2 uses 5 and 7 kWh battery modules featuring LFP technology and calls rated at 318 Ah. The 7 kWh module weighs 57 kg and provides 6.9 kWh of usable energy, while the 5 kWh module weighs 46 kg and provides 4.9 kWh. The system…",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "Actuate Energy orders 1.5GWh of BESS from Sungrow for 2027/2028 pipeline in Spain",
+      "url": "https://www.energy-storage.news/actuate-energy-orders-1-5gwh-bess-sungrow-2027-2028-pipeline-spain/",
+      "date": "2026-11-26T11:42:32+00:00",
+      "author": "Cameron Murray",
+      "summary": "New energy storage platform Actuate Energy and inverter and BESS firm Sungrow have struck a 380MW/1,500MWh agreement for projects in Spain over the next few years.",
+      "source": "Energy-Storage.news",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "After genocide recognition, who will deliver justice to the Rohingya?",
+      "url": "https://www.thenewhumanitarian.org/analysis/2026/11/26/after-genocide-recognition-who-will-deliver-justice-rohingya",
+      "date": "2026-11-26T11:19:24+00:00",
+      "author": "Ahtaram Shin",
+      "summary": "A chasm separates this legal ruling from meaningful justice. Without concrete action, that gap will only push hope further out of reach for survivors.",
+      "source": "The New Humanitarian",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Pedro Sánchez’s Big Bet",
+      "url": "https://foreignpolicy.com/2026/11/26/spain-election-housing-crisis-sanchez-feijoo/",
+      "date": "2026-11-26T11:00:29+00:00",
+      "author": "Omar G. Encarnación",
+      "summary": "Spain’s prime minister presided over a housing crisis. Now it might help him win reelection.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Switzerland raises incentives for solar below 100 kW",
+      "url": "https://www.pv-magazine.com/2026/11/26/switzerland-raises-incentives-for-solar-below-100-kw/",
+      "date": "2026-11-26T10:55:00+00:00",
+      "author": "Brian Publicover",
+      "summary": "Switzerland has increased one-time payments for PV systems below 100 kW by CHF 40 ($47.99)/kW and raised the rate for installations below 150 kW that do not consume their own electricity.",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "Mexico conditionally approves 621 MW solar project in Veracruz",
+      "url": "https://www.pv-magazine.com/2026/11/26/mexico-conditionally-approves-621-mw-solar-project-in-veracruz/",
+      "date": "2026-11-26T10:15:00+00:00",
+      "author": "Brian Publicover",
+      "summary": "Mexico’s environmental authority has conditionally approved the 621.17 MWp Cerro Colorado solar project in Veracruz, which is planned across the municipalities of Sayula de Alemán and Texistepec.",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "‘An early Christmas present’: European Energy takes delivery of 88MWh battery storage units in Australia",
+      "url": "https://www.energy-storage.news/european-energy-88mwh-battery-storage-australia/",
+      "date": "2026-11-26T09:30:59+00:00",
+      "author": "George Heynes",
+      "summary": "The first units of a BESS have arrived at European Energy's operational Mokoan solar PV plant in northern Victoria, Australia.",
+      "source": "Energy-Storage.news",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "How Europe Comes Apart",
+      "url": "https://www.foreignaffairs.com/europe/elections-how-europe-comes-apart-mujtaba-rahman",
+      "date": "2026-11-26T09:00:00+00:00",
+      "author": "Mujtaba Rahman",
+      "summary": "The European Union is entering a period of political instability that could threaten its future—not through its formal dissolution, but through the gradual erosion of its capacity to act. In recent months, Europe has been engulfed in…",
+      "source": "Foreign Affairs",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Where Soldiers Enjoyed Thanksgiving",
+      "url": "https://warontherocks.com/where-soldiers-enjoyed-thanksgiving/",
+      "date": "2026-11-26T08:30:44+00:00",
+      "author": "Zachary Griffiths",
+      "summary": "Today, I’m slicing turkey. Grease dots my pinks and greens. Scuffs mar my jump boots. As I serve, soldiers feast: smoked turkey, honey-glazed ham, a steamship round of beef, smoked flank steak, and a whole smoked pig. Alongside those…",
+      "source": "War on the Rocks",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Ukrainians Brace for Another Winter on the War’s Frontline in Kherson",
+      "url": "https://www.ipsnews.net/2026/11/ukrainians-brace-for-another-winter-on-the-wars-frontline-in-kherson/",
+      "date": "2026-11-26T08:28:26+00:00",
+      "author": "Catherine Wilson",
+      "summary": "At the end of October, the first enduring ceasefire of the nearly five-year-long Russian war against Ukraine opened the way for the rescue of children and their families trapped in the besieged town of Oleshky in the Russian-occupied…",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "George Washington’s Thanksgiving Proclamation",
+      "url": "https://warontherocks.com/george-washingtons-thanksgiving-proclamation-5/",
+      "date": "2026-11-26T08:15:50+00:00",
+      "author": "WOTR Staff",
+      "summary": "Editor’s note: Congressional representatives asked George Washington to designate a national day of thanksgiving in honor of the new United States Constitution, which had come into operation in 1789. Washington observed the day “by…",
+      "source": "War on the Rocks",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Looking Toward COP32 With Optimism and Resilience",
+      "url": "https://www.ipsnews.net/2026/11/looking-toward-cop32-with-optimism-and-resilience/",
+      "date": "2026-11-26T08:00:46+00:00",
+      "author": "Yamide Dagnet",
+      "summary": "As the dust settles and we move further beyond the close of COP31 Türkiye, I keep returning to these moments. Beyond the headlines saying what a failure COP31 was, these are the moments lost and never heard that I choose to come back to…",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "When Disasters Strike, LGBTQIA+ Communities Are Too Often Left Out of Humanitarian Response",
+      "url": "https://www.ipsnews.net/2026/11/when-disasters-strike-lgbtqia-communities-are-too-often-left-out-of-humanitarian-response/",
+      "date": "2026-11-26T06:51:44+00:00",
+      "author": "Oritro Karim",
+      "summary": "On November 20, in commemoration of Transgender Day of Remembrance, the United Nations (UN) Permanent Missions of Nepal, France, Norway, and Brazil partnered with Outright International to host a panel discussion on the importance of…",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "2026, the Year of Protests: Hundreds of Millions of People Said “Enough”",
+      "url": "https://www.ipsnews.net/2026/11/2026-the-year-of-protests-hundreds-of-millions-of-people-said-enough/",
+      "date": "2026-11-26T06:31:35+00:00",
+      "author": "Isabel Ortiz and Sara Burke and Mohamed Berrada",
+      "summary": "In 2026, hundreds of millions of people, many of them young, took to the streets across several continents. The number of national general strikes was among the highest in decades. Four grievances drove them. Cost-of-living crisis, low…",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Morocco’s Royal Industrial Vision: A Global Strategic Opportunity",
+      "url": "https://thediplomat.com/2026/11/moroccos-royal-industrial-vision-a-global-strategic-opportunity/",
+      "date": "2026-11-26T06:19:00+00:00",
+      "author": "Roderick Navarro",
+      "summary": "One of the few African countries operating without the constraints of Chinese influence.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Is the Philippines Isolated Within ASEAN?",
+      "url": "https://thediplomat.com/2026/11/is-the-philippines-isolated-within-asean/",
+      "date": "2026-11-26T06:12:00+00:00",
+      "author": "OBA Mie",
+      "summary": "Contention and accommodation with China, and a subtly different stance from Japan",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "Against an Axis of Anything",
       "url": "https://foreignpolicy.com/2026/11/25/against-axis-of-anything/",
       "date": "2026-11-26T00:36:17+00:00",
@@ -159,6 +509,16 @@
       "author": "Atlantic Council Experts",
       "summary": "End the war, finish the job, or wait it out? Atlantic Council experts lay out how they think Trump should proceed on Iran.",
       "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "South Korean Chief Justice’s Impending Impeachment",
+      "url": "https://thediplomat.com/2026/11/south-korean-chief-justices-impending-impeachment/",
+      "date": "2026-11-25T21:46:00+00:00",
+      "author": "Eunwoo Lee",
+      "summary": "The public discourse – and understanding – on the separation of powers splutters.",
+      "source": "The Diplomat",
       "kind": "world",
       "category": "geopolitics"
     },
@@ -223,16 +583,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "Can Shenzhen Summit Reduce Nuclear Risk?",
-      "url": "https://foreignpolicy.com/2026/11/25/shenzhen-summit-trump-xi-putin-nuclear/",
-      "date": "2026-11-25T18:32:09+00:00",
-      "author": "Duyeon Kim",
-      "summary": "Xi, Trump, and Putin promise talks, but action is a long way off.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "Britain’s Balancing Act Between Washington and Brussels",
       "url": "https://warontherocks.com/britains-balancing-act-between-washington-and-brussels/",
       "date": "2026-11-25T18:30:58+00:00",
@@ -259,16 +609,6 @@
       "author": "Rajeev Agarwal",
       "summary": "India's counterterrorism strategy has seen marked successes in recent years, but it's too early to declare victory.",
       "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Trump Is Desperate For a Ukraine Deal, but the Window Is Closing",
-      "url": "https://foreignpolicy.com/2026/11/25/trump-putin-ukraine-russia-peace-deal-corruption-kushner-witkoff/",
-      "date": "2026-11-25T16:47:32+00:00",
-      "author": "Christian Caryl",
-      "summary": "He wants a profitable, Kremlin-friendly peace before the Democrats seize Congress.",
-      "source": "Foreign Policy",
       "kind": "world",
       "category": "geopolitics"
     },
@@ -333,36 +673,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "Ireland approves 1,367 MW of solar in sixth renewables auction",
-      "url": "https://www.pv-magazine.com/2026/11/25/ress-6-provisional-results-solar-pv-ireland/",
-      "date": "2026-11-25T15:37:20+00:00",
-      "author": "Blathnaid O'Dea",
-      "summary": "Ireland’s sixth onshore renewables auction (RESS 6) provisionally greenlit a total of 1,367 MW of solar across 22 projects, according to provisional results published by the grid operator. The weighted average offer price for PV was…",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
-    },
-    {
-      "title": "Italy awards 16 GWh of battery storage in second auction",
-      "url": "https://www.pv-magazine.com/2026/11/25/italy-awards-16-gwh-of-battery-storage-in-second-auction/",
-      "date": "2026-11-25T15:32:57+00:00",
-      "author": "Brian Publicover",
-      "summary": "Italy's second Electricity Storage Capacity Procurement Mechanism (MACSE) auction awarded all 16 GWh of capacity offered for delivery in 2029, with a weighted average price 12% below the level recorded in the previous auction.",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
-      "title": "The Party Shaping Spain’s Election Isn’t Even on the Ballot",
-      "url": "https://foreignpolicy.com/2026/11/25/spain-snap-elections-catalonia-far-right-junts-sanchez-alianca-catalana-housing-crisis-immigration/",
-      "date": "2026-11-25T15:05:31+00:00",
-      "author": "Blake Evans-Pritchard",
-      "summary": "A fast-growing far-right party is tapping into the Catalonian electorate’s frustrations.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "China’s conspicuous absence in Asian energy security plans",
       "url": "https://www.atlanticcouncil.org/blogs/energysource/chinas-conspicuous-absence-in-asian-energy-security-plans/",
       "date": "2026-11-25T15:04:01+00:00",
@@ -381,16 +691,6 @@
       "source": "Utility Dive",
       "kind": "news",
       "category": "oilgas"
-    },
-    {
-      "title": "Don’t Let China Hawks Exploit the Nvidia Scandal",
-      "url": "https://foreignpolicy.com/2026/11/25/nvidia-jensen-huang-china-trump-chips-peace/",
-      "date": "2026-11-25T14:55:59+00:00",
-      "author": "Zachary Karabell",
-      "summary": "Export controls aren’t working, and U.S.-China cooperation remains the better path.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
     },
     {
       "title": "Nepal’s Prime Minister Is Back From India. Now Comes the Hard Part.",
@@ -483,36 +783,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "UtmoLight, UNSW achieve 19.6% efficiency for 2.81 m² perovskite solar module",
-      "url": "https://www.pv-magazine.com/2026/11/25/utmolight-unsw-achieve-19-6-efficiency-for-2-81-m%c2%b2-perovskite-solar-module/",
-      "date": "2026-11-25T13:29:00+00:00",
-      "author": "Emiliano Bellini",
-      "summary": "The reported result corresponds to a power output of around 551 W and represents a 15% relative efficiency increase over UtmoLight’s previous benchmark. The module was tested at Germany’s Fraunhofer Institute for Solar Energy Systems…",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
-    },
-    {
-      "title": "Poweroad unveils modular LFP battery system with up to 245.76 kWh of storage",
-      "url": "https://www.pv-magazine.com/2026/11/25/poweroad-unveils-modular-lfp-battery-system-with-up-to-245-76-kwh-of-storage/",
-      "date": "2026-11-25T13:22:48+00:00",
-      "author": "Emiliano Bellini",
-      "summary": "Poweroad's new battery storage system is available in high- and low-voltage configurations and features 5.12 kWh lithium iron phosphate (LFP) battery modules based on CATL cells. The high-voltage version can also be equipped with a 20 kW…",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
-      "title": "UK small-scale battery deployment set to double annual record in 2026",
-      "url": "https://www.pv-magazine.com/2026/11/25/uk-small-scale-battery-deployment-set-to-double-annual-record-in-2026/",
-      "date": "2026-11-25T13:15:00+00:00",
-      "author": "Brian Publicover",
-      "summary": "Deployment data from certification body MCS reveals small-scale battery storage installations in 2026 are close to doubling annual record set in 2026. Policy support expected to fuel further growth in 2027.",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
       "title": "What Does a Progressive Foreign Policy Look Like for Asia?",
       "url": "https://thediplomat.com/2026/11/what-does-a-progressive-foreign-policy-look-like-for-asia/",
       "date": "2026-11-25T13:13:00+00:00",
@@ -533,36 +803,6 @@
       "category": "storage"
     },
     {
-      "title": "Afore unveils all-in-one propane heat pump for residential applications",
-      "url": "https://www.pv-magazine.com/2026/11/25/afore-unveils-all-in-one-propane-heat-pump-for-residential-applications/",
-      "date": "2026-11-25T13:09:16+00:00",
-      "author": "Emiliano Bellini",
-      "summary": "The new air-to-water heat pump series features nominal heating capacities ranging from 8.03 kW to 11.75 kW and coefficients of performance of up to 5.70. The systems can achieve an outlet water temperature of up to 75 C.",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "general"
-    },
-    {
-      "title": "China’s Abuse of Interpol Puts Us All in Danger",
-      "url": "https://thediplomat.com/2026/11/chinas-abuse-of-interpol-puts-us-all-in-danger/",
-      "date": "2026-11-25T13:05:00+00:00",
-      "author": "Ben Keith and Rhys Davies",
-      "summary": "China has spent a decade abusing Interpol’s Red Notices to hunt down critics abroad.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Why Nepali Prime Minister Balendra Shah’s India Visit Was a Success",
-      "url": "https://thediplomat.com/2026/11/why-nepali-prime-minister-balendra-shahs-india-visit-was-a-success/",
-      "date": "2026-11-25T13:03:00+00:00",
-      "author": "Biswas Baral",
-      "summary": "Shah secured India’s support for post-disaster rebuilding and an air-entry route via Bhairahawa in Western Nepal.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "How datacentres are driving an illegal mining rush in the Amazon ‘more devastating than gold’",
       "url": "https://www.theguardian.com/global-development/2026/nov/25/tin-cassiterite-brazil-amazon-illegal-mining-datacentres-evs",
       "date": "2026-11-25T13:00:27+00:00",
@@ -571,16 +811,6 @@
       "source": "The Guardian: Global development",
       "kind": "world",
       "category": "development"
-    },
-    {
-      "title": "Belgium forecast to reach 28.6 GW of solar by 2035",
-      "url": "https://www.pv-magazine.com/2026/11/25/belgium-forecast-to-reach-28-6-gw-of-solar-by-2035/",
-      "date": "2026-11-25T13:00:00+00:00",
-      "author": "Patrick Jowett",
-      "summary": "GlobalData expects Belgium’s solar capacity to more than double from 2025 levels, with distributed installations leading growth amid rising electricity demand and declining nuclear capacity.",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
     },
     {
       "title": "Italy’s second MACSE auction clears 12% lower than first; Enel, BW ESS/A2A and Field among winners",
@@ -599,16 +829,6 @@
       "author": "Liam Critchley",
       "summary": "Sodium-ion looks set to finally arrive in the grid-scale BESS industry, but what should the prospective first-movers on the technology be thinking about when considering buying products?",
       "source": "Energy-Storage.news",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
-      "title": "Greenvolt Power breaks ground at its biggest US solar and battery storage project to date",
-      "url": "https://www.pv-magazine.com/2026/11/25/greenvolt-power-breaks-ground-at-its-biggest-us-solar-and-battery-storage-project-to-date/",
-      "date": "2026-11-25T12:00:00+00:00",
-      "author": "Matthew Lynas",
-      "summary": "Developer breaks ground at 100 MWac solar, 50 MW/200 MWh battery energy storage system (BESS) project in New Mexico. Commissioning is expected in summer 2028.",
-      "source": "pv magazine",
       "kind": "news",
       "category": "storage"
     },
@@ -683,16 +903,6 @@
       "category": "development"
     },
     {
-      "title": "German agrivoltaics developer launches free tool for project planning",
-      "url": "https://www.pv-magazine.com/2026/11/25/german-agrivoltaics-developer-launches-free-tool-for-project-planning/",
-      "date": "2026-11-25T11:15:00+00:00",
-      "author": "Brian Publicover",
-      "summary": "Ylektra has introduced an online calculator to help farmers and project developers assess whether category II systems meet key agricultural requirements under DIN SPEC 91434, a German technical specification for agrivoltaics.",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "general"
-    },
-    {
       "title": "‘The only free thing is a bed’: hospital patients forced to pay as Malawi runs out of medicines",
       "url": "https://www.theguardian.com/global-development/2026/nov/25/malawi-healthcare-hospitals-drug-shortage-medicines",
       "date": "2026-11-25T11:00:45+00:00",
@@ -701,16 +911,6 @@
       "source": "The Guardian: Global development",
       "kind": "world",
       "category": "development"
-    },
-    {
-      "title": "Campaign aims to bring solar-plus-storage to 50,000 Indigenous homes",
-      "url": "https://www.pv-magazine.com/2026/11/25/campaign-aims-to-bring-solar-plus-storage-to-50000-indigenous-homes/",
-      "date": "2026-11-25T11:00:00+00:00",
-      "author": "Patrick Jowett",
-      "summary": "Indigenized Energy says solar-plus-storage projects have helped families reduce monthly bills by hundreds of dollars as it launches a $2.5 billion fundraising effort to support a further 50,000 Indigenous homes.",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
     },
     {
       "title": "Multilateralism Needs a New Deal, Can Anyone Deliver it?",
@@ -823,16 +1023,6 @@
       "category": "ev"
     },
     {
-      "title": "Why Pakistani Dramas Are Winning Indian Hearts",
-      "url": "https://thediplomat.com/2026/11/why-pakistani-dramas-are-winning-indian-hearts/",
-      "date": "2026-11-25T07:04:00+00:00",
-      "author": "Asif Ullah Khan",
-      "summary": "Indian audiences are increasingly finding ways to look beyond the stereotypes fed to them.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "Ghost strikes: the new drone superpowers raining death from above",
       "url": "https://www.theguardian.com/global-development/ng-interactive/2026/nov/25/ghost-strikes-the-rise-of-drone-superpowers-fuelling-remote-killing-of-thousands-of-civilians-with-impunity",
       "date": "2026-11-25T06:00:07+00:00",
@@ -923,16 +1113,6 @@
       "category": "development"
     },
     {
-      "title": "Governor Josh Shapiro on Trump, Iran, and the future of US foreign policy",
-      "url": "https://www.atlanticcouncil.org/inflection-points-with-frederick-kempe/governor-josh-shapiro-on-trump-iran-and-the-future-of-us-foreign-policy/",
-      "date": "2026-11-24T17:29:01+00:00",
-      "author": "Frederick Kempe",
-      "summary": "Josh Shapiro discussed the impact of the war in Iran on the midterm elections, the future of America’s alliances, and his vision for a new foreign policy that strengthens US leadership abroad and economic prosperity at home.",
-      "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "FirstEnergy utilities get approval for $2.5B gas plant in West Virginia",
       "url": "https://www.utilitydive.com/news/firstenergy-utilities-get-approval-for-25b-gas-plant-in-west-virginia/875646/",
       "date": "2026-11-24T17:26:49+00:00",
@@ -1013,16 +1193,6 @@
       "category": "storage"
     },
     {
-      "title": "US Senate passes bipartisan permitting reform bill BAAJA, continues to House vote",
-      "url": "https://www.energy-storage.news/us-senate-passes-bipartisan-permitting-reform-bill-baaja-continues-to-house-vote/",
-      "date": "2026-11-24T12:32:18+00:00",
-      "author": "April Bonner",
-      "summary": "The US Senate has passed the Bipartisan American Affordability and Jobs Act of 2026 (BAAJA), the permitting reform bill that has been a major source of industry discussion.",
-      "source": "Energy-Storage.news",
-      "kind": "news",
-      "category": "policy"
-    },
-    {
       "title": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168871",
       "date": "2026-11-24T12:00:00+00:00",
@@ -1053,46 +1223,6 @@
       "category": "development"
     },
     {
-      "title": "Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168866",
-      "date": "2026-11-24T12:00:00+00:00",
-      "author": "",
-      "summary": "When the UN was founded in 1945, computers, the internet and satellites were the stuff of science fiction. Today, artificial intelligence (AI) is already assisting in targeting, drones are reshaping warfare and disinformation is spreading…",
-      "source": "UN News",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "DR Congo: Concern for trapped Ebola workers as violence against women and girls deepens",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168865",
-      "date": "2026-11-24T12:00:00+00:00",
-      "author": "",
-      "summary": "Staff from the World Health Organization (WHO) and Ebola responders remain trapped in a hospital in Ituri province, Democratic Republic of the Congo (DRC), as heavy fighting continues in the vicinity, the UN agency said in an update on…",
-      "source": "UN News",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "Colombia: Guterres urges renewed commitment to landmark peace deal",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168864",
-      "date": "2026-11-24T12:00:00+00:00",
-      "author": "",
-      "summary": "UN Secretary-General António Guterres has commended Colombia for progress achieved in the decade since a landmark accord known as the Final Peace Agreement ended more than 50 years of insurgency but stressed the need to fully implement its…",
-      "source": "UN News",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "Global grid-scale BESS deployments up 42% in YTD; Europe nearly 200%",
-      "url": "https://www.energy-storage.news/global-grid-scale-bess-deployments-up-42-in-ytd-europe-nearly-200/",
-      "date": "2026-11-24T11:43:36+00:00",
-      "author": "Cameron Murray",
-      "summary": "Some 15.6GWh of grid-scale BESS came online last month, bringing the total year-to-date (YTD) figure as of 31 October to 229.8GWh.",
-      "source": "Energy-Storage.news",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
       "title": "Somalia-UAE Rift: Regional Power Struggle or Distraction from Domestic Crisis?",
       "url": "https://www.ipsnews.net/2026/11/somalia-uae-rift-regional-power-struggle-or-distraction-from-domestic-crisis/",
       "date": "2026-11-24T11:08:20+00:00",
@@ -1101,36 +1231,6 @@
       "source": "Inter Press Service",
       "kind": "world",
       "category": "development"
-    },
-    {
-      "title": "European BESS market moves from tolls to floors, ‘operators only just beginning to understand’ SOC challenges",
-      "url": "https://www.energy-storage.news/european-bess-market-moves-from-tolls-to-floors-operators-only-just-beginning-to-understand-soc-challenges/",
-      "date": "2026-11-24T10:26:24+00:00",
-      "author": "Cameron Murray",
-      "summary": "Nicolas Chouleur, partner at advisory firm Everoze, shares his views on the key trends and challenges in European BESS asset management today.",
-      "source": "Energy-Storage.news",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
-      "title": "Chinese listed energy storage firms Chint Power, EVE Energy announce UPS, LFP capacity additions",
-      "url": "https://www.energy-storage.news/chinese-listed-energy-storage-firms-chint-power-eve-energy-announce-ups-lfp-capacity-additions/",
-      "date": "2026-11-24T09:44:39+00:00",
-      "author": "Carrie Xiao",
-      "summary": "Chint Power and EVE Energy have unveiled revised capacity investment plans, pursuing a UPS production facility and pivoting ternary battery production to LFP.",
-      "source": "Energy-Storage.news",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
-      "title": "APA starts work on 104MWh solar-plus-storage project in Australia",
-      "url": "https://www.energy-storage.news/apa-starts-work-on-104mwh-solar-plus-storage-project-in-australia/",
-      "date": "2026-11-24T09:24:23+00:00",
-      "author": "George Heynes",
-      "summary": "APA Group has started construction on its 72MW solar PV plant and 52MW/104MWh BESS at Mount Isa in north-west Queensland, Australia.",
-      "source": "Energy-Storage.news",
-      "kind": "news",
-      "category": "solar"
     },
     {
       "title": "Battlefield Power Is Running Short",
@@ -1143,21 +1243,21 @@
       "category": "geopolitics"
     },
     {
-      "title": "The Paradox of Iranian Power",
-      "url": "https://www.foreignaffairs.com/iran/paradox-iranian-power-sadjadpour",
-      "date": "2026-11-24T09:00:00+00:00",
-      "author": "Karim Sadjadpour",
-      "summary": "Why the Islamic Republic can’t make peace.",
-      "source": "Foreign Affairs",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "The Real Nvidia Scandal",
       "url": "https://www.foreignaffairs.com/china/real-nvidia-scandal-kilcrease-chilukuri",
       "date": "2026-11-24T09:00:00+00:00",
       "author": "Emily Kilcrease, Vivek Chilukuri",
       "summary": "How China exploited a massive loophole in U.S. national security—and how Congress can close it.",
+      "source": "Foreign Affairs",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "The Paradox of Iranian Power",
+      "url": "https://www.foreignaffairs.com/iran/paradox-iranian-power-sadjadpour",
+      "date": "2026-11-24T09:00:00+00:00",
+      "author": "Karim Sadjadpour",
+      "summary": "Why the Islamic Republic can’t make peace.",
       "source": "Foreign Affairs",
       "kind": "world",
       "category": "geopolitics"
@@ -1183,26 +1283,6 @@
       "category": "policy"
     },
     {
-      "title": "UN’s Attempt to Regulate Killer Robots Hits a Dead End",
-      "url": "https://www.ipsnews.net/2026/11/uns-attempt-to-regulate-killer-robots-hits-a-dead-end/",
-      "date": "2026-11-24T06:57:23+00:00",
-      "author": "Thalif Deen",
-      "summary": "The growing deployment of autonomous weapons — particularly drones– in ongoing military conflicts in Ukraine, Palestine, Lebanon, Iran and in civil wars in Africa, has triggered a call for a treaty to curb the use of these unmanned deadly…",
-      "source": "Inter Press Service",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "AI Data Centres: Local Damage, World Threat",
-      "url": "https://www.ipsnews.net/2026/11/ai-data-centres-local-damage-world-threat/",
-      "date": "2026-11-24T06:30:34+00:00",
-      "author": "Jomo Kwame Sundaram and Rachel Gong",
-      "summary": "Mass local opposition to AI data centres influenced the US mid-term elections. Perverse incentives have driven speculative investments to build more despite poor returns so far. Worse, financing investments using loans risks causing a…",
-      "source": "Inter Press Service",
-      "kind": "world",
-      "category": "development"
-    },
-    {
       "title": "RE+ was huge this year. Here are 3 solar innovations that stood out.",
       "url": "https://www.canarymedia.com/articles/solar/re-convention-solar-innovations",
       "date": "2026-11-23T23:00:00+00:00",
@@ -1211,16 +1291,6 @@
       "source": "Canary Media",
       "kind": "analysis",
       "category": "solar"
-    },
-    {
-      "title": "Parliament Representation Reflects Diversity",
-      "url": "https://www.ipsnews.net/2026/11/parliament-representation-reflects-diversity/",
-      "date": "2026-11-23T19:26:53+00:00",
-      "author": "Shahiduzzaman",
-      "summary": "Not influence of wealth, political power and economic privilege",
-      "source": "Inter Press Service",
-      "kind": "world",
-      "category": "development"
     },
     {
       "title": "While Shenzhen Talked, Berlin Pulled Up a Chair: Europe’s Generational Bet on Itself and Ukraine",
@@ -1251,16 +1321,6 @@
       "source": "CTVC by Sightline Climate",
       "kind": "analysis",
       "category": "general"
-    },
-    {
-      "title": "KENYA: ‘I Tell the Stories of People Who Can’t Go on Stage to Perform Their Struggles’",
-      "url": "https://www.ipsnews.net/2026/11/kenya-i-tell-the-stories-of-people-who-cant-go-on-stage-to-perform-their-struggles/",
-      "date": "2026-11-23T18:31:42+00:00",
-      "author": "CIVICUS",
-      "summary": "CIVICUS discusses artivism and civic space in Kenya with Brian Silweyz, a spoken-word artist and human rights defender who uses poetry to campaign for accountability and social justice. The Kenyan government’s crackdown on dissent shows no…",
-      "source": "Inter Press Service",
-      "kind": "world",
-      "category": "development"
     },
     {
       "title": "Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO",
@@ -1319,16 +1379,6 @@
       "author": "Kenneth Zindondo",
       "summary": "Malawian farmers are pooling resources to try and get through the coming lean season.",
       "source": "The New Humanitarian",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "More Than a Cautionary Tale: Nepal’s Fight for Mountain Justice at COP31",
-      "url": "https://www.ipsnews.net/2026/11/more-than-a-cautionary-tale-nepals-fight-for-mountain-justice-at-cop31/",
-      "date": "2026-11-23T09:21:41+00:00",
-      "author": "Tanka Dhakal",
-      "summary": "At the UN climate conference (COP31) in Turkey, Nepal was part of almost every discussion around the climate crisis and climate-induced disasters. In the wake of the devastating flood in August, which the world witnessed through CCTV…",
-      "source": "Inter Press Service",
       "kind": "world",
       "category": "development"
     },
@@ -1513,16 +1563,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "Why the Next Bioterrorists May Not Make the Same Mistakes as Aum Shinrikyo",
-      "url": "https://warontherocks.com/why-the-next-bioterrorists-may-not-make-the-same-mistakes-as-aum-shinrikyo/",
-      "date": "2026-11-20T08:30:48+00:00",
-      "author": "Eleanor Marshall",
-      "summary": "In conversations with law enforcement and security professionals, one view has repeatedly emerged: Aum Shinrikyo’s failed biological weapons program in the early 1990s shows that the risk of bioterrorism is overstated, despite warnings…",
-      "source": "War on the Rocks",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "It’s official: 2026 is the year of lost solar in North Carolina",
       "url": "https://www.canarymedia.com/articles/solar/2026-year-of-lost-solar-north-carolina",
       "date": "2026-11-20T08:30:00+00:00",
@@ -1551,16 +1591,6 @@
       "source": "The Guardian: Global development",
       "kind": "world",
       "category": "development"
-    },
-    {
-      "title": "Handshakes Without Headway",
-      "url": "https://warontherocks.com/handshakes-without-headway/",
-      "date": "2026-11-19T20:17:57+00:00",
-      "author": "WOTR Staff",
-      "summary": "Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***Iran Washington and Tehran are stuck in a loop…",
-      "source": "War on the Rocks",
-      "kind": "world",
-      "category": "geopolitics"
     },
     {
       "title": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
@@ -1673,41 +1703,11 @@
       "category": "development"
     },
     {
-      "title": "For COP31 attendees, Pakistan offers a cautionary tale on climate finance",
-      "url": "https://www.thenewhumanitarian.org/analysis/2026/11/18/cop31-attendees-pakistan-offers-cautionary-tale-climate-finance",
-      "date": "2026-11-18T10:35:13+00:00",
-      "author": "Anam Zahra",
-      "summary": "Billions in post-flood pledges have been undermined by provincial unpreparedness and poor governance, leaving vulnerable communities to pay the price.",
-      "source": "The New Humanitarian",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "‘My family would kill me if they saw it’: the ‘harmless’ images that can be deadly for women in Pakistan",
-      "url": "https://www.theguardian.com/global-development/2026/nov/18/dangerous-intimate-images-algorithms-selfie-platforms",
-      "date": "2026-11-18T10:00:47+00:00",
-      "author": "Alia Waheed",
-      "summary": "Tech companies urged to adapt moderation of photos online that can trigger violence against women in some countries It was just a photo of a smiling girl in jeans and a vest top, the kind of outfit any young woman might wear in any…",
-      "source": "The Guardian: Global development",
-      "kind": "world",
-      "category": "development"
-    },
-    {
       "title": "The Model Middle Power",
       "url": "https://www.foreignaffairs.com/south-korea/model-middle-power",
       "date": "2026-11-18T09:00:00+00:00",
       "author": "Andrew Yeo",
       "summary": "What South Korea gets right about geopolitics.",
-      "source": "Foreign Affairs",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "America’s Hidden AI Advantage",
-      "url": "https://www.foreignaffairs.com/united-states/americas-hidden-ai-advantage",
-      "date": "2026-11-18T09:00:00+00:00",
-      "author": "Jeffrey Ding",
-      "summary": "The United States—not China—dominates diffusion.",
       "source": "Foreign Affairs",
       "kind": "world",
       "category": "geopolitics"
