@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-25T19:21:38+00:00",
+  "fetchedAt": "2026-11-26T03:36:40+00:00",
   "sources": [
     {
       "name": "Utility Dive",
@@ -123,6 +123,96 @@
   ],
   "items": [
     {
+      "title": "Against an Axis of Anything",
+      "url": "https://foreignpolicy.com/2026/11/25/against-axis-of-anything/",
+      "date": "2026-11-26T00:36:17+00:00",
+      "author": "Emma Ashford",
+      "summary": "China and Russia are getting closer, but their alignment is hardly inevitable.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Ukraine’s Shadow War in Africa",
+      "url": "https://foreignpolicy.com/2026/11/25/ukraine-russia-proxy-war-africa-libya-ship-attack/",
+      "date": "2026-11-26T00:00:59+00:00",
+      "author": "Nosmot Gbadamosi",
+      "summary": "The continent is increasingly becoming a proxy theater in the Russia-Ukraine conflict.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Tariff Man Strikes Again",
+      "url": "https://foreignpolicy.com/2026/11/25/trump-new-tariffs-section-301-china-eu-india-abrego-garcia-deportation-spain/",
+      "date": "2026-11-25T23:07:50+00:00",
+      "author": "Keith Johnson and John Haltiwanger",
+      "summary": "The Trump administration unveils new proposed tariffs on 14 economies, from China to the European Union.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "What Trump should do next about Iran",
+      "url": "https://www.atlanticcouncil.org/dispatches/what-trump-should-do-next-about-iran/",
+      "date": "2026-11-25T21:56:08+00:00",
+      "author": "Atlantic Council Experts",
+      "summary": "End the war, finish the job, or wait it out? Atlantic Council experts lay out how they think Trump should proceed on Iran.",
+      "source": "Atlantic Council",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "German Culture Could Soon Be Officially Anti-German",
+      "url": "https://foreignpolicy.com/2026/11/25/germany-afd-culture-policy-bauhaus/",
+      "date": "2026-11-25T21:27:50+00:00",
+      "author": "Carol Schaeffer",
+      "summary": "The AfD is on the path to rewriting the legacy of Germany’s 20th-century cultural achievements.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "De Gaulle and the Art of European Defiance",
+      "url": "https://foreignpolicy.com/2026/11/25/review-de-gaulle-film-resistance-liberte-world-war-ii/",
+      "date": "2026-11-25T20:00:29+00:00",
+      "author": "James Crabtree",
+      "summary": "One of the year’s best films carries a potent message for our Trumpian age.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Trump’s ‘Unprecedented Intervention’ in Nvidia",
+      "url": "https://foreignpolicy.com/2026/11/25/jensen-huang-reinstated-nvidia-trump-pardon-ai-big-tech/",
+      "date": "2026-11-25T19:58:04+00:00",
+      "author": "Cameron Abadi and Adam Tooze",
+      "summary": "The “Ones and Tooze” podcast takes on Jensen Huang’s surprising return.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Do Democrats Disagree?",
+      "url": "https://foreignpolicy.com/2026/11/25/democratic-congress-foreign-policy-party-divisions-matt-duss/",
+      "date": "2026-11-25T19:47:54+00:00",
+      "author": "Nick Danforth",
+      "summary": "A new book on progressive foreign policy reveals real divides but also a party united in spite of itself.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Nepal’s New Leader Reaffirms Ties With India",
+      "url": "https://foreignpolicy.com/2026/11/25/bangladesh-india-china-modi-shah-visit-flood-reconstruction-aid/",
+      "date": "2026-11-25T19:28:39+00:00",
+      "author": "Michael Kugelman",
+      "summary": "Balendra Shah’s first foreign trip shows New Delhi’s regional sway.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "Why Trump’s newest tariffs could stick",
       "url": "https://www.atlanticcouncil.org/content-series/fastthinking/why-trumps-newest-tariffs-are-made-to-stick/",
       "date": "2026-11-25T18:57:39+00:00",
@@ -133,11 +223,11 @@
       "category": "geopolitics"
     },
     {
-      "title": "Arms Control Pledges Are Hard to Keep, But Talking Helps",
+      "title": "Can Shenzhen Summit Reduce Nuclear Risk?",
       "url": "https://foreignpolicy.com/2026/11/25/shenzhen-summit-trump-xi-putin-nuclear/",
       "date": "2026-11-25T18:32:09+00:00",
       "author": "Duyeon Kim",
-      "summary": "The superpowers must keep channels open on nuclear weapons.",
+      "summary": "Xi, Trump, and Putin promise talks, but action is a long way off.",
       "source": "Foreign Policy",
       "kind": "world",
       "category": "geopolitics"
@@ -149,6 +239,26 @@
       "author": "Emma Salisbury",
       "summary": "In 2025, Emma Salisbury wrote, “British Grand Strategy Without America,” where she explained the United Kingdom’s strategic calculus in aligning itself closer with the United States or Europe. A year later, we asked her to revisit her…",
       "source": "War on the Rocks",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "China’s Soft Espionage: The Technology Transfers That Don’t Make Headlines",
+      "url": "https://thediplomat.com/2026/11/chinas-soft-espionage-the-technology-transfers-that-dont-make-headlines/",
+      "date": "2026-11-25T17:31:00+00:00",
+      "author": "William C. Hannas",
+      "summary": "The Nvidia scandal has exploded into public view, but most of China’s foreign technology acquisitions are far more mundane – and even legal.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "18 Years After 26/11, Is India Finally Winning the War Against Terror?",
+      "url": "https://thediplomat.com/2026/11/18-years-after-26-11-is-india-finally-winning-the-war-against-terror/",
+      "date": "2026-11-25T17:04:00+00:00",
+      "author": "Rajeev Agarwal",
+      "summary": "India's counterterrorism strategy has seen marked successes in recent years, but it's too early to declare victory.",
+      "source": "The Diplomat",
       "kind": "world",
       "category": "geopolitics"
     },
@@ -193,6 +303,16 @@
       "category": "ev"
     },
     {
+      "title": "When Will Trump Meet Kim Jong Un Again?",
+      "url": "https://thediplomat.com/2026/11/when-will-trump-meet-kim-jong-un-again/",
+      "date": "2026-11-25T16:10:00+00:00",
+      "author": "Zhiqun Zhu",
+      "summary": "Despite speculation that the two would meet in Shenzhen, a Kim-Trump summit did not come to fruition.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "Media reaction: Who is to blame for COP31 ‘failure’?",
       "url": "https://www.carbonbrief.org/media-reaction-who-is-to-blame-for-cop31-failure",
       "date": "2026-11-25T16:09:13+00:00",
@@ -201,6 +321,16 @@
       "source": "Carbon Brief",
       "kind": "analysis",
       "category": "policy"
+    },
+    {
+      "title": "Koizumi Shinjiro Is the Defense Whisperer That Japan Needs",
+      "url": "https://thediplomat.com/2026/11/koizumi-shinjiro-is-the-defense-whisperer-that-japan-needs/",
+      "date": "2026-11-25T15:38:00+00:00",
+      "author": "Ayla Lunberry",
+      "summary": "Koizumi’s podcast avoids the jargon and over-formality often found in political commentary, inviting listeners to contemplate the future of Japan’s security rather than be lectured.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "Ireland approves 1,367 MW of solar in sixth renewables auction",
@@ -263,6 +393,26 @@
       "category": "geopolitics"
     },
     {
+      "title": "Nepal’s Prime Minister Is Back From India. Now Comes the Hard Part.",
+      "url": "https://thediplomat.com/2026/11/nepals-prime-minister-is-back-from-india-now-comes-the-hard-part/",
+      "date": "2026-11-25T14:53:00+00:00",
+      "author": "Nischal Dhungel and Michael Kugelman",
+      "summary": "Balendra Shah got plenty of commitments from New Delhi, but will implementation follow?",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Is the North Korean Economy Really ‘Booming’?",
+      "url": "https://thediplomat.com/2026/11/is-the-north-korean-economy-really-booming/",
+      "date": "2026-11-25T14:50:00+00:00",
+      "author": "Kevin Gray",
+      "summary": "The narrative of a booming North Korean economy has some degree of truth to it, but the full picture is more complex.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "Global climate governance is fragmenting. But plurilateralism can keep cooperation alive.",
       "url": "https://www.atlanticcouncil.org/blogs/econographics/global-climate-governance-is-fragmenting-but-plurilateralism-can-keep-cooperation-alive/",
       "date": "2026-11-25T14:49:11+00:00",
@@ -313,6 +463,26 @@
       "category": "storage"
     },
     {
+      "title": "How Can Australia Secure Its Future?",
+      "url": "https://thediplomat.com/2026/11/how-can-australia-secure-its-future/",
+      "date": "2026-11-25T13:58:00+00:00",
+      "author": "Grant Wyeth",
+      "summary": "Rejecting fatalism and nostalgia, Australia’s foreign minister laid out a vision for how the country can navigate a rapidly changing world.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "What Happened to the China-US AI Talks?",
+      "url": "https://thediplomat.com/2026/11/what-happened-to-the-china-us-ai-talks/",
+      "date": "2026-11-25T13:41:00+00:00",
+      "author": "Benjamin Dubow",
+      "summary": "Scott Bessent and He Lifeng were expected to meet again in Shenzhen to advance the U.S.-China AI dialogue. That didn't happen.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "UtmoLight, UNSW achieve 19.6% efficiency for 2.81 m² perovskite solar module",
       "url": "https://www.pv-magazine.com/2026/11/25/utmolight-unsw-achieve-19-6-efficiency-for-2-81-m%c2%b2-perovskite-solar-module/",
       "date": "2026-11-25T13:29:00+00:00",
@@ -343,6 +513,16 @@
       "category": "storage"
     },
     {
+      "title": "What Does a Progressive Foreign Policy Look Like for Asia?",
+      "url": "https://thediplomat.com/2026/11/what-does-a-progressive-foreign-policy-look-like-for-asia/",
+      "date": "2026-11-25T13:13:00+00:00",
+      "author": "Robert Farley",
+      "summary": "Every vision of American foreign policy, including a progressive vision, involves placing China in some kind of box.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "Trina Storage launches genset-battery hybrid solution targeting AI data centre power demand",
       "url": "https://www.energy-storage.news/trina-storage-launches-genset-battery-hybrid-solution-targeting-ai-data-centre-power-demand/",
       "date": "2026-11-25T13:12:33+00:00",
@@ -361,6 +541,26 @@
       "source": "pv magazine",
       "kind": "news",
       "category": "general"
+    },
+    {
+      "title": "China’s Abuse of Interpol Puts Us All in Danger",
+      "url": "https://thediplomat.com/2026/11/chinas-abuse-of-interpol-puts-us-all-in-danger/",
+      "date": "2026-11-25T13:05:00+00:00",
+      "author": "Ben Keith and Rhys Davies",
+      "summary": "China has spent a decade abusing Interpol’s Red Notices to hunt down critics abroad.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Why Nepali Prime Minister Balendra Shah’s India Visit Was a Success",
+      "url": "https://thediplomat.com/2026/11/why-nepali-prime-minister-balendra-shahs-india-visit-was-a-success/",
+      "date": "2026-11-25T13:03:00+00:00",
+      "author": "Biswas Baral",
+      "summary": "Shah secured India’s support for post-disaster rebuilding and an air-entry route via Bhairahawa in Western Nepal.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
     },
     {
       "title": "How datacentres are driving an illegal mining rush in the Amazon ‘more devastating than gold’",
@@ -411,6 +611,16 @@
       "source": "pv magazine",
       "kind": "news",
       "category": "storage"
+    },
+    {
+      "title": "Türk warns of widening risk of atrocity crimes against Palestinians",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168879",
+      "date": "2026-11-25T12:00:00+00:00",
+      "author": "",
+      "summary": "UN human rights chief Volker Türk on Wednesday warned of a widening risk of further atrocity crimes by Israel against Palestinians, saying violence in the occupied West Bank in recent months has heightened existential fears.",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
     },
     {
       "title": "Governments and experts gather in Nairobi to tackle the global housing crisis",
@@ -491,16 +701,6 @@
       "source": "The Guardian: Global development",
       "kind": "world",
       "category": "development"
-    },
-    {
-      "title": "FP’s 2026 Holiday Gift Guide",
-      "url": "https://foreignpolicy.com/2026/11/25/holiday-gift-guide-world-travel-art-games-drink/",
-      "date": "2026-11-25T11:00:20+00:00",
-      "author": "FP Staff",
-      "summary": "Tried-and-true ideas for global thinkers.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
     },
     {
       "title": "Campaign aims to bring solar-plus-storage to 50,000 Indigenous homes",
@@ -623,12 +823,12 @@
       "category": "ev"
     },
     {
-      "title": "What Does the ICJ Ruling Mean for Myanmar?",
-      "url": "https://foreignpolicy.com/2026/11/25/icj-myanmar-genocide-rohingya-trump/",
-      "date": "2026-11-25T06:00:40+00:00",
-      "author": "Joseph Rachman",
-      "summary": "The junta thinks it might find a sympathetic ear from Trump.",
-      "source": "Foreign Policy",
+      "title": "Why Pakistani Dramas Are Winning Indian Hearts",
+      "url": "https://thediplomat.com/2026/11/why-pakistani-dramas-are-winning-indian-hearts/",
+      "date": "2026-11-25T07:04:00+00:00",
+      "author": "Asif Ullah Khan",
+      "summary": "Indian audiences are increasingly finding ways to look beyond the stereotypes fed to them.",
+      "source": "The Diplomat",
       "kind": "world",
       "category": "geopolitics"
     },
@@ -641,36 +841,6 @@
       "source": "The Guardian: Global development",
       "kind": "world",
       "category": "development"
-    },
-    {
-      "title": "Bangladesh’s Government Battles Unrest on Multiple Fronts",
-      "url": "https://thediplomat.com/2026/11/bangladeshs-government-battles-unrest-on-multiple-fronts/",
-      "date": "2026-11-25T05:37:00+00:00",
-      "author": "Saqlain Rizve",
-      "summary": "In addition to Awami League activists protesting the government’s refusal to issue Sheikh Hasina a passport, garment factory workers are on strike.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Xi Knows How to Play Trump",
-      "url": "https://foreignpolicy.com/2026/11/24/jensen-huang-nvidia-return-trump-xi-us-china-relations/",
-      "date": "2026-11-24T22:44:55+00:00",
-      "author": "James Palmer",
-      "summary": "The Nvidia scandal reveals an imbalance in U.S.-China relations.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Armenia’s Pivot to Washington",
-      "url": "https://foreignpolicy.com/2026/11/24/armenia-tripp-corridor-new-constitution-azerbaijan-pashinyan-ambassador/",
-      "date": "2026-11-24T22:27:32+00:00",
-      "author": "Rishi Iyengar",
-      "summary": "The country’s ambassador to Washington explains why Yerevan is all-in on Trump.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
     },
     {
       "title": "Huang is back at Nvidia. But the fight over who controls chip exports is just beginning.",
@@ -693,52 +863,12 @@
       "category": "geopolitics"
     },
     {
-      "title": "What’s Holding Up Ukraine’s Air Defense?",
-      "url": "https://foreignpolicy.com/2026/11/24/ukraine-patriot-missiles-trump-hegseth-delay-china-purge-chen-jining/",
-      "date": "2026-11-24T22:00:34+00:00",
-      "author": "Sam Skove and Christina Lu",
-      "summary": "Defense Secretary Pete Hegseth is reportedly delaying deliveries of a key weapon.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "Ukraine is now a drone superpower at sea, on land, and in the air",
       "url": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraine-is-now-a-drone-superpower-at-sea-on-land-and-in-the-air/",
       "date": "2026-11-24T21:57:49+00:00",
       "author": "Peter Dickinson",
       "summary": "The recent sinking of a Russian warship by Ukrainian naval drones in the Mediterranean has underlined Ukraine's status as a world leader in drone warfare, writes Peter Dickinson.",
       "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Why Nvidia Couldn’t Quit Jensen Huang",
-      "url": "https://thediplomat.com/2026/11/why-nvidia-couldnt-quit-jensen-huang/",
-      "date": "2026-11-24T21:11:00+00:00",
-      "author": "S. Alex Yang and Angela Huyue Zhang",
-      "summary": "In China, the coordination and planning needed to develop AI is led by the government. In the U.S., it has been driven largely by one entrepreneur: Huang.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Tech Giants Are Effectively Ungovernable. Here’s How to Change That.",
-      "url": "https://foreignpolicy.com/2026/11/24/nvidia-jensen-huang-return-tech-ai-industry-trump-us-corporate-oversight/",
-      "date": "2026-11-24T20:52:13+00:00",
-      "author": "Suzanne Nossel",
-      "summary": "The return of Nvidia’s Jensen Huang exposes a dangerous gap in corporate oversight.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "What Did Xi Jinping Get From the Shenzhen Summit?",
-      "url": "https://foreignpolicy.com/2026/11/24/china-xi-trump-shenzhen-putin-summit/",
-      "date": "2026-11-24T20:42:25+00:00",
-      "author": "Deng Yuwen",
-      "summary": "China is looking to set the language of great-power discourse.",
-      "source": "Foreign Policy",
       "kind": "world",
       "category": "geopolitics"
     },
@@ -769,16 +899,6 @@
       "author": "Rudabeh Shahid",
       "summary": "China, India, the US, and Bangladesh all have roles to play in ensuring that the recent International Court of Justice verdict helps the Rohingya.",
       "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Europe Steps Into the Breach on Ukraine",
-      "url": "https://foreignpolicy.com/2026/11/24/ukraine-russia-war-frozen-assets-funding-trump/",
-      "date": "2026-11-24T18:35:03+00:00",
-      "author": "Keith Johnson",
-      "summary": "Brussels will likely finalize this week an additional 45 billion euros for Kyiv, even as Washington retreats.",
-      "source": "Foreign Policy",
       "kind": "world",
       "category": "geopolitics"
     },
@@ -843,16 +963,6 @@
       "category": "policy"
     },
     {
-      "title": "Making the Most of South Korea’s Semiconductor Boom",
-      "url": "https://thediplomat.com/2026/11/making-the-most-of-south-koreas-semiconductor-boom/",
-      "date": "2026-11-24T16:21:00+00:00",
-      "author": "Lee Jong-Wha",
-      "summary": "The stronger South Korea’s leading industry becomes, the more dependent the economy is on a single global technology cycle.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "TVA touts $1.7B data center deal under new large-load tariff",
       "url": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630/",
       "date": "2026-11-24T16:11:04+00:00",
@@ -881,76 +991,6 @@
       "source": "Utility Dive",
       "kind": "news",
       "category": "storage"
-    },
-    {
-      "title": "Kidnapping Emerges as a Growing Tool of Militant Pressure in Pakistan",
-      "url": "https://thediplomat.com/2026/11/kidnapping-emerges-as-a-growing-tool-of-militant-pressure-in-pakistan/",
-      "date": "2026-11-24T15:53:00+00:00",
-      "author": "Yummna Hina Khan and Natasha Matloob",
-      "summary": "While it doesn’t get the same attention as suicide bombings or gunfights, kidnapping is also a rising concern in Balochistan.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "To compete with China on technology, the United States must address data and trust deficits",
-      "url": "https://www.atlanticcouncil.org/blogs/geotech-cues/to-compete-with-china-on-technology-the-united-states-must-address-data-and-trust-deficits/",
-      "date": "2026-11-24T15:27:26+00:00",
-      "author": "Greg Francis, Trevor Rudolph",
-      "summary": "Washington can't compete on price and performance alone. A more data-driven approach to technology financing could help the United States regain its edge.",
-      "source": "Atlantic Council",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Fiji Declares Nationwide Disaster Amid El Nino Drought",
-      "url": "https://thediplomat.com/2026/11/fiji-declares-nationwide-disaster-amid-el-nino-drought/",
-      "date": "2026-11-24T15:07:00+00:00",
-      "author": "Olya K-Mehri",
-      "summary": "The declaration exposes Fiji’s climate resilience challenges beyond the threat of rising sea levels.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Amid Political Crisis, High Stakes for Mongolia’s 2027 Presidential Election",
-      "url": "https://thediplomat.com/2026/11/amid-political-crisis-high-stakes-for-mongolias-2027-presidential-election/",
-      "date": "2026-11-24T14:36:00+00:00",
-      "author": "Bolor Lkhaajav",
-      "summary": "While the election will undoubtedly be driven by the domestic political crisis, it will have important implications for Mongolia's foreign policy as well.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "With Qianfan, China Has Its Answer to Starlink",
-      "url": "https://thediplomat.com/2026/11/with-qianfan-china-has-its-answer-to-starlink/",
-      "date": "2026-11-24T13:57:00+00:00",
-      "author": "Johannes Feige",
-      "summary": "The United States’ long-standing satellite advantage is eroding.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "In Tajikistan, the US Pitches While Russia Garrisons",
-      "url": "https://thediplomat.com/2026/11/in-tajikistan-the-us-pitches-while-russia-garrisons/",
-      "date": "2026-11-24T13:31:00+00:00",
-      "author": "Kulobiddin Norov",
-      "summary": "Back-to-back visits by a senior U.S. diplomat and Vladimir Putin showed what each power offers Tajikistan.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Japan, South Korea, US Are Taking Their Trilateral to the Arctic",
-      "url": "https://thediplomat.com/2026/11/japan-south-korea-us-are-taking-their-trilateral-to-the-arctic/",
-      "date": "2026-11-24T13:26:00+00:00",
-      "author": "Max Holiday",
-      "summary": "With all that’s going on in the world, why focus on the Arctic?",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
     },
     {
       "title": "The Decolonise How? Digest | Talking up failure at COP31, selling war, and telling official truth",
@@ -1038,16 +1078,6 @@
       "date": "2026-11-24T12:00:00+00:00",
       "author": "",
       "summary": "UN Secretary-General António Guterres has commended Colombia for progress achieved in the decade since a landmark accord known as the Final Peace Agreement ended more than 50 years of insurgency but stressed the need to fully implement its…",
-      "source": "UN News",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "Five women killed every hour by partners or family members",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168863",
-      "date": "2026-11-24T12:00:00+00:00",
-      "author": "",
-      "summary": "Some 47,000 women and girls were killed by intimate partners or family members in 2025 – five every hour – according to new UN figures published on Tuesday.",
       "source": "UN News",
       "kind": "world",
       "category": "development"
@@ -1153,26 +1183,6 @@
       "category": "policy"
     },
     {
-      "title": "First Pakistani Astronaut Is About to Head to Space, on a Chinese Spacecraft",
-      "url": "https://thediplomat.com/2026/11/first-pakistani-astronaut-is-about-to-head-to-space-on-a-chinese-spacecraft/",
-      "date": "2026-11-24T08:28:00+00:00",
-      "author": "Umair Jamal",
-      "summary": "For Pakistan, this development arrives at a moment when it is seeking to reassert technological relevance after years of relative quiet in the space domain.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "What Did the 49th ASEAN Summit Accomplish?",
-      "url": "https://thediplomat.com/2026/11/what-did-the-49th-asean-summit-accomplish/",
-      "date": "2026-11-24T07:53:00+00:00",
-      "author": "James Guild",
-      "summary": "This year's conclave delivered a familiar blend of diplomatic gestures and tentative announcements, but left a lot of pressing issues on the sidelines.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "UN’s Attempt to Regulate Killer Robots Hits a Dead End",
       "url": "https://www.ipsnews.net/2026/11/uns-attempt-to-regulate-killer-robots-hits-a-dead-end/",
       "date": "2026-11-24T06:57:23+00:00",
@@ -1181,16 +1191,6 @@
       "source": "Inter Press Service",
       "kind": "world",
       "category": "development"
-    },
-    {
-      "title": "Rare Visit by Pakistani Minister to India Fuels Speculation of Bilateral Thaw",
-      "url": "https://thediplomat.com/2026/11/rare-visit-by-pakistani-minister-to-india-fuels-speculation-of-bilateral-thaw/",
-      "date": "2026-11-24T06:39:00+00:00",
-      "author": "Elizabeth Roche",
-      "summary": "Analysts say the invitation to the Pakistani minister for a multilateral event is positive. But a change in the status of bilateral ties seems doubtful.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
     },
     {
       "title": "AI Data Centres: Local Damage, World Threat",
