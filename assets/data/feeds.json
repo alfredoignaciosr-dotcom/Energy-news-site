@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-26T16:58:56+00:00",
+  "fetchedAt": "2026-11-27T01:46:04+00:00",
   "sources": [
     {
       "name": "Utility Dive",
@@ -117,11 +117,22 @@
       "name": "Inter Press Service",
       "site": "https://www.ipsnews.net/",
       "kind": "world",
-      "ok": true,
-      "count": 12
+      "ok": false,
+      "count": 12,
+      "error": "https://www.ipsnews.net/feed/: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:10"
     }
   ],
   "items": [
+    {
+      "title": "Ireland could allow plug-in solar by mid-2027",
+      "url": "https://www.pv-magazine.com/2026/11/26/ireland-could-allow-plug-in-solar-by-mid-2027/",
+      "date": "2026-11-26T21:30:00+00:00",
+      "author": "Blathnaid O'Dea",
+      "summary": "Plug-in solar systems could be allowed in Ireland from June or July 2027 according to a proposal by a government-commissioned working group asked to look into safety, regulatory, and product standards for 800 W (AC) plug-in solar systems…",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
     {
       "title": "France triples planned renewable energy auction volume to 1.5 GW",
       "url": "https://www.pv-magazine.com/2026/11/26/france-triples-planned-renewable-energy-auction-volume-to-1-5-gw/",
@@ -358,16 +369,6 @@
       "date": "2026-11-26T10:55:00+00:00",
       "author": "Brian Publicover",
       "summary": "Switzerland has increased one-time payments for PV systems below 100 kW by CHF 40 ($47.99)/kW and raised the rate for installations below 150 kW that do not consume their own electricity.",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
-    },
-    {
-      "title": "Mexico conditionally approves 621 MW solar project in Veracruz",
-      "url": "https://www.pv-magazine.com/2026/11/26/mexico-conditionally-approves-621-mw-solar-project-in-veracruz/",
-      "date": "2026-11-26T10:15:00+00:00",
-      "author": "Brian Publicover",
-      "summary": "Mexico’s environmental authority has conditionally approved the 621.17 MWp Cerro Colorado solar project in Veracruz, which is planned across the municipalities of Sayula de Alemán and Texistepec.",
       "source": "pv magazine",
       "kind": "news",
       "category": "solar"
