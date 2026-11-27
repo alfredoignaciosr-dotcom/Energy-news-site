@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-27T12:33:05+00:00",
+  "fetchedAt": "2026-11-27T23:29:44+00:00",
   "sources": [
     {
       "name": "Utility Dive",
@@ -123,6 +123,116 @@
   ],
   "items": [
     {
+      "title": "In the Shadow of the Afghanistan-Pakistan Border",
+      "url": "https://thediplomat.com/2026/11/in-the-shadow-of-the-afghanistan-pakistan-border/",
+      "date": "2026-11-27T20:15:00+00:00",
+      "author": "Szabó Gergely Hoang Viet",
+      "summary": "Among the bombed-out houses along the border, there was no justice to be found, only ruins, lost lives, and people living in the shadow of conflict.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "‘Sinking’ African megacities will expose seven million people to flooding by 2050",
+      "url": "https://www.carbonbrief.org/sinking-african-megacities-will-expose-seven-million-people-to-flooding-by-2050",
+      "date": "2026-11-27T19:00:00+00:00",
+      "author": "Ayesha Tandon",
+      "summary": "Sinking land and rising seas could expose more than seven million people living in Africa’s coastal “megacities” to flooding by…",
+      "source": "Carbon Brief",
+      "kind": "analysis",
+      "category": "general"
+    },
+    {
+      "title": "Houthi escalation, Israeli threats, and the USAID Files: The Cheat Sheet",
+      "url": "https://www.thenewhumanitarian.org/news/2026/11/27/houthi-escalation-israeli-threats-usaid-files-cheat-sheet",
+      "date": "2026-11-27T17:13:40+00:00",
+      "author": "",
+      "summary": "A weekly read to keep you in the loop on humanitarian issues.",
+      "source": "The New Humanitarian",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Chen Jining: The Tragedy of the ‘Potential Successor’ in Chinese Politics",
+      "url": "https://thediplomat.com/2026/11/chen-jining-the-tragedy-of-the-potential-successor-in-chinese-politics/",
+      "date": "2026-11-27T15:17:00+00:00",
+      "author": "Zi Yang",
+      "summary": "The Shanghai party secretary was widely regarded as a possible successor to Xi Jinping – until an investigation was announced.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Japan’s 30th solar auction allocates 27.7 MW of PV capacity",
+      "url": "https://www.pv-magazine.com/2026/11/27/japans-30th-solar-auction-allocates-27-7-mw-of-pv-capacity/",
+      "date": "2026-11-27T14:24:01+00:00",
+      "author": "Emiliano Bellini",
+      "summary": "Japan has selected seven PV projects ranging in size from 500 kW to 20 MW in its latest procurement exercise. The lowest bid came in at JPY 5.00 ($0.031)/kWh, while the weighted average final price reached JPY 9.13/kWh.",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "Global electricity generation more than doubled from 2000 to 2025",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68525",
+      "date": "2026-11-27T14:00:00+00:00",
+      "author": "",
+      "summary": "The world generated 31.8 trillion kilowatthours (kWh) of electricity in 2025, more than double the 15.1 trillion kWh generated in 2000, according to our recently updated International Energy Statistics data. This growth in global…",
+      "source": "EIA Today in Energy",
+      "kind": "analysis",
+      "category": "general"
+    },
+    {
+      "title": "Greenhushing, PV prices, battery prices and the shifting bottleneck",
+      "url": "https://www.pv-magazine.com/2026/11/27/greenhushing-pv-prices-battery-prices-and-the-shifting-bottleneck/",
+      "date": "2026-11-27T13:45:00+00:00",
+      "author": "Emiliano Bellini",
+      "summary": "Greenhushing reflects a shift towards prioritising environmental performance over public sustainability commitments, as declining solar PV and battery costs strengthen the economic case for corporate decarbonisation. The solar industry’s…",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant",
+      "url": "https://www.pv-magazine.com/2026/11/27/the-hydrogen-stream-bp-iberdrola-start-operations-at-spains-largest-green-hydrogen-plant/",
+      "date": "2026-11-27T13:38:42+00:00",
+      "author": "Sergio Matalucci",
+      "summary": "In other news, Australia and Germany are exploring hydrogen-based aviation, while Envision Energy and Greensteel Australia are considering a 400 MW green hydrogen system for low-carbon steelmaking.",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "general"
+    },
+    {
+      "title": "Big Tech Has Undermined Democracy. Here’s How to Reverse the Trend.",
+      "url": "https://foreignpolicy.com/2026/11/27/big-tech-ai-democracy-erosion-public-trust-institutions-donald-trump/",
+      "date": "2026-11-27T13:00:57+00:00",
+      "author": "Dan Honig and Devesh Kapur",
+      "summary": "The answer begins with restoring trust among citizens at the local level.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "FP’s Holiday Book List",
+      "url": "https://foreignpolicy.com/2026/11/27/holiday-reading-list-international-book-recommendations-fiction-nonfiction-2/",
+      "date": "2026-11-27T13:00:14+00:00",
+      "author": "FP Staff and FP Contributors",
+      "summary": "Our columnists and staff writers recommend their top reads for the end of the year.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "From Clothing to Smartphones: The Taliban’s Control Over Young Men",
+      "url": "https://www.ipsnews.net/2026/11/from-clothing-to-smartphones-the-talibans-control-over-young-men/",
+      "date": "2026-11-27T12:49:57+00:00",
+      "author": "External Source",
+      "summary": "The author is an Afghanistan-based female journalist, trained with Finnish support before the Taliban take-over. Her identity is withheld for security reasons",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
+    },
+    {
       "title": "Bangladesh makes solar equipment recycling mandatory",
       "url": "https://www.pv-magazine.com/2026/11/27/bangladesh-makes-solar-equipment-recycling-mandatory/",
       "date": "2026-11-27T12:31:25+00:00",
@@ -149,6 +259,16 @@
       "author": "Irwin Loy",
       "summary": "Notes on aid: UN secretary-general chaos, field empowerment reaches Rome, and WFP wants climate finance but struggles to say “climate change”.",
       "source": "The New Humanitarian",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "16 Days of Activism: UNHCR warns over deep funding cuts to vital protection work",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168888",
+      "date": "2026-11-27T12:00:00+00:00",
+      "author": "",
+      "summary": "Serious funding cuts are severely weakening protection for refugee and stateless women and girls and others at risk of gender-based violence (GBV), like Mariam, who survived a decade of captivity and rape at the hands of Boko Haram militia.",
+      "source": "UN News",
       "kind": "world",
       "category": "development"
     },
@@ -233,26 +353,6 @@
       "category": "solar"
     },
     {
-      "title": "‘Germany is now experiencing what other European markets have already been through’",
-      "url": "https://www.pv-magazine.com/2026/11/27/germany-is-now-experiencing-what-other-european-markets-have-already-been-through/",
-      "date": "2026-11-27T10:42:40+00:00",
-      "author": "Emiliano Bellini",
-      "summary": "Germany is undergoing a regulatory transformation that other European solar markets have already experienced, but the changes are happening too quickly, says Amós Guillén Duarte, managing director of FRV in Germany. He explains why solar…",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
-    },
-    {
-      "title": "Tongwei signs 846 MW module deal for Romania’s Dama Solar project",
-      "url": "https://www.pv-magazine.com/2026/11/27/tongwei-signs-846-mw-module-deal-for-romanias-dama-solar-project/",
-      "date": "2026-11-27T10:00:00+00:00",
-      "author": "Bernadette Geyer",
-      "summary": "The agreement brings Tongwei’s TNC 3.0 modules to Romania’s 1.36 GWp Dama Solar development, which is expected to generate around 1,800 GWh of electricity annually.",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
-    },
-    {
       "title": "On Rearming Europe and the Next Era of Transatlantic Security",
       "url": "https://cfrontherecord.podbean.com/e/on-rearming-europe-and-the-next-era-of-transatlantic-security/",
       "date": "2026-11-27T10:00:00+00:00",
@@ -261,16 +361,6 @@
       "source": "Council on Foreign Relations",
       "kind": "world",
       "category": "geopolitics"
-    },
-    {
-      "title": "Hong Kong researchers build 27.04%-efficient perovskite solar cell via trans-interface engineering",
-      "url": "https://www.pv-magazine.com/2026/11/27/hong-kong-researchers-build-27-04-efficient-perovskite-solar-cell-via-trans-interface-engineering/",
-      "date": "2026-11-27T09:57:52+00:00",
-      "author": "Emiliano Bellini",
-      "summary": "Researchers in Hong Kong have developed vertically aligned nanolinks that penetrate both the perovskite absorber and the charge transport layer, improving charge transfer and interfacial mechanical reliability. Around 92% of the tested…",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
     },
     {
       "title": "BESS Industry Buzz: Battery tests questioned, hugs at RE+, IPP exit crisis and Europe’s battery race loss",
@@ -363,6 +453,16 @@
       "category": "development"
     },
     {
+      "title": "Read Like The Diplomat: 2026 Holiday Edition",
+      "url": "https://thediplomat.com/2026/11/read-like-the-diplomat-2026-holiday-edition/",
+      "date": "2026-11-26T20:15:00+00:00",
+      "author": "",
+      "summary": "Check out The Diplomat Editors’ favorite books.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
       "title": "Post-midterms Trump remains a striker—always on offense",
       "url": "https://www.atlanticcouncil.org/content-series/inflection-points/post-midterms-trump-remains-a-striker-always-on-offense/",
       "date": "2026-11-26T15:09:27+00:00",
@@ -411,16 +511,6 @@
       "source": "Foreign Policy",
       "kind": "world",
       "category": "geopolitics"
-    },
-    {
-      "title": "Bangladeshi garment workers clash with police during protests – video",
-      "url": "https://www.theguardian.com/global-development/video/2026/nov/26/bangladeshi-garment-workers-clash-with-police-during-protests-video",
-      "date": "2026-11-26T13:42:18+00:00",
-      "author": "Guardian Staff",
-      "summary": "Bangladeshi garment workers in Gazipur have been protesting for weeks over the stagnant minimum wage and rising living costs. They have blocked roads, set fires and thrown bricks while police in riot gear fired teargas and charged at…",
-      "source": "The Guardian: Global development",
-      "kind": "world",
-      "category": "development"
     },
     {
       "title": "Creating Opportunities in the Maritime Transition for Latin America and the Caribbean",
@@ -683,26 +773,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "Trump’s ‘Unprecedented Intervention’ in Nvidia",
-      "url": "https://foreignpolicy.com/2026/11/25/jensen-huang-reinstated-nvidia-trump-pardon-ai-big-tech/",
-      "date": "2026-11-25T19:58:04+00:00",
-      "author": "Cameron Abadi and Adam Tooze",
-      "summary": "The “Ones and Tooze” podcast takes on Jensen Huang’s surprising return.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Do Democrats Disagree?",
-      "url": "https://foreignpolicy.com/2026/11/25/democratic-congress-foreign-policy-party-divisions-matt-duss/",
-      "date": "2026-11-25T19:47:54+00:00",
-      "author": "Nick Danforth",
-      "summary": "A new book on progressive foreign policy reveals real divides but also a party united in spite of itself.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "Why Trump’s newest tariffs could stick",
       "url": "https://www.atlanticcouncil.org/content-series/fastthinking/why-trumps-newest-tariffs-are-made-to-stick/",
       "date": "2026-11-25T18:57:39+00:00",
@@ -719,6 +789,26 @@
       "author": "Emma Salisbury",
       "summary": "In 2025, Emma Salisbury wrote, “British Grand Strategy Without America,” where she explained the United Kingdom’s strategic calculus in aligning itself closer with the United States or Europe. A year later, we asked her to revisit her…",
       "source": "War on the Rocks",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Ahead of Taiwan’s Local Elections, China’s Interference Looms Large",
+      "url": "https://thediplomat.com/2026/11/ahead-of-taiwans-local-elections-chinas-interference-looms-large/",
+      "date": "2026-11-25T18:09:00+00:00",
+      "author": "Huynh Tam Sang",
+      "summary": "Beijing’s tactics to manipulate Taiwan’s democracy have grown more sophisticated and pervasive.",
+      "source": "The Diplomat",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Why North Korea Can’t (and Must) Embrace Economic Reform",
+      "url": "https://thediplomat.com/2026/11/why-north-korea-cant-and-must-embrace-economic-reform/",
+      "date": "2026-11-25T17:47:00+00:00",
+      "author": "Chan Young Bang",
+      "summary": "The Kim family has always rejected economic opening, but it’s becoming unavoidable.",
+      "source": "The Diplomat",
       "kind": "world",
       "category": "geopolitics"
     },
@@ -823,26 +913,6 @@
       "category": "oilgas"
     },
     {
-      "title": "Nepal’s Prime Minister Is Back From India. Now Comes the Hard Part.",
-      "url": "https://thediplomat.com/2026/11/nepals-prime-minister-is-back-from-india-now-comes-the-hard-part/",
-      "date": "2026-11-25T14:53:00+00:00",
-      "author": "Nischal Dhungel and Michael Kugelman",
-      "summary": "Balendra Shah got plenty of commitments from New Delhi, but will implementation follow?",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Is the North Korean Economy Really ‘Booming’?",
-      "url": "https://thediplomat.com/2026/11/is-the-north-korean-economy-really-booming/",
-      "date": "2026-11-25T14:50:00+00:00",
-      "author": "Kevin Gray",
-      "summary": "The narrative of a booming North Korean economy has some degree of truth to it, but the full picture is more complex.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
       "title": "Global climate governance is fragmenting. But plurilateralism can keep cooperation alive.",
       "url": "https://www.atlanticcouncil.org/blogs/econographics/global-climate-governance-is-fragmenting-but-plurilateralism-can-keep-cooperation-alive/",
       "date": "2026-11-25T14:49:11+00:00",
@@ -891,36 +961,6 @@
       "source": "EIA Today in Energy",
       "kind": "analysis",
       "category": "storage"
-    },
-    {
-      "title": "How Can Australia Secure Its Future?",
-      "url": "https://thediplomat.com/2026/11/how-can-australia-secure-its-future/",
-      "date": "2026-11-25T13:58:00+00:00",
-      "author": "Grant Wyeth",
-      "summary": "Rejecting fatalism and nostalgia, Australia’s foreign minister laid out a vision for how the country can navigate a rapidly changing world.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "What Happened to the China-US AI Talks?",
-      "url": "https://thediplomat.com/2026/11/what-happened-to-the-china-us-ai-talks/",
-      "date": "2026-11-25T13:41:00+00:00",
-      "author": "Benjamin Dubow",
-      "summary": "Scott Bessent and He Lifeng were expected to meet again in Shenzhen to advance the U.S.-China AI dialogue. That didn't happen.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "What Does a Progressive Foreign Policy Look Like for Asia?",
-      "url": "https://thediplomat.com/2026/11/what-does-a-progressive-foreign-policy-look-like-for-asia/",
-      "date": "2026-11-25T13:13:00+00:00",
-      "author": "Robert Farley",
-      "summary": "Every vision of American foreign policy, including a progressive vision, involves placing China in some kind of box.",
-      "source": "The Diplomat",
-      "kind": "world",
-      "category": "geopolitics"
     },
     {
       "title": "Trina Storage launches genset-battery hybrid solution targeting AI data centre power demand",
@@ -1039,16 +1079,6 @@
       "author": "Olivia Vandeputte",
       "summary": "Let’s celebrate programmes that engage men and boost contraception access, but be honest about what those achievements tell us about gender equality.",
       "source": "The New Humanitarian",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "In Seoul, a Search for Security Beyond Nuclear Deterrence",
-      "url": "https://www.ipsnews.net/2026/11/in-seoul-a-search-for-security-beyond-nuclear-deterrence/",
-      "date": "2026-11-25T09:11:32+00:00",
-      "author": "Katsuhiro Asagiri",
-      "summary": "When Japanese and South Korean lawmakers gathered at the National Assembly Library in Seoul on November 16, they confronted a dilemma familiar to both countries: how to reduce nuclear dangers while depending on American nuclear weapons for…",
-      "source": "Inter Press Service",
       "kind": "world",
       "category": "development"
     },
@@ -1268,16 +1298,6 @@
       "date": "2026-11-24T12:00:00+00:00",
       "author": "",
       "summary": "More than 364,000 people have been displaced in Yemen since the beginning of August as fighting and insecurity continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Tuesday.",
-      "source": "UN News",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "Decades of gains against AIDS could unravel as HIV funding dries up",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168869",
-      "date": "2026-11-24T12:00:00+00:00",
-      "author": "",
-      "summary": "Decades of progress against AIDS, one of the greatest public health achievements in history, could go into reverse as international HIV funding is cut and campaigns against human rights and gender equality gain ground, the UN agency…",
       "source": "UN News",
       "kind": "world",
       "category": "development"
@@ -1663,16 +1683,6 @@
       "category": "development"
     },
     {
-      "title": "Rethinking Humanitarianism | Joanne Liu on how an “era of fear” reshaped aid",
-      "url": "https://www.thenewhumanitarian.org/podcasts/2026/11/19/rethinking-humanitarianism-joanne-liu-how-era-fear-reshaped-aid",
-      "date": "2026-11-19T11:33:11+00:00",
-      "author": "",
-      "summary": "The former MSF president on her book, Ebola, Bombs, and Migrants, why calling out impunity is worth it, and why being cynical is not an option.",
-      "source": "The New Humanitarian",
-      "kind": "world",
-      "category": "development"
-    },
-    {
       "title": "Mentors, colleagues and friends: tributes paid to the ‘Eritrea 16’ who disappeared 25 years ago",
       "url": "https://www.theguardian.com/global-development/2026/nov/19/eritrea-16-journalists-jailed-press-freedom-award-cpj-censorship-warning",
       "date": "2026-11-19T10:00:24+00:00",
@@ -1711,6 +1721,16 @@
       "source": "Foreign Affairs",
       "kind": "world",
       "category": "geopolitics"
+    },
+    {
+      "title": "One in four women globally unable to refuse sex within marriage, says UN",
+      "url": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
+      "date": "2026-11-19T04:00:16+00:00",
+      "author": "Sarah Johnson",
+      "summary": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds One in four women around the world have no power of consent if their husband or partner demands sex, according to a UN report…",
+      "source": "The Guardian: Global development",
+      "kind": "world",
+      "category": "development"
     },
     {
       "title": "U.S. natural gas inventories end injection season above normal levels",
@@ -1883,16 +1903,6 @@
       "category": "general"
     },
     {
-      "title": "Analysis: China’s quarterly CO2 falls 3% in largest drop since Covid",
-      "url": "https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid",
-      "date": "2026-11-06T00:01:00+00:00",
-      "author": "Lauri Myllyvirta",
-      "summary": "China’s carbon dioxide (CO2) emissions fell by 3.1% in the third quarter of 2026, as the Hormuz crisis continued to…",
-      "source": "Carbon Brief",
-      "kind": "analysis",
-      "category": "general"
-    },
-    {
       "title": "Refineries have shifted production away from gasoline to middle distillates",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68424",
       "date": "2026-11-05T14:00:00+00:00",
@@ -1971,16 +1981,6 @@
       "source": "Council on Foreign Relations",
       "kind": "world",
       "category": "geopolitics"
-    },
-    {
-      "title": "U.S. refineries have been running at very high rates in 2026",
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68344",
-      "date": "2026-10-22T14:00:00+00:00",
-      "author": "",
-      "summary": "The U.S. refinery fleet has run at higher-than-normal rates this year, with refinery utilization averaging more than 95% of capacity between May and September, the highest for those months since 1998. Tight global product supplies this…",
-      "source": "EIA Today in Energy",
-      "kind": "analysis",
-      "category": "oilgas"
     },
     {
       "title": "🌎 Who builds Europe’s biggest climate companies #318",
