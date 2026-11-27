@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-27T01:46:04+00:00",
+  "fetchedAt": "2026-11-27T12:33:05+00:00",
   "sources": [
     {
       "name": "Utility Dive",
@@ -117,31 +117,250 @@
       "name": "Inter Press Service",
       "site": "https://www.ipsnews.net/",
       "kind": "world",
-      "ok": false,
-      "count": 12,
-      "error": "https://www.ipsnews.net/feed/: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:10"
+      "ok": true,
+      "count": 12
     }
   ],
   "items": [
     {
-      "title": "Ireland could allow plug-in solar by mid-2027",
-      "url": "https://www.pv-magazine.com/2026/11/26/ireland-could-allow-plug-in-solar-by-mid-2027/",
-      "date": "2026-11-26T21:30:00+00:00",
-      "author": "Blathnaid O'Dea",
-      "summary": "Plug-in solar systems could be allowed in Ireland from June or July 2027 according to a proposal by a government-commissioned working group asked to look into safety, regulatory, and product standards for 800 W (AC) plug-in solar systems…",
+      "title": "Bangladesh makes solar equipment recycling mandatory",
+      "url": "https://www.pv-magazine.com/2026/11/27/bangladesh-makes-solar-equipment-recycling-mandatory/",
+      "date": "2026-11-27T12:31:25+00:00",
+      "author": "Emiliano Bellini",
+      "summary": "Bangladesh’s new Special Solar Power Installation Act requires manufacturers, suppliers and service providers to implement take-back schemes for end-of-life solar equipment, marking a step toward sustainable PV waste management.",
       "source": "pv magazine",
       "kind": "news",
       "category": "solar"
     },
     {
-      "title": "France triples planned renewable energy auction volume to 1.5 GW",
-      "url": "https://www.pv-magazine.com/2026/11/26/france-triples-planned-renewable-energy-auction-volume-to-1-5-gw/",
-      "date": "2026-11-26T16:23:59+00:00",
-      "author": "Brian Publicover",
-      "summary": "France will increase the capacity of its upcoming technology-neutral renewable energy auction from 500 MW to 1.5 GW, opening the tender to all renewable power technologies and introducing a common baseload reference price for calculating…",
+      "title": "Elco launches propane air-to-water heat pumps for commercial applications",
+      "url": "https://www.pv-magazine.com/2026/11/27/elco-launches-propane-air-to-water-heat-pumps-for-commercial-applications/",
+      "date": "2026-11-27T12:09:35+00:00",
+      "author": "Emiliano Bellini",
+      "summary": "The new heat pump series is available in seven versions with heating capacities ranging from 40.1 kW to 84.4 kW and seasonal coefficients of performance of up to 4.70. The systems can deliver flow temperatures of up to 75 C and be cascaded…",
       "source": "pv magazine",
       "kind": "news",
       "category": "general"
+    },
+    {
+      "title": "Inklings | Killer robots, COP capture, and WFP’s changing climate",
+      "url": "https://www.thenewhumanitarian.org/newsletter/2026/11/27/inklings-killer-robots-cop-capture-and-wfps-changing-climate",
+      "date": "2026-11-27T12:08:39+00:00",
+      "author": "Irwin Loy",
+      "summary": "Notes on aid: UN secretary-general chaos, field empowerment reaches Rome, and WFP wants climate finance but struggles to say “climate change”.",
+      "source": "The New Humanitarian",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Putting survivors at the centre of gender-based violence services",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168885",
+      "date": "2026-11-27T12:00:00+00:00",
+      "author": "",
+      "summary": "Reaching out for help can be an enormous step for survivors of gender-based violence (GBV), and what happens after walking through the doors of a support service can shape the path towards recovery and safety",
+      "source": "UN News",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Continued operating losses for Narada Power as battery OEM falls to lowest Bankability rating",
+      "url": "https://www.energy-storage.news/continued-operating-losses-for-narada-power-as-battery-oem-falls-to-lowest-bankability-rating/",
+      "date": "2026-11-27T11:20:23+00:00",
+      "author": "Cameron Murray",
+      "summary": "The financial picture for China-based battery OEM Narada Power has continued to worsen, and this year saw it fall to the lowest rating in the Battery StorageTech Bankability Ratings Report.",
+      "source": "Energy-Storage.news",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "EU restrictions on inverters could cut European solar deployment by up to 6%, says Wood Mackenzie",
+      "url": "https://www.pv-magazine.com/2026/11/27/eu-restrictions-on-inverters-could-cut-european-solar-deployment-by-up-to-6-says-wood-mackenzie/",
+      "date": "2026-11-27T11:18:46+00:00",
+      "author": "Emiliano Bellini",
+      "summary": "Wood Mackenzie expects EU funding restrictions on projects using inverters from high-risk suppliers to reduce cumulative solar and energy storage installations across the bloc by 3% between 2027 and 2030. Limited local product…",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "Japan battery financing adapts to inflation-linked capacity contracts",
+      "url": "https://www.pv-magazine.com/2026/11/27/japan-battery-financing-adapts-to-inflation-linked-capacity-contracts/",
+      "date": "2026-11-27T11:15:00+00:00",
+      "author": "Brian Publicover",
+      "summary": "A Japanese battery storage developer has drawn its first loans for two projects totaling 90 MW after addressing what it says were financing requirements without domestic precedent, tied to price adjustments in the country's long-term…",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "Chinese PV Industry Brief: China hits 1.33 TW of cumulative solar capacity",
+      "url": "https://www.pv-magazine.com/2026/11/27/chinese-pv-industry-brief-china-hits-1-33-tw-of-cumulative-solar-capacity/",
+      "date": "2026-11-27T11:06:15+00:00",
+      "author": "Emiliano Bellini",
+      "summary": "In other news, Jiangsu province has unveiled its 2027 renewable energy auction framework, Trina Solar plans to increase its stake in Trina Storage, and China Huaneng has started construction of a 400 MW offshore solar project, while…",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "Latin America’s ‘Orange Wave’ Is Not Spurning China",
+      "url": "https://foreignpolicy.com/2026/11/27/latin-america-trump-china-right-wing-economics-orange-wave/",
+      "date": "2026-11-27T11:00:22+00:00",
+      "author": "Catherine Osborn",
+      "summary": "It makes little economic sense for Trump’s right-wing allies to cut ties with Beijing.",
+      "source": "Foreign Policy",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "New record for UK rooftop solar, more growth predicted",
+      "url": "https://www.pv-magazine.com/2026/11/27/new-record-for-uk-rooftop-solar-more-growth-predicted/",
+      "date": "2026-11-27T10:45:36+00:00",
+      "author": "Matthew Lynas",
+      "summary": "More than 270,000 solar installations the United Kingdom with six weeks of 2026 still to run. Industry leaders predict further growth in 2027 beyond as new policy support measures strengthen economic case for residential solar.",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "Strong El Niño coincides with uneven October solar resource across South America",
+      "url": "https://www.pv-magazine.com/2026/11/27/strong-el-nino-coincides-with-uneven-october-solar-resource-across-south-america/",
+      "date": "2026-11-27T10:45:00+00:00",
+      "author": "Patrick Jowett",
+      "summary": "In a new weekly update for pv magazine , Solcast, a DNV company, reports that solar irradiance was above average across much of the northern part of South America last month, while areas in the south-east recorded substantial deficits.",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "‘Germany is now experiencing what other European markets have already been through’",
+      "url": "https://www.pv-magazine.com/2026/11/27/germany-is-now-experiencing-what-other-european-markets-have-already-been-through/",
+      "date": "2026-11-27T10:42:40+00:00",
+      "author": "Emiliano Bellini",
+      "summary": "Germany is undergoing a regulatory transformation that other European solar markets have already experienced, but the changes are happening too quickly, says Amós Guillén Duarte, managing director of FRV in Germany. He explains why solar…",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "Tongwei signs 846 MW module deal for Romania’s Dama Solar project",
+      "url": "https://www.pv-magazine.com/2026/11/27/tongwei-signs-846-mw-module-deal-for-romanias-dama-solar-project/",
+      "date": "2026-11-27T10:00:00+00:00",
+      "author": "Bernadette Geyer",
+      "summary": "The agreement brings Tongwei’s TNC 3.0 modules to Romania’s 1.36 GWp Dama Solar development, which is expected to generate around 1,800 GWh of electricity annually.",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "On Rearming Europe and the Next Era of Transatlantic Security",
+      "url": "https://cfrontherecord.podbean.com/e/on-rearming-europe-and-the-next-era-of-transatlantic-security/",
+      "date": "2026-11-27T10:00:00+00:00",
+      "author": "",
+      "summary": "In this episode, panelists discuss the geopolitical factors shaping the European defense landscape, how innovations in artificial intelligence and autonomous weapons are changing the nature of deterrence, and what these shifts mean for…",
+      "source": "Council on Foreign Relations",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Hong Kong researchers build 27.04%-efficient perovskite solar cell via trans-interface engineering",
+      "url": "https://www.pv-magazine.com/2026/11/27/hong-kong-researchers-build-27-04-efficient-perovskite-solar-cell-via-trans-interface-engineering/",
+      "date": "2026-11-27T09:57:52+00:00",
+      "author": "Emiliano Bellini",
+      "summary": "Researchers in Hong Kong have developed vertically aligned nanolinks that penetrate both the perovskite absorber and the charge transport layer, improving charge transfer and interfacial mechanical reliability. Around 92% of the tested…",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "solar"
+    },
+    {
+      "title": "BESS Industry Buzz: Battery tests questioned, hugs at RE+, IPP exit crisis and Europe’s battery race loss",
+      "url": "https://www.energy-storage.news/bess-industry-buzz-battery-tests-questioned-hugs-at-re-ipp-exit-crisis-and-europes-battery-race-loss/",
+      "date": "2026-11-27T09:44:08+00:00",
+      "author": "Cameron Murray",
+      "summary": "Another edition of our BESS Industry Buzz, rounding up some of the hot takes, analysis and gossip from the past week on our feeds.",
+      "source": "Energy-Storage.news",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "‘Among the most powerful’: Alpiq seeks approval for 1.2GWh BESS in Switzerland",
+      "url": "https://www.energy-storage.news/alpiq-1-2gwh-bess-switzerland-niedergosgen/",
+      "date": "2026-11-27T09:13:02+00:00",
+      "author": "George Heynes",
+      "summary": "Alpiq has applied for planning approval for a 300MW/1,200MWh BESS in Niedergösgen, in the canton of Solothurn, Switzerland.",
+      "source": "Energy-Storage.news",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "‘Solar and energy storage belong together’: Blue Elephant buys 160MWh Dutch BESS from TPSolar",
+      "url": "https://www.energy-storage.news/blue-elephant-160mwh-dutch-bess-tpsolar/",
+      "date": "2026-11-27T09:10:31+00:00",
+      "author": "George Heynes",
+      "summary": "Blue Elephant Energy has acquired a 95% stake in a 40MW/160MWh BESS project in the Netherlands from developer TPSolar.",
+      "source": "Energy-Storage.news",
+      "kind": "news",
+      "category": "storage"
+    },
+    {
+      "title": "The U.S.-China Endgame on AI",
+      "url": "https://www.foreignaffairs.com/china/ai-us-china-endgame-tech-catastrophe-sheehan-singer",
+      "date": "2026-11-27T09:00:00+00:00",
+      "author": "Matt Sheehan, Scott Singer",
+      "summary": "How to avoid a tech-fueled catastrophe.",
+      "source": "Foreign Affairs",
+      "kind": "world",
+      "category": "geopolitics"
+    },
+    {
+      "title": "Solar is coming for the No. 2 spot on China’s grid",
+      "url": "https://www.canarymedia.com/articles/solar/solar-no-2-china-grid",
+      "date": "2026-11-27T08:30:00+00:00",
+      "author": "Dan McCarthy",
+      "summary": "See more from Canary Media’s “Chart of the Week” column . Solar energy is poised to become the No. 2 source of electricity in China, capping off a remarkable ascent over the last decade. Hydropower has historically been the runner-up on…",
+      "source": "Canary Media",
+      "kind": "analysis",
+      "category": "solar"
+    },
+    {
+      "title": "Beyond 2030: A Development Agenda Fit for a Changed World",
+      "url": "https://www.ipsnews.net/2026/11/beyond-2030-a-development-agenda-fit-for-a-changed-world/",
+      "date": "2026-11-27T05:25:12+00:00",
+      "author": "Catherine Mbengue and Gabriele Koehler",
+      "summary": "Why the next global framework needs a new political realism and stronger human-rights accountability",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Thousands of girls and women report bleeding and miscarriages after French police use of teargas",
+      "url": "https://www.theguardian.com/global-development/2026/nov/27/thousands-of-girls-and-women-report-bleeding-and-miscarriages-after-french-police-use-of-teargas",
+      "date": "2026-11-27T05:00:54+00:00",
+      "author": "Margaux Seigneur",
+      "summary": "Almost 10,000 women and girls who took part in nationwide protests in October give testimony about disrupted menstrual cycles For three years, Naïma Di Piero says she barely had a period. The 46-year-old charity worker, who suffers from…",
+      "source": "The Guardian: Global development",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Brazil: Democracy Defended from Below",
+      "url": "https://www.ipsnews.net/2026/11/brazil-democracy-defended-from-below/",
+      "date": "2026-11-27T04:57:09+00:00",
+      "author": "Ines M Pousadela",
+      "summary": "Brazil’s President Lula da Silva owes his fourth term less to his campaign than to the people who mobilised to stop his far-right opponent. Three weeks after losing the first round, the 80-year-old was elected for another term in the 25…",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
+    },
+    {
+      "title": "Nuclear Progress Amidst Gloomy Political Outlook",
+      "url": "https://www.ipsnews.net/2026/11/nuclear-progress-amidst-gloomy-political-outlook/",
+      "date": "2026-11-27T04:50:30+00:00",
+      "author": "Thalif Deen",
+      "summary": "The world’s nuclear landscape has always remained politically gloomy: Russia’s occasional threat of a nuclear attack on Ukraine, Iran’s determination to go nuclear despite US warnings, North Korea’s plans to increase its nuclear arsenal…",
+      "source": "Inter Press Service",
+      "kind": "world",
+      "category": "development"
     },
     {
       "title": "Post-midterms Trump remains a striker—always on offense",
@@ -184,16 +403,6 @@
       "category": "storage"
     },
     {
-      "title": "Gambia signs four solar PPAs totalling 232 MW",
-      "url": "https://www.pv-magazine.com/2026/11/26/gambia-signs-four-solar-ppas-totalling-232-mw/",
-      "date": "2026-11-26T14:15:00+00:00",
-      "author": "Patrick Jowett",
-      "summary": "The Gambia’s state-owned utility has inked four large-scale solar power purchase agreements (PPAs) since late October, with battery storage included in each project.",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
-    },
-    {
       "title": "The Chaos Theory of International Relations",
       "url": "https://foreignpolicy.com/2026/11/26/the-chaos-theory-of-international-relations/",
       "date": "2026-11-26T14:00:11+00:00",
@@ -202,16 +411,6 @@
       "source": "Foreign Policy",
       "kind": "world",
       "category": "geopolitics"
-    },
-    {
-      "title": "Norwegian IPP shifts South African solar project to corporate buyers",
-      "url": "https://www.pv-magazine.com/2026/11/26/norwegian-ipp-shifts-south-african-solar-project-to-corporate-buyers/",
-      "date": "2026-11-26T13:45:00+00:00",
-      "author": "Brian Publicover",
-      "summary": "Norwegian independent power producer (IPP) Scatec said it plans to withdraw a 288 MW solar project from South Africa’s public renewables procurement program and sell it into the country’s growing corporate power market instead.",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
     },
     {
       "title": "Bangladeshi garment workers clash with police during protests – video",
@@ -234,16 +433,6 @@
       "category": "development"
     },
     {
-      "title": "Rare periods of low PV generation can be managed with storage",
-      "url": "https://www.pv-magazine.com/2026/11/26/rare-periods-of-low-pv-generation-can-be-managed-with-storage/",
-      "date": "2026-11-26T13:15:00+00:00",
-      "author": "Brian Publicover",
-      "summary": "The German Institute for Economic Research (DIW Berlin) says that batteries could help manage shortfalls in solar and wind generation, while underground storage of green hydrogen could provide backup during prolonged periods of low…",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
       "title": "Energy Vault backlog hits US$2.3 billion as it closes financing for 150MW Texas BESS",
       "url": "https://www.energy-storage.news/energy-vault-backlog-hits-us2-3-billion-as-it-closes-financing-for-150mw-texas-bess/",
       "date": "2026-11-26T13:03:53+00:00",
@@ -254,26 +443,6 @@
       "category": "storage"
     },
     {
-      "title": "Spain could reach 10 GW of batteries by 2030, but bankability remains the major challenge",
-      "url": "https://www.pv-magazine.com/2026/11/26/spain-could-reach-10-gw-of-batteries-by-2030-but-bankability-remains-the-major-challenge/",
-      "date": "2026-11-26T13:00:59+00:00",
-      "author": "Emiliano Bellini",
-      "summary": "The hybridization of solar PV plants, the evolution of arbitrage and ancillary services revenues, the future capacity market, and the financing of energy storage projects were the focus of a roundtable organized by pv magazine at Genera…",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
-      "title": "India adds 11.2 GW of rooftop PV capacity in first nine months of 2026",
-      "url": "https://www.pv-magazine.com/2026/11/26/india-adds-11-2-gw-of-rooftop-solar-capacity-in-first-nine-months-of-2026/",
-      "date": "2026-11-26T12:49:04+00:00",
-      "author": "Uma Gupta",
-      "summary": "India’s residential segment accounted for more than 95% of rooftop solar additions in the third quarter of 2026, driven by the government’s PM Surya Ghar program. Cumulative installed rooftop PV capacity reached 32 GW by the end of…",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
-    },
-    {
       "title": "Europe’s Economic Sovereignty Is All Talk and Little Action",
       "url": "https://foreignpolicy.com/2026/11/26/eu-europe-economic-security-sovereignty-derisking-decoupling-dependence-united-states-china/",
       "date": "2026-11-26T12:33:15+00:00",
@@ -282,16 +451,6 @@
       "source": "Foreign Policy",
       "kind": "world",
       "category": "geopolitics"
-    },
-    {
-      "title": "Estonian solar park energized with 55 MW/250 MWh battery",
-      "url": "https://www.pv-magazine.com/2026/11/26/estonian-hybrid-park-energized-with-55-mw-250-mwh-battery/",
-      "date": "2026-11-26T12:30:00+00:00",
-      "author": "Patrick Jowett",
-      "summary": "Project developers say the battery energy storage system, which is tied to a 77.5 MW solar farm operational from 2024, features the Baltics’ largest battery system by storage capacity to date.",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "storage"
     },
     {
       "title": "‘Come right now’: How a crisis centre in Samarkand helps women escape violence",
@@ -324,16 +483,6 @@
       "category": "development"
     },
     {
-      "title": "Huawei launches Luterra S2 in Europe",
-      "url": "https://www.pv-magazine.com/2026/11/26/huawei-launches-luterra-s2-in-europe/",
-      "date": "2026-11-26T11:45:00+00:00",
-      "author": "Bernadette Geyer",
-      "summary": "The Luterra S2 uses 5 and 7 kWh battery modules featuring LFP technology and calls rated at 318 Ah. The 7 kWh module weighs 57 kg and provides 6.9 kWh of usable energy, while the 5 kWh module weighs 46 kg and provides 4.9 kWh. The system…",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
       "title": "Actuate Energy orders 1.5GWh of BESS from Sungrow for 2027/2028 pipeline in Spain",
       "url": "https://www.energy-storage.news/actuate-energy-orders-1-5gwh-bess-sungrow-2027-2028-pipeline-spain/",
       "date": "2026-11-26T11:42:32+00:00",
@@ -362,16 +511,6 @@
       "source": "Foreign Policy",
       "kind": "world",
       "category": "geopolitics"
-    },
-    {
-      "title": "Switzerland raises incentives for solar below 100 kW",
-      "url": "https://www.pv-magazine.com/2026/11/26/switzerland-raises-incentives-for-solar-below-100-kw/",
-      "date": "2026-11-26T10:55:00+00:00",
-      "author": "Brian Publicover",
-      "summary": "Switzerland has increased one-time payments for PV systems below 100 kW by CHF 40 ($47.99)/kW and raised the rate for installations below 150 kW that do not consume their own electricity.",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
     },
     {
       "title": "‘An early Christmas present’: European Energy takes delivery of 88MWh battery storage units in Australia",
@@ -559,16 +698,6 @@
       "date": "2026-11-25T19:47:54+00:00",
       "author": "Nick Danforth",
       "summary": "A new book on progressive foreign policy reveals real divides but also a party united in spite of itself.",
-      "source": "Foreign Policy",
-      "kind": "world",
-      "category": "geopolitics"
-    },
-    {
-      "title": "Nepal’s New Leader Reaffirms Ties With India",
-      "url": "https://foreignpolicy.com/2026/11/25/bangladesh-india-china-modi-shah-visit-flood-reconstruction-aid/",
-      "date": "2026-11-25T19:28:39+00:00",
-      "author": "Michael Kugelman",
-      "summary": "Balendra Shah’s first foreign trip shows New Delhi’s regional sway.",
       "source": "Foreign Policy",
       "kind": "world",
       "category": "geopolitics"
@@ -814,26 +943,6 @@
       "category": "development"
     },
     {
-      "title": "Italy’s second MACSE auction clears 12% lower than first; Enel, BW ESS/A2A and Field among winners",
-      "url": "https://www.energy-storage.news/italys-second-macse-auction-clears-12-lower-than-first-enel-bw-ess-a2a-and-field-among-winners/",
-      "date": "2026-11-25T12:42:38+00:00",
-      "author": "Cameron Murray",
-      "summary": "Italy TSO Terna has concluded its second MACSE auction, procuring 16GWh of long-term BESS capacity at a lower clearing price than 2025’s auction.",
-      "source": "Energy-Storage.news",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
-      "title": "The eight procurement considerations when buying a sodium-ion BESS",
-      "url": "https://www.energy-storage.news/eight-procurement-considerations-buying-sodium-ion-bess/",
-      "date": "2026-11-25T12:21:20+00:00",
-      "author": "Liam Critchley",
-      "summary": "Sodium-ion looks set to finally arrive in the grid-scale BESS industry, but what should the prospective first-movers on the technology be thinking about when considering buying products?",
-      "source": "Energy-Storage.news",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
       "title": "Türk warns of widening risk of atrocity crimes against Palestinians",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168879",
       "date": "2026-11-25T12:00:00+00:00",
@@ -934,16 +1043,6 @@
       "category": "development"
     },
     {
-      "title": "‘A flow-through effect’: Data centre demand reaches BESS equipment supply, says Eku Energy",
-      "url": "https://www.energy-storage.news/data-centre-demand-bess-equipment-supply-eku-energy/",
-      "date": "2026-11-25T09:19:04+00:00",
-      "author": "George Heynes",
-      "summary": "Elias Saba of Eku Energy spoke to ESN Premium about how data centre demand for shared equipment is affecting BESS development.",
-      "source": "Energy-Storage.news",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
       "title": "In Seoul, a Search for Security Beyond Nuclear Deterrence",
       "url": "https://www.ipsnews.net/2026/11/in-seoul-a-search-for-security-beyond-nuclear-deterrence/",
       "date": "2026-11-25T09:11:32+00:00",
@@ -982,16 +1081,6 @@
       "source": "Foreign Affairs",
       "kind": "world",
       "category": "geopolitics"
-    },
-    {
-      "title": "No Antalya Pact, but Some Signs of Progress Emerge from COP31",
-      "url": "https://www.ipsnews.net/2026/11/no-antalya-pact-but-some-signs-of-progress-emerge-from-cop31/",
-      "date": "2026-11-25T08:52:16+00:00",
-      "author": "Stella Paul",
-      "summary": "COP31 will be remembered first for what it failed to achieve. After two weeks of negotiations and what became the longest UN climate conference in history, governments left Antalya without agreement on the proposed Antalya Pact, exposing…",
-      "source": "Inter Press Service",
-      "kind": "world",
-      "category": "development"
     },
     {
       "title": "Does Congress Really Want Its War Powers Back?",
@@ -1104,16 +1193,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "After Antalya, Hope Is Not a Luxury",
-      "url": "https://www.ipsnews.net/2026/11/after-antalya-hope-is-not-a-luxury/",
-      "date": "2026-11-24T18:28:30+00:00",
-      "author": "James Alix Michel",
-      "summary": "I left Copenhagen in December 2009 with a heavy heart. I had gone there as President of a small island nation, carrying the hopes of a people whose future is tied to the ocean around them. We had been told that this would be the summit…",
-      "source": "Inter Press Service",
-      "kind": "world",
-      "category": "development"
-    },
-    {
       "title": "FirstEnergy utilities get approval for $2.5B gas plant in West Virginia",
       "url": "https://www.utilitydive.com/news/firstenergy-utilities-get-approval-for-25b-gas-plant-in-west-virginia/875646/",
       "date": "2026-11-24T17:26:49+00:00",
@@ -1184,16 +1263,6 @@
       "category": "development"
     },
     {
-      "title": "CMBLU highlights community participation in California long-duration non-lithium battery project for tribal and desert community resilience",
-      "url": "https://www.energy-storage.news/cmblu-highlights-community-participation-in-california-long-duration-non-lithium-battery-project-for-tribal-and-desert-community-resilience/",
-      "date": "2026-11-24T12:42:40+00:00",
-      "author": "April Bonner",
-      "summary": "Flow battery company CMBLU Energy and California public utility Imperial Irrigation District (IID) have announced a 10MW/100MWh energy storage project that will mark IID's first deployment of a non-lithium battery system.",
-      "source": "Energy-Storage.news",
-      "kind": "news",
-      "category": "storage"
-    },
-    {
       "title": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168871",
       "date": "2026-11-24T12:00:00+00:00",
@@ -1210,26 +1279,6 @@
       "author": "",
       "summary": "Decades of progress against AIDS, one of the greatest public health achievements in history, could go into reverse as international HIV funding is cut and campaigns against human rights and gender equality gain ground, the UN agency…",
       "source": "UN News",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "‘Far too much failure’: UN deputy chief’s final call to end violence against women",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168868",
-      "date": "2026-11-24T12:00:00+00:00",
-      "author": "",
-      "summary": "UN Deputy Secretary-General Amina Mohammed warned on Tuesday that another woman or girl would be killed by a partner or family member before she finished speaking, as she called for justice for survivors and consequences for perpetrators.",
-      "source": "UN News",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "Somalia-UAE Rift: Regional Power Struggle or Distraction from Domestic Crisis?",
-      "url": "https://www.ipsnews.net/2026/11/somalia-uae-rift-regional-power-struggle-or-distraction-from-domestic-crisis/",
-      "date": "2026-11-24T11:08:20+00:00",
-      "author": "Farai Shawn Matiashe",
-      "summary": "Somali President Hassan Sheikh Mohamud has chosen to escalate tensions with the United Arab Emirates as he faces multiple crises at home. The UAE says he is trying to drag it into internal power struggles in Mogadishu. In a televised…",
-      "source": "Inter Press Service",
       "kind": "world",
       "category": "development"
     },
@@ -1574,16 +1623,6 @@
       "category": "solar"
     },
     {
-      "title": "It’s another banner year for batteries in the US",
-      "url": "https://www.canarymedia.com/articles/batteries/another-banner-year-us-energy-storage-installations",
-      "date": "2026-11-20T08:30:00+00:00",
-      "author": "Ysabelle Kempe",
-      "summary": "See more from Canary Media’s ​“Chart of the Week” column . Batteries are booming in America. Over the first nine months of this year, the U.S. installed 20% more battery storage capacity than it did in the same period last year, according…",
-      "source": "Canary Media",
-      "kind": "analysis",
-      "category": "storage"
-    },
-    {
       "title": "Iraq university’s removal of male professors teaching women sparks weeks of protests",
       "url": "https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests",
       "date": "2026-11-20T05:00:23+00:00",
@@ -1674,16 +1713,6 @@
       "category": "geopolitics"
     },
     {
-      "title": "One in four women globally unable to refuse sex within marriage, says UN",
-      "url": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
-      "date": "2026-11-19T04:00:16+00:00",
-      "author": "Sarah Johnson",
-      "summary": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds One in four women around the world have no power of consent if their husband or partner demands sex, according to a UN report…",
-      "source": "The Guardian: Global development",
-      "kind": "world",
-      "category": "development"
-    },
-    {
       "title": "U.S. natural gas inventories end injection season above normal levels",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68484",
       "date": "2026-11-18T14:00:00+00:00",
@@ -1692,26 +1721,6 @@
       "source": "EIA Today in Energy",
       "kind": "analysis",
       "category": "oilgas"
-    },
-    {
-      "title": "“1 million Ukrainians”: The flawed figures behind Alight’s aid claims",
-      "url": "https://www.thenewhumanitarian.org/investigations/2026/11/18/1-million-ukrainians-flawed-figures-behind-alights-aid-claims",
-      "date": "2026-11-18T12:24:06+00:00",
-      "author": "Jacob Goldberg",
-      "summary": "Alight’s impressive reach claims mask a pattern of poor documentation, weak partner vetting, and questionable spending.",
-      "source": "The New Humanitarian",
-      "kind": "world",
-      "category": "development"
-    },
-    {
-      "title": "The Model Middle Power",
-      "url": "https://www.foreignaffairs.com/south-korea/model-middle-power",
-      "date": "2026-11-18T09:00:00+00:00",
-      "author": "Andrew Yeo",
-      "summary": "What South Korea gets right about geopolitics.",
-      "source": "Foreign Affairs",
-      "kind": "world",
-      "category": "geopolitics"
     },
     {
       "title": "How does EIA account for small differences between energy supply and demand data?",
@@ -2092,16 +2101,6 @@
       "source": "CTVC by Sightline Climate",
       "kind": "analysis",
       "category": "general"
-    },
-    {
-      "title": "On France’s UN Security Council Presidency Priorities",
-      "url": "https://cfrontherecord.podbean.com/e/on-france-s-un-security-council-presidency-priorities/",
-      "date": "2026-09-18T09:00:00+00:00",
-      "author": "",
-      "summary": "In this episode, Ambassador Jérôme Bonnafont discusses France’s priorities as it assumes the presidency of the UN Security Council. Host: Jane Hartley , Chair, Board of Directors, Carnegie Endowment for International Peace; Former U.S…",
-      "source": "Council on Foreign Relations",
-      "kind": "world",
-      "category": "geopolitics"
     }
   ]
 }
