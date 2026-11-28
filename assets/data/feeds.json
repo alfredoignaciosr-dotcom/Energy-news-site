@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-27T23:29:44+00:00",
+  "fetchedAt": "2026-11-28T07:55:52+00:00",
   "sources": [
     {
       "name": "Utility Dive",
@@ -122,6 +122,16 @@
     }
   ],
   "items": [
+    {
+      "title": "Walking the walk is more important than the climate talk",
+      "url": "https://www.pv-magazine.com/2026/11/28/walking-the-walk-is-more-important-than-the-climate-talk/",
+      "date": "2026-11-28T05:00:00+00:00",
+      "author": "Ev Foley",
+      "summary": "Nearly a quarter of countries have breached the Paris Agreement by not submitting new nationally determined contributions to the United Nations. This isn’t a one-off, or just exclusive to governments. Recent research found nearly 40% of…",
+      "source": "pv magazine",
+      "kind": "news",
+      "category": "policy"
+    },
     {
       "title": "In the Shadow of the Afghanistan-Pakistan Border",
       "url": "https://thediplomat.com/2026/11/in-the-shadow-of-the-afghanistan-pakistan-border/",
@@ -338,16 +348,6 @@
       "date": "2026-11-27T10:45:36+00:00",
       "author": "Matthew Lynas",
       "summary": "More than 270,000 solar installations the United Kingdom with six weeks of 2026 still to run. Industry leaders predict further growth in 2027 beyond as new policy support measures strengthen economic case for residential solar.",
-      "source": "pv magazine",
-      "kind": "news",
-      "category": "solar"
-    },
-    {
-      "title": "Strong El Niño coincides with uneven October solar resource across South America",
-      "url": "https://www.pv-magazine.com/2026/11/27/strong-el-nino-coincides-with-uneven-october-solar-resource-across-south-america/",
-      "date": "2026-11-27T10:45:00+00:00",
-      "author": "Patrick Jowett",
-      "summary": "In a new weekly update for pv magazine , Solcast, a DNV company, reports that solar irradiance was above average across much of the northern part of South America last month, while areas in the south-east recorded substantial deficits.",
       "source": "pv magazine",
       "kind": "news",
       "category": "solar"
